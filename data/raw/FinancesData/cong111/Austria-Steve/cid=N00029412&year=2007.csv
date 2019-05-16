@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Ohio Public Employees Retirement System,Unknown,"Brokerage, IRA, 401k",50001,100000,0,N,,
+"",Riversource New Dimensions Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Riversource Large Cap Equity Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Riversource Cash Management,Unknown,Unknown,1001,15000,0,N,,
+D000045471,Huntington National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+D000022674,Fifth Third Bank,Commercial Banks,Unknown,1001,15000,0,N,,
+"",American Enterprise Investment Services,Unknown,,1001,15000,0,N,,

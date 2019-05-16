@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",American Funds Income Fund of America,Unknown,Mutual Fund,18004,95000,0,A,,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,A,Y,Y
+D000021757,Berkshire Hathaway,Securities/Invest,,15001,50000,0,A,Y,Y
+"",College Sav NE,Unknown,"Brokerage, IRA, 401k",3003,45000,0,A,,
+"",Money Market Funds,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,A,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,2002,30000,0,A,,
+D000000658,Pinnacle West Capital,Electric Utilities,Mutual Fund,1001,15000,0,A,Y,Y
+"",American Mutual Fund,Unknown,Mutual Fund,1001,15000,0,A,,

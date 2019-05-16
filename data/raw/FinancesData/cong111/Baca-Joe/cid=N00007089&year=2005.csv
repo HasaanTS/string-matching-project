@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Verizon Corp,Unknown,,1001,15000,0,Y,,
+"",Strs State Ret Teachers,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000023987,American National Insurance,Insurance,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Pers Retirement System,Unknown,"Brokerage, IRA, 401k",1,1000,0,Y,,

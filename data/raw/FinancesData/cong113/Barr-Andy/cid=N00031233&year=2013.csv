@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",BAAR Trust (Discretionary Beneficiary),Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Key Employee Retirement,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Hilliard Lyons Money Market,Unknown,,1002,16000,0,Y,,
+"",Vanguard Growth Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Prudential Jennison,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Northwestern Mutual Life Insurance Whole Life,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Northwestern Mut 65 Life,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,Y,Y,Y
+"",Lord Abbett Value,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000805,KeyCorp,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",JP Morgan Strategic Income Opportunities Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",Ivy Asset Strategy Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Fidelity New Insights Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",BlackRock Equity Trust,Unknown,Mutual Fund,1001,15000,0,Y,,

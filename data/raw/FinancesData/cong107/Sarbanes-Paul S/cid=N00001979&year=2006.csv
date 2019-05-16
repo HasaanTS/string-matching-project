@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Personal Residence,Real Estate,,250001,500000,0,T,,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,T,,
+"",TIAA-CREF Managed Allocation Fund,Unknown,Mutual Fund,50001,100000,0,T,,
+D000023881,Amalgamated Bank,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"",Whole Life Equitable Insurance Policy,Unknown,Insurance policies & Annuities,1001,15000,0,T,,
+"",Maryland State Retirement System,Unknown,Unknown,1001,15000,0,T,,

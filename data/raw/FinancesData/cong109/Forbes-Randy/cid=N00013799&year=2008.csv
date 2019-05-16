@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Office Buldg/Johnstown Rd/Chesapeake, VA",Real Estate,,1051900,1051900,0,Y,,
+"",1391 Duck Rd/Dare Co NC,Real Estate,,466980,466980,0,Y,,
+"","536 Johnstown (Residence)/Chespk, VA",Real Estate,,252700,252700,0,Y,,
+"","Vacant lot/Dare County, NC",Real Estate,,165300,165300,0,Y,,
+"","Vacant Lot/Chesapeake, VA",Real Estate,,140000,140000,0,Y,,
+"",Gateway Bank Account,Unknown,Cash/Money Market/Savings/Checking,16002,65000,0,Y,,
+"",Bank of America account,Commercial Banks,"Brokerage, IRA, 401k",16002,65000,0,Y,,
+"",Virginia Retirement System,Insurance,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",VA Consultants LLC,Unknown,,1001,15000,0,Y,,
+D000035011,Kaufman & Canoles,Lawyers/Law Firms,,1001,15000,0,Y,,Y
+"",Towne Bank Account,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1,1000,0,Y,,

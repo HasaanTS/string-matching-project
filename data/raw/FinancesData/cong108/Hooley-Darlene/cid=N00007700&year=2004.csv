@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000022042,ING Group,Insurance,,100001,250000,0,Y,Y,Y
+"",American Express IRA,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Wedbush C/F IRA,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Westport Oil,Oil & Gas,,1001,15000,0,Y,,
+"",Portland Teachers Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000328,Fidelity Investments,Securities/Invest,,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

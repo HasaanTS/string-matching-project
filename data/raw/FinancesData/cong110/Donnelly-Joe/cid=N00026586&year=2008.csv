@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","1930 Lakeshore Drive/Michigan City, IN",Real Estate,,500001,1000000,0,Y,,
+"",TIAA-CREF Growth & Income Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Fidelity Dividend Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Notre Dame Credit Union IRA Money Market,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Notre Dame Credit Union/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000027373,Manulife Financial,Misc Finance,,1001,15000,0,Y,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Fidelity IRA Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wedbush C/F IRA,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Ameriprise Financial IRA,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Wedbush NQ,Unknown,Unknown,1001,15000,0,Y,,
+"",Portland Teachers Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000459,Kerr McGee Oil & Gas,Oil & Gas,,1001,15000,0,Y,Y,
+"",Fidelity Investment,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

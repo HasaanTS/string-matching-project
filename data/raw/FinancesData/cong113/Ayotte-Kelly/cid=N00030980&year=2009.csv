@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",TD Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,N,,
+"",Daley Outdoor Services,Subcontractors,,100001,250000,0,N,,
+"",New Hampshire Retirement System,Unknown,"Brokerage, IRA, 401k",50001,100000,0,N,,
+"",TD Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,16002,65000,0,N,,
+"",T Rowe Price Health Sciences Fund,Unknown,Mutual Fund,15001,50000,0,N,,
+"",American Century Ultra Fund,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Wells Fargo Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Wells Fargo Growth Inv Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",T Rowe Price Prime Reserve Money Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Old Mutual Growth Equity Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Harbor Capital Appreciation Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000033613,Federated Kaufmann Fund,Unknown,Mutual Fund,1001,15000,0,N,,

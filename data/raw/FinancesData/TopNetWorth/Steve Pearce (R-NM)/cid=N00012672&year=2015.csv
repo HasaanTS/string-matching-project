@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000029514,Trinity Industries,Railroads,,5000001,25000000,0,Y,Y,
+"",LFT LLC,Unknown,,1000001,5000000,0,Y,,
+"",Lea County Bancshares,Commercial Banks,,1000001,5000000,0,Y,,
+"",USAA SEP/IRA FDIC Insurance,,Insurance policies & Annuities,100001,250000,0,Y,,
+D000062125,Lea County State Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,Y
+"",Investment Land,,,100001,250000,0,Y,,
+"",Exedra LLC,Business Services,,100001,250000,0,Y,,
+"",USAA Simple IRA FDIC Ins,,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Gree LTD,,,50001,100000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,15001,50000,0,Y,Y,Y
+D000000129,Exxon Mobil,Oil & Gas,,15001,50000,0,Y,Y,Y
+"",USAA Federal Savings Bank,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Double Eagle Petroleum,Oil & Gas,,1001,15000,0,Y,,
+D000020730,Chase Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000067523,Charles Schwab & Co,Securities/Invest,,1001,15000,0,Y,,
+D000059512,Plains Marketing Lp,Unknown,,1,1000,0,Y,,

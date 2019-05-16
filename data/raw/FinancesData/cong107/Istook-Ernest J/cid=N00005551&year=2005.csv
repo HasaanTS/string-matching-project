@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Home & Furnishings,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",250001,500000,0,Y,,
+"",Subject to Centered for Deed,Unknown,Unknown,100001,250000,0,Y,,
+"",First Fidelity Bank Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"","6113 Inland/Warr Acres, OK",Real Estate,,15001,50000,0,Y,,
+"","304 NE 23nd/Norman, OK",Real Estate,,15001,50000,0,Y,,
+"",American Century Ultra Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Putnam Voyager Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Putnam Intl Capital Opportunities Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Putnam Asset Allocation Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Jefferson-Pilot Ensemble Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Century Prime Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Putnam OTC & Emerging Growth Fund,Unknown,Mutual Fund,1,1000,0,Y,,

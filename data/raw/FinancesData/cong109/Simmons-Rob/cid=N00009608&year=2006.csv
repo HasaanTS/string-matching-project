@@ -1,0 +1,60 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Vantage Point #1 Stratton,Unknown,,250001,500000,0,T,,
+"",Sage Hill Camp,Unknown,,250001,500000,0,T,,
+D000000129,Exxon Mobil,Oil & Gas,,115002,300000,0,T,Y,Y
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,100001,250000,0,T,Y,Y
+"",Paffard GST,Unknown,,100001,250000,0,T,,
+"",THQ Inc,Electronics Mfg/Eqp,,65002,150000,0,T,,
+D000000015,Chevron Corp,Oil & Gas,,65002,150000,0,T,Y,
+"",BlackRock Funds,Unknown,Mutual Fund,65002,150000,0,T,,
+D000000367,Wal-Mart Stores,Retail Sales,,51002,115000,0,T,Y,Y
+D000059644,Thor Industries,Misc Transport,,51002,115000,0,T,,Y
+D000000168,Southern Co,Electric Utilities,,51002,115000,0,T,Y,Y
+D000000495,DuPont Co,Chemicals,,51002,115000,0,T,Y,
+"",Veritas Software,Electronics Mfg/Eqp,,30002,100000,0,T,,
+"",Schwab Money Market,Unknown,Cash/Money Market/Savings/Checking,30002,100000,0,T,,
+D000000125,General Electric,Misc Mfg/Distrib,,50001,100000,0,T,Y,Y
+D000019828,Emerson Electric,Misc Mfg/Distrib,,50001,100000,0,T,Y,
+"",Dodge & Cox Stock Fund,Unknown,Mutual Fund,50001,100000,0,T,,
+"",Bank of America/Checking,Unknown,Cash/Money Market/Savings/Checking,17003,80000,0,T,,
+D000022330,Yahoo! Inc,Internet,,16002,65000,0,T,Y,
+"",Options Express Holdings,Unknown,,16002,65000,0,T,,
+D000027998,Nike Inc,Misc Mfg/Distrib,,16002,65000,0,T,Y,Y
+D000022110,Medtronic Inc,Pharm/Health Prod,,16002,65000,0,T,Y,
+D000027104,Laboratory Corp of America,Health Services,,16002,65000,0,T,Y,
+D000035100,Kimco Realty,Real Estate,,16002,65000,0,T,,
+"",Jupiter Media,Publishing,,16002,65000,0,T,,
+D000034869,JM Smucker Co,Food Process/Sales,,16002,65000,0,T,,
+D000026562,IAC/InterActiveCorp,Internet,,16002,65000,0,T,Y,
+"",Human Genome Sciences Inc,Pharm/Health Prod,,16002,65000,0,T,,
+D000000089,FedEx Corp,Air Transport,,16002,65000,0,T,Y,Y
+D000000854,Expedia Inc,Internet,,16002,65000,0,T,,
+D000050293,Duke Realty,Real Estate,,16002,65000,0,T,,
+D000000477,Duke Energy,Electric Utilities,,16002,65000,0,T,Y,Y
+"",Commerce Bankcorp of New Jersey,Commercial Banks,,16002,65000,0,T,,
+"",Cathay General,Unknown,,16002,65000,0,T,,
+D000025712,Equifax Inc,Misc Finance,,15002,51000,0,T,Y,
+D000058827,Zimmer Holdings,Pharm/Health Prod,,15001,50000,0,T,Y,
+"",Weingarten Realty,Real Estate,,15001,50000,0,T,,
+D000030330,Tennessee Valley Authority Bonds,Electric Utilities,,15001,50000,0,T,,
+"",T Rowe Price Growth Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+D000029309,Symantec Corp,Electronics Mfg/Eqp,,15001,50000,0,T,Y,
+D000042727,Newell Rubbermaid,Misc Mfg/Distrib,,15001,50000,0,T,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,15001,50000,0,T,Y,
+"","Fairfield, CT Bonds",Unknown,Government Bond,15001,50000,0,T,,
+"","Ellington, CT Bond",Unknown,Government Bond,15001,50000,0,T,,
+"",CT Bonds,Unknown,Government Bond,15001,50000,0,T,,
+D000000212,Coca-Cola Co,Food & Beverage,,15001,50000,0,T,Y,
+D000000274,Cintas Corp,Misc Mfg/Distrib,,15001,50000,0,T,,
+D000021757,Berkshire Hathaway,Securities/Invest,,15001,50000,0,T,Y,Y
+"",US Treasury Notes,Unknown,Government Bond,2002,30000,0,T,,
+D000000722,Texas Instruments,Electronics Mfg/Eqp,,2002,30000,0,T,Y,
+D000027631,Millennium Pharmaceuticals,Pharm/Health Prod,,2002,30000,0,T,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,2002,30000,0,T,Y,Y
+"",Electronic Arts,Electronics Mfg/Eqp,,2002,30000,0,T,,
+D000030495,Toyota Motor Corp,Automotive,,1001,15000,0,T,Y,
+D000028426,PPG Industries,Chemicals,,1001,15000,0,T,Y,
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,1001,15000,0,T,Y,
+"",Charter One Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Century Telephone,Telecom Svcs,,1001,15000,0,T,,
+"",Neenah Paper,Retail Sales,,1,1000,0,T,,

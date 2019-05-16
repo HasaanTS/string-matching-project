@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000036091,Napolitano for Congress,Candidate Cmtes,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",200002,500000,0,Y,,
+D000000182,Ford Motor Co,Automotive,,15001,50000,0,Y,Y,
+"",The Girls,Unknown,,2002,30000,0,Y,,
+D000029695,Visteon Corp,Automotive,,1001,15000,0,Y,Y,

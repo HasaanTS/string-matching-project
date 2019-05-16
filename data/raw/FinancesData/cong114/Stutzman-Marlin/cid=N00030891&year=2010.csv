@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Indiana Public Employees Retirement Fund,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Steel Dynamics Inc,Steel Production,,1001,15000,0,Y,,
+"",Small Cap Value,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Select Bond,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Russell Real Estate Securities,Securities/Invest,,1001,15000,0,Y,,
+"",Research International Core,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",International Equity,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000182,Ford Motor Co,Automotive,,1001,15000,0,Y,Y,
+"",Focused Appreciation Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity VIP Mid Cap,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity VIP Contrafund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",High Yield Bond Fund,Unknown,Mutual Fund,1,1000,0,Y,,

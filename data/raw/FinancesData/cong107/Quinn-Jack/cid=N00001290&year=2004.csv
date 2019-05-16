@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Washington Mutual Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Keybank Zld Accounts,Unknown,"Brokerage, IRA, 401k",15001,50000,0,T,,
+D000019665,Pharmacia,Unknown,,1001,15000,0,T,,
+"",Payroll Savings Keybank,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,T,Y,Y

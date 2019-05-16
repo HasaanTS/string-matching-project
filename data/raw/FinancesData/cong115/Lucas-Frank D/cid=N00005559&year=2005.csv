@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Roger Mills Co,Unknown,,250001,500000,0,Y,,
+"","Farmland/480 Acres/Cheyenne, OK",Crop Production,,250001,500000,0,Y,,
+"","Farmland/508 acres/Roger Mills Cnty, OK",Crop Production,,100001,250000,0,Y,,
+"","Farmland/320 Acres/Roger Mills Cnty, OK",Crop Production,,100001,250000,0,Y,,
+"",Public Employee Retirement,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Panhandle Royalty Co,Unknown,,15001,50000,0,Y,,
+"",Security State Bank,Commercial Banks,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Western Farm Bureau,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Texas Teachers Retirement System,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Oklahoma Teacher Retirement,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,

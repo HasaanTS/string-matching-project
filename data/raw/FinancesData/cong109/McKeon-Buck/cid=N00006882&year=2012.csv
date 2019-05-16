@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",MetLife Investors Flexible Premium Adjus,Unknown,Insurance policies & Annuities,50001,100000,0,Y,,
+"",Bank of Santa Clarita,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional FCU/Savings,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

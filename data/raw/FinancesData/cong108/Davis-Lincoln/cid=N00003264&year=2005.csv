@@ -1,0 +1,3 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Farmland,Crop Production,,500001,1000000,0,A,,
+"",Diversified Construction Co,General Contractors,,250001,500000,0,A,,

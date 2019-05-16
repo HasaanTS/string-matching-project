@@ -1,0 +1,116 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Land/Lake County, MN",Real Estate,,5000001,25000000,0,T,,
+D000021757,Berkshire Hathaway,Securities/Invest,,3761015,16765000,0,T,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,3017007,12080000,0,T,Y,Y
+D000055403,Philip Morris International,Tobacco,,3015006,12050000,0,T,Y,
+D000000129,Exxon Mobil,Oil & Gas,,2615005,11300000,0,T,Y,Y
+"",Evergreen Municipal Money Market,Unknown,Cash/Money Market/Savings/Checking,2601006,11265000,0,T,,
+D000000125,General Electric,Misc Mfg/Distrib,,2830008,8700000,0,T,Y,Y
+D000042525,Royal Dutch Shell,Oil & Gas,,1950005,7000000,0,T,Y,
+D000042332,Nestle SA,Food & Beverage,,1615004,6300000,0,T,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1515006,6150000,0,T,Y,
+"",Wachovia PT Money Market,Unknown,Cash/Money Market/Savings/Checking,1250002,5500000,0,T,,
+"","Mecklenburg County, NC Bonds",Unknown,Government Bond,1100002,5250000,0,T,,
+"",Promissory Note From Robert C Hayes,Unknown,Note/Note Receivable,1000001,5000000,0,T,,
+"",North Carolina State Bonds,Unknown,Government Bond,1000001,5000000,0,T,,
+"","Land/Sheldon, SC",Real Estate,,1000001,5000000,0,T,,
+D000000123,American International Group,Insurance,,1000001,5000000,0,T,Y,Y
+"",Airplane (H6 Aviation LLC),Air Transport,,1000001,5000000,0,T,,
+D000000275,Merck & Co,Pharm/Health Prod,,1350004,2750000,0,T,Y,Y
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1350004,2750000,0,T,Y,Y
+D000001024,Kraft Foods,Food Process/Sales,,1200005,2500000,0,T,Y,
+D000000067,Altria Group,Tobacco,,1165006,2400000,0,T,Y,Y
+D000000461,Comcast Corp,Telecom Svcs,,910010,2050000,0,T,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,700003,1500000,0,T,Y,Y
+D000000477,Duke Energy,Electric Utilities,,602008,1330000,0,T,Y,Y
+D000021800,3M Co,Misc Mfg/Distrib,,515002,1050000,0,T,Y,
+D000000217,American Express,Finance/Credit,,503005,1045000,0,T,Y,
+"","Timber Lake County, MN",Unknown,Unknown,500001,1000000,0,T,,
+"","New Hanover County, NC Hospital Bonds",Unknown,Government Bond,450003,1000000,0,T,,
+D000027296,Lowe's Companies,Retail Sales,,375008,1000000,0,T,Y,Y
+"","Buncombe County, NC Bonds",Unknown,Government Bond,500001,1000000,0,T,,
+D000058827,Zimmer Holdings,Pharm/Health Prod,,361008,965000,0,T,Y,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,345006,900000,0,T,Y,Y
+D000025490,Diageo Plc,"Beer, Wine & Liquor",,365005,900000,0,T,Y,
+"",Royal Philips Electronics,Unknown,,345007,850000,0,T,,
+D000000209,United Technologies,Defense Aerospace,,365003,800000,0,T,Y,Y
+D000068479,Wellpoint Inc,Health Services,,297008,780000,0,T,,
+D000019743,Wells Fargo,Commercial Banks,,316006,765000,0,T,Y,
+"",Pitney-Bowes Inc,Unknown,,350002,750000,0,T,,
+"","Orange County, NC Bond",Unknown,Government Bond,350002,750000,0,T,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,365004,750000,0,T,Y,Y
+D000045190,Spectra Energy,Oil & Gas,,266005,665000,0,T,Y,
+"",Dell Inc,Electronics Mfg/Eqp,,231006,565000,0,T,,
+D000000091,BP,Oil & Gas,,265002,550000,0,T,Y,
+D000066608,America Movil,Telecom Svcs,,225008,550000,0,T,Y,
+D000000079,Verizon Communications,Telephone Utilities,,250001,500000,0,T,Y,Y
+"",Vanguard Intermediate Term Tax-Exempt,Unknown,Mutual Fund,250001,500000,0,T,,
+"","Union County, NC Bond",Unknown,Government Bond,250001,500000,0,T,,
+"",Ramius Tapestry Vintage ASW Fund,Unknown,Mutual Fund,250001,500000,0,T,,
+"",Mortgage/MC Hayes Trust,Unknown,Unknown,250001,500000,0,T,,
+D000022108,MedCo Health Solutions,Health Services,,200002,500000,0,T,Y,
+D000000373,McDonald's Corp,Food & Beverage,,250001,500000,0,T,Y,Y
+"","Greenville, NC Bonds",Unknown,Government Bond,250001,500000,0,T,,
+"","Charlotte, NC Storm Water Bonds",Unknown,Government Bond,250001,500000,0,T,,
+"","Cary, NC Bonds",Unknown,Government Bond,250001,500000,0,T,,
+"",Walgreen Co,Retail Sales,,180004,450000,0,T,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,167005,430000,0,T,Y,
+D000029829,Western Union,Finance/Credit,,134007,410000,0,T,Y,
+D000000090,Bank of America,Commercial Banks,,152004,380000,0,T,Y,Y
+"","Winston Salem, NC Bond",Unknown,Government Bond,150002,350000,0,T,,
+"",Evergreen Institutional Money Market,Unknown,Cash/Money Market/Savings/Checking,150002,350000,0,T,,
+D000000303,ConocoPhillips,Oil & Gas,,130003,350000,0,T,Y,Y
+"",American Tower,Telecom Svcs,,131005,315000,0,T,,
+D000000284,Wyeth,Pharm/Health Prod,,115002,300000,0,T,Y,
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,115002,300000,0,T,Y,
+D000000015,Chevron Corp,Oil & Gas,,115002,300000,0,T,Y,
+D000030897,Walter Energy,Mining,,117005,280000,0,T,,
+"",University of North Carolina Bonds,Unknown,Government Bond,100001,250000,0,T,,
+"",University of NC Chapel Hill Bonds,Unknown,Government Bond,100001,250000,0,T,,
+"",Stanley County Bonds,Unknown,Government Bond,100001,250000,0,T,,
+"",Richfield Property,Real Estate,,100001,250000,0,T,,
+"",Mount Pleasant Hosiery,Misc Mfg/Distrib,Unknown,100001,250000,0,T,,
+D000027441,Masco Corp,Misc Mfg/Distrib,,100001,250000,0,T,,
+"",Gran Pacifica Resort,Unknown,,100001,250000,0,T,,
+"",Dodge & Cox International Stock Fund,Unknown,Mutual Fund,100001,250000,0,T,,
+"",Cogdell Spencer Inc,Unknown,,100001,250000,0,T,,
+D000000459,Anadarko Petroleum,Oil & Gas,,100001,250000,0,T,Y,
+D000021970,eBay Inc,Internet,,81004,215000,0,T,Y,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,60004,200000,0,T,Y,
+D000000367,Wal-Mart Stores,Retail Sales,,45003,150000,0,T,Y,Y
+"",Telephone & Data Systems,Telecom Svcs,,65002,150000,0,T,,
+"","Wilson County, NC Bond",Unknown,Government Bond,50001,100000,0,T,,
+"",Wachovia CAP Account,Unknown,"Brokerage, IRA, 401k",50001,100000,0,T,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,50001,100000,0,T,Y,
+"",Lazard Emerging Markets Portfolio,Unknown,Mutual Fund,50001,100000,0,T,,
+D000024667,Cemex Inc,Building Materials,,16002,65000,0,T,,
+"",Wisconsin Property,Real Estate,,15001,50000,0,T,,
+D000000348,UnitedHealth Group,Health Services,,15001,50000,0,T,Y,
+D000029309,Symantec Corp,Electronics Mfg/Eqp,,15001,50000,0,T,Y,
+D000000345,Sunoco Inc,Oil & Gas,,15001,50000,0,T,Y,
+"",News Corporation,TV/Movies/Music,,15001,50000,0,T,,
+"",Newdominion Bank,Commercial Banks,,15001,50000,0,T,,
+D000000674,Level 3 Communications,Telecom Svcs,,15001,50000,0,T,Y,
+"",Land with 2 Cabins,Real Estate,,15001,50000,0,T,,
+D000027104,Laboratory Corp of America,Health Services,,15001,50000,0,T,Y,
+D000000089,Fedex Corp,Air Transport,,15001,50000,0,T,Y,
+D000000495,Dupont Co,Chemicals,,15001,50000,0,T,Y,
+"",Cash,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"",Cabin,Real Estate,,15001,50000,0,T,,
+D000021868,BB&T Corp,Commercial Banks,,15001,50000,0,T,,Y
+D000000804,Intel Corp,Electronics Mfg/Eqp,,2002,30000,0,T,Y,
+D000031078,Williams Co,Real Estate,,1001,15000,0,T,,
+D000021573,Wachovia Corp,Commercial Banks,,1001,15000,0,T,Y,Y
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+"",Motorola Inc,Telecom Svcs,,1001,15000,0,T,,
+"",Morgan Stanley Bank Deposit,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+D000000244,Marathon Oil,Oil & Gas,,1001,15000,0,T,Y,
+D000019828,Emerson Electric,Misc Mfg/Distrib,,1001,15000,0,T,Y,
+"",EMC Corp,Electronics Mfg/Eqp,,1001,15000,0,T,,
+D000000408,Deere & Co,Agricultural Svcs,,1001,15000,0,T,Y,Y
+D000000457,Corning Inc,Misc Mfg/Distrib,,1001,15000,0,T,Y,Y
+"",Cemex Sab De CV,Unknown,,1001,15000,0,T,,
+D000024095,Apache Corp,Oil & Gas,,1001,15000,0,T,Y,
+D000042556,American Eagle,Retail Sales,,1001,15000,0,T,,
+"",Vignette Corp,Electronics Mfg/Eqp,,1,1000,0,T,,
+"",JDS Uniphase,Telecom Svcs,,1,1000,0,T,,

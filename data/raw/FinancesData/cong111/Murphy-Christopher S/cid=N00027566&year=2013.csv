@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",USAA/Checking,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Fidelity Freedom K 2035 Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Vanguard Prime Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Schwab Cash Reserves Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Connecticut Higher Ed Social Choice Allocation,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Connecticut Higher Ed Moderate Managed Allocation,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Connecticut College Savings Plan,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,

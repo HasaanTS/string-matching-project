@@ -1,0 +1,98 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",BrandyTrust Multi Strategy Common Trust,Unknown,Mutual Fund,5600003,26250000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,1500002,6000000,0,Y,Y,
+"",BrandyTrust Global Common Trust Fund,Unknown,Mutual Fund,1500002,6000000,0,Y,,
+"",BrandyTrust Global Com Tr Fund,Unknown,Mutual Fund,1000001,5000000,0,Y,,
+"",Brandy Trust Multi Strategy Common Trust Fund,Unknown,Mutual Fund,1000001,5000000,0,Y,,
+"",BrandyTrust Special Equities Partners,Unknown,Mutual Fund,550002,1100000,0,Y,,
+"",Brandy Trust Special Equities Partners,Securities/Invest,Mutual Fund,550003,1100000,0,Y,,
+"",Dreyfus Treasury Prime Cash Mgmt Fund,Unknown,Mutual Fund,516003,1065000,0,Y,,
+"",BrandyWine Private Equity Partners 2007,Securities/Invest,,500001,1000000,0,Y,,
+"",BrandyWine Private Equity Partners 2006,Securities/Invest,,500001,1000000,0,Y,,
+"",BrandyWine Private Equity Partners 2005,Securities/Invest,,500001,1000000,0,Y,,
+"",BrandyWine Private Equity Partners,Securities/Invest,,500001,1000000,0,Y,,
+"",BrandyTrust Private Equity LP (2003),Securities/Invest,,500001,1000000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,416005,915000,0,Y,Y,Y
+D000029193,State Street Bank & Trust,Securities/Invest,Cash/Money Market/Savings/Checking,395005,900000,0,Y,,
+D000022008,Google Inc,Internet,,280005,700000,0,Y,Y,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,280003,600000,0,Y,Y,Y
+D000000275,Merck & Co,Pharm/Health Prod,,250001,500000,0,Y,Y,Y
+"",Brandy Trust Global Common Trust Fund,Unknown,Mutual Fund,200002,500000,0,Y,,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,202005,480000,0,Y,Y,Y
+D000000128,Walt Disney Co,TV/Movies/Music,,180004,450000,0,Y,Y,
+D000025625,Ecolab Inc,Chemicals,,180005,400000,0,Y,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,132005,380000,0,Y,Y,Y
+"",Eaton Vance Small Cap Fund,Unknown,Mutual Fund,152004,380000,0,Y,,
+D000037414,Schlumberger Ltd,Oil & Gas,,165004,350000,0,Y,,
+D000064241,Vodafone Group,Telecom Svcs,,130004,300000,0,Y,Y,
+D000026221,Gilead Sciences,Pharm/Health Prod,,130004,300000,0,Y,Y,
+D000000373,McDonald's Corp,Food & Beverage,,117005,280000,0,Y,Y,
+D000000408,Deere & Co,Agricultural Svcs,,117005,280000,0,Y,Y,
+D000042332,Nestle SA,Food & Beverage,,116004,265000,0,Y,Y,
+D000026889,Johnson Controls,Automotive,,96005,265000,0,Y,Y,
+D000000367,Wal-Mart Stores,Retail Sales,,95004,250000,0,Y,Y,
+"",CVS/Caremark Corp,Retail Sales,,95004,250000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,115003,250000,0,Y,Y,Y
+D000000015,Chevron Corp,Oil & Gas,,100001,250000,0,Y,Y,
+"",BrandyWine Private Equity Partners 2012,Securities/Invest,,100001,250000,0,Y,,
+"",BrandyWine Private Equity Partners 2011,Securities/Invest,,100001,250000,0,Y,,
+"",Brandy Trust Multi-Strategy Common Trust,Unknown,Mutual Fund,100001,250000,0,Y,,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,82005,230000,0,Y,Y,
+D000000320,Chubb Corp,Insurance,,82005,230000,0,Y,Y,
+D000000081,United Parcel Service,Air Transport,,81004,215000,0,Y,Y,Y
+D000000106,Morgan Stanley,Securities/Invest,,81004,215000,0,Y,Y,Y
+"",First Republic Bank San Francisco,Commercial Banks,,101003,215000,0,Y,,
+D000000144,Anheuser-Busch,"Beer, Wine & Liquor",,101003,215000,0,Y,,
+D000019838,Agilent Technologies,Electronics Mfg/Eqp,,61005,215000,0,Y,Y,
+D000000786,Accenture,Business Services,,101003,215000,0,Y,Y,
+D000000161,Waste Management Inc,Waste Management,,67004,180000,0,Y,Y,
+D000042113,Volkswagen AG,Automotive,,47005,180000,0,Y,Y,
+D000028392,Plum Creek Timber,Forest Products,,47005,180000,0,Y,Y,
+D000035105,Kinder Morgan Inc,Oil & Gas,,67004,180000,0,Y,Y,
+"",BHP Billiton Ltd,Mining,,67004,180000,0,Y,,
+D000000055,Monsanto Co,Agricultural Svcs,,66003,165000,0,Y,Y,
+D000000172,Metlife Inc,Insurance,,45003,150000,0,Y,Y,Y
+D000000103,JPMorgan Chase & Co,Commercial Banks,,65002,150000,0,Y,Y,Y
+D000019743,Wells Fargo,Commercial Banks,,32004,130000,0,Y,Y,
+"",Microchip Technology Inc,Electronics Mfg/Eqp,,31003,115000,0,Y,,
+"",Avalonbay Communities,Real Estate,,31003,115000,0,Y,,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,31003,115000,0,Y,Y,
+D000067057,Mondelez International,Food Process/Sales,,30002,100000,0,Y,Y,
+D000019414,Metropolitan Life Insurance,Insurance,,50001,100000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,30002,100000,0,Y,Y,
+D000000166,Eli Lilly & Co,Pharm/Health Prod,,50001,100000,0,Y,Y,Y
+D000025214,CVS Health,Retail Sales,,50001,100000,0,Y,Y,Y
+"",BrandyTrust Structured Index Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Brandy TR Structured Index Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000060098,Analog Devices Inc,Electronics Mfg/Eqp,,30002,100000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,17003,80000,0,Y,Y,
+"",Biogen Idec,Pharm/Health Prod,,17003,80000,0,Y,,
+D000000722,Texas Instruments,Electronics Mfg/Eqp,,16002,65000,0,Y,Y,Y
+D000000206,Occidental Petroleum,Oil & Gas,,16002,65000,0,Y,Y,
+D000000334,Honeywell International,Misc Mfg/Distrib,,16002,65000,0,Y,Y,Y
+"",Sanolfi-Aventis,Unknown,,15001,50000,0,Y,,
+"",Sanofi-Aventis AR,Unknown,,15001,50000,0,Y,,
+"",Occidental Pete Corp,Unknown,,15001,50000,0,Y,,
+"",Morsanto Co,Unknown,,15001,50000,0,Y,,
+"",Dinney Co,Unknown,,15001,50000,0,Y,,
+D000024300,"Becton, Dickinson & Co",Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000042510,Anheuser-Busch Inbev,"Beer, Wine & Liquor",,15001,50000,0,Y,Y,Y
+"",Linear Technology Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,,
+"",BrandyTrust SPJ LLC,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Wells Fargo Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Vanguard Star Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000209,United Technologies,Defense Aerospace,,1001,15000,0,Y,Y,Y
+"",T Rowe Price Structured Research Comm Tr Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",SSGA US Bond Index Sec Land Ser Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",SSgA Russell Small Cap Index Sec Lnd Ser,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",SSgA International Index Sec Lndg Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",SSGA Institutional US Treas KM Inv Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",SSCA Institutional US Treas MN Inv Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000215,Sanofi,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Parametric Emerging Markets Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Equity Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Brandywine Private Equity Partners (2013) LP,Unknown,,1001,15000,0,Y,,
+"",Bank of America/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank of America/Accounts Commonwealth of Massachus,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",North Pier Apartments,Real Estate,,1,1000,0,Y,,
+"",GSgA S&P 500 Index Securities Fund,Unknown,Mutual Fund,1,1000,0,Y,,

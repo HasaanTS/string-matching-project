@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000022305,Vanguard Group,Securities/Invest,,100001,250000,0,A,Y,
+D000021971,Edward Jones,Securities/Invest,,100001,250000,0,A,,
+D000000343,Northwestern Mutual,Insurance,,15001,50000,0,A,Y,Y
+"",Mainsource Bank,Unknown,Mutual Fund,15001,50000,0,A,,
+D000022674,Fifth Third Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",College Choice Advisor,Unknown,Mutual Fund,15001,50000,0,A,,

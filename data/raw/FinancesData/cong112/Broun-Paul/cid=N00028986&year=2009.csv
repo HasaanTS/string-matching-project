@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",McIntosh Commercial Bank,Commercial Banks,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",First Eagle Global Fund,Unknown,Mutual Fund,17003,80000,0,Y,,
+"",Rydex US Government Core Money Market,Unknown,Cash/Money Market/Savings/Checking,16002,65000,0,Y,,
+"",Fidelity New Insights Fund,Unknown,Mutual Fund,4004,60000,0,Y,,
+"",Fidelity Japan,Unknown,Mutual Fund,2002,30000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,2002,30000,0,Y,Y,
+"",Thornberg Investment Income Builder Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",National Life Insurance Co account,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",John Hancock Classic Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Capital World Growth & Income,Unknown,Mutual Fund,1001,15000,0,Y,,

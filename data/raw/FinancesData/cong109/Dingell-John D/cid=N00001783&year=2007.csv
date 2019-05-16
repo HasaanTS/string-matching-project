@@ -1,0 +1,62 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000155,General Motors,Automotive,,650003,1350000,0,A,Y,Y
+"",Promark Income Fund,Unknown,Mutual Fund,250001,500000,0,A,,
+"",Davis New York Venture Fund,Securities/Invest,Mutual Fund,152005,330000,0,A,,
+D000021573,Wachovia Corp,Commercial Banks,,100001,250000,0,A,Y,
+"",Mutual Ser Qualified Income Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",Mutual Qualified Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",Fidelity Diversified International Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",Columbia Acorn Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",Legg Mason Value Trust,Unknown,Mutual Fund,80003,200000,0,A,,
+"",Ivy Asset Strategy Fund,Unknown,Mutual Fund,80003,200000,0,A,,
+"",Dodge & Cox Stock Fund,Unknown,Mutual Fund,65002,150000,0,A,,
+"",Income Fund of America,Unknown,Mutual Fund,32004,130000,0,A,,
+"",Evergreen Asset Allocation Fund,Unknown,Mutual Fund,31003,115000,0,A,,
+"","Spring Lake, MI Public Schools Bond",Unknown,Government Bond,30002,100000,0,A,,
+"",Mutual Beacon Fund,Unknown,Mutual Fund,50001,100000,0,A,,
+D000000125,General Electric,Misc Mfg/Distrib,,30002,100000,0,A,Y,Y
+D000023082,Brandywine Funds,Unknown,Mutual Fund,50001,100000,0,A,,
+D000030157,Stryker Corp,Pharm/Health Prod,,16002,65000,0,A,Y,Y
+"",Oppenheimer Global Fund,Unknown,Mutual Fund,16002,65000,0,A,,
+D000000090,Bank of America,Commercial Banks,,16002,65000,0,A,Y,
+"","Wyoming, MI Public Schools Rfdg Bond",Unknown,Government Bond,15001,50000,0,A,,
+"",Washington Mutual Bank/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+D000000367,Wal-Mart Stores,Retail Sales,,15001,50000,0,A,Y,
+"",Wachovia Securities,Securities/Invest,,15001,50000,0,A,,
+"",Thornburg International Value Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Promark Large Cap Index,Unknown,Mutual Fund,15001,50000,0,A,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,15001,50000,0,A,Y,Y
+"",Michigan Trunkline Bond,Unknown,Government Bond,15001,50000,0,A,,
+D000027415,Marsh & McLennan,Insurance,,15001,50000,0,A,Y,
+"","Livonia, MI Muni Building Auth Bond",Unknown,Government Bond,15001,50000,0,A,,
+"",Heartland Value Fund Inc,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Gabelli Asset Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Dodge & Cox International Stock Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+D000022519,DIRECTV Group,Telecom Svcs,,15001,50000,0,A,,
+"","Detroit, MI Capital Improvement Bond",Unknown,Government Bond,15001,50000,0,A,,
+"",CVS/Caremark Corp,Retail Sales,,15001,50000,0,A,,
+D000000303,ConocoPhillips,Oil & Gas,,15001,50000,0,A,Y,Y
+"",Bernstein Diverse Value,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Beacon Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Thornburg Mortgage Inc REIT,Real Estate,Mutual Fund,2002,30000,0,A,,
+"",Smith Barney Municipal Money Market,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,A,,
+D000000071,Citigroup Inc,Commercial Banks,,2002,30000,0,A,Y,
+D000000470,Washington Mutual,Savings & Loans,,1002,16000,0,A,Y,
+"",Western Asset Muni Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,A,Y,
+"",Quintana Maritime,Unknown,,1001,15000,0,A,,
+D000028430,Praxair Inc,Chemicals,,1001,15000,0,A,Y,Y
+"",Mutual Shares Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Mutual Shares Fund,Unknown,,1001,15000,0,A,,
+"",Mutual Ser Income Shares Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,A,Y,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,A,Y,Y
+"",iStar Financial,Misc Finance,,1001,15000,0,A,,
+"",Fidelity Growth Company Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+D000000368,Exelon Corp,Electric Utilities,,1001,15000,0,A,Y,Y
+"",Eaton Vance Michigan Muni Income Trust,Unknown,Mutual Fund,1001,15000,0,A,,
+D000000495,DuPont Co,Chemicals,,1001,15000,0,A,Y,Y
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000020730,Chase Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000000123,American International Group,Insurance,,1001,15000,0,A,Y,
+"",Citibank South Dakota Bank Deposit Prog,Unknown,Cash/Money Market/Savings/Checking,3,3000,0,A,,

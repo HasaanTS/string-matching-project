@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000141,Prudential Financial,Insurance,,101002,265000,0,Y,Y,
+"",Crosby State Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000037015,Regions Bank,Commercial Banks,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Bank of America account,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Allstate Preferred Preference Annuities,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"","Rural Land 20 Acres/Montgomery Couty, TX",Real Estate,,15001,50000,0,Y,,
+"",Allstate Retirement Annuity,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Inves Texas Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

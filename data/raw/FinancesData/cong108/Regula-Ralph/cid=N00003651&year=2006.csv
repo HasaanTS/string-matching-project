@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Huntington Bank/Stocks,Commercial Banks,Unknown,500001,1000000,0,Y,,
+"","Residences 200 Acres/Stark County, OH",Real Estate,,100001,250000,0,Y,,
+"",Regula Brothers Partnership,Livestock,,100001,250000,0,Y,,
+"",Sky Financial Group,Misc Finance,,50001,100000,0,Y,,
+"","Residential property/Pinella County, FL",Real Estate,,50001,100000,0,Y,,
+"","Land 25 Acres/Bethelehem Township, OH",Real Estate,,50001,100000,0,Y,,
+D000034869,JM Smucker Co,Food Process/Sales,,15001,50000,0,Y,,Y

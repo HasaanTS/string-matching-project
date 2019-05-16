@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Pennsylvania State Empl Retirement Sys,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Fidelity UFUND 70% Equity Portfolio,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000023850,Allegheny Energy,Electric Utilities,,30002,100000,0,Y,Y,Y
+"",Fidelity Investment Blue Chip Growth Fnd,Unknown,Mutual Fund,4004,60000,0,Y,,
+"",Fidelity UFUND 2015 Portfolio,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity UFUND 100% Equity Portfolio,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",PNC Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Pennsylvania State Employees CU,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",First National Community Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Pennsylvania Tuition Account Program,Civil Servants,"Brokerage, IRA, 401k",0,4000,0,Y,,
+"",PNC Bank Premium Money Market,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,

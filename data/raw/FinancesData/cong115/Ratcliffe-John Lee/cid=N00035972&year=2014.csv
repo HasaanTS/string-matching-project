@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Prudential Fixed Rate Annuity,Unknown,Insurance policies & Annuities,1000001,5000000,0,A,,
+"",John Hancock Fixed Rate Annuity,Unknown,Insurance policies & Annuities,1000001,5000000,0,A,,
+"",Chisholm 550 LP,Unknown,,500001,1000000,0,A,,
+"",Wells Fargo account,Unknown,"Brokerage, IRA, 401k",100001,250000,0,A,,
+"",Wells Fargo 401k Money Market,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,A,,
+"",Starwood Resort Property/Fractional ownership,Lodging/Tourism,,100001,250000,0,A,,
+"",CLICKS MEMPHIS LP,Unknown,,50001,100000,0,A,,
+"",Chase Bank account,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",Apollo Services,Unknown,,1001,15000,0,A,,

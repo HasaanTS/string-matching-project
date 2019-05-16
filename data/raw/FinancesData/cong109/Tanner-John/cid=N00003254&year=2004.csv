@@ -1,0 +1,42 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Westan Insurance Group,Insurance,,1000001,5000000,0,A,,
+"",Tanner Farms,Crop Production,,500001,1000000,0,A,,
+D000000223,Schering-Plough Corp,Pharm/Health Prod,,100001,250000,0,A,Y,
+"",MFS Massachusetts Investors Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",Hillenbrand Industries,Pharm/Health Prod,,100001,250000,0,A,,
+D000024064,Amsouth Bancorp,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,A,Y,
+"",AllianceBernstein Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",Putnam Investors Fund,Unknown,Mutual Fund,50001,100000,0,A,,
+"","Obion County, TN",Unknown,Government Bond,50001,100000,0,A,,
+D000059111,Commercial Bank,Commercial Banks,Unknown,50001,100000,0,A,,
+"",Corrections Corp of America,Misc Business,,17004,81000,0,A,,
+D000000739,Providian Financial,Finance/Credit,,15001,50000,0,A,Y,
+"",Promissory Note From Westan Ins,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,A,,
+"",Portis Family Estate Family Farm,Crop Production,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,A,,
+D000000206,Occidental Petroleum,Oil & Gas,,15001,50000,0,A,Y,Y
+"",Motorola Inc,Telecom Svcs,,15001,50000,0,A,,
+"",Morgan Keegan IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,A,,
+D000000205,Fannie Mae,Real Estate,,15001,50000,0,A,Y,
+D000000367,Wal-Mart Stores,Retail Sales,,1001,15000,0,A,Y,Y
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,A,Y,Y
+D000064447,Syngenta AG,Agricultural Svcs,,1001,15000,0,A,Y,
+"",Sector Select Health Care,Misc Health,,1001,15000,0,A,,
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,A,Y,
+"",Nokia Corp,Telecom Svcs,,1001,15000,0,A,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,A,Y,Y
+D000027589,Micron Technology,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+D000022110,Medtronic Inc,Pharm/Health Prod,,1001,15000,0,A,Y,Y
+"",Meager Means Investment Club,Unknown,Mutual Fund,1001,15000,0,A,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+"",GTX Inc,Unknown,,1001,15000,0,A,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,A,Y,Y
+D000033813,Freescale Semiconductor,Electronics Mfg/Eqp,,1001,15000,0,A,,
+D000000457,Corning Inc,Misc Mfg/Distrib,,1001,15000,0,A,Y,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,A,Y,Y
+"","Clarksville, TN Imp Bonds",Unknown,Government Bond,1001,15000,0,A,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+"",Agere Systems,Electronics Mfg/Eqp,,2,2000,0,A,,
+"",Munder Net Classic,Unknown,,1,1000,0,A,,
+D000000530,Lucent Technologies,Telecom Svcs,,1,1000,0,A,Y,
+D000024209,Avaya Inc,Telecom Svcs,,1,1000,0,A,Y,
+D000045867,Aegon NV,Insurance,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1,1000,0,A,Y,

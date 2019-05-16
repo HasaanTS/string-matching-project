@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Jennison Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Dow Jones Select Dividend Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Washington Mutual Bank/CD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Van Kampen High Yield Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",US Savings Bonds,Unknown,Government Bond,1001,15000,0,Y,,
+"",Lord Abbett US Government Securities,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Centennial Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Van Kampen Government Select Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Empire Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

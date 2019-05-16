@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",NY State & Local Employees Retirement Sy,Unknown,,30002,100000,0,A,,
+D000035524,M&T Bank,Commercial Banks,Cash/Money Market/Savings/Checking,4004,60000,0,A,Y,Y
+"",CRV Capital,Unknown,,15001,50000,0,A,,
+"",NYS College Savings Account,Unknown,,2002,30000,0,A,,
+"",Schwab S&P 500 Index,Unknown,Mutual Fund,1001,15000,0,A,,
+D000067523,Charles Schwab & Co,Securities/Invest,,1001,15000,0,A,,
+"",NYS Employees' Credit Union,Unknown,,1,1000,0,A,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,A,,

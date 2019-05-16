@@ -1,0 +1,24 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",MSW Communications,Unknown,,500001,1000000,0,Y,,
+"",Cascade Central CU money market,Unknown,Cash/Money Market/Savings/Checking,250003,600000,0,Y,,
+"",Tower Property,Real Estate,,250001,500000,0,Y,,
+"",Columbia Gorge Broadcasters,TV/Movies/Music,,250001,500000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000059104,Columbia State Bank,Commercial Banks,Unknown,100001,250000,0,Y,,
+"",Growth Fund of America,Unknown,Mutual Fund,100002,200000,0,Y,,
+"",GE Money Bank/CD,Unknown,Cash/Money Market/Savings/Checking,100002,200000,0,Y,,
+"","Home Lot/Lake Havasu City, AZ",Real Estate,,50001,100000,0,Y,,
+"",Fidelity Tax-Free Money Market,Unknown,Cash/Money Market/Savings/Checking,30002,100000,0,Y,,
+"",American Funds New Perspective Fund,Unknown,Mutual Fund,30002,100000,0,Y,,
+"",Oregon Public Employees' Retirement Sys,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Columbia Gorge Community College Bond,Unknown,Government Bond,15001,50000,0,Y,,
+"",American Funds Investment Co of America,Unknown,Mutual Fund,3003,45000,0,Y,,
+"","Portland, OR Sewer System First Lien Bnd",Unknown,Government Bond,2002,30000,0,Y,,
+"",Cascade Central Credit Union IRA,Unknown,"Brokerage, IRA, 401k",2002,30000,0,Y,,
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000487,US Bancorp,Commercial Banks,,1001,15000,0,Y,Y,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Oregon 529 Fund money market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,Y

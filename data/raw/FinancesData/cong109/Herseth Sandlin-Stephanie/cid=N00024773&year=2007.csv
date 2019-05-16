@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","500 Miller Drive/Marshall, TX",Real Estate,,250001,500000,0,Y,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",115002,300000,0,Y,,
+"",Texas County & District Retirement Sys,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"","532 Southview Drive/Brookings, SD",Real Estate,,100001,250000,0,Y,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000043978,VeraSun Energy,Misc Energy,,1001,15000,0,Y,Y,Y
+"",New Alternatives Fund,Misc Energy,,1001,15000,0,Y,,
+"",Livestock,Livestock,,1001,15000,0,Y,,
+"",Daktronics Inc,Business Services,,1001,15000,0,Y,,
+D000000182,Ford Motor Co,Automotive,,1,1000,0,Y,Y,Y

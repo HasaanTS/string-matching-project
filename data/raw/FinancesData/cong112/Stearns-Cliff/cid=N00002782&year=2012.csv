@@ -1,0 +1,28 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental Building/Matanza Cut Subdivision,Real Estate,,1000001,5000000,0,T,,
+"",Rental Restaurant,Food & Beverage,,500001,1000000,0,T,,
+"",Rental Building/Old Town Gateway Townhse,Real Estate,,500001,1000000,0,T,,
+"",Rental Building/Marina Towers,Real Estate,,250001,500000,0,T,,
+"",Florida Retirement System,Unknown,"Brokerage, IRA, 401k",250001,500000,0,T,,
+"",T Rowe Price Summit Cash Reserves,Unknown,Mutual Fund,150002,350000,0,T,,
+"",Rental Office,Real Estate,,100001,250000,0,T,,
+"",Rental building,Real Estate,,100001,250000,0,T,,
+"",T Rowe Price Summit Cash Reserves IRA,Unknown,"Brokerage, IRA, 401k",30002,100000,0,T,,
+"",Gateway Bank/CD,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"",T Rowe Price SEP IRA Summit Cash Reserve,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Stearns House Inc,Lodging/Tourism,,15001,50000,0,T,,
+"",Oppenheimer Developing Markets Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Grantham University,Education,,15001,50000,0,T,,
+"",Fixed Plus Account II,Unknown,Mutual Fund,15001,50000,0,T,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Wanger Select,Unknown,Mutual Fund,1001,15000,0,T,,
+"",USSA Subscriber's Savings Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Regions Bank Joint,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,T,Y,Y
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Bank of America/Savings,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Bank of America/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Alarion Bank,Commercial Banks,,1001,15000,0,T,,
+D000000805,KeyCorp,Commercial Banks,,1,1000,0,T,Y,
+D000000395,Harris Corp,Defense Electronics,,1,1000,0,T,Y,Y
+D000000217,American Express,Finance/Credit,,1,1000,0,T,Y,Y

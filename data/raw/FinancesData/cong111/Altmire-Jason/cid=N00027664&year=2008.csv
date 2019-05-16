@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Vanguard Wellington Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",T Rowe Price Retirement 2035,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",T Rowe Price Mid Cap Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",T Rowe Price Blue Chip Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Growth Fund of America,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Artisan Mid Cap Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,Y,Y,
+D000037610,Sirius XM Radio,TV/Movies/Music,,1001,15000,0,Y,Y,
+"",Janus Balanced Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Cash Balance Plan,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000031610,Ariba Inc,Electronics Mfg/Eqp,,1,1000,0,Y,,Y

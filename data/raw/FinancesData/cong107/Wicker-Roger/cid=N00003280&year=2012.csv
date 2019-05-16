@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental Property,Real Estate,,450003,1000000,0,Y,,
+"",Dreyfus General Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,51002,115000,0,Y,,
+D000000301,Torchmark Corp,Insurance,,15001,50000,0,Y,Y,Y
+"",Putnam Growth & Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",iShares Barclays GNMA Bond Fund,Real Estate,Mutual Fund,15001,50000,0,Y,,
+D000000148,CSX Corp,Railroads,,15001,50000,0,Y,Y,Y
+D000024513,Bunge Ltd,Crop Production,,15001,50000,0,Y,Y,Y
+"",Treasury Bond,Unknown,Government Bond,1001,15000,0,Y,,
+D000028475,Protective Life Corp,Insurance,,1001,15000,0,Y,Y,Y
+D000067115,Petroleo Brasileiro SA,Oil & Gas,,1001,15000,0,Y,,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",American Funds Investment Co of America,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000023883,Amazon.com,Internet,,1001,15000,0,Y,Y,Y
+"",Alliance Global Tech,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",ABAG Finance Authority,Unknown,Government Bond,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,0,1000,0,Y,Y,Y
+D000000163,Freddie Mac Bond,Real Estate,Mutual Fund,0,1000,0,Y,,

@@ -1,0 +1,333 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Ohio Twine Co,Securities/Invest,,5000001,25000000,0,Y,,
+"",RL & JL DeWine Irrevocable Trust,Unknown,"Brokerage, IRA, 401k",1000001,5000000,0,Y,,
+"",Hawkins Inc,Unknown,,500001,1000000,0,Y,,
+"",Glacier Bancorp,Commercial Banks,,500001,1000000,0,Y,,
+D000000805,KeyCorp,Commercial Banks,,280003,600000,0,Y,,Y
+D000019743,Wells Fargo,Commercial Banks,,200002,500000,0,Y,Y,Y
+D000000206,Occidental Petroleum,Oil & Gas,,150002,350000,0,Y,Y,Y
+D000046482,AGCO Corp,Agricultural Svcs,,150002,350000,0,Y,,
+D000000132,Archer Daniels Midland,Agricultural Svcs,,101002,265000,0,Y,,
+D000000737,National City Corp,Commercial Banks,,100001,250000,0,Y,Y,Y
+D000027417,Marshall & Ilsley Bank,Commercial Banks,,100001,250000,0,Y,,
+D000025685,Energen Corp,Oil & Gas,,100001,250000,0,Y,Y,
+D000000091,BP,Oil & Gas,,100001,250000,0,Y,Y,Y
+D000031592,Aqua America,Misc Energy,,100001,250000,0,Y,,Y
+"",Amcol International,Unknown,,100001,250000,0,Y,,
+D000000255,Entergy Corp,Electric Utilities,,63007,246000,0,Y,Y,Y
+D000028533,Rayonier Inc,Forest Products,,65002,150000,0,Y,Y,
+D000000334,Honeywell International,Misc Mfg/Distrib,,65002,150000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,65002,150000,0,Y,Y,Y
+D000021983,Fifth Third Bancorp,Commercial Banks,,65002,150000,0,Y,,Y
+"",El Paso Electric,Electric Utilities,,65002,150000,0,Y,,
+"",Cemex SA,Building Materials,,65002,150000,0,Y,,
+D000000071,Citigroup Inc,Commercial Banks,,51002,115000,0,Y,Y,Y
+D000042127,Wolverine World Wide,Misc Mfg/Distrib,,30002,100000,0,Y,Y,
+"",Whitney Holding Corp,Unknown,,30002,100000,0,Y,,
+D000000470,Washington Mutual,Savings & Loans,,50001,100000,0,Y,Y,Y
+D000021573,Wachovia Corp,Commercial Banks,,30002,100000,0,Y,Y,Y
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000021773,Travelers Companies,Insurance,,30002,100000,0,Y,Y,Y
+D000067466,Tenaris SA,Steel Production,,50001,100000,0,Y,,
+"",Telefonica SA,Unknown,,50001,100000,0,Y,,
+"",Surmodics Inc,Unknown,,50001,100000,0,Y,,
+"",Southwest Water,Misc Energy,,30002,100000,0,Y,,
+D000022216,Regions Financial,Commercial Banks,,30002,100000,0,Y,Y,
+"",Oak Hill Financial,Misc Finance,,30002,100000,0,Y,,
+"",National West Life,Unknown,,50001,100000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,30002,100000,0,Y,Y,Y
+"",Greif Inc,Unknown,,30002,100000,0,Y,,
+"",Endesa SA,Electric Utilities,,30002,100000,0,Y,,
+"",EMC Corp,Electronics Mfg/Eqp,,50001,100000,0,Y,,
+D000000561,DTE Energy,Electric Utilities,,30002,100000,0,Y,Y,Y
+D000000408,Deere & Co,Agricultural Svcs,,30002,100000,0,Y,Y,Y
+"",CREDO Petrol,Oil & Gas,,50001,100000,0,Y,,
+D000000303,ConocoPhillips,Oil & Gas,,50001,100000,0,Y,Y,Y
+D000066608,America Movil,Telecom Svcs,,30002,100000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,18004,95000,0,Y,Y,Y
+"",New York Community Bancorp,Commercial Banks,,16002,67000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,16002,66000,0,Y,Y,Y
+D000000284,Wyeth,Pharm/Health Prod,,16002,65000,0,Y,Y,Y
+D000030608,Unilever,Misc Mfg/Distrib,,16002,65000,0,Y,Y,
+"",Transalta Corp,Electric Utilities,,16002,65000,0,Y,,
+"",Tessco Technologies,Electronics Mfg/Eqp,,16002,65000,0,Y,,
+"",Telefonos de Mexico,Telephone Utilities,,16002,65000,0,Y,,
+D000029286,Supervalu Inc,Food Process/Sales,,16002,65000,0,Y,,
+"",Standard Register,Misc Mfg/Distrib,,16002,65000,0,Y,,
+D000000341,Rite Aid Corp,Retail Sales,,16002,65000,0,Y,Y,Y
+"",Phillips Electronics,Electronics Mfg/Eqp,,16002,65000,0,Y,,
+"",Pembina Pipeline,Oil & Gas,,16002,65000,0,Y,,
+"",Patrick Industries,Building Materials,,16002,65000,0,Y,,
+"",Nokia Corp,Telecom Svcs,,16002,65000,0,Y,,
+D000036033,MPS Group,Business Services,,16002,65000,0,Y,Y,
+D000000244,Marathon Oil,Oil & Gas,,16002,65000,0,Y,Y,Y
+"",Limited Brands,Retail Sales,,16002,65000,0,Y,,
+D000027084,Kroger Co,Food Process/Sales,,16002,65000,0,Y,Y,Y
+"",Industries Banchoco,Unknown,,16002,65000,0,Y,,
+D000026556,Huntington Bancshares,Commercial Banks,,16002,65000,0,Y,Y,Y
+D000000419,Home Depot,Retail Sales,,16002,65000,0,Y,Y,Y
+D000026492,HJ Heinz Co,Food Process/Sales,,16002,65000,0,Y,Y,
+D000051754,Helmerich & Payne,Oil & Gas,,16002,65000,0,Y,,
+"",Frozen Foods Express,Food Process/Sales,,16002,65000,0,Y,,
+D000000461,Comcast Corp,Telecom Svcs,,16002,65000,0,Y,Y,Y
+D000019372,CNA Financial,Insurance,,16002,65000,0,Y,,
+"",Cendant Corp,Lodging/Tourism,,16002,65000,0,Y,,
+"",Audiovox Corp,Telecom Svcs,,16002,65000,0,Y,,
+"",21st Century Insurance Group,Insurance,,16002,65000,0,Y,,
+D000000255,Entergy Lousiana,Electric Utilities,,4004,60000,0,Y,Y,Y
+D000022303,Valero Energy,Oil & Gas,,15001,51000,0,Y,Y,Y
+"",Wesbanco Inc,Unknown,,15001,50000,0,Y,,
+D000000190,Viacom Inc,TV/Movies/Music,,15001,50000,0,Y,,
+"",Vestas Wind Systems,Misc Energy,,15001,50000,0,Y,,
+"",Varian Semiconductors,Electronics Mfg/Eqp,,15001,50000,0,Y,,
+"",United Financial,Misc Finance,,15001,50000,0,Y,,
+"",THQ Inc,Electronics Mfg/Eqp,,15001,50000,0,Y,,
+"",Thermo Electron Corp,Misc Mfg/Distrib,,15001,50000,0,Y,,
+D000030251,Sysco Corp,Food Process/Sales,,15001,50000,0,Y,,
+D000029309,Symantec Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+"",St Jude,Unknown,,15001,50000,0,Y,,
+"",Skywest International,Unknown,,15001,50000,0,Y,,
+"",Simmons First National,Unknown,,15001,50000,0,Y,,
+D000059585,SFBC International,Pharm/Health Prod,,15001,50000,0,Y,,
+D000000223,Schering-Plough Corp,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+"",Rimage,Unknown,,15001,50000,0,Y,,
+D000023869,Republic Services,Waste Management,,15001,50000,0,Y,Y,
+"",Reliant Resources,Electric Utilities,,15001,50000,0,Y,,
+"",Providence & Worcester Railroad,Railroads,,15001,50000,0,Y,,
+D000028400,PNM Resources,Electric Utilities,,15001,50000,0,Y,Y,
+D000028398,PNC Financial Services,Commercial Banks,,15001,50000,0,Y,Y,Y
+D000028396,PNC Bank Corp,Commercial Banks,,15001,50000,0,Y,,
+D000028392,Plum Creek Timber,Forest Products,,15001,50000,0,Y,Y,
+D000045098,Peoples Energy,Oil & Gas,,15001,50000,0,Y,,
+D000059489,Penn Virginia Corp,Unknown,,15001,50000,0,Y,,
+D000059481,Park National Corp,Commercial Banks,,15001,50000,0,Y,,
+"",Ohio Public Employees' Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Norvartis AG,Unknown,,15001,50000,0,Y,,
+"",Northwest Mutual Life Insurance,Insurance,,15001,50000,0,Y,,
+"",National Western Life Insurance,Insurance,,15001,50000,0,Y,,
+"",Midas Inc,Unknown,,15001,50000,0,Y,,
+"",Mexico Fund,Misc Finance,,15001,50000,0,Y,,
+"",Mesa Lab,Unknown,,15001,50000,0,Y,,
+"",MDM Partnership Rental,Real Estate,,15001,50000,0,Y,,
+D000027441,Masco Corp,Misc Mfg/Distrib,,15001,50000,0,Y,,Y
+"",KV Pharmaceutical,Pharm/Health Prod,,15001,50000,0,Y,,
+D000000326,JC Penney,Retail Sales,,15001,50000,0,Y,Y,Y
+D000000842,Invacare Corp,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+"",IndyMac Mortgage Holding,Real Estate,,15001,50000,0,Y,,
+"",IndyMac Bancorp,Real Estate,,15001,50000,0,Y,,
+"",Hilton Hotels,Lodging/Tourism,,15001,50000,0,Y,,
+D000026423,Headwaters Inc,Misc Energy,,15001,50000,0,Y,Y,
+"",EZ Corp,Finance/Credit,,15001,50000,0,Y,,
+"",Espirto Sant Financial,Misc Finance,,15001,50000,0,Y,,
+D000000255,Entergy Gulf,Electric Utilities,,15001,50000,0,Y,Y,Y
+"",Entergy AR pfd 432% NAB,Unknown,,15001,50000,0,Y,,
+"",Edison,Unknown,,15001,50000,0,Y,,
+D000000495,DuPont Co,Chemicals,,15001,50000,0,Y,Y,Y
+D000000477,Duke Energy,Electric Utilities,,15001,50000,0,Y,Y,Y
+"",Diebold Inc,Electronics Mfg/Eqp,,15001,50000,0,Y,,
+D000033006,CYTYC Corp,Pharm/Health Prod,,15001,50000,0,Y,,
+D000021941,Countrywide Financial,Real Estate,,15001,50000,0,Y,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,15001,50000,0,Y,Y,Y
+D000000824,CINergy Corp,Electric Utilities,,15001,50000,0,Y,Y,
+"",Chile Fund,Unknown,,15001,50000,0,Y,,
+D000021891,Capital One Financial,Finance/Credit,,15001,50000,0,Y,Y,Y
+"",California Water,Unknown,,15001,50000,0,Y,,
+D000042581,Borders Group,Retail Sales,,15001,50000,0,Y,,
+D000024328,Best Buy,Retail Sales,,15001,50000,0,Y,Y,Y
+"",AVX Corp,Unknown,,15001,50000,0,Y,,
+D000024193,Atmos Energy,Oil & Gas,,15001,50000,0,Y,,Y
+D000058979,Atlas America,Oil & Gas,,15001,50000,0,Y,,
+"",Arrow International,Pharm/Health Prod,,15001,50000,0,Y,,
+"",Arkansas Best Corp,Trucking,,15001,50000,0,Y,,
+D000024099,Applied Materials Inc,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000025566,Duquesne Light Holdings,Unknown,,3003,45000,0,Y,,
+"",Valeant Pharmaceuticals International,Pharm/Health Prod,,2002,32000,0,Y,,
+"",Tecumseh Products,Misc Mfg/Distrib,,2002,32000,0,Y,,
+D000035372,Liberty Global,Telecom Svcs,,2002,31000,0,Y,,
+D000022329,XCEL Energy,Electric Utilities,,2002,30000,0,Y,Y,
+D000000480,Williams Companies,Oil & Gas,,2002,30000,0,Y,Y,
+"",United Grain Growers,Crop Production,,2002,30000,0,Y,,
+D000029555,UniSource Energy,Electric Utilities,,2002,30000,0,Y,,
+"",Unifirst Corp,Unknown,,2002,30000,0,Y,,
+D000000460,Tyson Foods,Food Process/Sales,,2002,30000,0,Y,Y,
+D000029536,Tupperware Brands,Misc Mfg/Distrib,,2002,30000,0,Y,,
+"",Top Tankers Inc,Unknown,,2002,30000,0,Y,,
+D000029280,Sun Microsystems,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,Y
+"",Sprint Nextel,Telecom Svcs,,2002,30000,0,Y,,
+D000044418,Sonus Networks,Electronics Mfg/Eqp,,2002,30000,0,Y,,
+"",Rurban Financial,Commercial Banks,,2002,30000,0,Y,,
+"",Puget Energy,Electric Utilities,,2002,30000,0,Y,,
+D000028411,Popular Inc,Commercial Banks,,2002,30000,0,Y,Y,
+"",Peoples Sidney Fin Corp,Unknown,,2002,30000,0,Y,,
+"",Option Care Inc,Health Services,,2002,30000,0,Y,,
+D000028129,Old Republic International,Insurance,,2002,30000,0,Y,,
+D000000410,Nisource Inc,Electric Utilities,,2002,30000,0,Y,Y,Y
+D000042727,Newell Rubbermaid,Misc Mfg/Distrib,,2002,30000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,Y
+D000000079,MCI Inc,Telephone Utilities,,2002,30000,0,Y,Y,Y
+"",Lance Inc,Unknown,,2002,30000,0,Y,,
+"",Impco Technologies,Unknown,,2002,30000,0,Y,,
+"",IDA Cop,Unknown,,2002,30000,0,Y,,
+"",Handleman Co,Unknown,,2002,30000,0,Y,,
+D000000182,Ford Motor Co,Automotive,,2002,30000,0,Y,Y,Y
+"",First Financial Bancorp/Ohio,Commercial Banks,,2002,30000,0,Y,,
+D000000255,Entergy NO,Electric Utilities,,2002,30000,0,Y,Y,Y
+"",EDS Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,,
+D000060887,Cypress Semiconductor,Electronics Mfg/Eqp,,2002,30000,0,Y,,
+D000025138,Cooper Tire & Rubber,Chemicals,,2002,30000,0,Y,Y,Y
+"",Compania de Telecomunicacion De Chile,Telecom Svcs,,2002,30000,0,Y,,
+"",Coca-Cola FEMSA,Food & Beverage,,2002,30000,0,Y,,
+D000000403,CMS Energy,Electric Utilities,,2002,30000,0,Y,Y,
+D000032579,Cincinnati Financial,Insurance,,2002,30000,0,Y,Y,Y
+"",Cimarex Energy,Oil & Gas,,2002,30000,0,Y,,
+"",Bob Evans,Food & Beverage,,2002,30000,0,Y,,
+D000042363,Bayer AG,Chemicals,,2002,30000,0,Y,Y,
+D000022724,American Funds,Securities/Invest,Mutual Fund,2002,30000,0,Y,,
+D000023796,Airtran Holdings,Air Transport,,2002,30000,0,Y,Y,
+"",Rocky Shoes & Boots Inc,Misc Mfg/Distrib,,1001,18000,0,Y,,
+"",Swiss Helvetia Fund,Unknown,Mutual Fund,1001,17000,0,Y,,
+D000037058,Resource America,Real Estate,,1001,17000,0,Y,,
+"",OCA Inc,Unknown,,1001,17000,0,Y,,
+"",UTStarCom Inc,Telecom Svcs,,1001,16000,0,Y,,
+"",QLT Inc,Unknown,,1001,16000,0,Y,,
+"",Hollinger International,Unknown,,1001,16000,0,Y,,
+"",Friedman Billings Ramsey Group,Securities/Invest,,1001,16000,0,Y,,
+"",Foundry Networks Inc,Electronics Mfg/Eqp,,1001,16000,0,Y,,
+"",Commonwealth Tel Enterprises,Unknown,,1001,16000,0,Y,,
+"",Cable & Wireless Plc,Real Estate,,1001,16000,0,Y,,
+"",Beverly Enterprises,Hospitals/Nurs Homes,,1001,16000,0,Y,,
+"",Zomax Inc,Business Services,,1001,15000,0,Y,,
+D000000607,Xerox Corp,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+"",Willbros Group,Unknown,,1001,15000,0,Y,,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,Y,Y,Y
+"",Viasys Healthcare,Misc Health,,1001,15000,0,Y,,
+D000029582,United Rentals,Misc Services,,1001,15000,0,Y,Y,
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,Y,Y,Y
+D000030322,Tellabs Inc,Telecom Svcs,,1001,15000,0,Y,Y,
+D000000613,TECO Energy,Electric Utilities,,1001,15000,0,Y,Y,
+D000000168,Southern Co,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",Sonic Solutions,Unknown,,1001,15000,0,Y,,
+D000067820,Sinopec Shanghai Petrochemical,Chemicals,,1001,15000,0,Y,,
+"",Sea Containers Ltd,Misc Mfg/Distrib,,1001,15000,0,Y,,
+"",Scottish Power,Electric Utilities,,1001,15000,0,Y,,
+"",Schuff International,Unknown,,1001,15000,0,Y,,
+D000000215,Sanofi,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Russ Berrie,Unknown,,1001,15000,0,Y,,
+D000000648,RR Donnelley & Sons,Publishing,,1001,15000,0,Y,Y,Y
+"",Remedytemp Inc,Business Services,,1001,15000,0,Y,,
+D000022195,PPL Corp,Electric Utilities,,1001,15000,0,Y,Y,
+"",Pinnacle Data Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Pier One Imports,Retail Sales,,1001,15000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Pentair Inc,Misc Mfg/Distrib,,1001,15000,0,Y,,
+"",Omi Corp,Unknown,,1001,15000,0,Y,,
+D000021363,Ohio Edison,Unknown,,1001,15000,0,Y,,
+D000022163,Novartis AG,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Northeast Utility,Unknown,,1001,15000,0,Y,,
+D000000449,Nortel Networks,Telecom Svcs,,1001,15000,0,Y,Y,Y
+"",Nortech Systems,Unknown,,1001,15000,0,Y,,
+D000027997,Nicor Inc,Oil & Gas,,1001,15000,0,Y,Y,
+"",N Indiana PS Pfd Bond,Unknown,Government Bond,1001,15000,0,Y,,
+"",MulitColor Corp,Unknown,,1001,15000,0,Y,,
+D000023178,Mosaic Co,Agricultural Svcs,,1001,15000,0,Y,,
+"",MEMC Electronic Materials,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Meadow VY Corp,Unknown,,1001,15000,0,Y,,
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,Y,Y,Y
+"",LSI Logic,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Liberty Media,TV/Movies/Music,,1001,15000,0,Y,,
+"",LCNB Corp,Commercial Banks,,1001,15000,0,Y,,
+D000034869,JM Smucker Co,Food Process/Sales,,1001,15000,0,Y,,Y
+D000023103,Jefferson-Pilot Corp,Insurance,,1001,15000,0,Y,,
+D000000171,International Paper,Forest Products,,1001,15000,0,Y,Y,Y
+"",Integrated Silicon Solutions,Unknown,,1001,15000,0,Y,,
+D000043289,Imperial Tobacco Group,Tobacco,,1001,15000,0,Y,,
+"",ImmunoGen Inc,Pharm/Health Prod,,1001,15000,0,Y,,
+"",HEI Inc,Unknown,,1001,15000,0,Y,,
+"",Hanson PLC,Unknown,,1001,15000,0,Y,,
+D000000281,Halliburton Co,Oil & Gas,,1001,15000,0,Y,Y,Y
+"",GSI Group,Unknown,,1001,15000,0,Y,,
+D000026298,Great Plains Energy,Electric Utilities,,1001,15000,0,Y,Y,
+"",Gladstone Commercial Corp,Unknown,,1001,15000,0,Y,,
+D000026168,Gatx Corp,Railroads,,1001,15000,0,Y,,Y
+"",FSI,Unknown,,1001,15000,0,Y,,
+"",FPL Group,Electric Utilities,,1001,15000,0,Y,,
+"",Firstmerit Corp,Unknown,,1001,15000,0,Y,,
+D000000531,FirstEnergy Corp,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",First Merit Corp,Unknown,,1001,15000,0,Y,,
+D000064732,Fairfax Financial Holdings,Misc Finance,,1001,15000,0,Y,,
+D000033463,Enterprise Products Partners,Oil & Gas,,1001,15000,0,Y,,Y
+"",Enel Societa Per Azioni,Unknown,,1001,15000,0,Y,,
+"",Empresas Ica,Unknown,,1001,15000,0,Y,,
+"",Electronics for Imaging Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000025613,Dynegy Inc,Oil & Gas,,1001,15000,0,Y,Y,
+"",DSA Financial,Misc Finance,,1001,15000,0,Y,,
+D000000335,Dominion Resources,Electric Utilities,,1001,15000,0,Y,Y,Y
+D000033222,Dollar General,Retail Sales,,1001,15000,0,Y,,
+"",Discovery Holding Co,Unknown,,1001,15000,0,Y,,
+D000042633,Del Monte Foods,Food Process/Sales,,1001,15000,0,Y,Y,
+"",Dana Corp,Automotive,,1001,15000,0,Y,,
+"",Cyberguard Corp,Unknown,,1001,15000,0,Y,,
+"",Cracker Barrel,Food & Beverage,,1001,15000,0,Y,,
+"",CPAC Inc,Unknown,,1001,15000,0,Y,,
+D000000703,Costco Wholesale,Retail Sales,,1001,15000,0,Y,,
+"",Compass Minerals International,Mining,,1001,15000,0,Y,,
+"",Coast Distribution Systems,Unknown,,1001,15000,0,Y,,
+"",Citizens Utilities,Telephone Utilities,,1001,15000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000048291,Capstone Turbine,Unknown,,1001,15000,0,Y,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000021878,Boston Scientific Corp,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",BlackRock Core Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Australia & New Zealand Bank Group,Commercial Banks,,1001,15000,0,Y,,
+"",Atmel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Atlantic Power Corp,Electric Utilities,,1001,15000,0,Y,,
+D000000247,Ashland Inc,Chemicals,,1001,15000,0,Y,Y,Y
+"",Applied Innovation,Unknown,,1001,15000,0,Y,,
+"",Apco,Unknown,,1001,15000,0,Y,,
+"",Answer Think Inc,Unknown,,1001,15000,0,Y,,
+D000047135,Analogic Corp,Pharm/Health Prod,,1001,15000,0,Y,,
+D000024069,Amylin Pharmaceuticals,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000031494,American Power Conversion,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000023866,Alliant Energy,Electric Utilities,,1001,15000,0,Y,Y,
+D000023863,Alliance One International,Tobacco,,1001,15000,0,Y,,
+"",Alico Inc,Crop Production,,1001,15000,0,Y,,
+D000046607,Alaska Power & Telephone,Electric Utilities,,1001,15000,0,Y,Y,
+"",AirNet,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Aimet Systems,Unknown,,1001,15000,0,Y,,
+"",Adaptec Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000021802,ABN Amro Holdings,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",3Com Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Tyco International,Pharm/Health Prod,,0,2000,0,Y,,
+D000043036,Phh Corp,Real Estate,,0,2000,0,Y,,
+"",McRae Industries,Automotive,,0,2000,0,Y,,
+"",Central Maine Power,Electric Utilities,,0,2000,0,Y,,
+"",Village Supermarkets,Food Process/Sales,,0,1000,0,Y,,
+"",Touch America Holdings,Unknown,,0,1000,0,Y,,
+"",Top Air Manufacturing,Unknown,,0,1000,0,Y,,
+"",The Bank Corp,Commercial Banks,,0,1000,0,Y,,
+"",Tenon Ltd,Unknown,,0,1000,0,Y,,
+"",Standard Commercial,Unknown,,0,1000,0,Y,,
+"",Philadelphia Suburban,Unknown,,0,1000,0,Y,,
+"",PDS Gaming,Casinos/Gambling,,0,1000,0,Y,,
+"",Paradise Fruit,Crop Production,,0,1000,0,Y,,
+"",Napster Inc,Internet,,0,1000,0,Y,,
+"",Mitek Systems,Unknown,,0,1000,0,Y,,
+D000053174,LoJack Corp,Automotive,,0,1000,0,Y,Y,
+"",LM Ericsson Telephone,Telecom Svcs,,0,1000,0,Y,,
+"",Lanxess AG,Unknown,,0,1000,0,Y,,
+"",Jillin Chemical,Chemicals,,0,1000,0,Y,,
+"",Industrie Natuzzi,Unknown,,0,1000,0,Y,,
+"",HUB Group,Unknown,,0,1000,0,Y,,
+D000022446,Hibernia Corp,Commercial Banks,,0,1000,0,Y,,
+"",Haggar Corp,Unknown,,0,1000,0,Y,,
+"",Gehl Co,Unknown,,0,1000,0,Y,,
+"",First American Corp,Real Estate,,0,1000,0,Y,,
+"",Fab Industries,Textiles,,0,1000,0,Y,,
+"",Electro Glas,Unknown,,0,1000,0,Y,,
+"",Doral Financial,Commercial Banks,,0,1000,0,Y,,
+"",CP Pokphand,Unknown,,0,1000,0,Y,,
+D000044362,Commercial Metals Co,Misc Mfg/Distrib,,0,1000,0,Y,,
+"",Cigna Invest,Unknown,,0,1000,0,Y,,
+"",Chesapeake Utilities,Unknown,,0,1000,0,Y,,
+"",Charter One Financial,Commercial Banks,,0,1000,0,Y,,
+"",Agere Systems,Electronics Mfg/Eqp,,0,1000,0,Y,,

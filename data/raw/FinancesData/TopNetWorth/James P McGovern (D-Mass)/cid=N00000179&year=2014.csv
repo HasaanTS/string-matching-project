@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Basement Rental Unit/Washington, DC",Real Estate,,1000001,5000000,0,O,,
+"",Fidelity Freedom 2025 Fund,Unknown,Mutual Fund,100001,250000,0,O,,
+"",Eaton Vance Multi Cap Growth Fund,Unknown,Mutual Fund,50001,100000,0,O,,
+"",Congressional Federal Credit Union Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,O,,
+"",Eaton Vance Tax Managed Growth Fund,Unknown,Mutual Fund,16002,65000,0,O,,
+D000000190,Viacom Inc,TV/Movies/Music,,1001,15000,0,O,,
+D000000510,Owens Corning,Building Materials,,1001,15000,0,O,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,O,Y,Y

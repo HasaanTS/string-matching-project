@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Money Market,,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",First Trust Strategic Income Fund,,Mutual Fund,15001,50000,0,Y,,
+"",First Trust Strategic Dividend,,Mutual Fund,15001,50000,0,Y,,
+"",Cole Credit Property Trust,,Mutual Fund,15001,50000,0,Y,,
+"",Virtus Equity Trend Fund,,Mutual Fund,1001,15000,0,Y,,
+"",TLC Community Credit Union,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",TIAA Traditional Fund,,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",TIAA Real Estate Fund,Real Estate,,1001,15000,0,Y,,
+"",Franklin Square Energy & Power Fund,Misc Energy,,1001,15000,0,Y,,
+"",CREF Stock Fund,Securities/Invest,Mutual Fund,1001,15000,0,Y,,
+"",CREF Growth Fund,,Mutual Fund,1001,15000,0,Y,,
+"",CREF Global Equities Fund,,Mutual Fund,1001,15000,0,Y,,

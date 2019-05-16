@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",250001,500000,0,T,,
+"",Employees Retirement System of Texas,Unknown,"Brokerage, IRA, 401k",100001,250000,0,T,,
+"",Bond Fund / Franklin Ltd Maturity US,Unknown,Mutual Fund,100001,250000,0,T,,
+"",Bank CD,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"",TX County & District Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,T,,
+D000059503,Phoenix Life Insurance,Insurance,,15001,50000,0,T,,
+"",Congressional FCU/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",USAA Roth IRA,Unknown,"Brokerage, IRA, 401k",1,1000,0,T,,

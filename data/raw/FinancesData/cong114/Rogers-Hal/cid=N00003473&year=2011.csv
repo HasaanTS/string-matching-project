@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Citizens Bancshares,Commercial Banks,,1000001,5000000,0,Y,,
+"",Edward Jones Harold D Rogers Rev Liv Tr,Unknown,"Brokerage, IRA, 401k",707232,707232,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Edward Jones IRA,Unknown,"Brokerage, IRA, 401k",95053,95053,0,Y,,
+"","Beaver Lodge Subdivision/Wayne Cnty, KY",Real Estate,,1001,15000,0,Y,,

@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity International Equity,Unknown,Mutual Fund,100001,250000,0,Y,,
+D000033463,Enterprise Products Partners,Oil & Gas,,15001,50000,0,Y,Y,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,32404,32404,0,A,Y,
+"",Western Asset Global High Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",UBS Bank USA Money Market Funds,Unknown,,1001,15000,0,Y,,
+"",Templeton Emerging Markets Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Netflix.com,Internet,,1001,15000,0,Y,,
+"",Janus Forty Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares Silver Trust Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",IShares Indonesia,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",ETF Precious Metals Baskets Trust,Mining,,1001,15000,0,Y,,
+"",CFCU Savings/Money Market/Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Blackrock Energy & Resources Fund,Misc Energy,,1001,15000,0,Y,,
+D000023834,Alcatel-Lucent,Telecom Svcs,,1,1000,0,Y,Y,Y

@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Wright Patman Congressional FCU,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000059478,Panera Bread,Food Process/Sales,,1001,15000,0,Y,,
+"",Morgan Stanley Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,

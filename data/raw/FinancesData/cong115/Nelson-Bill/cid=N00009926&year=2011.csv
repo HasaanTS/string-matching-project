@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Pasture/Undeveloped Land/Brevard Cty, FL",Real Estate,,1000001,5000000,0,Y,,
+"",Undeveloped land,Real Estate,,100001,250000,0,Y,,
+D000022269,SunTrust Banks,Commercial Banks,,50001,100000,0,Y,,Y
+"",SunTrust Bank Money Market Account IRA,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000045657,Sun Trust Bank,Commercial Banks,,50001,100000,0,Y,,
+"",Holland & Knight Profit Sharing Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,

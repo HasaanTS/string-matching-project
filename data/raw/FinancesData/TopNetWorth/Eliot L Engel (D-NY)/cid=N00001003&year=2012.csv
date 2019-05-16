@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","E&J Reality Group, LLC",Real Estate,,100001,250000,0,Y,,
+D000000476,State of New York,Civil Servants,Unknown,15001,50000,0,Y,Y,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",US Bonds,Unknown,Government Bond,1001,15000,0,Y,,
+"",Israel Bonds,Misc Finance,Government Bond,1001,15000,0,Y,,

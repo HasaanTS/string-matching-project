@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Arizona State Retirement System,Unknown,"Brokerage, IRA, 401k",100002,200000,0,Y,,
+"","Family summer home/Prescott, AZ",Real Estate,,50001,100000,0,Y,,
+"",Raymond James Financial Services,Securities/Invest,Mutual Fund,15001,50000,0,Y,,

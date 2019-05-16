@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental Property Residence/Talahassee, FL",Real Estate,,100001,250000,0,A,,
+"","Citibank(Miami, FL)/Checking",Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,A,,
+"",4 Year University Tuition Plan Florida Prepaid,Unknown,"Brokerage, IRA, 401k",32004,130000,0,A,,
+"","Citibank(Miami, FL) Money Market",Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",Stable Asset Return Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Temporary Employee Savings Plan,Unknown,Mutual Fund,1001,15000,0,A,,
+"","TD Ameritrade(Omaha, NE)/Savings",Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Large Cap Equity Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+D000000212,Coca-Cola Co,Food & Beverage,Unknown,1001,15000,0,A,Y,Y
+"",Bond Core Plus Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",All Cap Index Equity Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Age-Based Option: Age 13-15 Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Age Based Option: Age 10-12 Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",ABA Retirement Funds Small Mid Cap Equity,Unknown,Mutual Fund,1001,15000,0,A,,
+"",ABA Retirement Funds Intl All Cap Equity,Unknown,Mutual Fund,1001,15000,0,A,,

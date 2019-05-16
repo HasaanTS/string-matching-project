@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",IRA,Unknown,Insurance policies & Annuities,115002,300000,0,Y,,
+"",Global Managed Volatility Institutional Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",USAA College Savings Plan Conservative Portfolio,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Bank of America/Account,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Short Term Bond Fund Institutional Shares,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Precious Metals & Minerals Fund Institutional,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Intermediate Term Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Income Fund Institutional Shares,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",USAA Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

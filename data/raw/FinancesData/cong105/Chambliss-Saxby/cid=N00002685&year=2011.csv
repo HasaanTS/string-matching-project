@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",GatewayCapital Investment Fund,Unknown,,50001,100000,0,Y,,
+"",AiHeart Medical Technologies,Misc Health,,50001,100000,0,Y,,
+D000029314,Synovus Financial Corp,Commercial Banks,,15001,50000,0,Y,,Y
+"",SWGA Financial Group Bank Holding Co,Commercial Banks,,15001,50000,0,Y,,
+"",South Georgia Banking/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Franklin Templeton Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,15001,50000,0,Y,Y,Y
+D000024731,Cheniere Energy,Oil & Gas,,15001,50000,0,Y,Y,
+"",BlackRock Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",United State Federal Credit Union,Unknown,,1001,15000,0,Y,,
+"",Kendallwood Crossing,Real Estate,,1001,15000,0,Y,,
+"",AerovectRx Corp,Unknown,,1001,15000,0,Y,,
+"",PhysioStream Inc,Health Services,,0,1000,0,Y,,

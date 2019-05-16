@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Van Kampen High Yield Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Prime Portfolio,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Lord Abbet Investment Trust Income,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Jennison Utility Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Jennison Natural Resources Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",IRA Account Holdings,Unknown,Mutual Fund,1001,15000,0,T,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,T,Y,Y
+"",Dow Jones Select Dividend Index,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Van Kampen Government Select Fund,Unknown,Mutual Fund,1,1000,0,T,,
+"",US Savings Bonds,Unknown,Government Bond,1,1000,0,T,,
+"",Centennial Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,T,,

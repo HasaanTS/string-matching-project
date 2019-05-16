@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000141,American Skandia Life Assurance,Insurance,,65002,150000,0,Y,Y,
+"",Morgan Stanley account,Securities/Invest,,50001,100000,0,Y,,
+"",National Financial Services,Securities/Invest,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Bank of America account,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Investors Town Center Partners,Unknown,,1001,15000,0,Y,,
+"",Cumberland Bank,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

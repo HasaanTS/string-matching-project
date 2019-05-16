@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","7901 Atlantic Ave/Ocean City, MD",Real Estate,,250001,500000,0,Y,,
+"",College Savings Plan of MD Educational,Unknown,"Brokerage, IRA, 401k",60004,200000,0,Y,,
+"",Centraville National Bank CD,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Valic: Tax-Deferred Compensation Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Lincoln National 403b,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,Y

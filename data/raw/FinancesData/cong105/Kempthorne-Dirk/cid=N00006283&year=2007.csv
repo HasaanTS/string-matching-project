@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Acreage/Lot 1, Eagle Nest 1/Cascade, ID",Real Estate,,100001,250000,0,Y,,
+"",PERSI Base Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",PERSI Total Return Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Silver Ingots,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,

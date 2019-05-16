@@ -1,0 +1,45 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Farm,Crop Production,,350000,350000,0,Y,,
+"","1108 Summerville-Mamers Road/Lillington, NC",Real Estate,,15001,50000,0,Y,,
+"",Dean Witter Money Market,Unknown,Cash/Money Market/Savings/Checking,3003,45000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,2002,16001,0,Y,Y,Y
+"",New Century Bank,Commercial Banks,,15001,15001,0,Y,,
+"",NC Stable Value Fund,Unknown,Mutual Fund,15001,15001,0,Y,,
+"",NC Large Cap Value Fund,Unknown,Mutual Fund,15001,15001,0,Y,,
+"",NC Large Cap Index,Unknown,Mutual Fund,15001,15001,0,Y,,
+"",NC Large Cap Growth,Unknown,Mutual Fund,15001,15001,0,Y,,
+D000000398,Progress Energy,Electric Utilities,,1001,15000,0,Y,Y,Y
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Oppenheimer Equity Income fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000022153,NYSE Euronext,Securities/Invest,,1001,15000,0,Y,Y,
+"",iShares S&P Europe,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares Lehman,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000334,Honeywell International,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+"",Cornerstone Bank,Commercial Banks,Unknown,1001,15000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,
+"",Cameron International,Oil & Gas,,1001,15000,0,Y,,
+"",BB&T IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000021765,Bank of New York Mellon,Securities/Invest,,1001,15000,0,Y,Y,Y
+"",BB&T Bank,Commercial Banks,,5000,5000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,2002,2002,0,Y,Y,Y
+"",BB&T,Commercial Banks,,2002,2002,0,Y,,
+D000000090,Bank of America,Commercial Banks,,2002,2002,0,Y,Y,Y
+D000029942,XTO Energy,Oil & Gas,,1001,1001,0,Y,Y,
+D000067466,Tenaris SA,Steel Production,,1001,1001,0,Y,Y,
+D000037414,Schlumberger Ltd,Oil & Gas,,1001,1001,0,Y,,
+"",RBC Centura Bank,Commercial Banks,,1001,1001,0,Y,,
+"",Powershares QQQ TR,Unknown,Mutual Fund,1001,1001,0,Y,,
+"",New Century Bancorp,Unknown,,1001,1001,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,1001,0,Y,Y,Y
+"",iShares Trust Lehman,Unknown,,1001,1001,0,Y,,
+"",iShares MSCI EAFE Fund,Unknown,Mutual Fund,1001,1001,0,Y,,
+D000066710,Frontier Communications,Telephone Utilities,,1001,1001,0,Y,Y,
+D000043943,EOG Resources,Oil & Gas,,1001,1001,0,Y,,
+D000000477,Duke Energy,Electric Utilities,,1001,1001,0,Y,Y,Y
+D000021908,Chesapeake Energy,Oil & Gas,,1001,1001,0,Y,Y,
+"",Buncombe County Bonds,Unknown,Government Bond,1001,1001,0,Y,,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,1001,0,Y,Y,Y
+D000045190,Spectra Energy,Oil & Gas,,1,1000,0,Y,Y,
+D000000188,Dow Chemical,Chemicals,,1,1000,0,Y,Y,
+D000018253,Discover Financial Services,Finance/Credit,,1,1000,0,Y,Y,

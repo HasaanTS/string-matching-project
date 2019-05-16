@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Washinton State GET Account,Unknown,"Brokerage, IRA, 401k",100002,200000,0,Y,,
+"",Calamos Growth Fund,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",Washington Mutual/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Vanguard Index Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Van Kampen Equity & Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Legg Mason Partners,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000033613,Federated Kaufmann Fund,Securities/Invest,Mutual Fund,15001,50000,0,Y,,
+"",Washinton State Retirement,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Washington Mutual/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Washington Mutual/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Washington State Retirement,Unknown,"Brokerage, IRA, 401k",1,1000,0,Y,,

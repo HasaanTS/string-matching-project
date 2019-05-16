@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",SPY Trust Shares,Unknown,,15001,50000,0,T,,
+D000000168,Southern Co,Electric Utilities,,15001,50000,0,N,Y,Y
+"",Boyd,Unknown,,2002,30000,0,T,,
+"",Vanguard Strategic Equity Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Vanguard Small Cap Index,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Vanguard Dividend Growth Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Vanguard Dividend Appreciation ETF,Unknown,Mutual Fund,1001,15000,0,T,,
+"",T Rowe Price Retirement 2040,Unknown,Mutual Fund,1001,15000,0,T,,
+"",T Rowe Price Equity Income Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",T Rowe Price Dividend Growth Fund,Unknown,Mutual Fund,1001,15000,0,T,,

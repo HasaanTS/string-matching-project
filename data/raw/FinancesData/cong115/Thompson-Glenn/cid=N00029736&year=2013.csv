@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",National Western Life Insurance,Insurance,Insurance policies & Annuities,100001,250000,0,Y,,
+"","Rental Property/Howard/Centre, PA",Real Estate,,50001,100000,0,Y,,
+"",403b Plan from Susquehanna Health,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",MetLife Tax Sheltered Annuity T-Flex,Unknown,Insurance policies & Annuities,1,1000,0,Y,,

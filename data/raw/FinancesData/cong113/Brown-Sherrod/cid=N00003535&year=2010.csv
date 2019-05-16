@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Brownlea Farm,Crop Production,,250001,500000,0,Y,,
+"",Ohio Public Employee Retirement System,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",USAA money market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",USAA/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Muhlenkamp Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,Y,Y,
+"",Plain Dealer Credit Union/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Lorain National Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

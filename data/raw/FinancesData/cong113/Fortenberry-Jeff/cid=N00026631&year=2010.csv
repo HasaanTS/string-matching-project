@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Residence/Falls Church, VA",Real Estate,,500001,1000000,0,Y,,
+"",Gloria Deo Inc,Unknown,,100001,250000,0,Y,,
+"",Jeffrey L Fortenberry 401k Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Union Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",St Claire Communications,Unknown,,1001,15000,0,Y,,
+"",ING Security Life of Den,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",CREF Stock Fund,Securities/Invest,Mutual Fund,1001,15000,0,Y,,
+"",CREF Global Equities,Unknown,Mutual Fund,1001,15000,0,Y,,

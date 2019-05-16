@@ -1,0 +1,21 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Investment Entrepreneurs LLC,Unknown,,100001,250000,0,Y,,
+D000000090,Bank of America,Commercial Banks,Unknown,31003,115000,0,Y,Y,Y
+"","645-47 W Liberty St/Sumter, SC",Real Estate,,50001,100000,0,Y,,
+D000028916,SCANA Corp,Electric Utilities,,15001,50000,0,Y,Y,Y
+D000031719,Automatic Data Processing Inc,Business Services,,1001,15000,0,Y,Y,
+"",Hartford Capital Appreciation Fund,Unknown,Mutual Fund,3394,3394,0,Y,,
+"",Oppenheimer Rising Dividends Fund,Unknown,Mutual Fund,2442,2442,0,Y,,
+"",Oppenheimer Gold & Special Minerals Fund,Unknown,Mutual Fund,2392,2392,0,Y,,
+"",Thornburg International Value Fund,Unknown,Mutual Fund,2119,2119,0,Y,,
+"",Cullen High Dividend Equity Fund,Unknown,Mutual Fund,1968,1968,0,Y,,
+"",Victory Diversified Stock Fund,Unknown,Mutual Fund,1826,1826,0,Y,,
+"",Cambiar Opportunity Fund,Unknown,Mutual Fund,1743,1743,0,Y,,
+"",Artio International Equity Fund II,Unknown,,1669,1669,0,Y,,
+"",Ivy Asset Strategy Fund,Unknown,Mutual Fund,1353,1353,0,Y,,
+"",Federated Kaufmann Small Cap Fund,Unknown,Mutual Fund,1309,1309,0,Y,,
+"",American Century Small Cap Value Fund,Unknown,Mutual Fund,1297,1297,0,Y,,
+"",Eaton Vance Emerging Markets Fund,Unknown,Mutual Fund,1159,1159,0,Y,,
+"",Franklin Mutual Global Discovery Fund,Unknown,Mutual Fund,1092,1092,0,Y,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",South Carolina State Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

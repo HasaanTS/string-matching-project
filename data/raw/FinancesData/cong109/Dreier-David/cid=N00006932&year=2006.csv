@@ -1,0 +1,65 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Tiffany Manor LP,Real Estate,,5000001,25000000,0,Y,,
+"",Oklahoma Publishing,Publishing,,500001,1000000,0,Y,,
+D000000190,Viacom Inc,TV/Movies/Music,,250001,500000,0,Y,,
+D000026171,Gaylord Entertainment,Lodging/Tourism,,250001,500000,0,Y,,
+D000019792,CBS Corp,TV/Movies/Music,,250001,500000,0,Y,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,100001,250000,0,Y,Y,Y
+D000020995,UBS AG,Securities/Invest,,50001,100000,0,Y,Y,Y
+D000029290,Surewest Communications,Telecom Svcs,,50001,100000,0,Y,,
+D000000198,Massachusetts Mutual Life Insurance,Insurance,,50001,100000,0,Y,Y,Y
+"",Franklin Templeton Mutual Shares Fund,Securities/Invest,Mutual Fund,50001,100000,0,Y,,
+"",Eaton Vance Tax Managed Global Buy Write,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Eaton Vance Tax Diversified Buy Write Op,Unknown,Mutual Fund,50001,100000,0,Y,,
+"","Bakersfield, CA CTFS Bond",Unknown,Government Bond,50001,100000,0,Y,,
+"",American Funds Washington Mutual Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000045867,Aegon NV,Insurance,,50001,100000,0,Y,Y,Y
+"",Vallecitos Water,Unknown,Unknown,15001,50000,0,Y,,
+"",Seligman Communications & Info Fund,Misc Communications,,15001,50000,0,Y,,
+"",RMA Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",PIMCO Ca Mutual,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+D000000737,National City Corp,Commercial Banks,,15001,50000,0,Y,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+"",LM Ericsson Telephone,Telecom Svcs,,15001,50000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",John Hancock Financial Industry Fund,Misc Finance,,15001,50000,0,Y,,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",Franklin Small Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Eaton Vance Tax Managed,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000188,Dow Chemical,Chemicals,,15001,50000,0,Y,Y,
+D000000071,Citigroup Inc,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,Y,Y
+D000000144,Anheuser-Busch,"Beer, Wine & Liquor",,15001,50000,0,Y,,
+D000029942,XTO Energy,Oil & Gas,,1001,15000,0,Y,,
+"",Western Assets II,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Western Assets,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000021573,Wachovia Corp,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000022307,VeriSign Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,Y,Y,Y
+D000067818,Taiwan Semiconductor Manufacturing,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000022242,Seagate Technology,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Salomon Bros Emerging Markets Income Fnd,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000037158,Robert Half International,Business Services,,1001,15000,0,Y,,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000043828,Novell Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000022163,Novartis AG,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",Nicholas Applegate Convertible & Income,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000023178,Mosaic Co,Agricultural Svcs,,1001,15000,0,Y,,
+D000026978,Kellogg Co,Food Process/Sales,,1001,15000,0,Y,Y,
+"",John Hancock Regional Bank Fund,Commercial Banks,Mutual Fund,1001,15000,0,Y,,
+"",Hartford Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000025831,Fiserv Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Evergreen Income Advantage Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000025214,CVS Health,Retail Sales,,1001,15000,0,Y,Y,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000031719,Automatic Data Processing Inc,Business Services,,1001,15000,0,Y,Y,
+"",American Funds Growth Fund of America,Misc Finance,Mutual Fund,1001,15000,0,Y,,
+"",UBS Retirement Money Funds,Unknown,Mutual Fund,1,1000,0,Y,,
+"",UBS Bank Deposit Account,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000027515,McMoRan Exploration Co,Oil & Gas,,1,1000,0,Y,Y,
+"",Idearc Inc,Publishing,,1,1000,0,Y,,
+"",Hugoton Royalty Trust,Unknown,,1,1000,0,Y,,

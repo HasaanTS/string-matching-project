@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Bank of America Balance Rewards,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000477,Duke Energy,Electric Utilities,,1001,15000,0,Y,Y,
+"",Bank of America/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

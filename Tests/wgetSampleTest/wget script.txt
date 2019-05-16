@@ -1,0 +1,1 @@
+wget --no-clobber --convert-links --random-wait -r -p --level 1 -E -e robots=off -U mozilla --user student --password dataviz https://i12g-gagneurweb.informatik.tu-muenchen.de/project/lectures/data-viz-2017/

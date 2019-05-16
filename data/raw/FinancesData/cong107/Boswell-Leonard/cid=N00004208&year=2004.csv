@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Breeding Stock/Cattle,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",500001,1000000,0,Y,,
+"","Agriculture Land/Decatur, IA",Real Estate,,250001,500000,0,Y,,
+"",Farm Equipment,Agricultural Svcs,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,

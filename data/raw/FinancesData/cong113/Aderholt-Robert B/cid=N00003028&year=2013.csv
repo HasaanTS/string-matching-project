@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",6207 30th Street North,Real Estate,,1000001,5000000,0,Y,,
+"","Commercial Buildings/Haleyville, AL",Real Estate,,250001,500000,0,Y,,
+"",65 Acres Land - Greenbrier Farms/McDonald Farms Pa,Real Estate,,100001,250000,0,Y,,
+"",Greenbrier Enterprises,Real Estate,,100002,200000,0,Y,,
+"",NY Life Securities LLC - IRA,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",60 Acres Land - Hoggleridge,Real Estate,,15001,50000,0,Y,,
+"",Traders & Farmers Bank,Commercial Banks,,2003,31000,0,Y,,
+"",Traders & Farmers Bank - IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000036400,Oppenheimer Holdings,Unknown,,1001,15000,0,Y,,
+D000027918,Navistar International,Trucking,,1001,15000,0,Y,Y,
+"",ING Classic Money Market,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",H&Q Healthcare Investors,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000133,GlaxoSmithKline,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Beaver Dam Farm,Crop Production,,1001,15000,0,Y,,
+D000066608,America Movil,Telephone Utilities,,1001,15000,0,Y,Y,

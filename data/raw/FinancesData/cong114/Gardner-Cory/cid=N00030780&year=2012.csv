@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Edward Jones Roth IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",CO Public Employees Retirement Assn,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Yuma County Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Templeton Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Land Abbott Small Cap Bond,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Land Abbott Mid Cap State Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Land Abbott Aff Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",John Hancock Rg Bank Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Goldman Sachs Growth Opportunity Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Goldman Sachs Capital Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Franklin Templeton Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Edward Jones Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Colorado Community Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000049510,Colorado Community Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,Y
+"",Bank of Colorado,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

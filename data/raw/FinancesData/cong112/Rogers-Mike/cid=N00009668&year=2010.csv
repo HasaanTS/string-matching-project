@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000019743,Wells Fargo,Commercial Banks,,50001,100000,0,Y,Y,
+"",Ameritrade Mutual Diamond Hill Large Cap,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",USAA/Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Bank of America Account,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Michigan Ed 529 Plan Aggresive Age Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Wells Fargo Mutual Prudential Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",USAA Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Century Ultra/Vista Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Bi-Petro,Unknown,,1,1000,0,Y,,

@@ -1,0 +1,61 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Residence,Real Estate,,500001,1000000,0,T,,
+"",Walgreen Co,Retail Sales,,200002,500000,0,T,,
+"",Vanguard Short Term Tax Exmt Admiral,Unknown,Mutual Fund,100001,250000,0,T,,
+"",Vanguard Limited Term Tax Exempt Fund,Unknown,Mutual Fund,100001,250000,0,T,,
+"",Treasury Bond,Unknown,Government Bond,100001,250000,0,T,,
+"",GK Properties/Investing,Real Estate,,100001,250000,0,T,,
+"",Chicago Investors Club Society,Misc Finance,,12013,181000,0,T,,
+"",Vanguard Short Term Bond Fund,Unknown,Mutual Fund,50001,100000,0,T,,
+"",Treasury Note,Unknown,Note/Note Receivable,50001,100000,0,T,,
+"",SunTrust Banks/CD,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"",Prudential Life Insurance Policy,Unknown,Insurance policies & Annuities,50001,100000,0,T,,
+"",Treasury Fund Daily Money Class,Unknown,Mutual Fund,16002,65000,0,T,,
+D000058827,Zimmer Holdings,Pharm/Health Prod,,15001,50000,0,T,Y,
+"",Westminster Fund IV,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Westminster Fund III,Real Estate,,15001,50000,0,T,,
+D000064241,Vodafone Group,Telecom Svcs,,15001,50000,0,T,,
+"",Vanguard International Equity Index,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Vanguard Inflation Protected Securities,Unknown,Mutual Fund,15001,50000,0,T,,
+D000000209,United Technologies,Defense Aerospace,,15001,50000,0,T,Y,
+"",Techne Corp,Pharm/Health Prod,,15001,50000,0,T,,
+"",Svensk Rogers International,Unknown,,15001,50000,0,T,,
+D000068756,Suncor Energy,Oil & Gas,,15001,50000,0,T,,
+D000030157,Stryker Corp,Pharm/Health Prod,,15001,50000,0,T,Y,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,15001,50000,0,T,Y,
+D000000200,PepsiCo Inc,Food & Beverage,,15001,50000,0,T,Y,
+"",Paychex Inc,Business Services,,15001,50000,0,T,,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,15001,50000,0,T,Y,
+D000022163,Novartis AG,Pharm/Health Prod,,15001,50000,0,T,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,T,Y,Y
+D000022110,Medtronic Inc,Pharm/Health Prod,,15001,50000,0,T,Y,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,15001,50000,0,T,Y,
+"",iShares MSCI Brazil Free Index,Unknown,Mutual Fund,15001,50000,0,T,,
+D000022038,Illinois Tool Works,Misc Mfg/Distrib,,15001,50000,0,T,Y,Y
+D000026221,Gilead Sciences,Pharm/Health Prod,,15001,50000,0,T,Y,
+D000000303,ConocoPhillips,Oil & Gas,,15001,50000,0,T,Y,Y
+D000000352,Caterpillar Inc,Building Materials,,15001,50000,0,T,Y,Y
+D000021757,Berkshire Hathaway,Securities/Invest,,15001,50000,0,T,Y,Y
+D000000383,Abbott Laboratories,Pharm/Health Prod,,15001,50000,0,T,Y,Y
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,T,Y,Y
+"",Vanguard Short Term Treasury Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Vanguard Bond Index,Unknown,Mutual Fund,1001,15000,0,T,,
+D000000081,United Parcel Service,Air Transport,,1001,15000,0,T,Y,Y
+D000057745,Transcanada Corp,Electric Utilities,,1001,15000,0,T,Y,
+D000019668,Phillips 66,Oil & Gas,,1001,15000,0,T,Y,
+D000035524,M&T Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,T,Y,
+D000022068,L-3 Communications,Defense Electronics,,1001,15000,0,T,Y,
+D000034909,John Wiley & Sons,Publishing,,1001,15000,0,T,Y,
+"",iShares Silver Trust,Unknown,Mutual Fund,1001,15000,0,T,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+D000022022,Health Net Inc,Health Services,,1001,15000,0,T,Y,Y
+D000000133,GlaxoSmithKline,Pharm/Health Prod,,1001,15000,0,T,Y,
+D000033596,Fastenal Co,Misc Mfg/Distrib,,1001,15000,0,T,,
+"",Factset Research Systems,Misc Finance,,1001,15000,0,T,,
+D000000368,Exelon Corp,Electric Utilities,,1001,15000,0,T,Y,Y
+D000025170,CR Bard Inc,Pharm/Health Prod,,1001,15000,0,T,Y,
+D000000071,Citigroup Inc,Commercial Banks,,1001,15000,0,T,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+"",BMO Harris,Commercial Banks,,1001,15000,0,T,,
+D000024095,Apache Corp,Oil & Gas,,1001,15000,0,T,Y,
+"",Amphenol Corp,Electronics Mfg/Eqp,,1001,15000,0,T,,

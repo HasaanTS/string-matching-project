@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Union Bank/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Union Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Columbia Acorn Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Century Vista Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",T Rowe Price Blue Chip Fund,Unknown,Mutual Fund,1,1000,0,Y,,

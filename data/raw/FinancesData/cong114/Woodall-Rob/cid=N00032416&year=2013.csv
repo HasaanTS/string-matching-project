@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",SPDR S&P 500 ETF,Securities/Invest,Mutual Fund,100001,250000,0,Y,,
+"",US Savings Bond,Unknown,Government Bond,15001,50000,0,Y,,
+"",USAA/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",USAA Total Return Strategy,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",USAA Capital Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",USAA Aggressive Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",PNC Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

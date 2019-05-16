@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Personal Residence/Alpine, UT",Real Estate,,500001,1000000,0,Y,,
+"","Investment Property/Dana Point, CA",Real Estate,,250001,500000,0,Y,,
+"",Wells Fargo Advantage Asset Allocation,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Marriott Vacation Club,Real Estate,,15001,50000,0,Y,,
+"",Zions Bank/Money Market,Unknown,Cash/Money Market/Savings/Checking,3003,45000,0,Y,,
+"",American Funds Investment Co of America,Unknown,Mutual Fund,3003,45000,0,Y,,
+"",Wells Fargo/Accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Utah State Retirement Systems,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Federated Capital Appreciation Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000090,Bank Of America,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,Y,Y
+"",Wells Fargo/Cash,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000062551,Mountain America Credit Union,Credit Unions,Unknown,1,1000,0,Y,,

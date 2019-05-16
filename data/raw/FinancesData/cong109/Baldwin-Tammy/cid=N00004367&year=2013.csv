@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Qualified Blind Trust,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+"",Wisconsin Retirement System,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Summit Credit Union/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

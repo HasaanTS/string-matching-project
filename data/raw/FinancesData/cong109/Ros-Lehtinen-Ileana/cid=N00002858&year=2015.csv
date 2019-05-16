@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",House Property,Real Estate,,250001,500000,0,Y,,
+"",Community Bank of Homestead,Commercial Banks,Cash/Money Market/Savings/Checking,1002,16000,0,Y,,
+"",Capital Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",BB&T Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

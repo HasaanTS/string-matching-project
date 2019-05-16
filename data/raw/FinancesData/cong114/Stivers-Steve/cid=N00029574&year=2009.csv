@@ -1,0 +1,32 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,115002,300000,0,N,Y,Y
+"",Farmland/Crawford & Marina County,Crop Production,,100001,250000,0,N,,
+"",Ohio Public Employee Retirement System,Unknown,"Brokerage, IRA, 401k",100002,200000,0,N,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,45003,150000,0,N,Y,Y
+"",JPMorgan Index Fund,Unknown,Mutual Fund,51002,115000,0,N,,
+"",JPMorgan Chase Retirement Fund,Unknown,"Brokerage, IRA, 401k",50001,100000,0,N,,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,N,Y,Y
+"",First American Treasury,Unknown,Mutual Fund,15001,50000,0,N,,
+"",First American Tax Free Short,Unknown,Mutual Fund,15001,50000,0,N,,
+"",First American Intmd Tax Free,Unknown,Mutual Fund,15001,50000,0,N,,
+D000000129,Exxon Mobil,Oil & Gas,,15001,50000,0,N,Y,Y
+"",Evergreen Equity Income Fund,Unknown,Mutual Fund,15001,50000,0,N,,
+D000000091,BP,Oil & Gas,,15001,50000,0,N,Y,
+"",PNC Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1002,16000,0,N,,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,N,Y,Y
+"",Vanguard Value Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Rural Metro Dodge & Cox Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Ripley on Real Estate,Real Estate,,1001,15000,0,N,,
+"","Real Estate/Wheeler County, TX",Real Estate,,1001,15000,0,N,,
+"",PNC Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+D000034869,JM Smucker Co,Food Process/Sales,,1001,15000,0,N,,
+"",Huntington Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Huntington Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+D000000531,Firstenergy Corp,Electric Utilities,,1001,15000,0,N,Y,Y
+"",Credit Suisse Common Return Stock,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Chase Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Chase Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,N,Y,
+"",Blackrock Funds Income,Unknown,Mutual Fund,1001,15000,0,N,,
+"",BlackRock Equity Index,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Citibank/Savings,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,N,,

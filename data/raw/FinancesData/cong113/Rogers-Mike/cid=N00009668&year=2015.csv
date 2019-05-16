@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Michael & Kristi Rogers Consolidated Portfolio,,"Brokerage, IRA, 401k",330583,330583,0,t,,
+D000019743,Wells Fargo,Commercial Banks,,50001,100000,0,t,Y,
+"",USAA Savings,,Cash/Money Market/Savings/Checking,15001,50000,0,t,,
+"",USAA Checking,,Cash/Money Market/Savings/Checking,15001,50000,0,t,,
+"",MI 529 Aggregate Account,,"Brokerage, IRA, 401k",3003,45000,0,t,,
+"",Bi-Petro Inc,,,1001,15000,0,t,,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,t,Y,

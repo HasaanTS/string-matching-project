@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","5576 Zeiner Court/Atwater, CA",Real Estate,,250001,500000,0,Y,,
+"",Bank of America account,Commercial Banks,Cash/Money Market/Savings/Checking,45003,150000,0,Y,,
+"",US Treasury Money Fund of America,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Charles Schwab Bank Account,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Bank of America/Checking & Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Capital Corp of the West,Unknown,,1001,15000,0,Y,,

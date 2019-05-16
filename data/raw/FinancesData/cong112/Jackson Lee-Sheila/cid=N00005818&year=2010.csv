@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",ING 403b Annuity,Unknown,Insurance policies & Annuities,500001,1000000,0,Y,,
+"",MML IRA Fidelity Advisor New Insights,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Wood Forest Bank Account,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,Cash/Money Market/Savings/Checking,2002,30000,0,Y,Y,
+"",Pioneer Mutual Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",MML Annuity,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",First Investors Mutual Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Bell Fort SDA Church,Clergy/Religious,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",2,2000,0,Y,,
+"",United Energy Resources Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000000206,Occidental Petroleum,Oil & Gas,,1,1000,0,Y,Y,
+"",Capital Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Law Office/Monticello, IN",Lawyers/Law Firms,,100001,250000,0,Y,,
+"",Dell Inc,Electronics Mfg/Eqp,,100001,250000,0,Y,,
+"",Charles Schwab IRA,Unknown,"Brokerage, IRA, 401k",51002,115000,0,Y,,
+"",Charles Schwab Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Wells Fargo Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Wells Fargo Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Vanguard TIPS Fund,Unknown,Mutual Fund,600002,1250000,0,Y,,
+"",Home with Rental,Real Estate,,500001,1000000,0,Y,,
+"",US Savings Bond,Unknown,Government Bond,100001,250000,0,Y,,
+"",California Legislators Retire Pension,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+D000029798,Wescom Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,16003,66000,0,Y,,Y
+"",Vanguard Intermediate CA Tax Exempt Bond,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000038389,Union Bank of California,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",BeeBee Draw/Hambert Combined Properties,Real Estate,,15001,50000,0,Y,,
+"",Wescom Credit Union Second Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Dreyfus CA Tax Exempt Bond Dreyfus Fund,Unknown,Government Bond,1001,15000,0,Y,,
+"",Bank of America Savings Account,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",Value of CPA Practice Equipment,Misc Finance,,1,1000,0,Y,,
+"",Pacoima Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

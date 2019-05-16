@@ -1,0 +1,179 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Goldman Sachs Inst Liq Asset TE Div Port,Unknown,Mutual Fund,5000001,25000000,0,Y,,
+"","Property/Arroyo Hondo/Santa Fe, NM",Real Estate,,1000001,5000000,0,Y,,
+"",Soundpath Conferencing Services,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1000001,1000001,1,Y,,
+"",Merrill Lynch Instl Tax Exempt Fund,Unknown,Mutual Fund,500001,1000000,0,Y,,
+"",Tax Exempt Fund Capital Reserves,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",Valor Communications,Telephone Utilities,,100001,250000,0,Y,,
+"",iShares Russell 1000 Value Index,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",iShares MSCI EAFE Index,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Fidelity Diversified International Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",iShares MSCI Japan Index,Misc Finance,Mutual Fund,51002,115000,0,Y,,
+"",TriState Investment Group,Unknown,Mutual Fund,50001,100000,0,Y,,
+"","Raw Land/Alamogordo, NM",Real Estate,,30002,100000,0,Y,,
+"",Oppenheimer Tremont Opportunity Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Oppenheimer Tremont Market Neutral Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Julius Baer International Equity Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Goldman Sachs High Yield Municipal Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Frank Russell Lifepoints Eqty Aggr Strat,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Citibank Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Aircell Inc,Telecom Svcs,,50001,100000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,17003,80000,0,Y,Y,Y
+D000019743,Wells Fargo,Commercial Banks,,16002,65000,0,Y,Y,Y
+D000000487,US Bancorp,Commercial Banks,,16002,65000,0,Y,Y,
+"",TD Ameritrade Money Market,Unknown,Cash/Money Market/Savings/Checking,16002,65000,0,Y,,
+D000037414,Schlumberger Ltd,Oil & Gas,,16002,65000,0,Y,Y,
+"",Westport Select Cap Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Thornburg Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Thornburg Limited Term Municipal Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"","Taos County, NM Gross Rcpts Tax Rev Bond",Unknown,Government Bond,15001,50000,0,Y,,
+"",Stock Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Royce Total Return Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"","Roswell, NM Indep Sch Dist G/O Schl Bond",Unknown,Government Bond,15001,50000,0,Y,,
+"",Money Market Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",iShares MSCI Taiwan Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",iShares MSCI South Korea Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",iShares MSCI Emerging Markets Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Hartford Mid Cap Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Hartford Capital Appreciation Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Harbor International Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000021766,Genworth Financial,Insurance,,15001,50000,0,Y,Y,Y
+"",Freeport-McMoRan Copper & Gold,Mining,,15001,50000,0,Y,,
+D000020679,Ford Motor Credit Co,Finance/Credit,,15001,50000,0,Y,,
+"",Fidelity New Insights Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fast Channel Networks,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Eaton Vance Tax Managed Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Eaton Vance Tax Managed Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Eaton Vance Floating Rate Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Columbia Strategic Investor Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Columbia Marisco Focused Equity,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",CMA Tax Exempt Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Cimarex Energy,Oil & Gas,,15001,50000,0,Y,,
+"",Cap Appreciation,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Calamos Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Batanga,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Albuquerque Municipal School Dist Bond,Unknown,Government Bond,15001,50000,0,Y,,
+D000000786,Accenture,Business Services,,15001,50000,0,Y,Y,Y
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,3003,45000,0,Y,Y,Y
+D000000303,ConocoPhillips,Oil & Gas,,3003,45000,0,Y,Y,Y
+D000000015,Chevron Corp,Oil & Gas,,3003,45000,0,Y,Y,Y
+D000000430,Weyerhaeuser Co,Forest Products,,2002,30000,0,Y,Y,
+D000000348,UnitedHealth Group,Health Services,,2002,30000,0,Y,Y,
+D000020995,UBS AG,Securities/Invest,Mutual Fund,2002,30000,0,Y,Y,Y
+"",NASDAQ 100 Index,Unknown,Mutual Fund,2002,30000,0,Y,,
+D000000174,Lehman Brothers,Securities/Invest,,2002,30000,0,Y,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,Y
+D000050512,EMCORE Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,,Y
+D000025490,Diageo PLC,"Beer, Wine & Liquor",,2002,30000,0,Y,Y,
+"",CMA Money Fund,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+D000000352,Caterpillar Inc,Building Materials,,2002,30000,0,Y,Y,Y
+"",American Bank Note Holographics,Publishing,,2002,30000,0,Y,,
+"",Advisors Series Trust Al Frank Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",SK Telecom,Telecom Svcs,,1001,16000,0,Y,,
+D000036842,Progressive Corp,Insurance,,1001,16000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,16000,0,Y,Y,Y
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,16000,0,Y,Y,Y
+D000000334,Honeywell International,Misc Mfg/Distrib,,1001,16000,0,Y,Y,Y
+"",Zweig While Information Services,Unknown,,1001,15000,0,Y,,
+D000029929,WR Berkley Corp,Insurance,,1001,15000,0,Y,,
+"",William Blair Emerging Mkts Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Walgreen Co,Retail Sales,,1001,15000,0,Y,,
+"","Waldo Exchange Property/Santa Fe, NM",Real Estate,,1001,15000,0,Y,,
+"",Veeco Instruments,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",US Senate Federal Credit Union Money Mkt,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000209,United Technologies,Defense Aerospace,,1001,15000,0,Y,Y,Y
+"",Trillion Digital Communications,Unknown,,1001,15000,0,Y,,
+"",Thermo Electron Corp,Misc Mfg/Distrib,,1001,15000,0,Y,,
+D000000015,Texaco Exploration & Production Lease,Oil & Gas,,1001,15000,0,Y,Y,Y
+"",Tech Valley Communications,Telephone Utilities,,1001,15000,0,Y,,
+D000000619,Target Corp,Retail Sales,,1001,15000,0,Y,Y,
+D000030248,Synopsys Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Sunflower Ventures I LLC/Cash,Unknown,,1001,15000,0,Y,,
+"",Sprint Nextel,Telecom Svcs,,1001,15000,0,Y,,
+"",Specialty Cinema LLC,Unknown,,1001,15000,0,Y,,
+"",Sound Lounge,Unknown,,1001,15000,0,Y,,
+"",Small Co,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000415,Sempra Energy,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",Sector Spdr SBI Technology Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000156,Qwest Communications,Telecom Svcs,,1001,15000,0,Y,Y,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Protect America,Business Services,,1001,15000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,Y,Y,Y
+"",Nuada LLC,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000067048,News Corp,TV/Movies/Music,,1001,15000,0,Y,,
+D000036138,Navteq Corp,Construction Svcs,,1001,15000,0,Y,,
+"",Mid Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000022110,Medtronic Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Mattson Technology,Unknown,,1001,15000,0,Y,,
+"",Matthews Korea Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Marquee Cinemas,TV/Movies/Music,,1001,15000,0,Y,,
+D000000244,Marathon Oil,Oil & Gas,,1001,15000,0,Y,Y,Y
+"",LSI Logic,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000027296,Lowe's Companies,Retail Sales,,1001,15000,0,Y,,
+D000000104,Lockheed Martin,Defense Aerospace,,1001,15000,0,Y,Y,Y
+"",Lifestyle Media,Unknown,,1001,15000,0,Y,,
+D000053016,Lennar Corp,General Contractors,,1001,15000,0,Y,Y,
+D000044957,Kos Pharmaceuticals,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",Komag Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000026978,Kellogg Co,Food Process/Sales,,1001,15000,0,Y,Y,Y
+"",International Opportunites,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000052029,IDEXX Laboratories,Agricultural Svcs,,1001,15000,0,Y,,
+"",Hoffman Media,Unknown,,1001,15000,0,Y,,
+D000026470,Hershey Co,Food & Beverage,,1001,15000,0,Y,Y,
+"",Health Watch Inc,Misc Health,,1001,15000,0,Y,,
+"",HCPro Inc,Health Services,,1001,15000,0,Y,,
+"",Hartford Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000691,Goodyear Tire & Rubber,Chemicals,,1001,15000,0,Y,Y,
+D000000085,Goldman Sachs,Securities/Invest,,1001,15000,0,Y,Y,Y
+"",Global Leaders,Unknown,,1001,15000,0,Y,,
+D000068481,Genzyme Corp,Pharm/Health Prod,,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000596,Genentech Inc,Pharm/Health Prod,,1001,15000,0,Y,,
+D000000089,FedEx Corp,Air Transport,,1001,15000,0,Y,Y,Y
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000000368,Exelon Corp,Electric Utilities,,1001,15000,0,Y,Y,Y
+D000044128,Endurance Specialty Holdings,Unknown,,1001,15000,0,Y,,
+"",Douglas Publications,Publishing,,1001,15000,0,Y,,
+D000000335,Dominion Resources,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",Dividend & Growth,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Cymer Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000021645,Coventry Health Care,Health Services,,1001,15000,0,Y,Y,
+D000021941,Countrywide Financial,Real Estate,,1001,15000,0,Y,Y,
+"",Convergent Broadcasting,TV/Movies/Music,,1001,15000,0,Y,,
+"",ConAgra Foods,Food Process/Sales,,1001,15000,0,Y,,
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,Y,Y,Y
+D000032702,Coach Inc,Retail Sales,,1001,15000,0,Y,,
+D000000071,Citigroup Inc,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",Citibank/CD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000222,Cigna Corp,Insurance,,1001,15000,0,Y,Y,
+D000000320,Chubb Corp,Insurance,,1001,15000,0,Y,Y,
+D000021891,Capital One Financial,Finance/Credit,,1001,15000,0,Y,Y,
+"",Burlington Northern Santa Fe Corp,Railroads,,1001,15000,0,Y,,
+D000042577,Black & Decker,Misc Mfg/Distrib,,1001,15000,0,Y,,
+D000024209,Avaya Inc,Telecom Svcs,,1001,15000,0,Y,Y,
+D000024103,Apria Healthcare,Health Services,,1001,15000,0,Y,Y,
+D000000560,Alltel Corp,Telecom Svcs,,1001,15000,0,Y,Y,
+D000000632,Allstate Corp,Insurance,,1001,15000,0,Y,Y,
+D000021814,Alliant Techsystems,Misc Defense,,1001,15000,0,Y,Y,
+"",Allegiance Communications,TV/Movies/Music,,1001,15000,0,Y,,
+"",Alcon Inc,Pharm/Health Prod,,1001,15000,0,Y,,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Western Digital,Electronics Mfg/Eqp,,0,1000,0,Y,,
+"",TD Ameritrade/20,Securities/Invest,,0,1000,0,Y,,
+D000029280,Sun Microsystems,Electronics Mfg/Eqp,,0,1000,0,Y,Y,
+"",Piper Jaffray Companies,Securities/Invest,,0,1000,0,Y,,
+D000020856,Peabody Energy,Mining,,0,1000,0,Y,Y,Y
+D000000206,Occidental Petroleum,Oil & Gas,,0,1000,0,Y,Y,
+"",Neenah Paper,Retail Sales,,0,1000,0,Y,,
+"",Morgan Stanley account,Securities/Invest,"Brokerage, IRA, 401k",0,1000,0,Y,,
+D000021987,McData Corp,Securities/Invest,,0,1000,0,Y,Y,Y
+D000026520,Hospira Inc,Pharm/Health Prod,,0,1000,0,Y,,
+D000000182,Ford Motor Co,Automotive,,0,1000,0,Y,Y,
+"",Fidelity Series VIII Strategic Opp Fund,Unknown,Mutual Fund,0,1000,0,Y,,
+D000025615,E*TRADE Financial,Securities/Invest,"Brokerage, IRA, 401k",0,1000,0,Y,Y,
+"",Citibank Cash Reserves A/C 62 - Closed,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+"",Citibank Cash Reserves A/C 27 - Closed,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+"",Baron Growth Fund,Unknown,Mutual Fund,0,1000,0,Y,,
+D000000217,American Express,Finance/Credit,,0,1000,0,Y,Y,
+D000023707,7-Eleven,Retail Sales,,0,1000,0,Y,,

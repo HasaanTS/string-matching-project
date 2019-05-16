@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000021757,Berkshire Hathaway,Securities/Invest,,100000,100000,0,T,Y,
+"",Income Fund of America Fund,,Mutual Fund,17003,80000,0,T,,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,T,Y,
+"",CSP-NE age-based 19+,,"Brokerage, IRA, 401k",3003,45000,0,T,,
+"",American Funds Growth Fund of America,,Mutual Fund,2002,30000,0,T,,
+D000022724,American Funds,Securities/Invest,Mutual Fund,2002,30000,0,T,,
+"",City of Omaha Pension,,"Brokerage, IRA, 401k",1001,15000,0,T,,
+"",Charles Schwab-Bank Deposit Sweep,,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Bank of the West 401K,,"Brokerage, IRA, 401k",1,1000,0,T,,

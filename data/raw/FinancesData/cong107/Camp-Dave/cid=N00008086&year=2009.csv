@@ -1,0 +1,100 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Keil Trust U/A 03/05/98 FBO Nancy Camp,Unknown,"Brokerage, IRA, 401k",1000001,5000000,0,Y,,
+D000000188,Dow Chemical,Chemicals,,250001,500000,0,Y,Y,Y
+"",Ohio G/O ULT Higher Education Bond,Unknown,Government Bond,100001,250000,0,Y,,
+"",Wells Fargo/Cash & Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Virginia G/O Ult Bond,Unknown,Government Bond,50001,100000,0,Y,,
+"",Vermont Ref Bond,Unknown,Government Bond,50001,100000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,50001,100000,0,Y,Y,Y
+"",North Carolina Pub Impvt Bond,Unknown,Government Bond,50001,100000,0,Y,,
+"",Maryland G/O Ult State & Local Bond,Unknown,Government Bond,50001,100000,0,Y,,
+"",iShares S&P 500 Index,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",iShares Midcap 400 Growth Index,Unknown,Mutual Fund,30002,100000,0,Y,,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,Y
+"",Federated Govt Obligations/Cash & MM,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,50001,100000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,Y
+D000021754,Apple Inc,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,50001,100000,0,Y,Y,Y
+D000000430,Weyerhaeuser Co,Forest Products,,15001,50000,0,Y,Y,Y
+D000029689,Visa Inc,Finance/Credit,,15001,50000,0,Y,Y,
+"",Vanguard REIT Index,Real Estate,Mutual Fund,15001,50000,0,Y,,
+"",Vanguard Long Term Bond Index,Unknown,Government Bond,15001,50000,0,Y,,
+"",Vanguard Index Europe ETF,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Vanguard Emerging Markets ETF,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Vale SA,Mining,,15001,50000,0,Y,,
+D000000118,Union Pacific Corp,Railroads,,15001,50000,0,Y,Y,Y
+D000029389,Teva Pharmaceutical Industries,Pharm/Health Prod,,15001,50000,0,Y,Y,
+"",SPDR Barclays Cap High Yld Bond,Unknown,Government Bond,15001,50000,0,Y,,
+D000037414,Schlumberger Ltd,Oil & Gas,,15001,50000,0,Y,,
+D000042474,Roche Holdings,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+D000000138,Pfizer Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+D000000200,PepsiCo Inc,Food & Beverage,,15001,50000,0,Y,Y,Y
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000028057,Nucor Corp,Steel Production,,15001,50000,0,Y,Y,
+D000042332,Nestle Sa,Food & Beverage,,15001,50000,0,Y,Y,Y
+D000000055,Monsanto Co,Agricultural Svcs,,15001,50000,0,Y,Y,Y
+D000022110,Medtronic Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+D000000373,McDonald's Corp,Food & Beverage,,15001,50000,0,Y,Y,Y
+"",Massachusetts G/O Ult Bond,Unknown,Government Bond,15001,50000,0,Y,,
+D000026978,Kellogg Co,Food Process/Sales,,15001,50000,0,Y,Y,Y
+D000044019,ITC Holdings,Electric Utilities,,15001,50000,0,Y,Y,Y
+"",iShares S&P Smallcap 600 Value Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",iShares S&P Smallcap 600 Growth Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",iShares Inv Grade Bond ETF,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",iShares Barclays 1-3 yr Credit Bond ETF,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000026492,HJ Heinz Co,Food Process/Sales,,15001,50000,0,Y,Y,
+D000034447,Hess Corp,Oil & Gas,,15001,50000,0,Y,Y,
+D000022008,Google Inc,Internet,,15001,50000,0,Y,Y,Y
+D000026221,Gilead Sciences,Pharm/Health Prod,,15001,50000,0,Y,Y,
+"",Georgia State G/O Bond,Unknown,Government Bond,15001,50000,0,Y,,
+D000026188,Gentex Corp,Misc Mfg/Distrib,,15001,50000,0,Y,,
+"",Freeport-McMoRan Copper & Gold,Mining,,15001,50000,0,Y,,
+"",FPL Group,Electric Utilities,,15001,50000,0,Y,,
+D000000182,Ford Motor Co,Automotive,,15001,50000,0,Y,Y,Y
+D000025862,FMC Technologies,Oil & Gas,,15001,50000,0,Y,,
+D000000089,Fedex Corp,Air Transport,,15001,50000,0,Y,Y,
+"",Energy Transfer Equity LP,Oil & Gas,Mutual Fund,15001,50000,0,Y,,
+D000000408,Deere & Co,Agricultural Svcs,,15001,50000,0,Y,Y,Y
+"",CVS/Caremark Corp,Retail Sales,,15001,50000,0,Y,,
+D000021945,Cummins Inc,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+D000000703,Costco Wholesale,Retail Sales,,15001,50000,0,Y,,
+D000000457,Corning Inc,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",Connecticut St G/O Ult Bond,Unknown,Government Bond,15001,50000,0,Y,,
+D000025046,Comerica Inc,Commercial Banks,,15001,50000,0,Y,,Y
+D000032736,Colgate-Palmolive Co,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000000212,Coca-Cola Co,Food & Beverage,,15001,50000,0,Y,Y,Y
+D000024879,Clorox Co,Chemicals,,15001,50000,0,Y,,
+"",Chemical Financial Corp,Misc Finance,,15001,50000,0,Y,,
+D000032432,Celgene Corp,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000000352,Caterpillar Inc,Building Materials,,15001,50000,0,Y,Y,Y
+D000000100,Boeing Co,Defense Aerospace,,15001,50000,0,Y,Y,Y
+D000031719,Automatic Data Processing Inc,Business Services,,15001,50000,0,Y,Y,
+D000000132,Archer Daniels Midland,Agricultural Svcs,,15001,50000,0,Y,Y,Y
+D000024099,Applied Materials Inc,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000042510,Anheuser-Busch InBev,"Beer, Wine & Liquor",,15001,50000,0,Y,Y,Y
+D000000459,Anadarko Petroleum,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000000217,American Express,Finance/Credit,,15001,50000,0,Y,Y,Y
+D000057143,Stanley Black & Decker,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+"",Sector SPDR Technology,Unknown,,1001,15000,0,Y,,
+"",Sector SPDR Materials,Unknown,,1001,15000,0,Y,,
+"",Sector SPDR Industrial,Unknown,,1001,15000,0,Y,,
+"",Sector SPDR Health Care,Misc Health,,1001,15000,0,Y,,
+"",Sector SPDR Financial,Misc Finance,,1001,15000,0,Y,,
+"",Sector SPDR Consumer Staples,Unknown,,1001,15000,0,Y,,
+"",Sector SPDR Consumer Discretionary,Unknown,,1001,15000,0,Y,,
+"",Sector SDPR Energy,Misc Energy,,1001,15000,0,Y,,
+D000020856,Peabody Energy,Mining,,1001,15000,0,Y,Y,Y
+"",Paychex Inc,Business Services,,1001,15000,0,Y,,
+"",Money Market/Cash Balance,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000027104,Laboratory Corp of America,Health Services,,1001,15000,0,Y,Y,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",iShares DJ US Telecom Sector Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000021791,HSBC Holdings,Finance/Credit,,1001,15000,0,Y,Y,Y
+D000000691,Goodyear Tire & Rubber,Chemicals,,1001,15000,0,Y,Y,
+"",Carefusion Corp,Pharm/Health Prod,,1001,15000,0,Y,,
+D000021892,Cardinal Health,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000031387,Alcoa Inc,Misc Mfg/Distrib,,1001,15000,0,Y,Y,

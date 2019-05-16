@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Farmland/508 acres,Crop Production,,250001,500000,0,Y,,
+"","480 acres Farmland, House, Equip, Cattle",Crop Production,,250001,500000,0,Y,,
+"","103 acres Mineral Rights/Roger Mills, OK",Mining,,250001,500000,0,Y,,
+"",Farmland/320 acres,Crop Production,,100001,250000,0,Y,,
+"",Panhandle Oil & Gas,Oil & Gas,,16002,65000,0,Y,,
+"",Public Employees Retirement System,Civil Servants,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Security State Bank,Commercial Banks,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Western Farm Bureau,Crop Production,,1001,15000,0,Y,,
+"",Texas Teachers Retirement System,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Oklahoma Tercher Retirement,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,

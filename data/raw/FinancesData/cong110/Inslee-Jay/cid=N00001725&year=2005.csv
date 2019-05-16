@@ -1,0 +1,19 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Zuchicz,Unknown,,15001,50000,0,A,,
+D000000722,Texas Instruments,Electronics Mfg/Eqp,,15001,50000,0,A,Y,
+D000037780,Starbucks Corp,Food & Beverage,,15001,50000,0,A,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,A,Y,Y
+D000022110,Medtronic Inc,Pharm/Health Prod,,15001,50000,0,A,Y,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,A,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,A,Y,Y
+D000000071,Citigroup Inc,Commercial Banks,,15001,50000,0,A,Y,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,15001,50000,0,A,Y,Y
+D000036986,RealNetworks Inc,Electronics Mfg/Eqp,,1001,15000,0,A,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,A,Y,Y
+D000035451,"Lord, Abbett & Co",Securities/Invest,,1001,15000,0,A,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+D000052003,I-Flow Corp,Pharm/Health Prod,,1001,15000,0,A,Y,
+"",EMC Corp,Electronics Mfg/Eqp,,1001,15000,0,A,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Ahs Strategic Growth Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+D000023834,Alcatel-Lucent,Telecom Svcs,,1,1000,0,A,,

@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Herger Ranch,Livestock,,1000001,5000000,0,Y,,
+"",Herger Gas,Oil & Gas,,1000001,5000000,0,Y,,
+"",Pacific Life Value Variable Annuity,Unknown,Insurance policies & Annuities,500001,1000000,0,Y,,
+"",Pacific Life One Select Variable Annuity,Unknown,Insurance policies & Annuities,250001,500000,0,Y,,
+"","Rental House/4th Avenue/Rio Oso, CA",Real Estate,,100001,250000,0,Y,,
+"",Umpqua Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,

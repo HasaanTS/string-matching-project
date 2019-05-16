@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fairholme Funds,Securities/Invest,Mutual Fund,2015003,10050000,0,Y,,
+"",Schwab Money Market,Unknown,Cash/Money Market/Savings/Checking,2000002,10000000,0,Y,,
+"",Grayling Industries,Misc Mfg/Distrib,Note/Note Receivable,1000001,5000000,0,Y,,
+"",Turkey Buzzard Timber,Forest Products,,500001,1000000,0,Y,,
+"",Turkey Neck Farms,Forest Products,,100001,250000,0,Y,,
+"",Turkey Deer Trace LLC,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,
+"",SunTrust Banks Money Market,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,

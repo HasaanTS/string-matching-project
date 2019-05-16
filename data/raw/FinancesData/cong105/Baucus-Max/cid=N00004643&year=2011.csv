@@ -1,0 +1,19 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental Condominium/Scottsdale, AZ",Real Estate,,250001,500000,0,Y,,
+"",TransAmerica Asset Allocation,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Wells Fargo Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Templeton Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Toronto Dominion Bank,Commercial Banks,,0,2000,0,Y,,
+"",Limited Brands,Retail Sales,,0,2000,0,Y,,
+"",Freeport-McMoRan Copper & Gold,Mining,,0,2000,0,Y,,
+"",Rogers Communications,Telephone Utilities,,0,1000,0,Y,,
+D000000206,Occidental Petroleum,Oil & Gas,,0,1000,0,Y,Y,
+D000000373,McDonald's Corp,Food & Beverage,,0,1000,0,Y,Y,Y
+D000023121,Marathon Petroleum,Oil & Gas,,0,1000,0,Y,Y,
+D000000244,Marathon Oil,Oil & Gas,,0,1000,0,Y,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,0,1000,0,Y,Y,Y
+D000042050,Dr Pepper Snapple Group,Food & Beverage,,0,1000,0,Y,,
+D000000408,Deere & Co,Agricultural Svcs,,0,1000,0,Y,Y,
+D000066768,Bank of Montreal,Commercial Banks,,0,1000,0,Y,,
+D000047071,American Tower Corp,Electronics Mfg/Eqp,,0,1000,0,Y,,
+D000031387,Alcoa Inc,Misc Mfg/Distrib,,0,1000,0,Y,Y,Y

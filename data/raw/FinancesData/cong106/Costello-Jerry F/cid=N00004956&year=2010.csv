@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Bank Deposit Sweep Option Money Market,Unknown,Cash/Money Market/Savings/Checking,150002,350000,0,Y,,
+"",State of Illinois IMRF,Unknown,Unknown,15001,50000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Citigroup Inc IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,

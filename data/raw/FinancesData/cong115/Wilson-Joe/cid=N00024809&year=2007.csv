@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Moseley & Wilson Partnership,Unknown,,550005,1200000,0,Y,,
+"","99 Tally Ho Court/Sapphire, NC",Real Estate,,250001,500000,0,Y,,
+"",Graves Park Estates,Unknown,,50001,100000,0,Y,,
+"","2827 Wilton Road/Springdale, SC",Real Estate,,50001,100000,0,Y,,
+"","2823 Wilton Road/Springdale, SC",Real Estate,,50001,100000,0,Y,,
+"",Timeshare/Royal Dunes Resort/Hilton Head,Real Estate,,1001,15000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,Y,Y,Y

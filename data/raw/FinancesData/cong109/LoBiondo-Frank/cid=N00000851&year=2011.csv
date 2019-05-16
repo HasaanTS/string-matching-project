@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Washington Mutual Investors Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",Residential Real Estate,Real Estate,,100001,250000,0,A,,
+"",Jannet Montgomery Scott-IRA Rollover,Unknown,"Brokerage, IRA, 401k",50001,100000,0,A,,
+"",ING Select Advantage,Unknown,,50001,100000,0,A,,
+"",Ocean City Home Bank/Classic Checking,Unknown,,1001,15000,0,A,,
+"",TD Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,A,,
+"",TD Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,A,,
+"",Silver State Schools Credit Union/Saving,Unknown,,1,1000,0,A,,
+"",Silver State Schools Credit Union/Checki,Unknown,,1,1000,0,A,,
+"",Ocean City Home Bank/Savings,Unknown,,1,1000,0,A,,
+D000019414,Metropolitan Life Insurance,Insurance,,1,1000,0,A,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,A,,

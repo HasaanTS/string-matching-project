@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",601 Pennsylvania Ave NW 202,Real Estate,,250001,500000,0,T,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,50001,100000,0,T,Y,Y
+"",Federated Capital Reserves,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,T,,
+D000019642,Northwestern Mutual Life Insurance,Insurance,,1001,15000,0,T,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",College Advantage Savings,Unknown,"Brokerage, IRA, 401k",1001,15000,0,T,,
+D000047129,Amtrust Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,T,,

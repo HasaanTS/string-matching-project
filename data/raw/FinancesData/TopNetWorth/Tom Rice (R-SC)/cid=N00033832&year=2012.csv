@@ -1,0 +1,22 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Winyah Road Investors LLC,Real Estate,,1000001,5000000,0,Y,,
+"",Rice REI LLC,Real Estate,,1000001,5000000,0,Y,,
+"",Rice Properties LLC,Real Estate,,1000001,5000000,0,Y,,
+"",Parkway Office Plaza LLC,Real Estate,,1000001,5000000,0,Y,,
+"",Calhoun Rice LLC,Real Estate,,1000001,5000000,0,Y,,
+"",Winyah Commercial LLC,Real Estate,,600002,1250000,0,Y,,
+"",POP 3 LLC,Real Estate,,500002,1000000,0,Y,,
+"",POP Plus LLC,Unknown,,250001,500000,0,Y,,
+"",Commercial Building - 20% Interest,Real Estate,,150003,300000,0,Y,,
+"",Wells Fargo Money Market,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Partial Interest in Tracts,Real Estate,,100001,250000,0,Y,,
+"",9 Lots,Real Estate,,100001,250000,0,Y,,
+"",Rice Commercial Inc,Unknown,,50001,100000,0,Y,,
+"",Washington Mutual Investors Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",L&I LLC,Real Estate,,15001,50000,0,Y,,
+"",Dunes Golf & Beach Club Inc,Recreation,,15001,50000,0,Y,,
+"",Rice Family LLC,Unknown,,2002,30000,0,Y,,
+"",Myrtle Beach National Co,Recreation,,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000032194,Burroughs & Chapin,Real Estate,,1001,15000,0,Y,Y,Y
+D000021757,Berkshire Hathaway,Securities/Invest,,1001,15000,0,Y,Y,

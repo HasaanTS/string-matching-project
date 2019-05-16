@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rose Exterminator Co,Misc Services,,1000001,5000000,0,T,,
+"","414 Frontage Road/Northfield, IL",Real Estate,,500001,1000000,0,T,,
+"",Rose Pest Solutions,Misc Services,,100001,250000,0,T,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,50001,100000,0,T,Y,Y
+"","2711 Douglas Avenue/Racine, Wisconsin",Real Estate,,50001,100000,0,N,,
+D000000094,Time Warner,TV/Movies/Music,,15001,50000,0,T,Y,
+"",Fountainhead Partners LLC,Real Estate,,15001,50000,0,T,,
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,T,Y,Y

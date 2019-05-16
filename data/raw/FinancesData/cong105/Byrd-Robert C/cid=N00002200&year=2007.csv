@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental House/Shepherdstown, WV",Real Estate,,250001,500000,0,Y,,
+"",SunTrust Banks IRA,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",HHC Insurance Holdings,Insurance,,100001,250000,0,Y,,
+"",SunTrust Banks/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,

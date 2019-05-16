@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Farm Land/Dinuba, CA",Crop Production,,250001,500000,0,Y,,
+"",Vanguard 401k,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",SunTrust Banks account,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Bank of America/Checking,Unknown,Cash/Money Market/Savings/Checking,51002,115000,0,Y,,
+"",White House Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Wright Patman Congressional FCU,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",US Treasury Notes,Unknown,Government Bond,1001,15000,0,Y,,
+"",Sun Financial Group Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank of America/Cash Maximizer Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",American Funds Investment Co of America,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Merrill Lynch CMA Fund,Unknown,Mutual Fund,1,1000,0,Y,,

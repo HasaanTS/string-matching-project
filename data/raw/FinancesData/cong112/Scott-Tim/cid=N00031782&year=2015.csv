@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Residential Rental - Summerville, SC",,,100001,250000,0,Y,,
+"",Residential Rental Property,Real Estate,,50001,100000,0,Y,,
+"",South Carolina State Retirement System,,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Allstate Corp,,,15001,50000,0,Y,,
+D000000632,Allstate Insurance,Insurance,Insurance policies & Annuities,2002,30000,0,Y,Y,Y
+"",Oppenheimer Global Fund,,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Growth & Income K,,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Asset Manager 20%,,Mutual Fund,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

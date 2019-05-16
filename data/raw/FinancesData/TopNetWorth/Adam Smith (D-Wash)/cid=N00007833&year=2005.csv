@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",GET Account,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",30002,100000,0,Y,,
+"",Washington Mutual Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,16002,65000,0,Y,,
+"",Vanguard Index Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Van Kampen Equity & Income,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Smith Barney Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Calamos Growth Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Washington State Retirement,Unknown,"Brokerage, IRA, 401k",1002,16000,0,Y,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000033613,Federated Kaufmann Fund,Securities/Invest,Mutual Fund,1001,15000,0,Y,,
+"",F5 Networks,Electronics Mfg/Eqp,,1001,15000,0,Y,,

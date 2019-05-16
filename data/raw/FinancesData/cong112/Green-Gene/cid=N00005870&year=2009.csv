@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000141,Prudential Financial,Insurance,,101002,265000,0,Y,Y,
+"",Community Bank of Texas,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Bank of America account,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Chase Bank IRA Allstate Preferred Pref,Unknown,"Brokerage, IRA, 401k",65002,150000,0,Y,,
+"",Community Bank of Texas IRA,Unknown,"Brokerage, IRA, 401k",30002,100000,0,Y,,

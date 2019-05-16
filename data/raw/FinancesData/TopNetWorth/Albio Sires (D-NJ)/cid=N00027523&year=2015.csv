@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",TD Bank - Checking,,Cash/Money Market/Savings/Checking,50001,100000,0,O,,
+"",Pfizer,,,15001,50000,0,O,,
+D000000303,ConocoPhillips,Oil & Gas,,15001,50000,0,O,Y,
+D000019668,Phillips 66,Oil & Gas,,1001,15000,0,O,Y,
+"",Merrill Lynch - Checking,,Cash/Money Market/Savings/Checking,1,1000,0,O,,

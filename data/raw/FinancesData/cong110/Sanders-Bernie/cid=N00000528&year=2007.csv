@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Condominium/Burlington, VT",Real Estate,,100001,250000,0,Y,,
+"",TIAA Real Estate,Real Estate,,15001,50000,0,Y,,
+"",TIAA Guaranteed Traditional IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",North Country Federal Credit Union IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",CREF Fixed Income Bonds,Unknown,Mutual Fund,15001,50000,0,Y,,
+"","CREF Equities Stock, Growth, Global",Unknown,Mutual Fund,15001,50000,0,Y,,
+"",CREF Multi-Asset,Unknown,Mutual Fund,1001,15000,0,Y,,

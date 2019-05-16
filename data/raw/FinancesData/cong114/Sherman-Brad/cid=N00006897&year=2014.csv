@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Home with rental unit/Washington, DC",Real Estate,,1000001,5000000,0,Y,,
+"",US Savings Bond,Unknown,Government Bond,250001,500000,0,Y,,
+"",Wescom Credit Union (first account),Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Vanguard TIPS Fund (personal account-not IRA),Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Vanguard TIPS Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",California Legislators Retire Pension,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Congressional Federal Credit Union Rayburn Buildin,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Union Bank of California,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Bee Bee Draw/Hambert Properties,Oil & Gas,,15001,50000,0,Y,,
+"",Wescom Credit Union account,Credit Unions,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Wescom Credit Union/Second Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",CPA Practice Equipment including furniture,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1,1000,0,Y,,

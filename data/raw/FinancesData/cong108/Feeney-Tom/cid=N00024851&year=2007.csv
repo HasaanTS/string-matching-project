@@ -1,0 +1,22 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","12063 Gray Birch Circle/Orlando, FL",Real Estate,,250001,500000,0,Y,,
+"",Alger Mid Cap Growth Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Fidelity Worldwide Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Fidelity China Region Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Beach Partners II,Real Estate,,50001,100000,0,Y,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",American Funds Europacific Growth Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",AllianceBernstein Intl Value Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Fidelity Cash Reserves,Unknown,Cash/Money Market/Savings/Checking,15003,52000,0,Y,,
+D000000170,Northrop Grumman,Misc Defense,,15001,50000,0,Y,Y,Y
+"",Ivy Small Cap Growth,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000165,General Dynamics,Defense Electronics,,15001,50000,0,Y,Y,Y
+"",Fidelity Select Consumer Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Dividend Growth Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Triquint Semiconductor,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000000089,FedEx Corp,Air Transport,,1001,15000,0,Y,Y,
+"",US Savings Bond,Unknown,Government Bond,1,1000,0,Y,,
+"",LifePoint Hospitals,Hospitals/Nurs Homes,,1,1000,0,Y,,
+"",Fidelity Growth Company Fund,Unknown,Mutual Fund,1,1000,0,Y,,

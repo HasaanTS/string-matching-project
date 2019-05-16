@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",JGB Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+D000021625,New England Life Insurance,Insurance,,15001,50000,0,T,,
+"",Fidelity Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"",Wells Fargo Capital Income Builder,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Puritan Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Citibank/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",American Funds Europacific Growth Fund,Unknown,Mutual Fund,1001,15000,0,T,,

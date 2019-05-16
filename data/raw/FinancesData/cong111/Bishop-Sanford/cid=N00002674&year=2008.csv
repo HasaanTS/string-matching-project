@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",SunTrust Banks/CD,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",House & lot,Real Estate,,50001,100000,0,Y,,
+"",Dryden Municipal Bonds,Unknown,Mutual Fund,50001,100000,0,Y,,
+"","House & lot/Starkville, MS",Real Estate,,15001,50000,0,Y,,
+"",BlackRock Govt Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",SunTrust Banks Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"","Lot 24A Lakemont Heights/Hartwell, GA",Real Estate,,1001,15000,0,Y,,
+"",Legislators Retirement System,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",SunTrust Banks/Savings,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

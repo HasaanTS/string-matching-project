@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",FBL-IRA-NSD,Unknown,"Brokerage, IRA, 401k",101002,265000,0,A,,
+"",Farm adjacent to house/91 acres,Crop Production,,100001,250000,0,A,,
+"",Colorado Farm Bureau 401k,Unknown,"Brokerage, IRA, 401k",50001,100000,0,A,,
+"",Bale Wagon Farm Machine,Crop Production,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,A,,
+"",American General Financial 401a,Unknown,"Brokerage, IRA, 401k",15001,50000,0,A,,
+"","24867 3rd St/Galeton, CO",Real Estate,,15001,50000,0,A,,
+"",PERA of Gold 403b,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",Fort Morgan State Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Farmers State Bank of Ft Morgan/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,

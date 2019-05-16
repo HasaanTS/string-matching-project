@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"","10 N Main St/Chatham, VA",Real Estate,,50001,100000,0,Y,,
+"",Virginia Retirement System,Insurance,Insurance policies & Annuities,15001,50000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",Tyson,Unknown,,1001,15000,0,Y,,
+"",Schwab Due Account Mead Western Co,Unknown,,1001,15000,0,Y,,
+"",Schwab Deposit,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000019639,Norfolk Southern,Railroads,,1001,15000,0,Y,Y,Y
+"",Louisiana-Pacific,Unknown,,1001,15000,0,Y,,
+"",College Bond Fund CBF Aggressive Portfolio,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",BB&T Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",American Funds Investment Co of America,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Express Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",1st Citizens Checking Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

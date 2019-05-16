@@ -1,0 +1,23 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000021773,Travelers Companies,Insurance,,15001,50000,0,T,Y,
+"",Ida Corp,Unknown,,15001,50000,0,T,,
+"",Franklin Income Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",American Income Fund of America,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Ameriprise Insured Money Market,Unknown,Cash/Money Market/Savings/Checking,1002,16000,0,T,,
+"",Vanguard Dividend Growth,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Selected American S,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Royce Total Return Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",LP Carey CPA 16,Accountants,Unknown,1001,15000,0,T,,
+"",John Hancock Tax Deductions,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Gamco West Balanced AAA,Unknown,Mutual Fund,1001,15000,0,T,,
+"",FRK Mutual Discovery,Unknown,Mutual Fund,1001,15000,0,T,,
+"",First Eagle Global,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Mid Cap II T,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Eaton Vance Dividend Income Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,T,Y,Y
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,T,Y,Y
+"",Ariel Appreciation,Unknown,Mutual Fund,1001,15000,0,T,,
+"",AM Equity Income ADR,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Wright Patman Co Yeisma FCU,Credit Unions,Unknown,1,1000,0,T,,
+D000000123,American International Group,Insurance,,1,1000,0,T,Y,

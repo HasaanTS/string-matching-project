@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Dodge & Cox Stock Fund,Unknown,Mutual Fund,65002,150000,0,Y,,
+"",Mutual Qualified Fund,Unknown,Mutual Fund,30002,100000,0,Y,,
+D000043204,Northwest Indiana Bancorp,Unknown,,15001,50000,0,Y,,
+"",Merrill Lynch Bank USA,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",Consolidated Tomoka Land Co,Unknown,,15001,50000,0,Y,,
+D000000071,Citigroup Inc,Commercial Banks,,15001,50000,0,Y,Y,
+"",Treasury Strips,Unknown,Government Bond,2002,30000,0,Y,,
+"",Peoples Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Tran Fin at Hwy Outstd,Unknown,Government Bond,1001,15000,0,Y,,
+"",Tran Fin at Hwy Etm,Unknown,Government Bond,1001,15000,0,Y,,
+"",Tiger Principal Series 23,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000108,Merrill Lynch,Securities/Invest,,1001,15000,0,Y,Y,
+"",Kulicke & Soffa Industries,Unknown,,1001,15000,0,Y,,

@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Commercial Building,Real Estate,,15001,50000,0,T,,
+D000060240,Bank of the Ozarks,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"",Bank of Prescott,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,T,,

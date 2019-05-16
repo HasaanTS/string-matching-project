@@ -1,0 +1,26 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",New Jersey Educ Facility Seton Hall Univ Bond,Unknown,Government Bond,15001,50000,0,Y,,
+"",Illinois Housing Development Authority,Unknown,Government Bond,15001,50000,0,Y,,
+"",FL State Brd Ed Rev/Multiple Obligors FL,Unknown,Government Bond,15001,50000,0,Y,,
+"",DEV A/Georgia Tech FNDTN I GA REV Bond,Unknown,Government Bond,15001,50000,0,Y,,
+"",BHP Billiton Ltd,Mining,,15001,50000,0,Y,,
+D000000348,Unitedhealth Group,Health Services,,1001,15000,0,Y,Y,Y
+D000030442,TJX Companies,Retail Sales,,1001,15000,0,Y,,
+D000029297,Susquehanna Bancshares,Commercial Banks,,1001,15000,0,Y,,
+D000028398,PNC Financial Services,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000036243,Nordstrom Inc,Retail Sales,,1001,15000,0,Y,,
+D000042332,Nestle SA,Food & Beverage,,1001,15000,0,Y,Y,
+D000022105,McKesson Corp,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000035375,Liberty Property Trust,Real Estate,,1001,15000,0,Y,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000021983,Fifth Third Bancorp,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000021977,Express Scripts,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",Energy XXI Ltd,Unknown,,1001,15000,0,Y,,
+D000000100,Boeing Co,Defense Aerospace,,1001,15000,0,Y,Y,Y
+"",BCE Inc,Telephone Utilities,,1001,15000,0,Y,,
+D000031719,Automatic Data Processing Inc,Business Services,,1001,15000,0,Y,Y,
+"",AmTrust Financial Services,Insurance,,1001,15000,0,Y,,
+D000019838,Agilent Technologies,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000021808,Affiliated Managers Group,Securities/Invest,,1001,15000,0,Y,Y,
+"",Actavis Inc,Pharm/Health Prod,,1001,15000,0,Y,,
+D000066804,Abbvie Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y

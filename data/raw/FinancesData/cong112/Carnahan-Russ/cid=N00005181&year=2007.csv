@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Family Farm/Rolla, MO",Crop Production,,100001,250000,0,Y,,
+"","Rental Property/Jefferson City, MO",Real Estate,,50001,100000,0,Y,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Carnahan Ivestments,Unknown,,15001,50000,0,Y,,
+"",St Louis Community CU/Checking & Saving,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

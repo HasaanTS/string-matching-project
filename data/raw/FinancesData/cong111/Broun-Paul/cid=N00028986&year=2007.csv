@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",McIntosh Commercial Bank,Commercial Banks,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",First Eagle Global Fund,Unknown,Mutual Fund,31003,115000,0,Y,,
+"",Rydex US Government Core Money Market,Unknown,Cash/Money Market/Savings/Checking,30002,100000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,30002,100000,0,Y,Y,
+"",Thornburg Investment Income Builder Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Fidelity New Insights Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",American Capital World Growth & Income,Unknown,Mutual Fund,2002,30000,0,Y,,
+D000021573,Wachovia Corp,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000029492,Total System Services,Commercial Banks,,1001,15000,0,Y,,
+"",John Hancock Classic Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000029314,Synovus Financial Corp,Commercial Banks,,1,1000,0,Y,,
+"",Fiserve Trust Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",AFB&T/Savings,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

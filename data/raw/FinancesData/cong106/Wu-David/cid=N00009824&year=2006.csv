@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental House/Portland, OR",Real Estate,,100001,250000,0,Y,,
+"",Vanguard Health Care Fund,Hospitals/Nurs Homes,,15001,50000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000022164,NVR Inc,Home Builders,,15001,50000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+"",David Wu for Congress,Unknown,Note/Note Receivable,15001,50000,0,Y,,
+"",Capitol Hill Kitchens,Unknown,,15001,50000,0,Y,,
+"",Wright Patman Congressional FCU IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Merrill Lynch IRA/Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000026470,Hershey Co,Food & Beverage,,1001,15000,0,Y,Y,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,1,1000,0,Y,Y,
+"",Fog Cutter Capital Group,Unknown,,1,1000,0,Y,,
+"",Ameritrade Cash Account,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Agere Systems,Electronics Mfg/Eqp,,1,1000,0,Y,,

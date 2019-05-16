@@ -1,0 +1,113 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000125,General Electric,Misc Mfg/Distrib,,250001,500000,0,Y,Y,Y
+"",Windsor II,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Wellington,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Vanguard Value Index Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"","Residential property/Nacogdoches, TX",Real Estate,,100001,250000,0,Y,,
+"",Municipal Money Market,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000000275,Merck & Co,Pharm/Health Prod,,100001,250000,0,Y,Y,
+"",Magellan Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",General Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,100001,250000,0,Y,Y,Y
+"",Clearwater Hills Farm/MKT LLC,Crop Production,,100001,250000,0,Y,,
+D000000284,Wyeth,Pharm/Health Prod,,50001,100000,0,Y,Y,
+"",Washington Mutual Account,Unknown,Cash/Money Market/Savings/Checking,30002,100000,0,Y,,
+D000000367,Wal-Mart Stores,Retail Sales,,50001,100000,0,Y,Y,Y
+"",Undeveloped Land/San Augustine County,Real Estate,,50001,100000,0,Y,,
+"","Undeveloped Land/Orange County, TX",Real Estate,,50001,100000,0,Y,,
+"","Undeveloped Land/Galveston County, TX",Real Estate,,50001,100000,0,Y,,
+D000000722,Texas Instruments,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,Y
+"",Spartan Municipal Money Market,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,Y
+"",Michael's Stores,Retail Sales,,50001,100000,0,Y,,
+D000000103,JPMorgan Chase Bank,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,Y,Y,Y
+D000000281,Halliburton Co,Oil & Gas,,50001,100000,0,Y,Y,Y
+D000000076,AT&T Inc,Telephone Utilities,,50001,100000,0,Y,Y,Y
+"",American Century Equity Index,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000000430,Weyerhaeuser Co,Forest Products,,15001,50000,0,Y,Y,Y
+"",Westwood Balanced Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",US Trust 2001 Accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"","Undeveloped Land/Nacogdoches County, TX",Real Estate,,15001,50000,0,Y,,
+"",TXU Corp,Electric Utilities,,15001,50000,0,Y,,
+"",Tux Exempt Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000037414,Schlumberger Ltd,Oil & Gas,,15001,50000,0,Y,Y,
+D000042525,Royal Dutch Petroleum,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000037015,Regions Bank,Commercial Banks,,15001,50000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,15001,50000,0,Y,Y,
+"",Oppenheimer Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000022108,Medco Health Solutions,Health Services,,15001,50000,0,Y,Y,
+"",Large Cap Stock Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000023103,Jefferson-Pilot Corp,Insurance,,15001,50000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000021791,HSBC Holdings,Commercial Banks,,15001,50000,0,Y,Y,Y
+D000000419,Home Depot,Retail Sales,,15001,50000,0,Y,Y,Y
+"",Growth Co,Unknown,Mutual Fund,15001,50000,0,Y,,
+"","Frisco, TX Independent School Dist Bond",Unknown,Government Bond,15001,50000,0,Y,,
+D000000188,Dow Chemical,Chemicals,,15001,50000,0,Y,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,15001,50000,0,Y,Y,Y
+D000000015,Chevron Corp,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000024672,Centerpoint Energy,Electric Utilities,,15001,50000,0,Y,Y,Y
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,15001,50000,0,Y,Y,
+"",Brazos River Authority TXU Put Bonds,Unknown,Government Bond,15001,50000,0,Y,,
+"",Blue Chip (non IRA),Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Blue Chip (IRA),Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Asset Manager,Securities/Invest,Mutual Fund,15001,50000,0,Y,,
+"",American Century Small Cap Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",500 Index Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000029969,Zions BanCorp,Commercial Banks,,1001,15000,0,Y,,Y
+D000029955,YUM! Brands,Food & Beverage,,1001,15000,0,Y,Y,
+D000022329,XCEL Energy,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",VA Linux,Unknown,,1001,15000,0,Y,,
+"",UBS/Paine Webber Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000045915,Transocean Inc,Oil & Gas,,1001,15000,0,Y,Y,
+"",Time Wamer,TV/Movies/Music,,1001,15000,0,Y,,
+"",Texas Motor Speedway Seat Licenses,Recreation,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,
+D000037780,Starbucks Corp,Food & Beverage,,1001,15000,0,Y,Y,Y
+"",Spartan Total Market Index,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Spartan Short-Intermediate Muni Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000064294,Reliant Energy,Electric Utilities,,1001,15000,0,Y,Y,
+"",Prudential Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Prudential Federated High Income Bond Fd,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",PIMCO Municipal Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Nike Aerospace & Defense Portfolio,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000106,Morgan Stanley,Securities/Invest,,1001,15000,0,Y,Y,Y
+D000000055,Monsanto Co,Agricultural Svcs,,1001,15000,0,Y,Y,
+"","Mineral Interest/Matagorda County, TX",Mining,,1001,15000,0,Y,,
+D000000571,Mattel Inc,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Massachusetts Develop Finance Agcy Bonds,Unknown,Government Bond,1001,15000,0,Y,,
+D000001024,Kraft Foods,Food Process/Sales,,1001,15000,0,Y,,
+"",ING Principal Protection Fund III,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",Hartford Capital Appreciation Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Harbor Capital Appreciation Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000155,General Motors,Automotive,,1001,15000,0,Y,Y,Y
+"",Gam Gabelli Long Short Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Growth & Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000033463,Enterprise Products Partners,Oil & Gas,,1001,15000,0,Y,,Y
+"",EDS Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Dell Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Capstead Mortgage,Real Estate,,1001,15000,0,Y,,
+D000000478,Brinker International,Food & Beverage,,1001,15000,0,Y,Y,Y
+"",Brandes Institutional Intl Equity,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",BlackRock Strategic Bond Trust,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Blackrock Muni Income Trust,Unknown,Government Bond,1001,15000,0,Y,,
+"",BlackRock Core Bond Trust,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Balanced Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Aquila Inc,Electric Utilities,,1001,15000,0,Y,,
+D000000632,Allstate Corp,Insurance,,1001,15000,0,Y,Y,
+D000023834,Alcatel-Lucent,Telecom Svcs,,1001,15000,0,Y,,Y
+"","Undeveloped Land/Cameron Parish, LA",Real Estate,,0,1000,0,Y,,
+"",Solutia,Unknown,,0,1000,0,Y,,
+D000042313,Pier 1 Imports,Retail Sales,,0,1000,0,Y,,Y
+"",Municipal Bond Trust,Unknown,Government Bond,0,1000,0,Y,,
+D000000205,Fannie Mae,Real Estate,,0,1000,0,Y,Y,
+D000022519,DIRECTV Group,Telecom Svcs,,0,1000,0,Y,,
+"",Delphi Corp,Automotive,,0,1000,0,Y,,
+D000022524,Blockbuster Inc,Misc Services,,0,1000,0,Y,,

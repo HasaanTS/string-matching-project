@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Public Employee Retirement Assoc,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Kruger Commercial Condominium,Real Estate,,100001,250000,0,Y,,
+"",Delta Consulting Group,Unknown,,50001,100000,0,Y,,
+"",Bernalillo County Deferred Comp Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,

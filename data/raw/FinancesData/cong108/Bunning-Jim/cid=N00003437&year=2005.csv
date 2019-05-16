@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Equitable Life Assurance,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+D000059082,Citizens Bank of Northern Kentucky,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Triple Crown Media,Unknown,,1001,15000,0,Y,,
+D000025615,E*TRADE Financial,Securities/Invest,Cash/Money Market/Savings/Checking,1001,15000,0,Y,Y,

@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Daniel J Benishek MD,Unknown,"Brokerage, IRA, 401k",1000001,5000000,0,N,,
+"",Ameriprise Accts Retirement Judy,Unknown,"Brokerage, IRA, 401k",250001,500000,0,N,,
+"",First National Bank & Trust,Commercial Banks,,50001,100000,0,N,,
+"",First National Bank & Trust/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,N,,
+D000025615,E*Trade Financial,Securities/Invest,,15001,50000,0,N,,
+"",First National Bank & Trust IRAs,Unknown,"Brokerage, IRA, 401k",1001,15000,0,N,,

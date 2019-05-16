@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Polly Place Farm,Crop Production,,100001,250000,0,Y,,
+"",Kentucky Retirement Systems Account,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Kentucky Public Empl Deferred Comp A/C,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Woodford Sun,Publishing,,15001,50000,0,Y,,
+"","Rental Unit/975 Pisgah Pk/Versailles, KY",Real Estate,,15001,50000,0,Y,,
+"",Lipid Sciences,Unknown,,15001,50000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,Y

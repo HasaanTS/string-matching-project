@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Capitol Development LLC,Unknown,,250001,500000,0,Y,,
+"",1304 Quinford/Anniston,Real Estate,,250001,500000,0,Y,,
+"",Noble Bank,Commercial Banks,,100001,250000,0,Y,,
+"",Initial Investments LLC,Unknown,,100001,250000,0,Y,,
+"","12 McCullars/Oxford, AL",Real Estate,,100001,250000,0,Y,,
+"",Oxford Auto Finance,Unknown,,65002,150000,0,Y,,
+"",Alabama Prepaid Tuition (3rd child),Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Alabama Prepaid Tuition (2nd child),Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Alabama Prepaid Tuition (1st child),Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",1310 Quinford/Anniston,Real Estate,,50001,100000,0,Y,,
+D000000168,Southern Co,Electric Utilities,,15001,50000,0,Y,Y,Y
+"",Retirement Systems of Alabama,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Cheska Bank,Commercial Banks,,15001,50000,0,Y,,
+"",Blackrock College Advantage,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",ALFA Whole Life Policy MI,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",ALFA Whole Life Policy Beth,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",123 E 17th/Anniston,Real Estate,,15001,50000,0,Y,,

@@ -1,0 +1,35 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",New Perspective Fund,Unknown,Mutual Fund,33005,145000,0,Y,,
+"",American Funds Investment Co of America,Unknown,Mutual Fund,33005,145000,0,Y,,
+"",Income Fund of America Fund,Unknown,Mutual Fund,19005,110000,0,Y,,
+"",USAA Checking 853-8,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Lincoln Shareholders Adv Old Contract #953048073,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000022038,Illinois Tool Works,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",Small Cap World Fund,Unknown,Mutual Fund,3003,45000,0,Y,,
+D000000352,Caterpillar Inc,Building Materials,,2002,30000,0,Y,Y,
+"",American Funds Bond Fund of America,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",American Capital World Growth & Income,Unknown,Mutual Fund,2002,30000,0,Y,,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,Y,Y,
+D000029736,Walgreens Boots Alliance,Unknown,,1001,15000,0,Y,Y,Y
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+"",USAA Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",USAA Checking 424-6,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Tax Exempt Bond Fund Amer Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000067072,Potash Corp Of Saskatchewan,Mining,,1001,15000,0,Y,,
+D000000321,Nextera Energy,Electric Utilities,,1001,15000,0,Y,Y,Y
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000085,Goldman Sachs,Securities/Invest,,1001,15000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",EMC Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000000495,DuPont Co,Chemicals,,1001,15000,0,Y,Y,
+D000000457,Corning Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Brokerage #3 Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Pacific First Health Solutions LLC,Unknown,,1,1000,0,Y,,
+D000000104,Lockheed Martin,Defense Aerospace,,1,1000,0,Y,Y,Y
+"",IRA # 1 Cash,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000066710,Frontier Communications,Telephone Utilities,,1,1000,0,Y,Y,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1,1000,0,Y,Y,Y
+"",Brokerage #1 Cash,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

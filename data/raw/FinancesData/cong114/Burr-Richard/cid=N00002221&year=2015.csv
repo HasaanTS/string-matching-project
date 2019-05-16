@@ -1,0 +1,47 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","New Jersey Avenue SE, Washington DC Residence",Real Estate,,500001,1000000,0,Y,,
+"","LRB Partners Real Estate, Winston-Salem",,,500001,1000000,0,Y,,
+"",Wells Fargo/Checking & Savings,,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",Piedmont Federal Savings,Savings & Loans,Cash/Money Market/Savings/Checking,200002,500000,0,Y,,
+"",First Eagle Global Fund,,Mutual Fund,70485,70485,0,Y,,
+D000046542,Airgas Inc,Chemicals,,60169,60169,0,Y,Y,
+D000056521,Scripps Networks Interactive,Electronics Mfg/Eqp,,51681,51681,0,Y,Y,
+"",OCI NV,Unknown,,47960,47960,0,Y,,
+D000000674,Level 3 Communications,Telecom Svcs,,47585,47585,0,Y,Y,
+D000000373,McDonald's Corp,Food & Beverage,,46310,46310,0,Y,Y,Y
+"",Actuant Corp,Misc Mfg/Distrib,,44566,44566,0,Y,,
+D000021765,Bank of New York Mellon,Securities/Invest,,42910,42910,0,Y,Y,Y
+"",Msc Industrial Direct,Misc Mfg/Distrib,,42646,42646,0,Y,,
+D000037414,Schlumberger Ltd,Oil & Gas,,42243,42243,0,Y,,
+D000022328,Wynn Resorts,Casinos/Gambling,,40054,40054,0,Y,Y,
+"",Koninklijke Philips NV,Unknown,,40007,40007,0,Y,,
+D000066741,AON Plc,Insurance,,39557,39557,0,Y,Y,Y
+D000050684,Esterline Technologies,Air Transport,,38475,38475,0,Y,,
+"",Discovery Communications,TV/Movies/Music,,38019,38019,0,Y,,
+D000022433,FedEx Express,Air Transport,,37575,37575,0,Y,,
+D000025483,Devon Energy,Oil & Gas,,34400,34400,0,Y,Y,Y
+D000021983,Fifth Third Bancorp,Commercial Banks,,33969,33969,0,Y,Y,Y
+"",Flowserve Corp,Misc Services,,28404,28404,0,Y,,
+"",Dorman Products,Unknown,,27295,27295,0,Y,,
+"",No Carolina Med Care,Unknown,,21655,21655,0,Y,,
+D000000430,Weyerhaeuser Co,Forest Products,,21173,21173,0,Y,Y,Y
+"",Raleigh Durham No Carolina,,Government Bond,20842,20842,0,Y,,
+D000029875,Wilmington Trust Corp,Unknown,,20107,20107,0,Y,,
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional FCU Checking & Savings,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000021908,Chesapeake Energy,Oil & Gas,,13143,13143,0,Y,Y,Y
+D000067767,Sensient Technologies,Misc Mfg/Distrib,,12770,12770,0,Y,,
+"",Spartanburg Sanitary Sewer District,,Government Bond,10809,10809,0,Y,,
+"",El Dorado Gold,Mining,,10099,10099,0,Y,,
+"",Corman Products,Unknown,,9494,9494,0,Y,,
+"",Martin Marietta,Unknown,,9424,9424,0,Y,,
+D000035646,Martin Marietta Materials,Building Materials,,9125,9125,0,Y,,Y
+D000035628,Markel Corp,Insurance,,8834,8834,0,Y,,
+"",Direxion Daily Small Cap Bear 3X ETF,,Mutual Fund,8415,8415,0,Y,,
+"",Undiscovered Managers Behavioral Value Fund,,Mutual Fund,7838,7838,0,Y,,
+"",John Hancock Life Ins Co,Unknown,,7468,7468,0,Y,,
+"",Clark County Nex Sales & Excise,Unknown,,5584,5584,0,Y,,
+D000065253,Cloud Peak Energy Resources,Mining,,5096,5096,0,Y,,
+"","Regional Transportation Authority, IL Bond",,Government Bond,5058,5058,0,Y,,
+D000069794,Mohawk Industries,Misc Mfg/Distrib,,3789,3789,0,Y,,
+"",McHawk Industries,Unknown,,1812,1812,0,Y,,

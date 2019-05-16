@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Herger Gas,Oil & Gas,,1000001,5000000,0,Y,,
+"","4th Avenue/Rio Oso, CA",Real Estate,,1000001,5000000,0,Y,,
+"","Rental Office/4th Avenue/Rio Oso, CA",Real Estate,,250001,500000,0,Y,,
+"","Rental House/4th Avenue/Rio Oso, CA",Real Estate,,250001,500000,0,Y,,
+"",Profund Vp Nasdaq 100,Unknown,Mutual Fund,231552,231552,0,Y,,
+"",Profund Vp Bull,Unknown,Mutual Fund,224697,224697,0,Y,,
+"",Profund Vp Pharmaceuticals,Pharm/Health Prod,,152968,152968,0,Y,,
+"",Umpqua Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Pimco Vit Real Return Portfolio,Unknown,Mutual Fund,32214,32214,0,Y,,
+"",Pimco Vit Total Return Portfolio,Unknown,Mutual Fund,31147,31147,0,Y,,
+"",Pimco Vit Low Duration Portfolio,Unknown,Mutual Fund,31086,31086,0,Y,,

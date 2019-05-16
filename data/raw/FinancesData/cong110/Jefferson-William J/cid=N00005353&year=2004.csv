@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Jefferson, Bryan & Jupiter",Unknown,,250001,500000,0,Y,,
+"",Jefferson for Mayor/Loan Receivable,Unknown,Note/Note Receivable,100001,250000,0,Y,,
+"",Jefferson Interests/Loan Receivable,Unknown,Note/Note Receivable,50001,100000,0,Y,,
+"","Farm Land/50 acres/Lake Prov, LA",Crop Production,,50001,100000,0,Y,,
+"","Farm Land/40 Acres/Lake Prov, LA",Crop Production,,50001,100000,0,Y,,
+"",Jefferson for Governor/Loan Receivable,Unknown,Note/Note Receivable,1001,15000,0,Y,,

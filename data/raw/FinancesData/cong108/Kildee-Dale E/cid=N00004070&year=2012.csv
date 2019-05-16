@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Congressional FCU Account,Unknown,Cash/Money Market/Savings/Checking,200002,500000,0,T,,
+D000019743,Wells Fargo,Commercial Banks,,50001,100000,0,T,Y,
+"",Wells Fargo/SEP CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"",Wells Fargo/IRA CD,Unknown,"Brokerage, IRA, 401k",1001,15000,0,T,,

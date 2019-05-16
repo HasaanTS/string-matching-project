@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental Property/Ettrick, WI",Real Estate,,250001,500000,0,Y,,
+"",Sout Thrift Plan,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,
+"",Wisconsin Deferred Compensation Program,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",65002,150000,0,Y,,
+"","Rental Property/Lacrosse, WI",Real Estate,,50001,100000,0,Y,,
+"",Janus Fund,Unknown,Mutual Fund,18004,95000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",WI Ed Vest,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Putnam Mutual Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Putnam Investments IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Oak Mate G Income,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Oak Mart Select Roth IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Moss Investors,Unknown,,1001,15000,0,Y,,
+"",James Mutual Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Janus Education IRA,Unknown,"Brokerage, IRA, 401k",1,1000,0,Y,,
+"",James Ed IRA,Unknown,"Brokerage, IRA, 401k",1,1000,0,Y,,

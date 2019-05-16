@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Granite Fack Energy,Unknown,,15001,50000,0,N,,
+"",Glacial Lakes Energy,Unknown,,15001,50000,0,N,,
+"",SEP Account,Unknown,"Brokerage, IRA, 401k",1001,15000,0,N,,
+"",Roth IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,N,,
+"",Pasture Rent,Livestock,,1001,15000,0,N,,

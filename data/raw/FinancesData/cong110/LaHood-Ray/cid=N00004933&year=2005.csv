@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",TIAA-CREF,Securities/Invest,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,A,,
+"",National City Savings & Investment Plan,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",50001,100000,0,A,,
+"",CEFCU Credit Union Money Market Account,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",National City Retirement Plan,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,A,,

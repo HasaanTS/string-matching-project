@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Merrill Lynch Retirement Account,Unknown,"Brokerage, IRA, 401k",1000001,5000000,0,N,,
+"",Roe Family Charitable Reweinder Trust,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,N,,
+"",Fidelity 401K Retirement Account,Unknown,"Brokerage, IRA, 401k",250001,500000,0,N,,
+"",Merrill Lynch CMA Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,N,,
+D000050899,First Community Bank,Commercial Banks,,15001,50000,0,N,,
+"",Evergreen Mid Cap Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",American Century Intl Growth Fund,Unknown,Mutual Fund,1001,15000,0,N,,

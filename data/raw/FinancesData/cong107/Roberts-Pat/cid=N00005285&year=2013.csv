@@ -1,0 +1,41 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Old Town Condo/Rental Property,Real Estate,,250001,500000,0,Y,,
+"",MTT/Savings,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",Condo Rental Property/National Harbor,Real Estate,,250001,500000,0,Y,,
+"",Wells Fargo/Savings,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Two lots unimproved land,Real Estate,,100001,250000,0,Y,,
+"",Residence/Rental Property Dodge City,Real Estate,,100001,250000,0,Y,,
+"","Capitol One  Alexandria, VA/Money Market Account",Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Capital One/Money Market Account,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,100001,250000,0,Y,Y,
+"",American Express/Savings,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000036161,Netflix Inc,Internet,,15001,51000,0,Y,Y,
+"",Baidu Inc,Internet,,15001,51000,0,Y,,
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Unimproved land,Real Estate,,15001,50000,0,Y,,
+D000029514,Trinity Industries,Railroads,,15001,50000,0,Y,Y,
+"",Torray Institutional Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",TDAmeritrade/IRA Cash Accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+"",Eaton Vance Tax-Managed Global Diversified Equity,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000015,Chevron Corp,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000023883,Amazon.com,Internet,,15001,50000,0,Y,Y,
+D000026944,Kansas City Southern,Railroads,,2002,30000,0,Y,Y,Y
+D000031226,Zynga Inc,Internet,,1001,15000,0,Y,,
+D000067113,Twitter,Internet,,1001,15000,0,Y,Y,
+D000030361,The Container Store,Misc Mfg/Distrib,,1001,15000,0,Y,,
+"",Senate Federal Credit Union/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000033563,Facebook Inc,Internet,,1001,15000,0,Y,Y,Y
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000000703,Costco Wholesale,Retail Sales,,1001,15000,0,Y,,
+"",China Eastern Airlines,Unknown,,1001,15000,0,Y,,
+D000000126,AFLAC Inc,Insurance,,1001,15000,0,Y,Y,Y
+D000037780,Starbucks Corp,Food & Beverage,,0,2000,0,Y,Y,
+D000000090,Bank of America,Commercial Banks,,0,2000,0,Y,Y,Y
+D000019743,Wells Fargo,Commercial Banks,,0,1000,0,Y,Y,Y
+"",SINA Corp,Misc Communications,,0,1000,0,Y,,
+D000021655,Macy's Inc,Retail Sales,,0,1000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,0,1000,0,Y,Y,Y
+D000000182,Ford Motor Co,Automotive,,0,1000,0,Y,Y,Y
+D000000477,Duke Energy,Electric Utilities,,0,1000,0,Y,Y,Y
+D000032432,Celgene Corp,Pharm/Health Prod,,0,1000,0,Y,Y,Y

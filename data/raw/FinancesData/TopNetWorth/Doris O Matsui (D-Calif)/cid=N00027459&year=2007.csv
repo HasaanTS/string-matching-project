@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",White House Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+"",Metlife Inc Affiliates Money Market,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Natl Financial Services LLC/Sun Trust,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Bank of America/Checking,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Westmed Holding Co,Unknown,,1001,15000,0,Y,,
+"",Sun Financial Group Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Merrill Lynch Cash Management Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank of America Cash Maximizer Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

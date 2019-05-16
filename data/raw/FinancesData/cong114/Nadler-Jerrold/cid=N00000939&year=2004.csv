@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Smith Barney Money Funds,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",HSBC Bank USA Accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",US Savings Bonds,Unknown,Government Bond,1001,15000,0,Y,,
+D000000071,Smith Barney,Securities/Invest,,1001,15000,0,Y,Y,Y
+"",New York Series D Bond,Unknown,Government Bond,1001,15000,0,Y,,
+"",Citibank Bank Deposit Program,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000020730,Chase Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Amerigas Partners,Oil & Gas,,1001,15000,0,Y,,
+"",Histadrut Charitable Remainder Trust,Unknown,"Brokerage, IRA, 401k",1,1000,0,Y,,

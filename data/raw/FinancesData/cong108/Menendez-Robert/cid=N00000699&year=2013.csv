@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Residential/Rental Property Union Cit,Real Estate,,250001,500000,0,Y,,
+"",Senate Federal Credit Union/Checking,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"","Hudson City Savings Bank Hoboken, NJT/Checking",Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000019414,Metropolitan Life Insurance,Insurance,,1001,15000,0,Y,,

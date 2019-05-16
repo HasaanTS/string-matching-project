@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Collier Blvd #4960, Naples, FL - rental",Real Estate,,100001,250000,0,Y,,
+"","Collier Blvd #3002, Naples, FL - rental",Real Estate,,15001,50000,0,Y,,
+"",Fidelity New Insights Fund,Unknown,Mutual Fund,3003,45000,0,Y,,
+"",First Eagle Global Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+D000000090,Bank Of America,Commercial Banks,,2002,30000,0,Y,Y,
+"",Total System Services Inc,Commercial Banks,,1001,15000,0,Y,,
+"",Rydex US Govt Core Money Market Fd,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",National Life Insurance Co account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Fidelity Japan,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",AGB&T bank account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

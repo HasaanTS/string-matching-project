@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",mutual fund,Unknown,Mutual Fund,1001,15000,0,T,,
+D000020730,Chase Bank,Commercial Banks,"Brokerage, IRA, 401k",1001,15000,0,T,,
+"",AXA Advisors Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,

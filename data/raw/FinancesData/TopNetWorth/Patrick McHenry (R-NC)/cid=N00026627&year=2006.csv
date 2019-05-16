@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","4211 Pete Brown Road/Charlotte, NC",Real Estate,,100001,250000,0,Y,,
+"","215 Robinson Rd/Gastonia, NC",Real Estate,,100001,250000,0,Y,,
+"",Rental/Duplx 806 Requa Rd/Cherryville NC,Real Estate,,50001,100000,0,Y,,
+D000028916,SCANA Corp,Electric Utilities,,15001,50000,0,Y,Y,
+"",Locust-Highway 200 LLC,Unknown,,15001,50000,0,Y,,
+"",ING Direct/Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"","621 W Garrison Blvd/Gastonia, NC",Real Estate,,15001,50000,0,Y,,
+"","5524 Union Road/Gastonia, NC",Real Estate,,15001,50000,0,Y,,
+"","109 W 8th Ave/Gastonia, NC",Real Estate,,15001,50000,0,Y,,
+"",Alliance Bank & Trust Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Alliance Bank & Trust,Commercial Banks,,1001,15000,0,Y,,

@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000019743,Wells Fargo Bank account,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,T,Y,Y
+D000000099,BellSouth Corp,Telephone Utilities,,50001,100000,0,T,,
+"",Templeton Growth Fund,Unknown,Mutual Fund,16002,65000,0,T,,
+D000033596,Fastenal Co,Misc Mfg/Distrib,,16002,65000,0,T,,Y
+D000057594,Thrivent Financial,Misc Finance,"Brokerage, IRA, 401k",15001,50000,0,T,,
+"",Minnesota State Retirement Deferred Comp,Unknown,Mutual Fund,15001,50000,0,T,,
+"","Garage/Washington, DC",Real Estate,,15001,50000,0,T,,
+"",Affinity Plus Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"",SCSS,Unknown,,2002,30000,0,T,,
+"",TIAA-CREF Retirement Account,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Sterling Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Oppenheimer Main Street Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Nasdaq 100 Trust,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Morgan Stanley Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",IDLM OB,Unknown,,1001,15000,0,T,,
+"",Bky 1,Unknown,,1001,15000,0,T,,
+D000023834,Alcatel-Lucent,Telecom Svcs,,1001,15000,0,T,Y,

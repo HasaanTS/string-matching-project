@@ -1,0 +1,34 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Vanguard Value Index ETF,Unknown,Mutual Fund,115002,300000,0,H,,
+"",Vanguard Growth ETF,Unknown,Mutual Fund,115002,300000,0,H,,
+"",Virginia Retirement System,Unknown,,101002,265000,0,H,,
+D000000249,NEW YORK LIFE INSURANCE,Insurance,Insurance policies & Annuities,100001,250000,0,H,Y,Y
+"",Mid-Cap ETF Index,Unknown,Mutual Fund,65002,150000,0,H,,
+"",iShares Intermediate Credit Bond Fund,Unknown,Mutual Fund,65002,150000,0,H,,
+"",SPDR S&P Homebuilders ETF,Unknown,Mutual Fund,30002,100000,0,H,,
+"",SPDR Barclays Capital High Yield Bond Fund,Unknown,Mutual Fund,30002,100000,0,H,,
+"",Lord Abbett Floating Rate Fund,Unknown,Mutual Fund,30002,100000,0,H,,
+"",iShares International Select Dividend ETF,Unknown,Mutual Fund,30002,100000,0,H,,
+"",Fairfax County Retirement System,Unknown,"Brokerage, IRA, 401k",50001,100000,0,H,,
+"",Wisdomtree Trust Japn Hedge Eq,Unknown,Mutual Fund,16002,65000,0,H,,
+"",Vanguard Small Cap Fund,Unknown,Mutual Fund,16002,65000,0,H,,
+"",Vanguard Ftse Etf Devloped Markets,Unknown,Mutual Fund,16002,65000,0,H,,
+"",Vanguard Emerging Markets Fund,Unknown,Mutual Fund,16002,65000,0,H,,
+"",First Trust Fncl Alphadex,Unknown,Mutual Fund,16002,65000,0,H,,
+D000000227,21st Century Fox,TV/Movies/Music,,2003,31000,0,H,Y,Y
+"",Sirius XM Holdings,TV/Movies/Music,,2002,30000,0,H,,
+D000067048,News Corp,Publishing,,2002,30000,0,H,Y,Y
+"",Morgan Stanley Bank Deposit Program,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,H,,
+"",Capital One 360,Unknown,Cash/Money Market/Savings/Checking,1002,16000,0,H,,
+D000067057,Mondelez International,Food Process/Sales,,1001,15000,0,H,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,H,Y,
+D000027589,Micron Technology,Electronics Mfg/Eqp,,1001,15000,0,H,Y,
+D000001024,Kraft Foods,Food Process/Sales,,1001,15000,0,H,,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,1001,15000,0,H,Y,Y
+D000000182,Ford Motor Co,Automotive,,1001,15000,0,H,Y,Y
+D000060887,Cypress Semiconductor,Electronics Mfg/Eqp,,1,1000,0,H,Y,
+"",Comstock Strategies,Unknown,Mutual Fund,1,1000,0,H,,
+D000000090,Bank of America,Commercial Banks,,1,1000,0,H,Y,Y
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1,1000,0,H,Y,
+"",Amerilithium Corp,Unknown,,1,1000,0,H,,
+"",Ambarella Inc,Unknown,,1,1000,0,H,,

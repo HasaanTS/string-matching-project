@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Newport Corp,Misc Mfg/Distrib,,1000001,5000000,0,A,,
+"",Lisa Bass Revocable Trust,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,A,,
+"",CFBass Revocable Trust,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,A,,
+"",Ocean Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,A,,
+"","Land/Sharon, NH",Real Estate,,100001,250000,0,A,,
+"",Land/Building,Real Estate,,100001,250000,0,A,,
+"",Gap Industries,Unknown,,100001,250000,0,A,,
+"",CFBass Sep IRA,Unknown,"Brokerage, IRA, 401k",100001,250000,0,A,,
+"",CFBass IRA,Unknown,"Brokerage, IRA, 401k",100001,250000,0,A,,
+"",WJCF Bass Ptnr,Unknown,,50001,100000,0,A,,
+"",Lisa Bass IRA,Unknown,"Brokerage, IRA, 401k",50001,100000,0,A,,
+D000058213,Verenium Corp,Misc Energy,,15001,50000,0,A,Y,Y
+"",Ocean Bank,Commercial Banks,,15001,50000,0,A,,

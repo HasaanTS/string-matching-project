@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",King Construction,General Contractors,,250001,500000,0,A,,
+"",IPERS Retirement Fund,Unknown,"Brokerage, IRA, 401k",30002,100000,0,Y,,
+"",Mainstay Corp Bond Fund,Unknown,Mutual Fund,16002,65000,0,Y,,
+D000000249,New York Life Insurance,Insurance,Insurance policies & Annuities,15001,50000,0,Y,Y,
+"",Mainstay Value Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",New York Life Insurance Policy,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Mainstay Total Return Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,

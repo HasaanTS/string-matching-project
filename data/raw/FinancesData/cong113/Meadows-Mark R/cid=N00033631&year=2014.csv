@@ -1,0 +1,20 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Sapphire Lakes Properties LLC,Unknown,,1000001,5000000,0,Y,,
+"",Sapphire Lakes Group,Unknown,,500001,1000000,0,Y,,
+"",Sound Investments,Misc Finance,,250001,500000,0,Y,,
+"","Money Market, Checking & CD accounts",Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Edward Jones Employee Pension/Cash,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000022330,Yahoo! Inc,Internet,,50001,100000,0,Y,Y,
+"",Macon Bank Money Market & checking accounts,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",First Citizens Bank & Trust Company Checking & M,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000030541,Trimble Navigation,Defense Electronics,,15001,50000,0,Y,Y,
+D000000175,Raytheon Co,Defense Electronics,,15001,50000,0,Y,Y,Y
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",Congressional Federal Credit Union Checking & Sa,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Capital One Bank Checking Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,15001,50000,0,Y,Y,
+"",ANN Inc,Unknown,,1001,15000,0,Y,,
+"",Wells Fargo Brokerage Account Cash account,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",ModusLink Global Solutions Inc,Unknown,,1,1000,0,Y,,

@@ -1,0 +1,57 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Merrill Lynch money market,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,N,,
+"",Benjamin Quayle 1995 Tr equities & money,Unknown,"Brokerage, IRA, 401k",100001,250000,0,N,,
+"",Tynwald Capital,Unknown,,50001,100000,0,N,,
+"",Yamana Gold,Mining,,1001,15000,0,N,,
+D000000367,Wal-Mart Stores,Retail Sales,,1001,15000,0,N,Y,Y
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,N,Y,
+"",US 12 Month Oil,Oil & Gas,Unknown,1001,15000,0,N,,
+D000000348,UnitedHealth Group,Health Services,,1001,15000,0,N,Y,
+D000064447,Syngenta AG,Agricultural Svcs,,1001,15000,0,N,Y,Y
+D000068756,Suncor Energy,Oil & Gas,,1001,15000,0,N,,
+D000037751,St Joe Co,Real Estate,,1001,15000,0,N,,
+"",SPDR Gold Trust ETF,Mining,,1001,15000,0,N,,
+"",SPDR Barclays Cap Short Term Muni,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000168,Southern Co,Electric Utilities,,1001,15000,0,N,Y,Y
+"",Sector Spdr Utilities,Unknown,,1001,15000,0,N,,
+"",Sector SPDR Financial Fund,Misc Finance,,1001,15000,0,N,,
+"",S&P Depository Receipts,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000141,Prudential Financial,Insurance,,1001,15000,0,N,Y,
+"",Pimco Unconstrained Bond,Unknown,Mutual Fund,1001,15000,0,N,,
+"",PIMCO Commodity RealReturn Strategy Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Pimco All Asset All Authority Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,N,Y,Y
+"",Nuveen Tradewinds Global All,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000170,Northrop Grumman,Misc Defense,,1001,15000,0,N,Y,
+D000023178,Mosaic Co,Agricultural Svcs,,1001,15000,0,N,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,N,Y,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,N,Y,
+"",Market Vectors Etf Trust,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Managers Fremont Bond Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Leuthold Asset Allocation Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,N,Y,Y
+"",Ivy Asset Strategy Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",iShares MSCI South Korea Index,Unknown,Mutual Fund,1001,15000,0,N,,
+"",iShares MSCI Emerging Markets Index,Unknown,Mutual Fund,1001,15000,0,N,,
+"",iShares Msci Cda Index,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,N,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,N,Y,Y
+"",First Trust ISE Revere Nat Index,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,N,Y,Y
+"",Enerplus Resources Fund,Unknown,,1001,15000,0,N,,
+"",El Dorado Gold,Mining,,1001,15000,0,N,,
+D000000408,Deere & Co,Agricultural Svcs,,1001,15000,0,N,Y,
+D000000303,ConocoPhillips,Oil & Gas,,1001,15000,0,N,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,N,Y,
+"",Claymore Silver Bullion Trust,Unknown,,1001,15000,0,N,,
+"",Claymore Gold Bullion Trust,Mining,Mutual Fund,1001,15000,0,N,,
+D000000015,Chevron Corp,Oil & Gas,,1001,15000,0,N,Y,Y
+"",Central Fund of Canada,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Calamos Market Neutral,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Calamos Growth Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Calamos Growth & Income Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,N,Y,
+D000067273,BHP Billiton,Mining,,1001,15000,0,N,,
+D000031719,Automatic Data Processing Inc,Business Services,,1001,15000,0,N,Y,
+"",American Europacific Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Alpine Ultra Short Tax,Unknown,Mutual Fund,1001,15000,0,N,,

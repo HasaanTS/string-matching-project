@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Sky Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Morgan Stanley Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

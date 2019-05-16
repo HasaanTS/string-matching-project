@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Stifel Nicolaus,,,500001,1000000,0,Y,,
+"",TIAA/CREF,,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",State of Washington Deferred Compensation,,"Brokerage, IRA, 401k",1001,15000,0,Y,,

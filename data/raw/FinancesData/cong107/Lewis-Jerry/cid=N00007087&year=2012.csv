@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Security Bank of CA/Credit of Deposit,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,T,,
+D000028280,Penn Mutual Life Insurance,Insurance,Insurance policies & Annuities,100001,250000,0,T,,
+"",Legislators Retirement System,Unknown,"Brokerage, IRA, 401k",100001,250000,0,T,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,100001,250000,0,T,,
+"",Charles Schwab IRA,Unknown,"Brokerage, IRA, 401k",50001,100000,0,T,,
+"",Arrowhead Credit Union/CD,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"",Security Bank of CA,Commercial Banks,,15001,50000,0,T,,
+"",Lewis Family Trust,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Chase Schwab Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,

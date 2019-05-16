@@ -1,0 +1,31 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",TD Amertrade Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",MN College Savings Plan Guaranteed Option,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Wells Fargo Checking & Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Thrivent Universal Life Insurance,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Target 401k,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",S&P 500 Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",MN State Retire Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",MN State Retire Fixed Interest,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",MN Deferred Corp Plan SIF Money Market,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",MN College Savings Plan Equity Option,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Lutheran Church Extension Fund/Savings,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000022329,Xcel Energy,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",Vanguard Simple IRA Growth Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Vanguard Simple IRA 500 Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",TD Ameritrade Port Investor Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Small Company Stock Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",New Opp Small Cap,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Nationwide/High Mark ROTH IRA Tech 100,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Lutheran Church Ext Fund CD,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Key Bank IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Int'l Stock Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Gencore,Unknown,,1001,15000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",American Century Investments Roth IRA,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",TD Ameritrade Reserve Funds Yield Plus,Unknown,Mutual Fund,1,1000,0,Y,,
+"",MN College Savings Plan Matching Grant,Unknown,"Brokerage, IRA, 401k",1,1000,0,Y,,
+D000059889,LSI Corp,Electronics Mfg/Eqp,,1,1000,0,Y,,
+D000023834,Alcatel-Lucent,Telecom Svcs,,1,1000,0,Y,Y,

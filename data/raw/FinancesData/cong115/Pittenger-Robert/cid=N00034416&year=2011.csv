@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000037160,Robert Pittenger Co,Real Estate,,25000001,50000000,0,N,,Y
+"",PNC Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,N,,
+"",First Trust Bank/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,N,,
+D000019743,Wells Fargo,Commercial Banks,,1,1000,0,N,Y,Y
+D000022216,Regions Financial,Commercial Banks,,1,1000,0,N,Y,Y

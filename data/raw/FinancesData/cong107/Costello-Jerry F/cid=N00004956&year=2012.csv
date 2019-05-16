@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Farm,Crop Production,,500001,1000000,0,T,,
+"",Wells Fargo/Money Market Sweep,Unknown,Cash/Money Market/Savings/Checking,150002,350000,0,T,,
+"",State of Illinois IMRF,Unknown,"Brokerage, IRA, 401k",15001,50000,0,T,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,T,,

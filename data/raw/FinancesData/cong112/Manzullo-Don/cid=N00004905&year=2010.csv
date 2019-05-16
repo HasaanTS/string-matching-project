@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Savant,Unknown,Unknown,250001,500000,0,Y,,
+"","Office Building/400 Wash St/Oregon, IL",Real Estate,,100001,250000,0,Y,,
+"","Farm/Egan, IL",Crop Production,,100001,250000,0,Y,,
+"",Joint Account Mutual Funds,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Freda Manzullo IRAs,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Donald Manzullo IRAs,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Stillman Valley Bank,Commercial Banks,,1,1000,0,Y,,

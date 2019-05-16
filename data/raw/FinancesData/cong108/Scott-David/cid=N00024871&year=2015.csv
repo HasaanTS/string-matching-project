@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Washington, DC home",Real Estate,,1000001,5000000,0,Y,,
+"",NY Life Insurance - Whole,,Insurance policies & Annuities,30002,100000,0,Y,,
+D000000168,Southern Co,Electric Utilities,,1001,15000,0,Y,Y,Y

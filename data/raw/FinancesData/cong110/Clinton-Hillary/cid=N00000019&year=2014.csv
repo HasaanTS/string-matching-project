@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Vanguard 500 Index Signal,Unknown,Mutual Fund,5000001,25000000,0,N,,
+"",JPMorgan Custody Account/Cash,Unknown,Cash/Money Market/Savings/Checking,5000001,25000000,0,N,,
+"",AIG Life Insurance Universal Life Policy,Unknown,Insurance policies & Annuities,1000002,2000000,0,N,,
+"",National Life Insurance Universal Life Policy,Unknown,Insurance policies & Annuities,250001,500000,0,N,,
+"",US Treasury Note,Unknown,Government Bond,50001,100000,0,N,,
+D000019642,Northwestern Mutual Life Insurance,Insurance,Insurance policies & Annuities,30002,100000,0,N,,

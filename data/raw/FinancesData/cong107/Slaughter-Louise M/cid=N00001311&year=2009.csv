@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Mutual Qualified Fund,Unknown,Mutual Fund,500001,1000000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,250001,500000,0,Y,Y,Y
+"",Eastman Savings & Loan/CD 400,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",Fidelity Growth & Income Fund,Unknown,Mutual Fund,101002,265000,0,Y,,
+"",Fidelity Growth Co Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Fidelity Cash Reserves,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Eastman Savings & Loan/Savings & CD's,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Fidelity Independence Fund,Unknown,Mutual Fund,31003,115000,0,Y,,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Vanguard Growth & Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Oppenheimer Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity New Millennium Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000034869,JM Smucker Co,Food Process/Sales,,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000024879,Clorox Co,Chemicals,,1001,15000,0,Y,,
+D000000071,Citigroup Inc,Commercial Banks,,1001,15000,0,Y,Y,

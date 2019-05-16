@@ -1,0 +1,25 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000021573,Wachovia Corp,Commercial Banks,,15001,50000,0,T,Y,
+"",US Senate Frosros Crestilla,Unknown,Unknown,15001,50000,0,T,,
+D000022164,NVR Inc,Home Builders,Unknown,15001,50000,0,T,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,T,Y,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,15001,50000,0,T,Y,
+"",IRA Money Market & Cash,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+D000000303,ConocoPhillips,Oil & Gas,,15001,50000,0,T,Y,
+D000000071,Citigroup Inc,Commercial Banks,,15001,50000,0,T,Y,
+D000023082,Brandywine Funds,Unknown,Mutual Fund,15001,50000,0,T,,
+D000000126,AFLAC Inc,Insurance,,15001,50000,0,T,Y,
+"",Aetna,Unknown,,15001,50000,0,T,,
+D000000367,Wal-Mart Stores,Retail Sales,,1001,15000,0,T,Y,Y
+"",Sonic Automotive,Automotive,,1001,15000,0,T,,
+"",Pec Solutions,Unknown,,1001,15000,0,T,,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,T,Y,
+D000000174,Lehman Brothers,Securities/Invest,,1001,15000,0,T,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,T,Y,Y
+"",Faroman Brings Rosemary,Unknown,,1001,15000,0,T,,
+"",EMC Corp,Electronics Mfg/Eqp,,1001,15000,0,T,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+D000000459,Anadarko Petroleum,Oil & Gas,,1001,15000,0,T,Y,Y
+D000023867,Allied Capital,Securities/Invest,,1001,15000,0,T,Y,
+D000021773,Travelers Companies,Insurance,,0,1000,0,T,Y,Y

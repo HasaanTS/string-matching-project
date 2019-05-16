@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Condominium,Unknown,,250001,500000,0,Y,,
+"",SEP-IRA value advantage,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Emily Forest Products,Unknown,,100001,250000,0,Y,,
+"",Vacation House - Nisswa,Unknown,,50001,100000,0,Y,,
+"",American Funds Europacific Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Riverwood Bank Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",IRA-Schwab - value advantage,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Charles Schwab Money Market,Unknown,Mutual Fund,1001,15000,0,Y,,

@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Barbara & Stewart Boxer Blind Trust,Unknown,"Brokerage, IRA, 401k",1000001,5000000,0,Y,,
+"",Wells Fargo Bank (Checking),Unknown,,50001,100000,0,Y,,
+"",Barclay's Plaza Assoc,Unknown,,50001,100000,0,Y,,
+"",US Senate Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Loan Receivable- Stewart N Boxer Inc,Unknown,Note/Note Receivable,15001,50000,0,Y,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000000881,Time Warner Cable,TV/Movies/Music,,1001,15000,0,Y,Y,
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,Y,Y,

@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",US Bonds,Unknown,Government Bond,1001,15000,0,Y,,
+D000000476,State of New York,Civil Servants,"Brokerage, IRA, 401k",1001,15000,0,Y,Y,
+"",Israel Bonds,Misc Finance,Government Bond,1001,15000,0,Y,,

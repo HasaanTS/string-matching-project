@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",TIAA Traditional Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",PNC Financial Svcs Group Pension Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Defined Contribution Plan,Unknown,,15001,50000,0,Y,,
+"",CREF Stock Fund,Securities/Invest,Mutual Fund,15001,50000,0,Y,,
+"",CREF Social Choice Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",CREF Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",CEFCU Credit Union/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",PNC Bank Checking Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000049463,Coeur D'Alene Mines,Mining,,1001,15000,0,Y,Y,
+"",CEFCU Credit Union Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

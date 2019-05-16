@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Boozman-Hof,Unknown,Mutual Fund,500001,1000000,0,A,,
+"",ABG Equity Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",ABG Muni Bond Fund/Other,Unknown,Mutual Fund,50001,100000,0,A,,
+"",Northwest Mutual Life Insurance,Insurance,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",ABG Muni Bond Fund/AR,Unknown,Mutual Fund,15001,50000,0,A,,
+"",ABG Government Bond Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Arvest Bank & Trust,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",AR National Bank,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",AIM Short Term Treasury Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",First City Financial,Misc Finance,,1,1000,0,A,,

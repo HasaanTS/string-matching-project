@@ -1,0 +1,3 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000125,General Electric,Misc Mfg/Distrib,,100001,250000,0,Y,Y,
+"",Pennsylvania Employee Retirement System,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,

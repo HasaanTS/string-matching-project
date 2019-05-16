@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Recreational Vehicle,Real Estate,,15001,50000,0,Y,,
+"",Wells Fargo Mortgage Escrow,Real Estate,Unknown,1001,15000,0,Y,,
+D000021791,HSBC Holdings,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,Y,Y
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000036602,Peoples Bank,Savings & Loans,Cash/Money Market/Savings/Checking,1,1000,0,Y,,Y

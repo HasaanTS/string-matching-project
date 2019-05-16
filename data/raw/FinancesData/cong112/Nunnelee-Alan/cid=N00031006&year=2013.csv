@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Allied Funeral Assoc,Unknown,,265002,550000,0,A,,
+"",Mississippi Public Employees Retirement,Unknown,"Brokerage, IRA, 401k",65002,150000,0,A,,
+"",Mississippi Supplmental Legislative Retirement Pla,Unknown,Insurance policies & Annuities,15001,50000,0,A,,
+"",Allied Funeral Insurance Agency PA,Unknown,,15001,50000,0,A,,
+"",Fayez Saraform Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Boston Co Mid-Cap,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Black Rock Equity Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+D000024243,BancorpSouth Bank,Commercial Banks,,1001,15000,0,A,,
+D000022724,American Funds,Securities/Invest,Mutual Fund,1001,15000,0,Y,,
+D000022724,American Funds,Securities/Invest,Mutual Fund,1001,15000,0,A,,

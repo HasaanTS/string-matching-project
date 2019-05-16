@@ -1,0 +1,42 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",PLC Properties,Real Estate,,500001,1000000,0,Y,,
+"",Cooper Brothers,Crop Production,,500001,1000000,0,Y,,
+"","2319 Woodmont Blvd/Nashville, TN",Real Estate,,500001,1000000,0,Y,,
+"",Wachovia Money Market Deposits,Unknown,Cash/Money Market/Savings/Checking,280003,600000,0,Y,,
+"",Thomas Cressey Friends Fund VII LP,Unknown,,100001,250000,0,Y,,
+"",SunTrust Banks Accounts,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Northwestern Mutual Adjustable Comp Life,Unknown,Insurance policies & Annuities,100001,250000,0,Y,,
+"",Northern Trust Inst Govt Portfolio,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Harpeth Green Properties,Real Estate,,100001,250000,0,Y,,
+"",Hamilton Fairfax LLC,Unknown,,100001,250000,0,Y,,
+"",Assistive Technology Co,Pharm/Health Prod,,100001,250000,0,Y,,
+"",Adams Properties,Real Estate,,100001,250000,0,Y,,
+"",Essent Health Care,Misc Health,,50001,100000,0,Y,,
+D000021757,Berkshire Hathaway,Securities/Invest,,50001,100000,0,Y,Y,
+D000022269,SunTrust Banks,Commercial Banks,,15001,50000,0,Y,,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000027193,Lennox International,Subcontractors,,15001,50000,0,Y,Y,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",Fidelity Municipal Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000021573,Wachovia Corp,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",TIAA-CREF Stock,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",TIAA Traditional Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000028354,Phoenix Companies,Securities/Invest,,1001,15000,0,Y,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",iLinc Communications,Unknown,,1001,15000,0,Y,,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000021983,Fifth Third Bancorp,Commercial Banks,Unknown,1001,15000,0,Y,Y,
+"",Fidelity Growth & Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Federated Ginnie Mae Fund,Real Estate,Mutual Fund,1001,15000,0,Y,,
+"",DNP Select Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,Y,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,
+"",Centennial Tax Exempt Trust Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000449,Nortel Networks,Telecom Svcs,,1,1000,0,Y,Y,
+"",Discovery Fund LP,Unknown,,1,1000,0,Y,,
+D000000076,AT&T Inc,Telephone Utilities,,1,1000,0,Y,Y,Y

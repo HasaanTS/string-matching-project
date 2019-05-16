@@ -1,0 +1,34 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Residence/Washington, DC",Real Estate,,500001,1000000,0,Y,,
+"",US Senate Federal Credit Union Accounts,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Medical & Professional CU Accounts,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",Calamos Growth Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",State Street Aurora Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Retirement Reserves Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"","Ranch Land 359 acres/Fremont, ID",Livestock,,1001,15000,0,Y,,
+"",Public Employee Retirement System of Idaho,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",PIMCO PreRenaissance Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000036166,Network Appliance,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000022110,Medtronic Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",MBIA Inc,Insurance,,1001,15000,0,Y,,
+"",Lord Abbett Bond Debenture Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000026701,ITT Industries,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Eaton Vance Worldwide Health Sciences Fd,Misc Health,,1001,15000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",CareMark RX,Pharm/Health Prod,,1001,15000,0,Y,,
+"",Calvert Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Calamos Convertible Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000021841,Amerisourcebergen Corp,Pharm/Health Prod,,1001,15000,0,Y,,
+D000000123,American International Group,Insurance,,1001,15000,0,Y,Y,Y
+"",AIM Basic Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",AEOLUS Pharma,Pharm/Health Prod,,1001,15000,0,Y,,
+D000000751,Tenet Healthcare,Hospitals/Nurs Homes,,0,1000,0,Y,Y,
+"",Solutions Inc,Unknown,,0,1000,0,Y,,
+"",Merrill Lynch Bank Money Market,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+"",Kaanapali LD LLC,Unknown,,0,1000,0,Y,,
+D000044927,Internet Capital Group,Securities/Invest,,0,1000,0,Y,,

@@ -1,0 +1,34 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",BB&T Bank,Commercial Banks,,51002,115000,0,T,,
+"",NC Stable Value Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",NC Large Cap Index,Unknown,Mutual Fund,15001,50000,0,T,,
+"","1108 Summerville-Mamers Road/Lillington, NC",Real Estate,,15001,50000,0,T,,
+"",Dean Witter Money Market,Unknown,Cash/Money Market/Savings/Checking,3003,45000,0,T,,
+"",iShares Lehman,Unknown,Mutual Fund,2002,30000,0,T,,
+D000067466,Tenaris SA,Steel Production,,1001,15000,0,T,,
+"",RBC Centura Bank,Commercial Banks,,1001,15000,0,T,,
+D000000398,Progress Energy,Electric Utilities,,1001,15000,0,T,Y,Y
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,T,Y,Y
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,T,Y,Y
+"",Oppenheimer Equity Income fund,Unknown,Mutual Fund,1001,15000,0,T,,
+D000022153,Nyse Euronext,Securities/Invest,,1001,15000,0,T,Y,
+"",New Century Bank,Commercial Banks,,1001,15000,0,T,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,T,Y,Y
+"",iShares S&P Europe,Unknown,Mutual Fund,1001,15000,0,T,,
+"",iShares MSCI EAFE Index,Unknown,Mutual Fund,1001,15000,0,T,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+D000000334,Honeywell International,Misc Mfg/Distrib,,1001,15000,0,T,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,T,Y,Y
+D000066710,Frontier Communications,Telephone Utilities,,1001,15000,0,T,Y,
+D000000477,Duke Energy,Electric Utilities,,1001,15000,0,T,Y,Y
+"",Cornerstone Bank,Commercial Banks,Unknown,1001,15000,0,T,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,T,Y,
+D000021908,CheSApeake Energy,Oil & Gas,,1001,15000,0,T,Y,
+"",Cameron International,Oil & Gas,,1001,15000,0,T,,
+"",BB&T IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,T,,
+D000021765,Bank of New York Mellon,Securities/Invest,,1001,15000,0,T,Y,Y
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,T,Y,Y
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,T,Y,Y
+D000045190,Spectra Energy,Oil & Gas,,1,1000,0,T,Y,
+D000000188,Dow Chemical,Chemicals,,1,1000,0,T,Y,
+D000018253,Discover Financial Services,Finance/Credit,,1,1000,0,T,Y,

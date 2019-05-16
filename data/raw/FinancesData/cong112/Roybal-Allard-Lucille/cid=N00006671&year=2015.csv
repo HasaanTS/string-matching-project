@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Congressional FCU Checking, Savings, Money Market",,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+D000058892,United Way of America,Non-Profits,,115002,300000,0,Y,Y,
+"",Congressional FCU Checking & Savings,,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Part A - Equity Income,,Mutual Fund,15001,50000,0,Y,,
+"",Oppenheimer Group,,Mutual Fund,15001,50000,0,Y,,
+"",Mutual of America Roybal Foundation Retirement Fun,,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000055329,Pentagon Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000062615,Navy Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Lot 1, Block 2, Eagles Nest1/Cascade, ID",Real Estate,,100001,250000,0,Y,,
+"",PERSI Base Plan,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",PERSI Total Return Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Silver Ingots,Unknown,Unknown,1001,15000,0,Y,,

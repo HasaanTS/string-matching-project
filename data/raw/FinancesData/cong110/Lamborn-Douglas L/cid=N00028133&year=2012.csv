@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Inherited 1/4 interest in farm,Misc Agriculture,,100001,250000,0,Y,,
+"",NetApp Inc,Electronics Mfg/Eqp,,17003,80000,0,Y,,
+"",Scottrade margin account,Unknown,,16002,65000,0,Y,,
+"",Scottrade IRA,Unknown,"Brokerage, IRA, 401k",2002,30000,0,Y,,
+"",Wells Fargo/Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",GMO US Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

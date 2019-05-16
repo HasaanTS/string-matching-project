@@ -1,0 +1,68 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",30 Acres 2000 Blackjack,Real Estate,,250001,500000,0,Y,,
+"",Lake Point Medical Realty,Real Estate,,100002,251000,0,Y,,
+D000030157,Stryker Corp,Pharm/Health Prod,,65002,150000,0,Y,Y,
+"",Northwestern Mutual Life Insurance 90 Life Policy,Unknown,Insurance policies & Annuities,50001,100000,0,Y,,
+"",Northwest Mutual Life Insurance-65 Life 1991-whole,Unknown,Insurance policies & Annuities,50001,100000,0,Y,,
+"",Northwest Mutual Life Insurance-65 Life 1987-whole,Unknown,Insurance policies & Annuities,50001,100000,0,Y,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000066608,America Movil,Telephone Utilities,,30002,100000,0,Y,Y,
+"","4637 Ivanhoe Dr/Ft Worth, TX",Real Estate,,50001,100000,0,Y,,
+"",26 Acres,Real Estate,,50001,100000,0,Y,,
+"",Fidelity Adv Series Equity Growth Fund,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",Northwestern Mutual Life Insurance 65 Life Policy,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Northwest Mutual Life Insurance-65 Life 1991b-whol,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Northwest Mutual Life Insurance-65 Life 1988-whole,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Genworth Financial Variable Annuity Plus,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Fidelity VIP Contrafund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity International Discovery Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Export & Multinational Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Capital Appreciation Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,2002,30000,0,Y,Y,Y
+"",Penn West Petroleum,Oil & Gas,,2002,30000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,2002,30000,0,Y,Y,Y
+D000021757,Berkshire Hathaway,Securities/Invest,,2002,30000,0,Y,Y,Y
+D000000785,Southwest Airlines,Air Transport,,1002,16000,0,Y,Y,
+"",Wright Patnam Congressional FCU,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Wells Fargo Bank Deposit Sweep Combined,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,Y,Y,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000000081,United Parcel Service,Air Transport,,1001,15000,0,Y,Y,Y
+"",Note Receivable 1: Wise Co Prop,Unknown,Note/Note Receivable,1001,15000,0,Y,,
+D000000172,MetLife Inc,Insurance,,1001,15000,0,Y,Y,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Janus Aspen Institutional Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares US Telecommunications ETF,Securities/Invest,,1001,15000,0,Y,,
+"",iShares Tips Bond ETF,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000021977,Express Scripts,Health Services,,1001,15000,0,Y,Y,
+D000032796,Compass Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000222,Cigna Corp,Insurance,,1001,15000,0,Y,Y,Y
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000066804,AbbVie Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",5 Acres/Note Receivable,Unknown,Note/Note Receivable,1001,15000,0,Y,,
+D000000225,L Brands,Retail Sales,,2,2000,0,Y,Y,
+D000023834,Alcatel-Lucent,Telecom Svcs,,2,2000,0,Y,Y,
+"",Vantage Energy Operating Gas Lease,Unknown,,1,1000,0,Y,,
+D000030495,Toyota Motor Corp,Automotive,,1,1000,0,Y,Y,Y
+D000000094,Time Warner,TV/Movies/Music,,1,1000,0,Y,Y,
+D000000722,Texas Instruments,Electronics Mfg/Eqp,,1,1000,0,Y,Y,Y
+"",TD Ameritrade/Insured Deposit,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",SPDR Gold Trust ETF,Mining,,1,1000,0,Y,,
+"",Powershares Zacks Micro Cap Index,Unknown,Mutual Fund,1,1000,0,Y,,
+"",PowerShares Dynamic Biotech & Genome ETF,Unknown,,1,1000,0,Y,,
+"",Opko Health Inc,Pharm/Health Prod,,1,1000,0,Y,,
+D000000343,Northwestern Mutual Life,Insurance,,1,1000,0,Y,Y,Y
+"",Nokia Corp,Telecom Svcs,,1,1000,0,Y,,
+"",iShares MSCI Singapore Index Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",iShares MSCI Austria Capped Investable Market Inde,Unknown,Mutual Fund,1,1000,0,Y,,
+D000026520,Hospira Inc,Pharm/Health Prod,,1,1000,0,Y,Y,
+D000000182,Ford Motor Co,Automotive,,1,1000,0,Y,Y,Y
+"",First Security Bank Account,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Fidelity Cash Reserve Fund,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Eaton Vance Ohio Municipal Income Trust Shares of,Unknown,Mutual Fund,1,1000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1,1000,0,Y,Y,
+D000000157,American Airlines,Air Transport,,1,1000,0,Y,,

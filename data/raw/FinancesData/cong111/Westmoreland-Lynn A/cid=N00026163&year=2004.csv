@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","565 Acres/Harris County, GA",Real Estate,,1000001,5000000,0,Y,,
+"","434 Acres Hines Road/Troup County, GA",Real Estate,,1000001,5000000,0,A,,
+"","97 Acres/Grantville, GA",Real Estate,,500001,1000000,0,Y,,
+"","Rental Property/Newnan, GA",Real Estate,,200002,500000,0,Y,,
+"","Cabin/Clarksville, GA",Real Estate,,250001,500000,0,Y,,
+"","44 Lots/LaGrange, GA",Unknown,,250001,500000,0,A,,
+"",IRA,Unknown,"Brokerage, IRA, 401k",2002,30000,0,Y,,

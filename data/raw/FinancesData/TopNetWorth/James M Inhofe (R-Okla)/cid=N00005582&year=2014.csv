@@ -1,0 +1,50 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",GMKI LLC Tulsa OK,Real Estate,Unknown,1309414,1309414,0,Y,,
+"",IM3RD LLC,Real Estate,,500001,1000000,0,Y,,
+"",GMKI LLC,Real Estate,Unknown,554500,554500,0,Y,,
+"",Padre Co,Unknown,,250001,500000,0,Y,,
+D000038979,Stillwater National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,Y
+"",Prosperity Bank- Tulsa,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000000200,Pepsico Inc,Food & Beverage,,100001,250000,0,Y,Y,
+"",Broofield Asset Management,Unknown,,100001,250000,0,Y,,
+"",Arvest Bank & Trust,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Apartment,Real Estate,,100001,250000,0,Y,,
+D000031048,Whole Foods Market,Food Process/Sales,,50001,100000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,50001,100000,0,Y,Y,Y
+D000029689,Visa Inc,Finance/Credit,,50001,100000,0,Y,Y,
+D000030608,Unilever,Misc Mfg/Distrib,,50001,100000,0,Y,Y,
+"",Range Resources,Oil & Gas,,50001,100000,0,Y,,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,50001,100000,0,Y,Y,
+D000000373,McDonald's Corp,Food & Beverage,,50001,100000,0,Y,Y,
+"",Labcorp of America,Unknown,,50001,100000,0,Y,,
+D000022008,Google Inc,Internet,,30002,100000,0,Y,Y,Y
+D000000155,General Motors,Automotive,,50001,100000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,50001,100000,0,Y,Y,Y
+D000000089,FedEx Corp,Air Transport,,50001,100000,0,Y,Y,Y
+D000021977,Express Scripts,Pharm/Health Prod,,50001,100000,0,Y,Y,
+D000033184,Discovery Communications,TV/Movies/Music,,50001,100000,0,Y,Y,
+D000000148,CSX Corp,Railroads,,50001,100000,0,Y,Y,Y
+D000000703,Costco Wholesale,Retail Sales,,50001,100000,0,Y,,
+D000021891,Capital One Financial,Finance/Credit,,50001,100000,0,Y,Y,
+D000021886,Calpine Corp,Electric Utilities,,50001,100000,0,Y,Y,Y
+D000021872,Blackrock Inc,Securities/Invest,,50001,100000,0,Y,Y,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,
+D000000391,Amgen Inc,Pharm/Health Prod,,50001,100000,0,Y,Y,Y
+D000023883,Amazon.com,Internet,,50001,100000,0,Y,Y,
+"",Altera Corp,Electronics Mfg/Eqp,,50001,100000,0,Y,,
+D000064488,Alibaba Group,Internet,,50001,100000,0,Y,Y,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,50001,100000,0,Y,Y,
+"",Priceline Inc,Unknown,,15001,50000,0,Y,,
+"",ONB Bank & Trust,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000026221,Gilead Sciences,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000000182,Ford Motor Co,Automotive,,15001,50000,0,Y,Y,Y
+D000025623,Eaton Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,,Y
+"",Discovery Financial,Unknown,,15001,50000,0,Y,,
+D000032848,Continental Resources,Oil & Gas,,15001,50000,0,Y,,Y
+D000000071,Citigroup Inc,Commercial Banks,,15001,50000,0,Y,Y,Y
+D000029695,Visteon Corp,Automotive,,1001,15000,0,Y,,
+"",Dean Witter Discover,Securities/Invest,,1001,15000,0,Y,,
+D000000106,Dean Witter,Securities/Invest,,1001,15000,0,Y,Y,Y
+"",Congressional Federal Credit Union Account,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,

@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Community Bank of Broward Comm,Commercial Banks,,100001,250000,0,Y,,
+"",Section 529 Plan Florida Prepaid College,Unknown,"Brokerage, IRA, 401k",3003,45000,0,Y,,
+"",SSGA Cash Series US Gov't Fund Class L,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Legg Mason Clearbridge Aggressive Growth,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Franklin Small Mid Cap Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Financial Services Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Mid Cap Stock Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Energy Fund,Misc Energy,,1001,15000,0,Y,,
+"",Community Bank of Broward Savings Accoun,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Community Bank of Broward Checking Accou,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Community Bank of Broward,Commercial Banks,,1001,15000,0,Y,,

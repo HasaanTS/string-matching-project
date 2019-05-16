@@ -1,0 +1,23 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",TIAA-CREF Traditional,Unknown,Mutual Fund,2000002,6000001,0,N,,
+"","Residence/Cambridge, MA",Real Estate,,1000001,5000000,0,N,,
+"",TIAA-CREF Equity Index,Unknown,Mutual Fund,300002,600000,0,N,,
+"",TIAA-CREF Stock,Unknown,Mutual Fund,250001,500000,0,N,,
+D000022723,ING Direct,Savings & Loans,,250001,500000,0,N,,
+D000044602,First National Bank of Omaha,Commercial Banks,,250001,500000,0,N,,
+"",TIAA-CREF Real Estate Fund,Real Estate,,115002,300000,0,N,,
+D000029969,Zions Bancorp,Commercial Banks,,100001,250000,0,N,Y,
+"",TIAA-CREF Global Equities Fund,Unknown,Mutual Fund,100001,250000,0,N,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,100001,250000,0,N,Y,Y
+"",TIAA-CREF Bond Market,Unknown,Mutual Fund,51002,115000,0,N,,
+"",TIAA-CREF Sm-Cap Bl Index-Retirement,Unknown,Mutual Fund,50001,100000,0,N,,
+"",TIAA-CREF Inflation Linked Bond,Unknown,Mutual Fund,16002,65000,0,N,,
+"",Vanguard Target Retirement 2015 Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",TIAA-CREF Mid-Cap Gr-Retirement,Unknown,Mutual Fund,15001,50000,0,N,,
+"",TIAA-CREF Inflation-Linked Bond-Retireme,Unknown,Mutual Fund,15001,50000,0,N,,
+"",TIAA-CREF Bond Index-Retirement,Unknown,Mutual Fund,15001,50000,0,N,,
+"",TIAA-CREF Bond Index-Institutional,Unknown,Mutual Fund,15001,50000,0,N,,
+D000000090,Bank of America,Commercial Banks,,15001,50000,0,N,Y,Y
+"",TIAA-CREF International Equity Index,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Harvard University Employees Credit Unio,Unknown,,1001,15000,0,N,,
+"",Gas Well Royalty Interests,Unknown,,0,1000,0,N,,

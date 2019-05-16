@@ -1,0 +1,114 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000079,Verizon Communications,Telephone Utilities,,30002,100000,0,Y,Y,Y
+D000029309,Symantec Corp,Electronics Mfg/Eqp,,30002,100000,0,Y,Y,
+"",State of OH Public Retirement System,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Royce Special Equity Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000022170,Omnicom Group,Business Services,,30002,100000,0,Y,Y,Y
+D000000103,JPMorgan Chase & Co,Commercial Banks,,30002,100000,0,Y,Y,Y
+"",Henderson Global Investors Intl Opp,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Harbor International Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000001065,GE Capital,Finance/Credit,,30002,100000,0,Y,,
+"",Franklin TEmpleton Global Discovery Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Franklin Strategic Income Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000021930,Computer Sciences Corp,Electronics Mfg/Eqp,,30002,100000,0,Y,Y,
+"",Columbia Dividend Opportunity Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",American Funds New World Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000028426,PPG Industries,Chemicals,,16002,65000,0,Y,Y,Y
+D000000391,Amgen Inc,Pharm/Health Prod,,16002,65000,0,Y,Y,Y
+D000068479,Wellpoint Inc,Health Services,,15001,50000,0,Y,,
+D000000367,Wal-Mart Stores,Retail Sales,,15001,50000,0,Y,Y,Y
+"",Victory Established Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000030824,VF Corp,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+"",Vanguard Bd Index Inc Short Term Bond,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000348,UnitedHealth Group,Health Services,,15001,50000,0,Y,Y,Y
+D000000209,United Technologies,Defense Aerospace,,15001,50000,0,Y,Y,Y
+D000021773,Travelers Companies,Insurance,,15001,50000,0,Y,Y,Y
+"",Teva Pharmaceuticals,Pharm/Health Prod,,15001,50000,0,Y,,
+D000022388,Te Connectivity,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000029194,State Street Corp,Securities/Invest,,15001,50000,0,Y,Y,Y
+"",RMA Tax-Free Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000141,Prudential Financial,Insurance,,15001,50000,0,Y,Y,Y
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+D000028398,PNC Financial Services,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",PNC Bank,Commercial Banks,,15001,50000,0,Y,,
+D000022192,Pitney Bowes Inc,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",PIMCO Low Duration Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Pimco All Asset All Authority Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+D000000200,Pepsico Inc,Food & Beverage,,15001,50000,0,Y,Y,Y
+"",Parker Hannifin Corp,Misc Mfg/Distrib,,15001,50000,0,Y,,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+"",Oppenheimer Developing Markets Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000206,Occidental Petroleum,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000000737,National City Corp,Commercial Banks,,15001,50000,0,Y,,
+"",Munder Mid Cap Core Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000373,McDonald's Corp,Food & Beverage,,15001,50000,0,Y,Y,Y
+"",Lord Abbett Short Duration Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Loomis Sayles Investment Grade Bond Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000207,Loews Corp,Insurance,,15001,50000,0,Y,Y,Y
+D000022084,Lincoln National Corp,Insurance,,15001,50000,0,Y,Y,Y
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+D000062018,Key Bank,Commercial Banks,,15001,50000,0,Y,,
+"",Keeley Funds Small Cap Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+"",John Hancock Signatures,Unknown,,15001,50000,0,Y,,
+"",IRA/ UBS Bank USA Deposit Account,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+"",ING Global Real Estate Fund,Real Estate,,15001,50000,0,Y,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000652,Humana Inc,Health Services,,15001,50000,0,Y,Y,Y
+D000000334,Honeywell International,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+D000000419,Home Depot,Retail Sales,,15001,50000,0,Y,Y,Y
+"",Goldman Sachs Commodity Strategy Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000165,General Dynamics,Defense Electronics,,15001,50000,0,Y,Y,Y
+"",Freeport-McMoRan Copper & Gold,Mining,,15001,50000,0,Y,,
+"",Franklin Templeton Foreign Small Co Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000033753,Forest Laboratories,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000021983,Fifth Third Bancorp,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",Fidelity Floating Rate High Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000019828,Emerson Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+D000000188,Dow Chemical,Chemicals,,15001,50000,0,Y,Y,Y
+D000059154,Dover Corp,Misc Mfg/Distrib,,15001,50000,0,Y,,
+D000042822,Diamond Offshore Drilling,Oil & Gas,,15001,50000,0,Y,,
+"",Dell Inc,Electronics Mfg/Eqp,,15001,50000,0,Y,,
+"",Credit Suisse Floating High Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000134,Credit Suisse First Boston (USA),Securities/Invest,,15001,50000,0,Y,Y,Y
+D000025166,Covidien Ltd,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000000303,ConocoPhillips,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000000461,Comcast Corp,Telecom Svcs,,15001,50000,0,Y,Y,Y
+D000065473,Coca-Cola Enterprises,Food & Beverage,,15001,50000,0,Y,,
+D000000071,Citigroup Inc,Commercial Banks,,15001,50000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000015,Chevron Corp,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000021892,Cardinal Health,Pharm/Health Prod,,15001,50000,0,Y,Y,
+"",Calamos Market Neutral Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000032139,Broadcom Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000060238,Bank of Nova Scotia,Commercial Banks,,15001,50000,0,Y,,
+D000024214,Avon Products,Misc Mfg/Distrib,,15001,50000,0,Y,,
+D000031719,Automatic Data Processing Inc,Business Services,,15001,50000,0,Y,Y,
+D000000076,AT&T Inc,Telephone Utilities,,15001,50000,0,Y,Y,Y
+D000021754,Apple Inc,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000021700,Ameriprise Financial,Securities/Invest,,15001,50000,0,Y,Y,Y
+"",Allstate Corp,Insurance,,15001,50000,0,Y,,
+D000000126,AFLAC Inc,Insurance,,15001,50000,0,Y,Y,Y
+D000000085,Goldman Sachs,Securities/Invest,,2002,30000,0,Y,Y,Y
+D000000607,Xerox Corp,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000029929,WR Berkley Corp,Insurance,,1001,15000,0,Y,Y,
+"",St Paul Companies,Insurance,,1001,15000,0,Y,,
+"",Northern Trust Corp,Commercial Banks,,1001,15000,0,Y,,
+D000000172,MetLife Inc,Insurance,,1001,15000,0,Y,Y,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",First Financial Bank,Commercial Banks,Unknown,1001,15000,0,Y,,
+"",Duke Energy Corp,Unknown,,1001,15000,0,Y,,
+D000025483,Devon Energy,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000025111,Consolidated Edison Inc,Electric Utilities,,1001,15000,0,Y,Y,Y
+D000021163,Cleveland Electric Illuminating Co,Electric Utilities,,1001,15000,0,Y,,
+D000000099,Bellsouth Corp,Telephone Utilities,,1001,15000,0,Y,,
+D000000090,Bank Of America,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000000132,Archer Daniels Midland,Agricultural Svcs,,1001,15000,0,Y,Y,Y
+D000024095,Apache Corp,Oil & Gas,,1001,15000,0,Y,Y,Y

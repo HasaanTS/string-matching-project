@@ -1,0 +1,49 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000037670,Sonny's Barbeque,Food & Beverage,,5000001,25000000,0,Y,,
+D000031427,Almost Family Inc,Health Services,,1000001,5000000,0,Y,Y,Y
+"","Rental Property/Doonbeg, Ireland",Real Estate,,500001,1000000,0,Y,,
+"",Touchstone Small Cap Core Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Penn Mutual Insurance policy,Unknown,Insurance policies & Annuities,100001,250000,0,Y,,
+"",Oppenheimer Developing Markets Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Northwestern Mutual Life Insurance Annuity,Unknown,Insurance policies & Annuities,100001,250000,0,Y,,
+"",Fifth Third Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Absolute Strategies Fund,Misc Finance,Mutual Fund,100001,250000,0,Y,,
+"",Vanguard REIT Index,Real Estate,,50001,100000,0,Y,,
+"",Republic Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",UBS E-Tracs Alerian MLP Infrastructure,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",T Rowe High Yield,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",SPDR Select Sector Fund Energy Select Sector,Misc Health,,15001,50000,0,Y,,
+"",Health Care Select Sector SPDR Fund,Misc Health,,15001,50000,0,Y,,
+"",Eaton Vance Mutual Funds,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Federal Treasury Obligations Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Walgreen Co,Retail Sales,,1001,15000,0,Y,,
+D000000209,United Technologies,Defense Aerospace,,1001,15000,0,Y,Y,Y
+D000030442,TJX Companies,Retail Sales,,1001,15000,0,Y,,
+"",TCW Funds,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000037780,Starbucks Corp,Food & Beverage,,1001,15000,0,Y,Y,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000028430,Praxair Inc,Chemicals,,1001,15000,0,Y,Y,
+"",PNC Bank/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,Y,Y,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000321,Nextera Energy,Electric Utilities,,1001,15000,0,Y,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,Y,Y,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000334,Honeywell International,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,
+D000022008,Google Inc,Internet,,1001,15000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000025625,Ecolab Inc,Chemicals,,1001,15000,0,Y,Y,
+D000000408,Deere & Co,Agricultural Svcs,,1001,15000,0,Y,Y,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,
+D000000071,Citigroup Inc,Commercial Banks,,1001,15000,0,Y,Y,
+D000000320,Chubb Corp,Insurance,,1001,15000,0,Y,Y,
+D000021757,Berkshire Hathaway,Securities/Invest,,1001,15000,0,Y,Y,
+D000031719,Automatic Data Processing Inc,Business Services,,1001,15000,0,Y,Y,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000217,American Express,Finance/Credit,,1001,15000,0,Y,Y,
+D000000786,Accenture,Business Services,,1001,15000,0,Y,Y,

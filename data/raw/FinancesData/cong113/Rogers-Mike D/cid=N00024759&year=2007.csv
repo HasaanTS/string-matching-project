@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Avery Auto Sales,Automotive,,350002,750000,0,Y,,
+"",Oxford Auto Finance,Finance/Credit,,250001,500000,0,Y,,
+"",Home fmly personal residence/Anniston,Real Estate,,250001,500000,0,Y,,
+"",Capital Development LLC,Real Estate,,250001,500000,0,Y,,
+"",1304 Quintord/Arriston,Real Estate,,250001,500000,0,Y,,
+"",Oxford Auto,Unknown,Note/Note Receivable,100001,250000,0,Y,,
+"",Noble Bank,Commercial Banks,,100001,250000,0,Y,,
+"",12 McCullers Lane/Oxford,Real Estate,,100001,250000,0,Y,,
+"",1126 Snow St/Oxford,Real Estate,,100001,250000,0,Y,,
+"",UBS Paine Webber 401k,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Retirement System of Massachusetts,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",1310 Quintord/Arriston,Real Estate,,50001,100000,0,Y,,
+"",Putnam College Advantage Plan,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",123 East 13th St/Anniston,Real Estate,,15001,50000,0,Y,,
+D000000168,Southern Co,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",Cheaha State Bank,Commercial Banks,,1001,15000,0,Y,,

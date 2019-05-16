@@ -1,0 +1,27 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","2140 Finley Road East/Finley, CA",Real Estate,,500001,1000000,0,Y,,
+"","1435/1439 Kearney Street/St Helena, CA",Real Estate,,500001,1000000,0,Y,,
+"",Travis Webb General Partnership,Unknown,,100001,250000,0,Y,,
+"",Silverado Credit Union,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000020325,Citibank,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Bank of America account,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Wells Fargo Bank Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Vanguard Wellington Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",S&P 500 Equity Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Adventist Health Care Retirement Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000019566,Wells Fargo Bank,Commercial Banks,,1001,15000,0,Y,,
+"",Washington Mutual Investors Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Walgreen Co,Retail Sales,,1001,15000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",North Valley Bankcorp,Commercial Banks,,1001,15000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Insurance Investment Fund Plus,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000133,GlaxoSmithKline,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000021654,Gillette Co,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,Y,Y,
+"",Edward D Jones Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000025625,Ecolab Inc,Chemicals,,1001,15000,0,Y,Y,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,
+D000000352,Caterpillar Inc,Building Materials,,1001,15000,0,Y,Y,

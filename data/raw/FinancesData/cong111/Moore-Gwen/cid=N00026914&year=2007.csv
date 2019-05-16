@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Vanguard Treasury Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Vanguard Institutional Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,1001,15000,0,Y,,

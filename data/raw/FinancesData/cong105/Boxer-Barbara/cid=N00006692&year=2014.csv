@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Barbara & Stewart Boxer Blind Trust,Unknown,"Brokerage, IRA, 401k",1000001,5000000,0,Y,,
+"","Wells Fargo(Oakland, CA)/Checking",Unknown,Cash/Money Market/Savings/Checking,65002,150000,0,Y,,
+"",United State Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000000881,Time Warner Cable,Telecom Svcs,,1001,15000,0,Y,Y,
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,Y,Y,
+"",Office Building,Unknown,Mutual Fund,0,1000,0,Y,,

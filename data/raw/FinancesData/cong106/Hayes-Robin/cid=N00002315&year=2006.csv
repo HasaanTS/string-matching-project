@@ -1,0 +1,102 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000067,Altria Group,Tobacco,,2500003,11000000,0,A,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,2000002,10000000,0,A,Y,Y
+D000000123,American International Group,Insurance,,1765004,6550000,0,A,Y,
+D000042525,Royal Dutch Shell,Oil & Gas,,1600003,6250000,0,A,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1502004,6030000,0,A,Y,Y
+D000042332,Nestle SA,Food & Beverage,,1500002,6000000,0,A,Y,
+D000021757,Berkshire Hathaway,Securities/Invest,,1216006,5515000,0,A,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1100002,5250000,0,A,Y,
+D000000129,Exxon Mobil,Oil & Gas,,1100002,5250000,0,A,Y,Y
+"",Robert C Hayes/Promissory Note,Business Services,Note/Note Receivable,1000001,5000000,0,A,,
+"",North Carolina State Bonds,Unknown,Government Bond,1000001,5000000,0,A,,
+"","Mecklenburg County, NC Bonds",Unknown,Government Bond,1000001,5000000,0,A,,
+"","Land/Sheldon, SC",Real Estate,,1000001,5000000,0,A,,
+"","Land/Lake County, MN",Real Estate,,1000001,5000000,0,A,,
+"",First Charter,Commercial Banks,,1000001,5000000,0,A,,
+"",Airplane,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1000001,5000000,0,A,,
+D000021800,3M Co,Misc Mfg/Distrib,,1000001,5000000,0,A,Y,
+D000000275,Merck & Co,Pharm/Health Prod,,1000002,2000000,0,A,Y,
+"",Evergreen Municipal Money Market,Unknown,Cash/Money Market/Savings/Checking,800003,1600000,0,A,,
+D000022192,Pitney Bowes Inc,Misc Mfg/Distrib,,750002,1500000,0,A,Y,
+D000000477,Duke Energy,Electric Utilities,,700003,1500000,0,A,Y,Y
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,750002,1500000,0,A,Y,
+D000000079,Verizon Communications,Telephone Utilities,,500001,1000000,0,A,Y,Y
+"","Timberland/Lake County, MN",Unknown,Government Bond,500001,1000000,0,A,,
+"",NC Educational Faculties Bonds,Unknown,Government Bond,500001,1000000,0,A,,
+D000027441,Masco Corp,Misc Mfg/Distrib,,500001,1000000,0,A,,
+"","Buncombe County, NC Bonds",Unknown,Government Bond,500001,1000000,0,A,,
+D000000091,BP,Oil & Gas,,500001,1000000,0,A,Y,
+"",Tyco International,Pharm/Health Prod,,415004,900000,0,A,,
+D000067048,News Corp,TV/Movies/Music,,415004,900000,0,A,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,350002,750000,0,A,Y,Y
+D000000071,Citigroup Inc,Commercial Banks,,350002,750000,0,A,Y,Y
+D000000461,Comcast Corp,Telecom Svcs,,265004,650000,0,A,Y,Y
+D000000144,Anheuser-Busch,"Beer, Wine & Liquor",,265004,650000,0,A,,
+"",Wachovia CAP Account,Unknown,"Brokerage, IRA, 401k",265002,550000,0,A,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,215003,550000,0,A,Y,
+D000000348,UnitedHealth Group,Health Services,,200002,500000,0,A,Y,
+"","Orange County, NC Bonds",Unknown,Government Bond,250001,500000,0,A,,
+"","New Hanover County, NC Bonds",Unknown,Government Bond,250001,500000,0,A,,
+D000000373,McDonald's Corp,Food & Beverage,,250001,500000,0,A,Y,Y
+"","Greenville, NC Bonds",Unknown,Government Bond,250001,500000,0,A,,
+D000025490,Diageo PLC,"Beer, Wine & Liquor",,200002,500000,0,A,Y,
+"",Cogdell Spencer Inc,Unknown,,250001,500000,0,A,,
+"",Charlotte NC Storm Water Bonds,Unknown,Government Bond,250001,500000,0,A,,
+"",Charlotte NC Bonds,Unknown,Government Bond,250001,500000,0,A,,
+"","Cary, NC Bonds",Unknown,Government Bond,250001,500000,0,A,,
+D000000459,Anadarko Petroleum,Oil & Gas,,250001,500000,0,A,Y,
+D000058827,Zimmer Holdings,Pharm/Health Prod,,165003,400000,0,A,Y,
+"",University of North Carolina Bond,Unknown,Government Bond,150002,350000,0,A,,
+"",Philips Electronics,Electronics Mfg/Eqp,,150002,350000,0,A,,
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,150002,350000,0,A,Y,
+D000000495,DuPont Co,Chemicals,,150002,350000,0,A,Y,
+D000000419,Home Depot,Retail Sales,,115002,300000,0,A,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,115002,300000,0,A,Y,
+D000000015,Chevron Corp,Oil & Gas,,115002,300000,0,A,Y,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,102003,280000,0,A,Y,Y
+"","Stanley County, NC Bond",Unknown,Government Bond,100001,250000,0,A,,
+"","Property Culp Road/Richfield, NC",Real Estate,,100001,250000,0,A,,
+"",North Carolina State Bond,Unknown,Government Bond,100001,250000,0,A,,
+"","New Hanover County, NC Hospital Bond",Unknown,Government Bond,100001,250000,0,A,,
+"",Mount Pleasant Hosiery Mill Building,Misc Mfg/Distrib,,100001,250000,0,A,,
+D000022108,Medco Health Solutions,Health Services,,100001,250000,0,A,Y,
+"",Gran Pacifica Resort,Lodging/Tourism,,100001,250000,0,A,,
+"",Dell Inc,Electronics Mfg/Eqp,,100001,250000,0,A,,
+D000026562,IAC/InterActiveCorp,Internet,,80003,200000,0,A,Y,
+D000000854,Expedia Inc,Internet,,31003,115000,0,A,,
+"",Walgreen Co,Retail Sales,,50001,100000,0,A,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,50001,100000,0,A,Y,Y
+D000022084,Lincoln National Corp,Insurance,,50001,100000,0,A,Y,Y
+"","Forsyth County, NC Bond",Unknown,Government Bond,50001,100000,0,A,,
+D000000303,ConocoPhillips,Oil & Gas,,50001,100000,0,A,Y,Y
+"","Charlotte, NC Bond",Unknown,Government Bond,50001,100000,0,A,,
+D000058630,William Wrigley Jr Co,Food Process/Sales,,16002,65000,0,A,,
+D000029829,Western Union,Finance/Credit,,16002,65000,0,A,Y,
+D000025815,First Data Corp,Finance/Credit,,16002,65000,0,A,Y,
+D000000367,Wal-Mart Stores,Retail Sales,,15001,50000,0,A,Y,Y
+"",Wachovia PT Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+D000000345,Sunoco Inc,Oil & Gas,,15001,50000,0,A,Y,
+"","Property Cline Road/Breed, WI",Real Estate,,15001,50000,0,A,,
+D000000244,Marathon Oil,Oil & Gas,,15001,50000,0,A,Y,
+"","Land with two Cabins/Lake County, MN",Real Estate,,15001,50000,0,A,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,15001,50000,0,A,Y,Y
+"",Idearc Inc,Publishing,,15001,50000,0,A,,
+D000019828,Emerson Electric,Misc Mfg/Distrib,,15001,50000,0,A,Y,
+"","Cabin/Lake County, MN",Real Estate,,15001,50000,0,A,,
+D000021868,BB&T Corp,Commercial Banks,,15001,50000,0,A,,Y
+D000000480,Williams Companies,Oil & Gas,,1001,15000,0,A,Y,
+"",Walter Industries,Mining,,1001,15000,0,A,,
+"",Solectron Corp,Electronics Mfg/Eqp,,1001,15000,0,A,,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,A,Y,Y
+D000054010,Mueller Water Products,Misc Energy,,1001,15000,0,A,,
+"",Motorola Inc,Telecom Svcs,,1001,15000,0,A,,
+"",Marshall & Ilsley Medium Term Note,Unknown,,1001,15000,0,A,,
+"",EMC Corp,Electronics Mfg/Eqp,,1001,15000,0,A,,
+D000000408,Deere & Co,Agricultural Svcs,,1001,15000,0,A,Y,Y
+D000000457,Corning Inc,Telecom Svcs,,1001,15000,0,A,Y,Y
+"",Cemex SA,Building Materials,,1001,15000,0,A,,
+D000000217,American Express,Finance/Credit,,1001,15000,0,A,Y,Y
+"",Active Assets Money Trust Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Vignette Corp,Electronics Mfg/Eqp,,1,1000,0,A,,
+"",JDS Uniphase,Telecom Svcs,,1,1000,0,A,,

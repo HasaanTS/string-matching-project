@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Yuma County Federal Credit Union,Credit Unions,Unknown,1001,15000,0,N,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,N,Y,Y
+"",John Hancock Regional Bank Fund,Commercial Banks,,1001,15000,0,N,,
+"",Goldman Sachs Growth Opportunities Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Goldman Sachs Capital Growth Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Franklin Income Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Edward Jones IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,N,,
+"",Colorado Community Banc/CD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Colo Public Employee Retirement Assoc,Unknown,"Brokerage, IRA, 401k",1001,15000,0,N,,

@@ -1,0 +1,27 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Simpson Properties,Real Estate,,250001,500000,0,A,,
+"","Farm Ground/Blackfoot, ID",Crop Production,,250001,500000,0,A,,
+"",Pheasant Hills Prop LLC,Unknown,,100001,250000,0,A,,
+"",American Funds Money Market,Unknown,Cash/Money Market/Savings/Checking,170404,170404,0,Y,,
+"",Blackfoot SD Contract on sale of land,Real Estate,,30002,100000,0,A,,
+"",BB&T Mid Cap Value Fund,Unknown,Mutual Fund,94379,94379,0,A,,
+"",Dodge & Cox International Stock Fund,Unknown,Mutual Fund,90818,90818,0,A,,
+"",Aim Cash Reserve Fund,Unknown,Cash/Money Market/Savings/Checking,74905,74905,0,Y,,
+"",Intermediate Bond Fund of America,Unknown,Mutual Fund,56500,56500,0,Y,,
+"",American Funds Short Term Bond Fund,Unknown,Mutual Fund,56329,56329,0,Y,,
+"",American Us Government Securities Fund,Unknown,Mutual Fund,56181,56181,0,Y,,
+"",Citibank South Dakota Bank Deposit Prog,Unknown,Cash/Money Market/Savings/Checking,49702,49702,0,Y,,
+"",Bond Fund of America,Unknown,Mutual Fund,49267,49267,0,Y,,
+D000000100,Boeing Co,Defense Aerospace,,43304,43304,0,Y,Y,Y
+"",Public Employee Retirement System of Idaho,Unknown,"Brokerage, IRA, 401k",38620,38620,0,Y,,
+"",Aim Short Term Bond Fund,Unknown,Mutual Fund,35055,35055,0,Y,,
+"",Aim US Government Fund,Unknown,Mutual Fund,34691,34691,0,Y,,
+"",Inl Stable Value Fund,Unknown,Mutual Fund,22295,22295,0,A,,
+"",Westmark Credit Union/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,A,Y,Y
+"",Westmark Credit Union/Checking,Unknown,"Brokerage, IRA, 401k",5080,5080,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1513,1513,0,Y,Y,Y
+"",Bank Insured Deposit Program,Unknown,Cash/Money Market/Savings/Checking,846,846,0,Y,,
+"",Westmark Credit Union/Savings,Unknown,Cash/Money Market/Savings/Checking,363,363,0,Y,,
+"",Columbia Intermediate Bond Fund,Unknown,Mutual Fund,8,8,0,Y,,
+"",Western Asset Core Plus Portfolio,Unknown,Mutual Fund,4,4,0,Y,,

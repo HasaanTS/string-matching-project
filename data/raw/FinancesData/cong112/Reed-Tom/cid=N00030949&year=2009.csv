@@ -1,0 +1,20 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Law Office of Thomas W Reed II PLLC,Lawyers/Law Firms,,500001,1000000,0,N,,
+"",Bending River Estates LLC,Unknown,,250001,500000,0,N,,
+"","Real Estate/Baty St Elmira, NY",Real Estate,,50001,100000,0,N,,
+"",Fritz-Klee Holdings LLC,Unknown,,50001,100000,0,N,,
+D000035524,M&T Bank,Commercial Banks,Unknown,15001,50000,0,N,,Y
+"",First Heritage FCU,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,N,,
+D000000457,Corning Inc,Misc Mfg/Distrib,,15001,50000,0,N,Y,Y
+D000000607,Xerox Corp,Misc Mfg/Distrib,,1001,15000,0,N,Y,
+"",Valence,Unknown,,1001,15000,0,N,,
+"",US Money Market Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Penn Growth,Unknown,Unknown,1001,15000,0,N,,
+"",Northwest Life Insurance policy,Unknown,Insurance policies & Annuities,1001,15000,0,N,,
+"","Long Branch Road/Liverpool, NY",Real Estate,,1001,15000,0,N,,
+"",JDS Uniphase,Electronics Mfg/Eqp,,1001,15000,0,N,,
+"",Guardian Life Insurance policy,Unknown,Insurance policies & Annuities,1001,15000,0,N,,
+"",Fritz-Klee Realty LLC,Real Estate,,1001,15000,0,N,,
+D000032302,CapitalSource Inc,Finance/Credit,,1001,15000,0,N,,
+"",Panagex Corp,Unknown,,1,1000,0,N,,
+"",Monkey Run Realty LLC,Real Estate,,1,1000,0,N,,

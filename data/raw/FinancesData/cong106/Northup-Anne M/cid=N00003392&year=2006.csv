@@ -1,0 +1,96 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Radio Sound Inc,Electronics Mfg/Eqp,,1000001,5000000,0,T,,
+"",Merrill Lynch Money Market,Unknown,Cash/Money Market/Savings/Checking,1000001,5000000,0,T,,
+"",Commonwealth Bank & Trust,Commercial Banks,,250001,500000,0,T,,
+D000000094,Time Warner,TV/Movies/Music,,100001,250000,0,T,Y,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,100001,250000,0,T,Y,Y
+"",Commonwealth Trust Core Fund,Unknown,,100001,250000,0,T,,
+"",Barnacle Water Co,Misc Energy,,100001,250000,0,T,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,45003,150000,0,T,Y,
+"",Nokia Corp,Telecom Svcs,,65002,150000,0,T,,
+D000000123,American International Group,Insurance,,65002,150000,0,T,Y,
+D000000081,United Parcel Service,Air Transport,,51002,115000,0,T,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,51002,115000,0,T,Y,Y
+D000000190,Viacom Inc,TV/Movies/Music,,50001,100000,0,T,,
+D000030608,Unilever,Misc Mfg/Distrib,,50001,100000,0,T,Y,
+D000059629,Sy Bancorp,Commercial Banks,,50001,100000,0,T,,
+"",SLB CS,Unknown,,50001,100000,0,T,,
+D000042525,Royal Dutch Petroleum,Oil & Gas,,50001,100000,0,T,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,50001,100000,0,T,Y,Y
+D000000275,Merck & Co,Pharm/Health Prod,,50001,100000,0,T,Y,
+D000022110,Medtronic Inc,Pharm/Health Prod,,30002,100000,0,T,Y,
+"",JDS Uniphase,Telecom Svcs,,50001,100000,0,T,,
+D000000129,Exxon Mobil,Oil & Gas,,50001,100000,0,T,Y,Y
+"",Eme Corp,Unknown,,50001,100000,0,T,,
+D000025490,Diageo PLC,"Beer, Wine & Liquor",,50001,100000,0,T,Y,
+"",Clear Channel Communications,TV/Movies/Music,,50001,100000,0,T,,
+"",Cedar Fair,Recreation,,50001,100000,0,T,,
+D000000091,BP,Oil & Gas,,50001,100000,0,T,Y,Y
+D000021868,BB&T Corp,Commercial Banks,,50001,100000,0,T,,Y
+D000021800,3M Co,Misc Mfg/Distrib,,16002,65000,0,T,Y,
+D000019743,Wells Fargo,Commercial Banks,,15001,50000,0,T,Y,Y
+D000000470,Washington Mutual,Savings & Loans,,15001,50000,0,T,Y,
+D000000128,Walt Disney Co,TV/Movies/Music,,15001,50000,0,T,Y,
+D000000367,Wal-Mart Stores,Retail Sales,,15001,50000,0,T,Y,Y
+D000021573,Wachovia Corp,Commercial Banks,,15001,50000,0,T,Y,
+"",Vanguard Equity Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",UMB Scott International Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Tyco International,Pharm/Health Prod,,15001,50000,0,T,,
+D000030251,Sysco Corp,Food Process/Sales,,15001,50000,0,T,,
+D000029280,Sun Microsystems,Electronics Mfg/Eqp,,15001,50000,0,T,Y,
+D000030157,Stryker Corp,Pharm/Health Prod,,15001,50000,0,T,Y,
+"",State Street Group,Unknown,,15001,50000,0,T,,
+"",Select Sector,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Sector Spdf Trust,Unknown,,15001,50000,0,T,,
+"",SAP AG,Electronics Mfg/Eqp,Unknown,15001,50000,0,T,,
+D000000341,Rite Aid Corp,Retail Sales,,15001,50000,0,T,Y,
+"",Republic Banc Corp,Unknown,,15001,50000,0,T,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,15001,50000,0,T,Y,Y
+D000000200,PepsiCo Inc,Food & Beverage,,15001,50000,0,T,Y,Y
+D000042727,Newell Rubbermaid,Misc Mfg/Distrib,,15001,50000,0,T,,
+D000000737,National City Corp,Commercial Banks,,15001,50000,0,T,Y,Y
+"",Muhlenkemp Fund,Unknown,,15001,50000,0,T,,
+D000036033,MPS Group,Business Services,,15001,50000,0,T,,
+"",Motorola Inc,Telecom Svcs,,15001,50000,0,T,,
+"",Medicis Pharmaceuticals,Pharm/Health Prod,,15001,50000,0,T,,
+D000044988,Magna Entertainment,Casinos/Gambling,,15001,50000,0,T,Y,
+"",Low's Companies,Unknown,,15001,50000,0,T,,
+D000027185,Legg Mason,Securities/Invest,,15001,50000,0,T,,
+D000001024,Kraft Foods,Food Process/Sales,,15001,50000,0,T,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,15001,50000,0,T,Y,
+"",Gentech Inc,Unknown,,15001,50000,0,T,,
+D000022674,Fifth Third Bank,Commercial Banks,,15001,50000,0,T,,
+D000025112,Constellation Brands,"Beer, Wine & Liquor",,15001,50000,0,T,,
+"",Columbia Acorn Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+D000000071,Citigroup Inc,Commercial Banks,,15001,50000,0,T,Y,Y
+D000000090,Bank of America,Commercial Banks,,15001,50000,0,T,Y,
+"",Aston River Road Fund,Unknown,,15001,50000,0,T,,
+D000000459,Anadarko Petroleum,Oil & Gas,,15001,50000,0,T,Y,
+D000000391,Amgen Inc,Pharm/Health Prod,,15001,50000,0,T,Y,
+D000000126,AFLAC Inc,Insurance,,15001,50000,0,T,Y,Y
+"",Weingarten Fund,Unknown,Mutual Fund,2002,30000,0,T,,
+D000058827,Zimmer Holdings,Pharm/Health Prod,,1001,15000,0,T,Y,
+"",WisdomTree,Unknown,,1001,15000,0,T,,
+"",Walgreen Co,Retail Sales,,1001,15000,0,T,,
+D000000348,UnitedHealth Group,Health Services,,1001,15000,0,T,Y,Y
+D000000209,United Technologies,Defense Aerospace,,1001,15000,0,T,Y,Y
+D000020995,UBS AG,Securities/Invest,,1001,15000,0,T,Y,Y
+D000000619,Target Corp,Retail Sales,,1001,15000,0,T,Y,Y
+D000029185,Staples Inc,Retail Sales,,1001,15000,0,T,Y,
+D000000223,Schering-Plough Corp,Pharm/Health Prod,,1001,15000,0,T,Y,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+D000027296,Lowe's Companies,Retail Sales,,1001,15000,0,T,,
+D000000418,International Game Technology,Casinos/Gambling,,1001,15000,0,T,Y,
+D000022038,Illinois Tool Works,Misc Mfg/Distrib,,1001,15000,0,T,Y,Y
+D000000419,Home Depot,Retail Sales,,1001,15000,0,T,Y,Y
+D000026387,Harley-Davidson Inc,Misc Transport,,1001,15000,0,T,Y,
+"",Goldman Fst,Unknown,,1001,15000,0,T,,
+D000025815,First Data Corp,Finance/Credit,,1001,15000,0,T,Y,
+D000000089,FedEx Corp,Air Transport,,1001,15000,0,T,Y,Y
+D000032736,Colgate-Palmolive Co,Pharm/Health Prod,,1001,15000,0,T,,
+D000031877,Bed Bath & Beyond,Retail Sales,,1001,15000,0,T,,
+D000000144,Anheuser-Busch,"Beer, Wine & Liquor",,1001,15000,0,T,,
+"",Andrew Corp,Telecom Svcs,,1001,15000,0,T,,
+D000045867,Aegon NV,Insurance,,1001,15000,0,T,Y,Y
+D000021773,Travelers Companies,Insurance,,1,1000,0,T,Y,

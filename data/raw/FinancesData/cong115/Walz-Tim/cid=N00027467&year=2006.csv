@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental Unit/12 Valley View Place,Real Estate,,50001,100000,0,Y,,
+"",Teacher Retirement 401k,Unknown,"Brokerage, IRA, 401k",16002,65000,0,Y,,
+"",Roth IRA,Unknown,"Brokerage, IRA, 401k",2002,30000,0,Y,,
+D000023236,Education Minnesota,Public Sector Unions,Insurance policies & Annuities,2002,30000,0,Y,,
+D000019642,Northwestern Mutual Life Insurance,Insurance,Unknown,1001,15000,0,Y,,
+"",College Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

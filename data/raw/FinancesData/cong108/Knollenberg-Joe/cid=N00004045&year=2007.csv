@@ -1,0 +1,48 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Cash & Equivalents,Unknown,Cash/Money Market/Savings/Checking,270461,270461,0,Y,,
+"",Research-Electro Optics,Unknown,,100001,250000,0,Y,,
+"",PrivateBank,Savings & Loans,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"","Lower Level Rental/Washington, DC",Real Estate,,50001,100000,0,Y,,
+"",Fidelity Funds,Unknown,Mutual Fund,77795,77795,0,Y,,
+D000000244,Marathon Oil,Oil & Gas,,73032,73032,0,Y,Y,Y
+D000056216,Rockwell Automation,Misc Mfg/Distrib,,68960,68960,0,Y,Y,
+D000037414,Schlumberger Ltd,Oil & Gas,,68859,68859,0,Y,,
+D000045915,Transocean Inc,Oil & Gas,,59980,59980,0,Y,Y,
+D000019828,Emerson Electric,Misc Mfg/Distrib,,56660,56660,0,Y,Y,
+"",Fidelity Equity Income Fund,Unknown,Mutual Fund,55247,55247,0,Y,,
+"",Federal Home Loan Bank Bond,Real Estate,,50238,50238,0,Y,,
+"","Farm/Matton, IL",Crop Production,,15001,50000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000703,Costco Wholesale,Retail Sales,,48832,48832,0,Y,,
+"",Vanguard Windsor II Fund,Unknown,Mutual Fund,47330,47330,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,45540,45540,0,Y,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,43240,43240,0,Y,Y,
+D000000335,Dominion Resources,Electric Utilities,,42705,42705,0,Y,Y,Y
+"",Paychex Inc,Business Services,,40747,40747,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,40020,40020,0,Y,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,38092,38092,0,Y,Y,
+D000000106,Morgan Stanley,Securities/Invest,,37177,37177,0,Y,Y,Y
+D000000128,Walt Disney Co,TV/Movies/Music,,32280,32280,0,Y,Y,
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,31203,31203,0,Y,Y,
+D000000275,Merck & Co,Pharm/Health Prod,,29055,29055,0,Y,Y,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,26660,26660,0,Y,Y,
+D000000477,Duke Energy,Electric Utilities,,26221,26221,0,Y,Y,Y
+D000064241,Vodafone Group,Telecom Svcs,,26124,26124,0,Y,,
+"",Gabelli Value Fund,Unknown,Mutual Fund,25251,25251,0,Y,,
+D000022110,Medtronic Inc,Pharm/Health Prod,,25135,25135,0,Y,Y,
+D000000274,Cintas Corp,Misc Mfg/Distrib,Mutual Fund,23534,23534,0,Y,Y,
+D000000168,Southern Co,Electric Utilities,,23250,23250,0,Y,Y,Y
+"",Fidelity Michigan Municipal Income,Unknown,Mutual Fund,22103,22103,0,Y,,
+D000001024,Kraft Foods,Food Process/Sales,,21209,21209,0,Y,Y,
+"",Fidelity Ser Vii Hlth Care Fund,Unknown,Mutual Fund,19829,19829,0,Y,,
+D000045190,Spectra Energy,Oil & Gas,,17816,17816,0,Y,Y,
+"",Hancock John Invt Tr Regional Bank Fund,Unknown,Mutual Fund,16745,16745,0,Y,,
+D000000419,Home Depot,Retail Sales,,16164,16164,0,Y,Y,Y
+"",Insured Cash Account,Unknown,Cash/Money Market/Savings/Checking,11918,11918,0,Y,,
+D000018253,Discover Financial Services,Finance/Credit,,5278,5278,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,3113,3113,0,Y,Y,Y
+D000000367,Wal-Mart Stores,Retail Sales,,3089,3089,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,2598,2598,0,Y,Y,
+D000000495,DuPont Co,Chemicals,,1807,1807,0,Y,Y,Y
+D000029280,Sun Microsystems,Electronics Mfg/Eqp,,326,326,0,Y,Y,
+"",Fidelity Michigan Muni Money Market,Unknown,Cash/Money Market/Savings/Checking,3,3,0,Y,,

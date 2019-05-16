@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Ohio Public Employees Retirement System,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Universal Guaranty Life,Insurance,,2002,30000,0,Y,,
+"",Ohio State Teachers Retirement System,Unknown,"Brokerage, IRA, 401k",1002,16000,0,Y,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Dodge & Cox Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000032601,Citizens National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,Y

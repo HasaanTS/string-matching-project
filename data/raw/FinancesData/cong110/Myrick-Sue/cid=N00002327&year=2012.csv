@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000019642,Northwestern Mutual Life Insurance,Insurance,Insurance policies & Annuities,100002,200000,0,T,,
+"",Northwestern Mutual Life/90 Life,Unknown,Insurance policies & Annuities,15001,50000,0,T,,
+"",Lord Abbott Short Duration,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Wells Fargo Money Market,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,T,,
+"",Franklin Federal Tax Free Income Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",First Citizen Bank money market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+D000021971,Edward Jones,Securities/Invest,Mutual Fund,1001,15000,0,T,,

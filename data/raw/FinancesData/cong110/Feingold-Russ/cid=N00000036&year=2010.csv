@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wisconsin State Retirement System,Unknown,"Brokerage, IRA, 401k",50001,100000,0,T,,
+"",Calvert Moderate Allocation Fund,Unknown,Mutual Fund,50001,100000,0,T,,
+"",US Bank of Madison/Checking,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,T,,

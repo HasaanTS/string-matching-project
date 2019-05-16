@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Americo Financial Life & Annuity Insur,Unknown,Insurance policies & Annuities,150002,350000,0,Y,,
+D000030609,Union Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",International County/City Mgrs Assoc,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",50001,100000,0,Y,,
+"",Acacia Life Insur Universal Life Policy,Unknown,Insurance policies & Annuities,50001,100000,0,Y,,
+"",Vacant land/San Bernardino County,Real Estate,,1001,15000,0,Y,,
+"",Fidelity Growth Opportunity Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Equity Growth Opport Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Evergreen Mid Cap Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

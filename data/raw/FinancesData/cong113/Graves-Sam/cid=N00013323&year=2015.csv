@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Sam Graves Farms: Clark Township & Tarkio Township,Crop Production,,500001,1000000,0,Y,,
+"","House in Washington, D.C.",Real Estate,,500001,1000000,0,Y,,
+"",Airport Farms Aviation LLC,Air Transport,,100001,250000,0,Y,,
+"",US Bank/Two Accounts,,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Promissory note,,Note/Note Receivable,50001,100000,0,Y,,
+"",Graves Brothers Farms,,,50001,100000,0,Y,,
+"",Farm Equipment & Machinery,Agricultural Svcs,,1001,15000,0,Y,,
+"",Archer Aviation LLC,Unknown,,1001,15000,0,Y,,
+"",Rockin Hord LLC,Unknown,,1,1000,0,Y,,

@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000021754,Apple Inc,Electronics Mfg/Eqp,,65002,150000,0,Y,Y,
+"",Washington Mutual Investors Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Oppenheimer Rising Dividend,Unknown,,15001,50000,0,Y,,
+"",Oppenheimer Equity Income fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000036243,Nordstrom Inc,Retail Sales,,15001,50000,0,Y,,
+"",Growth Fund of America,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Franklin Templeton Global Bond Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Franklin Mutual Global Discovery Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Calvert Moderate Allocation Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

@@ -1,0 +1,21 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",AIG SunAmerica Life Assurance,Unknown,,50001,100000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,2002,30000,0,Y,Y,
+D000000480,Williams Companies,Oil & Gas,,1001,15000,0,Y,Y,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,Y,Y,
+"",Standard & Poors Mid Cap 400,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000042525,Royal Dutch Shell,Oil & Gas,Mutual Fund,1001,15000,0,Y,Y,
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000000170,Northrop Grumman,Misc Defense,,1001,15000,0,Y,Y,Y
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000022110,Medtronic Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",iShares Msci Eafe Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares Dow Jones Select Dividend Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000133,GlaxoSmithKline,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",Dreyfus Liquid Assets Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Seaspan Corp,Unknown,,1,1000,0,Y,,
+D000000108,Merrill Lynch,Securities/Invest,,1,1000,0,Y,Y,
+D000022084,Lincoln National Corp,Insurance,,1,1000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1,1000,0,Y,Y,Y
+D000000090,Bank of America,Commercial Banks,,1,1000,0,Y,Y,Y

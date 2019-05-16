@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",ING Financial Varied Annuity,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",Wells Fargo Money Market,Unknown,Cash/Money Market/Savings/Checking,115002,300000,0,Y,,
+"",Residential Real Property,Real Estate,,115002,300000,0,Y,,
+"",Riversource Life Insurance Annuity,Unknown,Insurance policies & Annuities,50001,100000,0,Y,,
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",US Savings Bond,Unknown,Government Bond,15001,50000,0,Y,,
+"",Wells Fargo Adv Core Equity Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",South Florida Education Fed Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Miami-Dade School Board 401a,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,

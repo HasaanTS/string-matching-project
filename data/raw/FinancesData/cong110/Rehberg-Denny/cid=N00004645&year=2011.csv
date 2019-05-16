@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rehberg Ranch LLC,Real Estate,,1000001,5000000,0,Y,,
+"",Rehberg Ranch Land & Livestock,Livestock,,1000001,5000000,0,Y,,
+"",Rehberg Ranch Marketing,Real Estate,,750002,1500000,0,Y,,
+"",Lenhardt Farm LLC,Crop Production,,500001,1000000,0,Y,,
+"","Residential Rental Property, FMV Est",Real Estate,,100001,250000,0,Y,,
+"",Northern Prime Service Obligation Class,Unknown,,50001,100000,0,Y,,
+"",American Washington Mutual,Unknown,,15001,50000,0,Y,,
+"",American New Perspective,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Western Security Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Teigen Minerals,Mining,,1001,15000,0,Y,,

@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000019566,Wells Fargo Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",Oppenheimer Active Allocation Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Guggenheim World Equity Income,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Fidelity Adv Value Stategies,Unknown,Mutual Fund,1001,15000,0,A,,
+D000021765,Bank of New York Mellon,Securities/Invest,,1001,15000,0,A,Y,

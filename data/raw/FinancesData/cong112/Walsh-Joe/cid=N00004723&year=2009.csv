@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Northern Trust Bank Chicago,Unknown,Cash/Money Market/Savings/Checking,15002,51000,0,N,,
+"",Illinois Surs Pension,Unknown,"Brokerage, IRA, 401k",1001,15000,0,N,,
+D000059279,Hon Industries,Misc Mfg/Distrib,,1001,15000,0,N,,
+"",Charles Schwab 401k,Unknown,"Brokerage, IRA, 401k",1001,15000,0,N,,
+"",Miller Group,Unknown,,1,1000,0,N,,

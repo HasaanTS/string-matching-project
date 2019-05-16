@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Pecan Post Inc,Real Estate,,1000001,5000000,0,Y,,
+"",Marion Barry Inc,Unknown,,350002,750000,0,Y,,
+"",JT Rental,Real Estate,,250001,500000,0,Y,,
+"",A Stephens Inc & Cod Planters Bank/MM,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",Carmar Line Inc,Unknown,,100001,250000,0,Y,,
+"",Planters & Merchants Bank,Commercial Banks,,15001,50000,0,Y,,
+D000022887,Mony Group,Insurance,,15001,50000,0,Y,,
+"",Planters Merchants Bank to Marion Berry,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Farm Bureau Life Insurance,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+D000028716,Riceland Foods,Crop Production,,1,1000,0,Y,Y,Y
+"","140 Main Street/Gillett, AR",Crop Production,,1,1000,0,Y,,

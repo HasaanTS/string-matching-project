@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",USAA/Checking,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Fidelity Freedom 2035 Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Vanguard Prime Money Market,Securities/Invest,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Schwab IRA,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",CHET 529 Social Choice Option,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",CHET 529 Mod Managed Allocation,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",CHET 529 Aggressive Managed Allocation,Unknown,Mutual Fund,1001,15000,0,Y,,

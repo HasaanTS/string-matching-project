@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Equitable Life Assurance,Unknown,Unknown,1000001,1000001,1,Y,,
+"",Bull Run,Unknown,,16002,65000,0,Y,,
+D000059082,Citizens Bank of Northern Kentucky,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000025615,E*TRADE Financial,Securities/Invest,Unknown,1001,15000,0,Y,Y,

@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000036160,NetApp,Electronics Mfg/Eqp,,17003,80000,0,Y,Y,
+"",Scottrade IRA,Unknown,"Brokerage, IRA, 401k",2002,30000,0,Y,,
+"",Wells Fargo Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Scottrade margin account,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",GMO US Growth Funds,Unknown,Mutual Fund,1001,15000,0,Y,,

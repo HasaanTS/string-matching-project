@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",McCarthy Group,Securities/Invest,,1000001,5000000,0,Y,,
+"",McCarthy Multi Cap Stock Fund,Unknown,Mutual Fund,850004,1700000,0,Y,,
+"",iShares Lehman Treasury Index,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Nebraska Public Power Dist Rev Gen Bond,Unknown,Government Bond,50001,100000,0,Y,,
+"","Nebraska City, NE Bond",Unknown,Government Bond,50001,100000,0,Y,,
+"",Lancaster County NE School Dist 145 Bond,Unknown,Government Bond,50001,100000,0,Y,,
+"","Bellevue, NE G/O Refunding Bond",Unknown,Government Bond,50001,100000,0,Y,,
+"",Iron Road Railway,Railroads,,15001,50000,0,Y,,
+"","Dawson County, NE Bond",Unknown,Government Bond,15001,50000,0,Y,,
+"",TD Ameritrade Money Market,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",First National Bank of Omaha Accounts,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,

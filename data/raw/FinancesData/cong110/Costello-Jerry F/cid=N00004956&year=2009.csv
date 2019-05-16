@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Goldman Sachs Financial Square Money Market,Unknown,Cash/Money Market/Savings/Checking,200002,500000,0,Y,,
+"",State of Illinois IMRF,Unknown,Unknown,15001,50000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Bank Deposit Sweep Option Money Market,Unknown,Cash/Money Market/Savings/Checking,1002,16000,0,Y,,
+D000000188,Dow Chemical,Chemicals,,1001,15000,0,Y,Y,
+"",Patriot Coal,Mining,,1,1000,0,Y,,

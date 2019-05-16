@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000141,Prudential Financial,Insurance,,100001,250000,0,Y,Y,
+"",Bank of America account,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Allstate Preferred Preference Annuities,Unknown,Insurance policies & Annuities,65002,150000,0,Y,,
+"",Community Bank of Texas IRA,Unknown,"Brokerage, IRA, 401k",30002,100000,0,Y,,

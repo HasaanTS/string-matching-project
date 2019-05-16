@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",New England Life Insurance Policy,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Van Kampen Mid Cap Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Van Kampen Corp Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Puritan Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Citibank/Savings,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",AllianceBernstein Growth & Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000483,AG Edwards & Sons,Securities/Invest,,1001,15000,0,Y,,

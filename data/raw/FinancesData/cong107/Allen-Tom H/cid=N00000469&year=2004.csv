@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Vanguard 500 Index Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Federal Intermed Corp Bond,Unknown,,100001,250000,0,Y,,
+"","245 Commercial Street/Portland, ME",Real Estate,,100001,250000,0,Y,,
+"",US Treasury Bill,Unknown,Government Bond,50001,100000,0,Y,,
+"",UBS Inherited IRA,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",American Funds World Growth/Income Fund,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",American Funds Balanced Fund,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",American Funds American Fund,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",Fidelity Equity Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",US Treasury Note,Unknown,Government Bond,2002,30000,0,Y,,
+"",ICMA Retirement,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,

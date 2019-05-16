@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Willowbrook Investment Property,Commercial Banks,,100001,250000,0,C,,
+"",Small Cap Equity Fund Portfolio,Unknown,Mutual Fund,100001,250000,0,C,,
+"",Equity Index Portfolio,Unknown,Mutual Fund,100001,250000,0,C,,
+"",Northfield Bank,Commercial Banks,Unknown,50001,100000,0,C,,
+"",International Equity Fund,Unknown,Mutual Fund,50001,100000,0,C,,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,15001,50000,0,C,,
+"",Prudential Group Universal Life,Unknown,Insurance policies & Annuities,1,1000,0,C,,

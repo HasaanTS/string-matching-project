@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000033211,Dodge & Cox,Securities/Invest,Mutual Fund,100002,200000,0,Y,,
+"",Mutual Qualified Fund,Unknown,Mutual Fund,30002,100000,0,Y,,
+D000043204,Northwest Indiana Bancorp,Commercial Banks,,15001,50000,0,Y,,
+"",Merrill Lynch Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,15001,50000,0,Y,Y,
+"",Consolidated Tomoka Land Co,Real Estate,,15001,50000,0,Y,,
+D000000071,Citigroup Inc,Commercial Banks,,15001,50000,0,Y,Y,
+"",People's Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+D000000108,Merrill Lynch,Securities/Invest,,1001,15000,0,Y,Y,
+"",Kulicke & Soffa Industries,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Indiana Transp Fin Auth Hwy Outstd Bond,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Indiana Transp Fin Auth Hwy Etm Bond,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

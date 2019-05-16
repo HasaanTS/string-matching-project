@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"",Wachovia Bank/Cash,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",TIAA-CREF Pension Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Chase Bank/CDs,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Riversource Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Nationwide Retirement Services 457 Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Aviva Life & Annuity Co Cash Value,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Residential Lot,Real Estate,,1001,15000,0,Y,,
+"",Desert School Federal Credit Union/Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional FCU Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Chicanos Por La Causa FCU,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Chase Bank IRA/Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

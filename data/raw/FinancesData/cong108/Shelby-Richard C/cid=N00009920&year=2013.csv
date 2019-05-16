@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Tuscaloosa Title Co,Real Estate,,1000001,5000000,0,Y,,
+"",Townhouse/3025 Cambridge Place NW Was,Real Estate,,1000001,5000000,0,Y,,
+"",House/1414 High Forest Drive North,Real Estate,,1000001,5000000,0,Y,,
+"",Office Building/2210 8th Street,Real Estate,,500001,1000000,0,Y,,
+"",Regions Bank/Money Market Account,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"","Discover Bank Greenwood, DE C/D",Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"","Compass Bank Birmingham, AL C/D",Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",BMW Bank NA Salt Lake City/Certificate,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"","Bank Baroda Santurce, PR C/D",Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"","Ally Bank Midvale, UT C/D",Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Bank of Tuscaloosa/Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000106,Morgan Stanley,Securities/Invest,,15001,50000,0,Y,Y,Y
+"",Centralite,Misc Mfg/Distrib,,15001,50000,0,Y,,
+"",Regions Bank /Checking,Unknown,Cash/Money Market/Savings/Checking,1001,16000,0,Y,,
+"",Vanguard Fiduciary Trust Co,Unknown,Mutual Fund,1001,15000,0,Y,,

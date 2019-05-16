@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Hilliard Lyons Govt Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,100002,200000,0,Y,,
+"",AllianceBernstein Intl Value Fund,Unknown,Mutual Fund,30002,100000,0,Y,,
+"",Illinois Municipal Retirement Fund,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"","Celtic Bsnk Salt Lake City, UT CD Bond",Unknown,Government Bond,15001,50000,0,Y,,
+"",American National Bank of Minnesota/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Putnam International New Opportunity Fd,Unknown,Mutual Fund,2002,30000,0,Y,,
+D000028131,Olin Corp,Misc Mfg/Distrib,,2002,30000,0,Y,Y,Y
+"",Lord Abbett Mid Capital Value Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",John Hancock Bank & Thrift Opportunity,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

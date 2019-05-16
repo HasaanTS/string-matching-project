@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Grabill Bank Individual Money Market,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,A,,
+"",Historic Souders of Grabill,Real Estate,,50001,100000,0,A,,
+"",Souder's General Store,Unknown,,15001,50000,0,A,,
+"",Grabill Bank/CD,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,A,,
+D000067533,Washington Post,Publishing,,1001,15000,0,A,,
+"",Tower Financial,Misc Finance,,1001,15000,0,A,,
+"",Steel Dynamics,Steel Production,,1001,15000,0,A,,
+D000000104,Lockheed Martin,Defense Aerospace,,1001,15000,0,A,Y,
+"",Flowers & Fragrance,Unknown,,1001,15000,0,A,,
+"",EMC Corp,Electronics Mfg/Eqp,,1001,15000,0,A,,
+D000042596,Callaway Golf,Recreation,,1001,15000,0,A,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,A,Y,
+D000000100,Boeing Co,Defense Aerospace,,1001,15000,0,A,Y,
+D000047781,Biomet Inc,Pharm/Health Prod,,1001,15000,0,A,,Y
+"",Applied Metals Inc,Misc Mfg/Distrib,,1001,15000,0,A,,

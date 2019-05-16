@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000024138,Arrowhead Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,Y
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",California Legislative Retirement System,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",T Rowe Price Growth Stock Fund,Unknown,Mutual Fund,126388,126388,0,Y,,
+"",Charles Schwab IRA Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,79572,79572,0,Y,,
+"","Parcel on Map 4416/San Bernadino, CA",Real Estate,,15001,50000,0,Y,,
+"",Lewis Family Trust,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,

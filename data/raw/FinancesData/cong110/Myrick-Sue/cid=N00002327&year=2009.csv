@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Northwest Mutual Life Insurance,Insurance,Insurance policies & Annuities,66003,165000,0,Y,,
+"",Wachovia Bank Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Edward Jones Money Market/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",Edward Jones Franklin Federal Tax Free,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Activa Mutual Funds-Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

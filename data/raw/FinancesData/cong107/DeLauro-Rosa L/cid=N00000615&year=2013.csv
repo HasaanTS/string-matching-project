@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Greenberg Quinlan Rosner Research,Business Services,,5000001,25000000,0,Y,,
+"",John Hancock Retirement Lifecycle 2015,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",CREF Stock,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",TIAA Traditional Fund,Unknown,"Brokerage, IRA, 401k",65002,150000,0,Y,,
+"",Pacific Life Universal Life Insurance Po,Unknown,Insurance policies & Annuities,50001,100000,0,Y,,
+"",Mass Mutual Whole Life Policy,Unknown,Insurance policies & Annuities,50001,100000,0,Y,,
+"",United Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15002,51000,0,Y,,
+"",TIAA Cref Money Market,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Liberty Bank Escrow,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Liberty Bank Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,
+"",Greenberg Research Inc,Unknown,,1,1000,0,Y,,

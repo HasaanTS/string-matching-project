@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental Property/100 Kasson Road,Real Estate,,1000001,5000000,0,A,,
+"",Axa Retirement Account/cash,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,N,,
+"",Loan/Buerkle for Congress,Unknown,Note/Note Receivable,1001,15000,0,N,,
+"",Chase IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,N,,

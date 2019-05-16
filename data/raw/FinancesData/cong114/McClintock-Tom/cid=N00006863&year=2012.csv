@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wells Fargo/CA accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Security Benefits/Investment Mix,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Oppenheimer Active Allocation Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Value Strategy Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000021765,Bank of New York Mellon,Securities/Invest,,1,1000,0,Y,Y,

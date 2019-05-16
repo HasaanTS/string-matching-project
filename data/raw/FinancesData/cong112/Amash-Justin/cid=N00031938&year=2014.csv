@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000053747,Michigan Industrial Tools,Misc Mfg/Distrib,,500001,1000000,0,O,,Y
+"",SPDR S&P 500 ETF,Securities/Invest,Mutual Fund,200003,450000,0,O,,
+"",Commercial Property,Real Estate,,100001,250000,0,O,,
+"",SSgA TARGET RETIREMENT 2050,Unknown,Mutual Fund,65002,150000,0,O,,
+"",SPDR MidCap Trust Series,Unknown,Mutual Fund,45003,150000,0,O,,
+"",Powershares QQQ Trust,Unknown,Mutual Fund,45003,150000,0,O,,
+"",SPTN 500 Index,Unknown,Mutual Fund,50001,100000,0,O,,
+"",iShares MSCI Emerging Index Fund,Unknown,Mutual Fund,17003,80000,0,O,,
+"",SPTN Ext Market Index,Unknown,Mutual Fund,15001,50000,0,O,,
+"",iShares EAFE ETF,Unknown,Mutual Fund,3003,45000,0,O,,
+"",SPTN International Index,Unknown,Mutual Fund,1001,15000,0,O,,
+"",CVSL Inc,Unknown,,1001,15000,0,O,,
+"",Chemical Bank Checking Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,O,,

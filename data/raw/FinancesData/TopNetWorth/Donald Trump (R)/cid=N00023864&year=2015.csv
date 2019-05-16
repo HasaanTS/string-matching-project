@@ -1,0 +1,358 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",40 Wall Street,Real Estate,,50015002,50050001,1,Y,,
+"",Trump Turnberry,Lodging/Tourism,,50000001,50000001,1,Y,,
+"",Trump Tower Triplex,Real Estate,,50000001,50000001,1,Y,,
+"",Trump Tower,Real Estate,,50000001,50000001,1,Y,,
+"",Trump Park Avenue,Real Estate,,50000001,50000001,1,Y,,
+"",Trump Old Post Office LLC,Real Estate,,50000001,50000001,1,Y,,
+"",Trump National Golf Club- Westchester,Recreation,,50000001,50000001,1,Y,,
+"",Trump National Golf Club- Washington DC,Recreation,,50000001,50000001,1,Y,,
+"",Trump National Golf Club- Los Angeles,Recreation,,50000001,50000001,1,Y,,
+"",Trump National Golf Club- Jupiter,Recreation,,50000001,50000001,1,Y,,
+"",Trump National Golf Club- Colts Neck,Recreation,,50000001,50000001,1,Y,,
+"",Trump National Golf Club- Bedminster,Recreation,,50000001,50000001,1,Y,,
+"",Trump National Doral,Real Estate,,50000001,50000001,1,Y,,
+"",Trump International Hotels Management,Lodging/Tourism,,50000001,50000001,1,Y,,
+"",Trump International Hotel Las Vegas,Lodging/Tourism,,50000001,50000001,1,Y,,
+"",Trump International Golf Links- Scotland,Recreation,,50000001,50000001,1,Y,,
+"",Trump Corp,Real Estate,,50000001,50000001,1,Y,,
+"",Seven Springs LLC,Real Estate,,50000001,50000001,1,Y,,
+"",Mar-A-Lago Club,Lodging/Tourism,,50000001,50000001,1,Y,,
+"",Fifty-Seventh Street Assoc,Real Estate,,50000001,50000001,1,Y,,
+"",DJT Operations I LLC,Air Transport,,50000001,50000001,1,Y,,
+"",555 California Street,Real Estate,,50000001,50000001,1,Y,,
+"",401 North Wabash Venture LLC,Real Estate,,50000001,50000001,1,Y,,
+"",1290 Avenue of the Americas,Real Estate,,50000001,50000001,1,Y,,
+D000040079,Trump Plaza,Real Estate,,25000001,50000000,0,Y,,
+"",Trump International Golf Club-Florida,Recreation,,25000001,50000000,0,Y,,
+"",Trump CPS LLC,Real Estate,,25000001,50000000,0,Y,,
+D000057158,Starrett City Assoc,Real Estate,,25000001,50000000,0,Y,,
+"",Excel Venture I LLC,Real Estate,,25000001,50000000,0,Y,,
+"",Blackrock's Obsidian Fund,Securities/Invest,,25000001,50000000,0,Y,,
+"","Trump Tower Triplex Palm Beach, FL",Real Estate,,6000002,30000000,0,Y,,
+"",809 North Canon LLC,Real Estate,,5001002,25015000,0,Y,,
+"",Trump Virginia Acquisitions LLC,"Beer, Wine & Liquor",,5000001,25000000,0,Y,,
+"",Trump Vineyard Estates LLC,"Beer, Wine & Liquor",,5000001,25000000,0,Y,,
+"",Trump National Golf Club- Hudson Valley,Recreation,,5000001,25000000,0,Y,,
+"",Trump National Golf Club - Philadelphia,Recreation,,5000001,25000000,0,Y,,
+"",Trump National Golf Club - Charlotte,Recreation,,5000001,25000000,0,Y,,
+"",Trump International Golf Links - Doonberg,Recreation,,5000001,25000000,0,Y,,
+"",Trump Ferry Point LLC,Recreation,,5000001,25000000,0,Y,,
+"",TIHT Commercial LLC,Real Estate,,5000001,25000000,0,Y,,
+"",East 61 Street Co,Real Estate,,5000001,25000000,0,Y,,
+"",DT Endeavor I,Real Estate,,5000001,25000000,0,Y,,
+"",Capital One Bank- Checking & Savings,,Cash/Money Market/Savings/Checking,5000001,25000000,0,Y,,
+"",845 United Nations Plaza,Real Estate,,5000001,25000000,0,Y,,
+"",Wollman Rink Operations,Recreation,,1000001,5000000,0,Y,,
+"",US Treasury Bills & Notes,,Government Bond,1000001,5000000,0,Y,,
+"",Trump Restaurants LLC,Real Estate,,1000001,5000000,0,Y,,
+"",Trump Productions LLC,Real Estate,,1000001,5000000,0,Y,,
+"",Trump Palace/Parc LLC,Real Estate,,1000001,5000000,0,Y,,
+"",Trump Model Management LLC,Real Estate,,1000001,5000000,0,Y,,
+"",TIHT Holding Co,Real Estate,,1000001,5000000,0,Y,,
+D000022636,Royal Bank of Canada,Commercial Banks,,1000001,5000000,0,Y,Y,Y
+"",Paulson Partners,Securities/Invest,,1000001,5000000,0,Y,,
+"",Paulson Credit Opportunities LP,,Mutual Fund,1000001,5000000,0,Y,,
+"",Paulson Advantage Plus LP,,Mutual Fund,1000001,5000000,0,Y,,
+"",Midocean Credit Opportunity Fund,,Mutual Fund,1000001,5000000,0,Y,,
+"",JP Morgan Chase Savings Account,,Cash/Money Market/Savings/Checking,1000001,5000000,0,Y,,
+"",JP Morgan Chase Checking & Savings Accounts,,Cash/Money Market/Savings/Checking,1000001,5000000,0,Y,,
+"",DT Connect II,Real Estate,,1000001,5000000,0,Y,,
+"",DT Connect Europe,Real Estate,,1000001,5000000,0,Y,,
+"",DJT Holdings LLC,Real Estate,,1000001,5000000,0,Y,,
+"",DJT Aerospace LLC,Air Transport,,1000001,5000000,0,Y,,
+"",DB Pace Acquisition LLC,Real Estate,,1000001,5000000,0,Y,,
+"",Caribusiness Investments SRL,Real Estate,,1000001,5000000,0,Y,,
+"",AG Eleven Partners LP,,Mutual Fund,1000001,5000000,0,Y,,
+"",AG Diversified Credit Strategies Fund,,Mutual Fund,1000001,5000000,0,Y,,
+"",Advantage Advisors Xanthus Fund,,Mutual Fund,1000001,5000000,0,Y,,
+"",721 33h LLC,Real Estate,,1000001,5000000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1100003,2252000,0,Y,Y,Y
+D000000200,PepsiCo Inc,Food & Beverage,,650003,1352000,0,Y,Y,Y
+D000000103,JPMorgan Chase & Co,Commercial Banks,,600002,1252000,0,Y,Y,Y
+D000067823,Alphabet Inc,Internet,,600003,1200000,0,Y,Y,Y
+D000000071,Citigroup Inc,Commercial Banks,,551003,1116000,0,Y,Y,Y
+D000019743,Wells Fargo,Commercial Banks,,550002,1101000,0,Y,Y,Y
+D000023662,Thermo Fisher Scientific,Misc Mfg/Distrib,,550002,1101000,0,Y,Y,Y
+D000025625,Ecolab Inc,Chemicals,,550002,1100000,0,Y,Y,Y
+D000000015,Chevron Corp,Oil & Gas,,550002,1100000,0,Y,Y,Y
+D000000461,Comcast Corp,Telecom Svcs,,515002,1051000,0,Y,Y,Y
+D000000076,AT&T Inc,Telephone Utilities,,501002,1016000,0,Y,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,500001,1002000,0,Y,Y,Y
+D000000206,Occidental Petroleum,Oil & Gas,,500001,1001000,0,Y,Y,Y
+D000000106,Morgan Stanley,Securities/Invest,,500001,1001000,0,Y,Y,Y
+D000000085,Goldman Sachs,Securities/Invest,,500001,1001000,0,Y,Y,Y
+"",Trump Virginia Lot 5 LLC,Real Estate,,500001,1000000,0,Y,,
+"",Trump Vineyard Estates Lot 3 Owner LLC,"Beer, Wine & Liquor",,500001,1000000,0,Y,,
+"",Trump Scotsborough Square LLC,Real Estate,,500001,1000000,0,Y,,
+"",Trump Miami Resort Management LLC,Real Estate,,500001,1000000,0,Y,,
+"",Trump Marks Asia,Real Estate,,500001,1000000,0,Y,,
+"",Toyota Motor Credit,Unknown,,500001,1000000,0,Y,,
+"",Total Capital International,Unknown,,500001,1000000,0,Y,,
+D000065292,Toronto-Dominion Bank,Commercial Banks,,500001,1000000,0,Y,Y,Y
+"",T International Realty,Real Estate,,500001,1000000,0,Y,,
+"",Spring Creek Plaza LLC,Real Estate,,500001,1000000,0,Y,,
+"",John Deere Capital Corp,Unknown,,500001,1000000,0,Y,,
+"",International BK Recon & Develop,Unknown,,500001,1000000,0,Y,,
+"",Ford Motor,Unknown,,500001,1000000,0,Y,,
+"",Fed Home LN Discount NT,Unknown,,500001,1000000,0,Y,,
+"",Deutsche Money Market Series,,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+D000019232,Caterpillar Financial Services,Unknown,,500001,1000000,0,Y,,
+"",BHP Billiton FIN USA LTD,Unknown,,500001,1000000,0,Y,,
+D000021757,Berkshire Hathaway,Securities/Invest,,500001,1000000,0,Y,Y,Y
+D000060238,Bank of Nova Scotia,Commercial Banks,,500001,1000000,0,Y,,
+D000000217,American Express,Unknown,,500001,1000000,0,Y,Y,Y
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,300002,601000,0,Y,Y,Y
+"",THC Miami Restaurant Hospitality LLC,Real Estate,,250001,500000,0,Y,,
+"",Invesco European Growth Fund,,Mutual Fund,250001,500000,0,Y,,
+"",Deutsche X Trackers MSCI Europe Hedged Hedged Equi,,Mutual Fund,250001,500000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,101002,265000,0,Y,Y,Y
+D000029689,Visa Inc,Finance/Credit,,100001,251000,0,Y,Y,Y
+D000019668,Phillips 66,Oil & Gas,,100001,251000,0,Y,Y,Y
+D000026221,Gilead Sciences,Pharm/Health Prod,,100001,251000,0,Y,Y,Y
+"",Trump Carousel LLC,Real Estate,,100001,250000,0,Y,,
+"",Signature Bank- Checking,,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Pine Hill Development,,,100001,250000,0,Y,,
+D000027998,Nike Inc,Misc Mfg/Distrib,,100001,250000,0,Y,Y,Y
+D000022105,McKesson Corp,Pharm/Health Prod,,100001,250000,0,Y,Y,Y
+"",Lamington Family Holdings,Unknown,,100001,250000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,100001,250000,0,Y,Y,Y
+"",Investment in Gold,,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,
+"",Deutsche X Trackers MSCI Japan Hedged Equity Fund,,Mutual Fund,100001,250000,0,Y,,
+D000032432,Celgene Corp,Pharm/Health Prod,,100001,250000,0,Y,Y,Y
+D000000352,Caterpillar Inc,Building Materials,,100001,250000,0,Y,Y,Y
+"","Bank United, NA- Money Market",,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",SPDR S&P 500 Trust ETF,,Mutual Fund,80003,200000,0,Y,,
+"",PrimeCap Odyssey Stock Fund,,Mutual Fund,45003,150000,0,Y,,
+"",JP Morgan US Large Cap Core Plus Fund,,Mutual Fund,45003,150000,0,Y,,
+"",JP Morgan Short-Intermediate Municipal Bond Fund,,Mutual Fund,45003,150000,0,Y,,
+"",JP Morgan Global Research ENH Index,,Mutual Fund,45003,150000,0,Y,,
+"",iShares Russell Mid Cap Index,,Mutual Fund,45003,150000,0,Y,,
+"",JP M Mid Cap Value Fund,,Mutual Fund,31003,118000,0,Y,,
+D000000281,Halliburton Co,Oil & Gas,,51002,116000,0,Y,Y,Y
+"",Prudential Total Retrn Bond,,Mutual Fund,31003,115000,0,Y,,
+D000018028,Prudential Financial Services,Unknown,,51002,115000,0,Y,,
+"",JP Morgan Tax Free Money Market INST Sweep Fund,,Cash/Money Market/Savings/Checking,31003,115000,0,Y,,
+"",iShares MSCI EAFE Index,,Mutual Fund,31003,115000,0,Y,,
+"",DoubleLine Totl Ret Bond-I,,Mutual Fund,31003,115000,0,Y,,
+"",Artisan International Value Fund,,Mutual Fund,31003,115000,0,Y,,
+D000027084,Kroger Co,Food Process/Sales,,50001,101000,0,Y,Y,Y
+D000000419,Home Depot,Retail Sales,,50001,101000,0,Y,Y,Y
+D000021651,Whitewave Foods,Dairy,,50001,100000,0,Y,Y,Y
+D000030442,TJX Companies,Retail Sales,,50001,100000,0,Y,,Y
+"",THC Central Reservations LLC,Real Estate,,50001,100000,0,Y,,
+D000069802,Sealed Air Corp,Misc Mfg/Distrib,,50001,100000,0,Y,,Y
+"",Roper Technologies,Unknown,,50001,100000,0,Y,,
+D000028227,Parker-Hannifin,Misc Mfg/Distrib,,50001,100000,0,Y,Y,Y
+D000019639,Norfolk Southern,Railroads,,50001,100000,0,Y,Y,Y
+D000000321,NextEra Energy,Electric Utilities,,50001,100000,0,Y,Y,Y
+"",Neuberger Berman Multi Cap Opp Fund,,Mutual Fund,30002,100000,0,Y,,
+"",Money Market Deposit Account,,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Mobile Payroll Construction,Unknown,,50001,100000,0,Y,,
+D000000275,Merck & Co,Pharm/Health Prod,,50001,100000,0,Y,Y,Y
+D000053592,Medivation,Pharm/Health Prod,,50001,100000,0,Y,,
+D000018653,Mead Johnson Nutritional,Pharm/Health Prod,,50001,100000,0,Y,Y,
+D000000225,L Brands,Retail Sales,,50001,100000,0,Y,Y,Y
+D000067808,Kraft Heinz Co,Food Process/Sales,,50001,100000,0,Y,Y,
+D000026667,Intuit Inc,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,Y
+D000000129,Exxon Mobil,Oil & Gas,,50001,100000,0,Y,Y,Y
+"",Extra Space Storage,Unknown,,50001,100000,0,Y,,
+D000021977,Express Scripts,Pharm/Health Prod,,50001,100000,0,Y,Y,Y
+D000043943,EOG Resources,Oil & Gas,,50001,100000,0,Y,,Y
+D000018253,Discover Financial Services,Finance/Credit,,50001,100000,0,Y,Y,Y
+"",Country Properties LLC,Unknown,,50001,100000,0,Y,,
+D000000703,Costco Wholesale,Retail Sales,,50001,100000,0,Y,,Y
+D000000100,Boeing Co,Defense Aerospace,,50001,100000,0,Y,Y,Y
+D000047109,AMETEK Inc,Misc Mfg/Distrib,,50001,100000,0,Y,,Y
+D000021700,Ameriprise Financial,Securities/Invest,,50001,100000,0,Y,Y,Y
+D000023883,Amazon.com,Internet,,50001,100000,0,Y,Y,Y
+"",JP M Interm Tax Free Bond,,Mutual Fund,17003,80000,0,Y,,
+"",FMI Large Cap Fund,,Mutual Fund,17003,80000,0,Y,,
+"",Dodge & Cox International Stock Fund,,Mutual Fund,17003,80000,0,Y,,
+"",Deutsche X-Trackers MSCI EAFE Index Fund,,Mutual Fund,17003,80000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,16002,66000,0,Y,Y,Y
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,15001,52000,0,Y,Y,Y
+D000000128,Walt Disney Co,TV/Movies/Music,,15001,51000,0,Y,Y,Y
+D000034869,JM Smucker Co,Food Process/Sales,,15001,51000,0,Y,Y,Y
+"",ConAgra Foods,Food Process/Sales,,15001,51000,0,Y,,
+"",Wmtmf Llc,Real Estate,,15001,50000,0,Y,,
+D000030824,VF Corp,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",Trump Marks Punta del Este LLC,Real Estate,,15001,50000,0,Y,,
+"",Trump Marks Panama,Real Estate,,15001,50000,0,Y,,
+"",Trump Ice LLC,Real Estate,,15001,50000,0,Y,,
+"",Trump 106 CPS LLC,Unknown,,15001,50000,0,Y,,
+"",THC IMEA Development LLC,Real Estate,,15001,50000,0,Y,,
+D000022272,T-Mobile USA,Telecom Svcs,,15001,50000,0,Y,,
+D000029036,Shire Plc,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+D000037414,Schlumberger Ltd,Oil & Gas,,15001,50000,0,Y,,Y
+D000037335,Salesforce.Com,Internet,,15001,50000,0,Y,Y,Y
+D000000341,Rite Aid Corp,Retail Sales,,15001,50000,0,Y,Y,Y
+"",OPO Hotel Manager LLC,Real Estate,,15001,50000,0,Y,,
+"",OneWest Bank Money Market,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",NXP Semiconductors,Electronics Mfg/Eqp,,15001,50000,0,Y,,
+"",Neuberger Ber MUC Opo,Unknown,,15001,50000,0,Y,,
+D000042467,Jarden Corp,Chemicals,,15001,50000,0,Y,,Y
+"",Hudson Waterfront Assoc,Real Estate,,15001,50000,0,Y,,
+"",HCA Holdings,Hospitals/Nurs Homes,,15001,50000,0,Y,,
+"",First Republic Bank- Checking,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000025689,Energy Transfer Partners,Oil & Gas,,15001,50000,0,Y,,
+"",DT Dubai II Golf Manager,Real Estate,,15001,50000,0,Y,,
+D000065635,Crown Castle International,Construction Svcs,,15001,50000,0,Y,Y,Y
+D000059096,Cognizant Technology Solutions,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+"",Broadcom Ltd,Electronics Mfg/Eqp,,15001,50000,0,Y,,
+"",Borg Warner Inc,Automotive,,15001,50000,0,Y,,
+"",American Waterworks,Misc Energy,,15001,50000,0,Y,,
+"",Advantage Bank Deposit,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000042550,Advance Auto Parts,Unknown,,15001,50000,0,Y,,Y
+D000000227,21st Century Fox,TV/Movies/Music,,15001,50000,0,Y,Y,Y
+"",Vanguard Intermediate-Term Investment-Grade Fund,,Mutual Fund,3003,45000,0,Y,,
+"",Vanguard Ftse Europe Bond,,Mutual Fund,3003,45000,0,Y,,
+"",Gotham Absolute Return Fund,,Mutual Fund,3003,45000,0,Y,,
+"",Goldman Sachs Strategic Income Fund,,Mutual Fund,3003,45000,0,Y,,
+"",Equinox Funds TR IPM Systmatc,,Mutual Fund,3003,45000,0,Y,,
+"",Eaton Vance Global Macro Fund,,Mutual Fund,3003,45000,0,Y,,
+"",Brown Advisors Japan Alpha Opportunities Fund,,Mutual Fund,3003,45000,0,Y,,
+"",Blackrock High Yield Bond Fund,,Mutual Fund,3003,45000,0,Y,,
+D000035105,Kinder Morgan Inc,Oil & Gas,,2002,30000,0,Y,Y,Y
+D000000079,Verizon Communications,Telephone Utilities,,1001,17000,0,Y,Y,Y
+D000000367,Wal-Mart Stores,Retail Sales,,1001,16000,0,Y,Y,Y
+D000000133,GlaxoSmithKline,Pharm/Health Prod,,1001,16000,0,Y,Y,Y
+"",West Palm Operations LLC,Real Estate,,1001,15000,0,Y,,
+"",Vanguard High Dividend Yield Index,,Mutual Fund,1001,15000,0,Y,,
+"",Unit 2502 Enterprises,Real Estate,,1001,15000,0,Y,,
+"",TW Venture II LLC,Real Estate,Mutual Fund,1001,15000,0,Y,,
+"",Trump Tower Managing Member,Real Estate,,1001,15000,0,Y,,
+"",Trump Marks White Plains,Real Estate,,1001,15000,0,Y,,
+"",Trump 845 UN MGR Corp,Unknown,,1001,15000,0,Y,,
+D000064283,Total SA,Chemicals,,1001,15000,0,Y,,Y
+"",THC China Development,Real Estate,,1001,15000,0,Y,,
+"",Telenor Asa,Telecom Svcs,,1001,15000,0,Y,,
+"",Tag Air Inc,Unknown,,1001,15000,0,Y,,
+"",Swiss RE Ltd,Unknown,,1001,15000,0,Y,,
+D000042525,Royal Dutch Shell,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000000175,Raytheon Co,Defense Electronics,,1001,15000,0,Y,Y,Y
+"",Orange SA,Telecom Svcs,,1001,15000,0,Y,,
+D000000172,MetLife Inc,Insurance,,1001,15000,0,Y,Y,Y
+D000000171,International Paper,Forest Products,,1001,15000,0,Y,Y,Y
+"",GS Note of Notes,,Note/Note Receivable,1001,15000,0,Y,,
+"",Global Fashion Technologies,Unknown,,1001,15000,0,Y,,
+"",Freeport-McMoran Copper & Gold,Mining,,1001,15000,0,Y,,
+"",DT Tower Gurgaon,Real Estate,,1001,15000,0,Y,,
+"",DT Marks Pune,Real Estate,,1001,15000,0,Y,,
+"",DT Marks Dubai,Real Estate,,1001,15000,0,Y,,
+"",DJT Operations CX,Air Transport,,1001,15000,0,Y,,
+"",Country Apartments LLC,Unknown,,1001,15000,0,Y,,
+D000000303,ConocoPhillips,Oil & Gas,,1001,15000,0,Y,Y,Y
+"",Citibank- Savings,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000024683,CenturyLink,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000000478,Brinker International,Food & Beverage,,1001,15000,0,Y,,Y
+D000067273,BHP Billiton,Misc Energy,,1001,15000,0,Y,Y,Y
+"",Aston Pictet International,Unknown,,1001,15000,0,Y,,
+"",Allianz SE,Insurance,,1001,15000,0,Y,,
+"",40 Wall Development Assoc,Real Estate,,1001,15000,0,Y,,
+"",Matthews Pacific Tiger Fund,,Mutual Fund,0,3000,0,Y,,
+"",Aston River RD DIV ALL CAP-I,,Mutual Fund,0,3000,0,Y,,
+D000022303,Valero Energy,Oil & Gas,,0,2000,0,Y,Y,Y
+D000055403,Philip Morris International,Tobacco,,0,2000,0,Y,Y,
+D000000125,General Electric,,Government Bond,0,2000,0,Y,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,0,2000,0,Y,Y,Y
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,0,2000,0,Y,Y,Y
+"",Baron Emerging Markets Fund,,Mutual Fund,0,2000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,0,2000,0,Y,Y,Y
+D000000391,Amgen Inc,Pharm/Health Prod,,0,2000,0,Y,Y,Y
+D000000786,Accenture,Business Services,,0,2000,0,Y,Y,Y
+D000022330,Yahoo! Inc,Internet,,0,1000,0,Y,Y,Y
+"",White Course LLC,Real Estate,,0,1000,0,Y,,
+"",Westpac Banking Corp,Commercial Banks,,0,1000,0,Y,,
+D000000161,Waste Management Inc,Waste Management,,0,1000,0,Y,Y,
+"",Wachovia Corp Bond,,Government Bond,0,1000,0,Y,,
+D000043002,VMware Inc,Internet,,0,1000,0,Y,,
+"",US Treasury Notes & Bonds,,Government Bond,0,1000,0,Y,,
+D000000348,UnitedHealth Group,Health Services,,0,1000,0,Y,Y,Y
+"",United Technologies Corp Bond,,Government Bond,0,1000,0,Y,,
+D000000081,United Parcel Service,Air Transport,,0,1000,0,Y,Y,Y
+"",Trump-Equitable Fifth Avenue Co,Real Estate,,0,1000,0,Y,,
+"",Trump Marks Waikiki,Real Estate,,0,1000,0,Y,,
+"",Trump Marks New Rochelle,Real Estate,,0,1000,0,Y,,
+"",Trump Marks Menswear LLC,Real Estate,,0,1000,0,Y,,
+"",Trump Marks Mattress LLC,Real Estate,,0,1000,0,Y,,
+"",Trump Marks LLC,Real Estate,,0,1000,0,Y,,
+"",Trump Marks Istanbul II,Real Estate,,0,1000,0,Y,,
+"",Trump International Hotel Hawaii LLC,Real Estate,,0,1000,0,Y,,
+"",Trump Home Marks LLC,Real Estate,,0,1000,0,Y,,
+"",Trump Golf Acquisition LLC,Recreation,,0,1000,0,Y,,
+"",Trump Canouan Estate LLC,Real Estate,,0,1000,0,Y,,
+"",Trump Books LLC The Midas Touch,Unknown,,0,1000,0,Y,,
+"",Travel Enterprises Management,Unknown,,0,1000,0,Y,,
+D000057746,TransCanada Pipelines,Oil & Gas,,0,1000,0,Y,,
+D000000094,Time Warner,Telecom Svcs,,0,1000,0,Y,Y,Y
+"",THC Baku Services LLC,Real Estate,,0,1000,0,Y,,
+D000000638,Starwood Hotels & Resorts Worldwide,Lodging/Tourism,,0,1000,0,Y,Y,
+"",Shell International Fin,Unknown,,0,1000,0,Y,,
+D000000215,Sanofi-Aventis,Pharm/Health Prod,,0,1000,0,Y,Y,Y
+D000000092,Reynolds American,Tobacco,,0,1000,0,Y,Y,Y
+D000067512,Regeneron Pharmaceuticals,Pharm/Health Prod,,0,1000,0,Y,Y,Y
+"",Regal Beloit Corp,Misc Mfg/Distrib,,0,1000,0,Y,,
+"",Province of Quebec,Unknown,,0,1000,0,Y,,
+D000059510,Pioneer Natural Resources,Oil & Gas,,0,1000,0,Y,Y,Y
+"",Parametric Emerging Markets,,Mutual Fund,0,1000,0,Y,,
+"",Palo Alto Networks,Electronics Mfg/Eqp,,0,1000,0,Y,,
+"",NPS Pharmaceuticals,Pharm/Health Prod,,0,1000,0,Y,,
+D000021780,NBCUniversal Media,TV/Movies/Music,,0,1000,0,Y,,
+D000000055,Monsanto Co,Agricultural Svcs,,0,1000,0,Y,Y,Y
+D000067057,Mondelez International,Food Process/Sales,,0,1000,0,Y,Y,Y
+"",Miss Universe LP,Unknown,,0,1000,0,Y,,
+"",Melania LLC,Unknown,,0,1000,0,Y,,
+D000022108,Medco Health Solutions,Health Services,,0,1000,0,Y,,
+"",McDonald's Corp Bond,Unknown,,0,1000,0,Y,,
+D000000373,McDonald's Corp,Food & Beverage,,0,1000,0,Y,Y,Y
+D000022099,MasterCard Inc,Finance/Credit,,0,1000,0,Y,Y,Y
+"",MA Water Pollution-17 Bond,,Government Bond,0,1000,0,Y,,
+"",Lyondell Basell Industries,Unknown,,0,1000,0,Y,,
+D000026978,Kellogg Co,Food Process/Sales,,0,1000,0,Y,Y,Y
+"",Ishares MSCI Pacific Ex Japa,,Mutual Fund,0,1000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,0,1000,0,Y,Y,Y
+D000021794,HSBC Finance Corp,Unknown,,0,1000,0,Y,,
+"",Hewlett-Packard Co Bond,Unknown,,0,1000,0,Y,,
+D000026470,Hershey Co,Food & Beverage,,0,1000,0,Y,Y,Y
+D000019577,Georgia Power,Electric Utilities,,0,1000,0,Y,,
+D000000155,General Motors,Automotive,,0,1000,0,Y,Y,Y
+D000000125,General Electric,Unknown,,0,1000,0,Y,Y,Y
+D000020679,Ford Motor Credit Co,Finance/Credit,,0,1000,0,Y,,
+D000000205,Fannie Mae,Real Estate,,0,1000,0,Y,,Y
+D000000854,Expedia Inc,Internet,,0,1000,0,Y,Y,Y
+D000021970,Ebay Inc,Internet,,0,1000,0,Y,Y,Y
+"",DT Marks Lido,Real Estate,,0,1000,0,Y,,
+"",DT Marks Bali,Real Estate,,0,1000,0,Y,,
+"",DT Lido Technical Services Manager,Real Estate,,0,1000,0,Y,,
+"",DT Home Marks International,Real Estate,,0,1000,0,Y,,
+"",DT Dubai Golf Manager,Real Estate,,0,1000,0,Y,,
+"",DT Bali Technical Services Manager,Real Estate,,0,1000,0,Y,,
+D000050167,Dicks Sporting Goods,Misc Mfg/Distrib,,0,1000,0,Y,,Y
+D000000408,Deere & Co,Agricultural Svcs,,0,1000,0,Y,Y,Y
+D000025214,CVS Health,Retail Sales,,0,1000,0,Y,Y,Y
+"",Charles Schwab,Unknown,,0,1000,0,Y,,
+"",Caterpillar Financial SE Bond,Unknown,,0,1000,0,Y,,
+D000048309,CareFusion,Unknown,,0,1000,0,Y,,Y
+D000021891,Capital One Financial,Finance/Credit,,0,1000,0,Y,Y,Y
+"",California Resources Corp,Unknown,,0,1000,0,Y,,
+"",Burlingtn North Santa Fe Bond,,Government Bond,0,1000,0,Y,,
+"",BP Capital Markets,Oil & Gas,,0,1000,0,Y,,
+"",Baron Small Cap Fund,,Mutual Fund,0,1000,0,Y,,
+"",Baron Real Estate Fund,,,0,1000,0,Y,,
+"",Baron Partners Fund,,Mutual Fund,0,1000,0,Y,,
+"",Baron Opportunity Fund,,Mutual Fund,0,1000,0,Y,,
+"",Baron International Growth Fund,,Mutual Fund,0,1000,0,Y,,
+"",Baron Growth Fund,,Mutual Fund,0,1000,0,Y,,
+"",Baron Focused Growth Fund,,Mutual Fund,0,1000,0,Y,,
+"",Baron Energy & Resources Fund,Misc Energy,,0,1000,0,Y,,
+"",Baron Asset Fund,,Mutual Fund,0,1000,0,Y,,
+D000060210,Avago Technologies,Electronics Mfg/Eqp,,0,1000,0,Y,,
+D000023159,Anthem Inc,Health Services,,0,1000,0,Y,,
+D000042510,Anheuser-Busch InBev,"Beer, Wine & Liquor",,0,1000,0,Y,Y,Y
+D000000459,Anadarko Petroleum,Oil & Gas,,0,1000,0,Y,Y,Y
+"",American Express Credit Bond,,Government Bond,0,1000,0,Y,,
+D000000067,Altria Group,Tobacco,,0,1000,0,Y,Y,Y
+D000023785,Agrium Inc,Agricultural Svcs,,0,1000,0,Y,,
+"",Aberdeen Global High Inc,Unknown,,0,1000,0,Y,,

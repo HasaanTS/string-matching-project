@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000067,Altria Group,Tobacco,,350002,750000,0,Y,Y,Y
+"",Intention Equity Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",116 & Melbourne Branson,Real Estate,,100001,250000,0,Y,,
+"",US Government & Obligation Bond Fund,Unknown,Government Bond,50001,100000,0,Y,,
+"",Farmland/10 acres,Crop Production,,50001,100000,0,Y,,
+"",Churchill Coffee,Food & Beverage,,50001,100000,0,Y,,
+D000000104,Lockheed Martin,Defense Aerospace,,15001,50000,0,Y,Y,Y
+"",Vanguard Growth Portfolio,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Most Aggressive Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Hartford Capital Appreciation Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y

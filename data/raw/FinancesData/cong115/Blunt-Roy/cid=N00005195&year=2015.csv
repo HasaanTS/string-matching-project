@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Abigail P Blunt Revocable Trust Lot 32,Misc Finance,,1000001,5000000,0,Y,,
+D000028394,PMI Group,Real Estate,,200002,500000,0,Y,,
+D000067808,Kraft Heinz Co,Food Process/Sales,,115002,300000,0,Y,Y,Y
+D000000067,Altria Group,Tobacco,,101002,265000,0,Y,Y,Y
+"",US Mid-Cap Equity Index,,Mutual Fund,100001,250000,0,Y,,
+"",US Large Cap Equity Index,,Mutual Fund,100001,250000,0,Y,,
+"",Mondelez,Food Process/Sales,,100001,250000,0,Y,,
+"",International Equity Fund,,Mutual Fund,100001,250000,0,Y,,
+"",US Government Obligations,,Mutual Fund,50001,100000,0,Y,,
+"",Mondelez,Unknown,,50001,100000,0,Y,,
+D000000104,Lockheed Martin,Defense Aerospace,,50001,100000,0,Y,Y,Y
+"",Interest Income Fund,,Mutual Fund,50001,100000,0,Y,,
+"","11 Undeveloped Acres in Strafford, MO",Real Estate,,50001,100000,0,Y,,
+"",Most Aggressive Fund,,Mutual Fund,15001,50000,0,Y,,
+"",Churchill Coffee,Food & Beverage,,15001,50000,0,Y,,
+"",Vanguard Growth Fund,,Mutual Fund,1001,15000,0,Y,,
+"",Hartford Capitol Appreciated,,Mutual Fund,1001,15000,0,Y,,

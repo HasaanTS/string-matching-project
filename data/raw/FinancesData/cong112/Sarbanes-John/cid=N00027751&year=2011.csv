@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wachovia (now WELLS FARGO) Bank Accounts,Unknown,,15001,50000,0,Y,,
+"",Vanguard Target Retirement 2030,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Maryland College Investment Plans,Unknown,,15001,50000,0,Y,,
+"",ING Direct bank account,Unknown,,15001,50000,0,Y,,
+"",American Washington Mutual Investors,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American Capital World Growth & Income,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Wachovia Traditional I,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Van Kampen Growth & Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Morgan Stanley Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Citibank bank account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000033211,Dodge & Cox,Securities/Invest,Mutual Fund,1,1000,0,Y,,

@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",American Funds Capital Income Builder Fund,,Mutual Fund,101002,265000,0,A,,
+"",Hanston Insurance Agency,Insurance,Insurance policies & Annuities,100001,250000,0,A,,
+D000000129,Exxon Mobil,Oil & Gas,,100001,250000,0,A,Y,
+"",Investment Co of America,Securities/Invest,,51002,115000,0,A,,
+"",Fidelity Growth Opportunity Fund,,Mutual Fund,30002,100000,0,A,,
+"",Income Fund of America,,Mutual Fund,16002,65000,0,A,,
+"",Bank of Hays Savings,,Cash/Money Market/Savings/Checking,16002,65000,0,A,,
+D000037414,Schlumberger Ltd,Oil & Gas,,15001,50000,0,A,,
+"",MFS Massachusetts Investors Trust,,Mutual Fund,15001,50000,0,A,,
+D000000281,Halliburton Co,Oil & Gas,,15001,50000,0,A,Y,
+"",First Trust Co of Onaga Money Market Account,,"Brokerage, IRA, 401k",15001,50000,0,A,,
+D000000015,Chevron Corp,Oil & Gas,,15001,50000,0,A,Y,
+D000000100,Boeing Co,Defense Aerospace,,15001,50000,0,A,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,A,Y,Y
+"",First Clearing Money Market Account,,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",First Clearing Money Market,,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Transocean Ltd,Oil & Gas,,0,1000,0,A,,

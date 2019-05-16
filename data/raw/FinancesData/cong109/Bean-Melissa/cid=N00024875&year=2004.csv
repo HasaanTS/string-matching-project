@@ -1,0 +1,31 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,16002,65000,0,Y,Y,Y
+"",David Noyes Money Market,Unknown,Cash/Money Market/Savings/Checking,16002,65000,0,Y,,
+"",Fidelity Treasury,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Evergreen Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000603,Winn-Dixie Stores,Food Process/Sales,,2002,30000,0,Y,,
+"",Walgreen Co,Retail Sales,,2002,30000,0,Y,,
+D000021677,SBC Communications,Telephone Utilities,,2002,30000,0,Y,,
+"",Nokia Corp,Telecom Svcs,,2002,30000,0,Y,,
+"",New York Community Bancorp,Commercial Banks,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Neuberger Berman Real Estate,Real Estate,,2002,30000,0,A,,
+D000000275,Merck & Co,Pharm/Health Prod,,2002,30000,0,Y,Y,
+D000000530,Lucent Technologies,Telecom Svcs,,2002,30000,0,Y,Y,
+"",Kohls Corp,Retail Sales,,2002,30000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,2002,30000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,2002,30000,0,Y,Y,
+D000000163,Freddie Mac,Real Estate,Unknown,2002,30000,0,Y,Y,
+"",Fleet Boston Financial,Misc Finance,,2002,30000,0,Y,,
+D000021981,Fidelity National Financial,Real Estate,,2002,30000,0,Y,Y,
+D000021802,ABN AMRO,Commercial Banks,,2002,30000,0,Y,Y,Y
+"",Vertical Net,Unknown,,1001,15000,0,Y,,
+"",Reserve Primary Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Putnam Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Kulicke & Soffa Industries,Unknown,,1001,15000,0,Y,,
+"",Income Fund of America,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000043708,General Maritime,Unknown,,1001,15000,0,Y,,
+"",Franklin Templeton Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000022907,AllianceBernstein LP,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",AllianceBernstein Large Cap Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000034331,Harris Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

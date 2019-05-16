@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000020730,Chase Bank,Commercial Banks,Unknown,50001,100000,0,Y,,
+"",New York State Pension,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Nassau County Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

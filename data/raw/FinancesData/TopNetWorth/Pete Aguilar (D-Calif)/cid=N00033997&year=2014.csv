@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental Property/Redlands,CA",Real Estate,,100001,250000,0,A,,
+"",John Hancock 401K Traditional Account Lifestyle Tr,Unknown,Mutual Fund,50001,100000,0,A,,
+"",TIAA CREF 401K TC Lifecycle 2045-Prem,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Southern California Strategic Advocacy,Unknown,,15001,50000,0,A,,
+"",TIAA Traditional Fund,Unknown,Mutual Fund,2002,30000,0,A,,
+"",CREF Social Choice CREF M721221-2,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",CREF Social Choice CREF 4641615-2,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",Arrowhead Central Credit Union Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",AAA Universal Life Insurance,Unknown,Insurance policies & Annuities,1001,15000,0,A,,

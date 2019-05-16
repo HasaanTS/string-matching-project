@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Highnight Building,Real Estate,,100001,250000,0,T,,
+"",St Giuseppe's Heavenly Pizza,Food & Beverage,,50001,100000,0,T,,
+"","Personal Residence/Coloma, IL",Real Estate,,50001,100000,0,T,,
+"",Land,Real Estate,,50001,100000,0,T,,
+"",Money Market Funds,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,T,,

@@ -1,0 +1,157 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Calamos Growth & Income Fund,Unknown,Mutual Fund,50001,100000,0,A,,
+D000000391,Amgen Inc,Pharm/Health Prod,,19733,54732,0,A,Y,Y
+"",Dreyfus Liquid Assets,Unknown,Cash/Money Market/Savings/Checking,24545,24545,0,A,,
+"",Wells Fargo Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Seligman Global Technology,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Seligman Communications & Info Fund,Misc Communications,,1001,15000,0,A,,
+"",Pace Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Geodyne Energy Income Program Oil Wells,Oil & Gas,,1001,15000,0,Y,,
+"",Dreyfus Premier Technology Growth Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+D000000071,Citibank Bank Deposit Program,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,Y,Y
+D000000071,Citibank Bank Deposit Program,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,Y,Y
+"",Boettcher 1981-2 Drilling Program,Oil & Gas,,1001,15000,0,Y,,
+"",Bank of America/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank of America/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,8533,8533,0,A,Y,Y
+D000000138,Pfizer Inc,Pharm/Health Prod,,8512,8512,0,A,Y,Y
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,8054,8054,0,A,Y,Y
+D000000681,Kerr-McGee Corp,Oil & Gas,,7723,7723,0,A,Y,
+D000000348,UnitedHealth Group,Health Services,,7457,7457,0,A,Y,Y
+D000000076,AT&T Inc,Telephone Utilities,,7249,7249,0,A,Y,Y
+"",Biogen Idec,Pharm/Health Prod,,7018,7018,0,A,,
+"",Computer Assoc International,Electronics Mfg/Eqp,,6625,6625,0,A,,
+D000021941,Countrywide Financial,Real Estate,,6462,6462,0,A,Y,Y
+D000000174,Lehman Brothers,Securities/Invest,,6409,6409,0,A,Y,Y
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,6193,6193,0,A,Y,Y
+D000000677,Hartford Financial Services,Insurance,,6012,6012,0,A,Y,Y
+D000027589,Micron Technology,Electronics Mfg/Eqp,,5989,5989,0,A,Y,
+"",Liberty Media,TV/Movies/Music,,5982,5982,0,A,,
+"",Rio Tinto Plc,Mining,,5484,5484,0,A,,
+D000000123,American International Group,Insurance,,5458,5458,0,A,Y,Y
+D000022192,Pitney Bowes Inc,Misc Mfg/Distrib,,5366,5366,0,A,Y,
+D000000104,Lockheed Martin,Defense Aerospace,,5345,5345,0,A,Y,Y
+D000068481,Genzyme Corp,Pharm/Health Prod,,5309,5309,0,A,,Y
+D000045053,Noble Energy,Oil & Gas,,5078,5078,0,A,,
+D000022234,Safeway Inc,Food Process/Sales,,4969,4969,0,A,Y,Y
+D000000722,Texas Instruments,Electronics Mfg/Eqp,,4811,4811,0,A,Y,Y
+D000030608,Unilever,Misc Mfg/Distrib,,4806,4806,0,A,Y,
+"",Albertson's Inc,Food Process/Sales,,4804,4804,0,A,,
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,4772,4772,0,A,Y,
+D000000108,Merrill Lynch,Securities/Invest,,4741,4741,0,A,Y,Y
+"",Sandisk Corp,Electronics Mfg/Eqp,,4712,4712,0,A,,
+D000021766,Genworth Financial,Insurance,,4703,4703,0,A,Y,Y
+D000000182,Ford Motor Co,Automotive,,4632,4632,0,A,Y,Y
+D000042332,Nestle SA,Food & Beverage,,4485,4485,0,A,Y,
+D000000079,Verizon Communications,Telephone Utilities,,4458,4458,0,A,Y,Y
+D000000205,Fannie Mae,Real Estate,,4442,4442,0,A,Y,
+D000019743,Wells Fargo,Commercial Banks,,4398,4398,0,A,Y,Y
+D000029782,Weatherford International,Oil & Gas,,4344,4344,0,A,Y,
+"",NTT Group,Telephone Utilities,,4334,4334,0,A,,
+D000000155,General Motors,Automotive,,4272,4272,0,A,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,4233,4233,0,A,Y,Y
+D000000596,Genentech Inc,Pharm/Health Prod,,4163,4163,0,A,,
+D000052162,Ingersoll-Rand,Misc Mfg/Distrib,,4037,4037,0,A,Y,
+D000000071,Citigroup Inc,Commercial Banks,,4028,4028,0,A,Y,Y
+"",Chiron Corp,Pharm/Health Prod,,4000,4000,0,A,,
+D000000128,Walt Disney Co,TV/Movies/Music,,3955,3955,0,A,Y,Y
+D000000419,Home Depot,Retail Sales,,3846,3846,0,A,Y,Y
+D000042029,Deutsche Telekom,Telephone Utilities,,3825,3825,0,A,Y,Y
+D000000275,Merck & Co,Pharm/Health Prod,,3817,3817,0,A,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,3766,3766,0,A,Y,Y
+"",Tyco International,Pharm/Health Prod,,3752,3752,0,A,,
+"",Marks & Spencer,Unknown,,3745,3745,0,A,,
+D000042502,Hitachi Ltd,Electronics Mfg/Eqp,,3707,3707,0,A,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,3680,3680,0,A,Y,Y
+"",Sprint Nextel,Telecom Svcs,,3668,3668,0,A,,
+D000000094,Time Warner,TV/Movies/Music,,3662,3662,0,A,Y,Y
+D000021802,ABN Amro Holdings,Commercial Banks,,3633,3633,0,A,Y,
+D000000118,Union Pacific Corp,Railroads,,3623,3623,0,A,Y,Y
+D000000461,Comcast Corp,Telecom Svcs,,3597,3597,0,A,Y,Y
+D000027084,Kroger Co,Food Process/Sales,,3587,3587,0,A,Y,Y
+D000028508,Radian Group,Real Estate,,3574,3574,0,A,,
+"",Chrysler LLC,Automotive,,3572,3572,0,A,,
+D000000099,BellSouth Corp,Telephone Utilities,,3523,3523,0,A,,
+D000021884,Cablevision Systems,Telecom Svcs,,3521,3521,0,A,Y,
+D000000171,International Paper,Forest Products,,3495,3495,0,A,Y,Y
+D000033753,Forest Laboratories,Pharm/Health Prod,,3458,3458,0,A,Y,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,3447,3447,0,A,Y,Y
+"",BT Group,Telecom Svcs,,3416,3416,0,A,,
+D000000296,Aetna Inc,Health Services,,3395,3395,0,A,Y,Y
+D000000607,Xerox Corp,Misc Mfg/Distrib,,3370,3370,0,A,Y,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,3306,3306,0,A,Y,Y
+"",Mitsubishi UFJ Financial,Misc Finance,,3149,3149,0,A,,
+D000021573,Wachovia Corp,Commercial Banks,,3066,3066,0,A,Y,Y
+"",Telefonica SA,Unknown,,3061,3061,0,A,,
+D000000570,Eastman Kodak,Misc Mfg/Distrib,,3042,3042,0,A,Y,
+"",Dell Inc,Electronics Mfg/Eqp,,2995,2995,0,A,,
+"",Fuji Photo Film,Misc Mfg/Distrib,,2989,2989,0,A,,
+"",Brasil Telecom Participacoes,Telecom Svcs,,2988,2988,0,A,,
+D000023834,Alcatel-Lucent,Telecom Svcs,,2976,2976,0,A,,
+D000000200,PepsiCo Inc,Food & Beverage,,2954,2954,0,A,Y,Y
+D000021757,Berkshire Hathaway,Securities/Invest,,2936,2936,0,A,Y,Y
+"",Electrobras SA,Electric Utilities,,2929,2929,0,A,,
+D000000223,Schering-Plough Corp,Pharm/Health Prod,,2919,2919,0,A,Y,Y
+D000000303,ConocoPhillips,Oil & Gas,,2909,2909,0,A,Y,Y
+"",EDS Corp,Electronics Mfg/Eqp,,2885,2885,0,A,,
+D000022068,L-3 Communications,Defense Electronics,,2802,2802,0,A,Y,
+"",Unicredito Italiano,Unknown,,2800,2800,0,A,,
+D000046566,Akzo Nobel Polymer Chemicals,Chemicals,,2765,2765,0,A,,
+D000045868,Barrick Gold Corp,Mining,,2663,2663,0,A,Y,
+D000058630,William Wrigley Jr Co,Food Process/Sales,,2660,2660,0,A,,
+D000023883,Amazon.com,Internet,,2593,2593,0,A,Y,Y
+"",Imclone Systems,Pharm/Health Prod,,2568,2568,0,A,,
+D000000133,GlaxoSmithKline,Pharm/Health Prod,,2524,2524,0,A,Y,Y
+"",Telefonos de Mexico,Telephone Utilities,,2468,2468,0,A,,
+"",IAC/Interactive Corp,Internet,,2406,2406,0,A,,
+D000000335,Dominion Resources,Electric Utilities,,2393,2393,0,A,Y,Y
+"",KT Corp,Telecom Svcs,,2371,2371,0,A,,
+D000022330,Yahoo! Inc,Internet,,2351,2351,0,A,Y,Y
+"",Pall Corp,Unknown,,2283,2283,0,A,,
+D000019838,Agilent Technologies,Electronics Mfg/Eqp,,2264,2264,0,A,Y,
+D000000067,Altria Group,Tobacco,,2242,2242,0,A,Y,Y
+D000027631,Millennium Pharmaceuticals,Pharm/Health Prod,,2037,2037,0,A,Y,
+D000000854,Expedia Inc,Internet,,2037,2037,0,A,,
+D000057203,STMicroelectronics,Electronics Mfg/Eqp,,1980,1980,0,A,,
+D000031718,Autodesk Inc,Electronics Mfg/Eqp,,1932,1932,0,A,Y,
+"",Koninklijke Ahold Nv,Food Process/Sales,,1883,1883,0,A,,
+"",MGIC Investment,Real Estate,,1843,1843,0,A,,
+D000042046,Lexmark International,Electronics Mfg/Eqp,,1793,1793,0,A,Y,
+"",Posco,Unknown,,1782,1782,0,A,,
+D000000751,Tenet Healthcare,Hospitals/Nurs Homes,,1762,1762,0,A,Y,Y
+D000022332,Zurich Financial Services,Insurance,,1742,1742,0,A,Y,Y
+D000000691,Goodyear Tire & Rubber,Chemicals,,1738,1738,0,A,Y,Y
+"",Millea Holdings,Unknown,,1721,1721,0,A,,
+"",J Sainsbury PLC,,,1689,1689,0,A,,
+D000022261,Sony Corp,Electronics Mfg/Eqp,,1632,1632,0,A,Y,
+D000031877,Bed Bath & Beyond,Retail Sales,,1627,1627,0,A,,
+D000000130,El Paso Corp,Oil & Gas,,1581,1581,0,A,Y,Y
+"",Electronic Arts,Electronics Mfg/Eqp,,1569,1569,0,A,,
+D000045867,Aegon NV,Insurance,,1550,1550,0,A,Y,
+D000000459,Anadarko Petroleum,Oil & Gas,,1421,1421,0,A,Y,Y
+D000000129,Exxon Mobil,Oil & Gas,,1404,1404,0,A,Y,Y
+D000049849,Cree Inc,Electronics Mfg/Eqp,,1388,1388,0,A,Y,
+"",Morrisons Supermarkets,Food Process/Sales,,1386,1386,0,A,,
+"",Jardine Matheson Holdings,Unknown,,1376,1376,0,A,,
+D000021844,AON Corp,Insurance,,1375,1375,0,A,Y,Y
+D000042113,Volkswagen AG,Automotive,,1265,1265,0,A,Y,
+D000000015,Chevron Corp,Oil & Gas,,1245,1245,0,A,Y,Y
+"",Banco Santander Central Hispano,Commercial Banks,,1187,1187,0,A,,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,1145,1145,0,A,Y,Y
+D000021983,Fifth Third Bancorp,Commercial Banks,,1132,1132,0,A,,Y
+D000000530,Lucent Technologies,Telecom Svcs,,1117,1117,0,A,Y,
+D000022291,Unisys Corp,Electronics Mfg/Eqp,,1108,1108,0,A,Y,
+D000022877,Burlington Resources,Oil & Gas,,1020,1020,0,A,,
+"",Paine Webber R&D LP,Unknown,"Brokerage, IRA, 401k",0,1000,0,A,,
+D000000207,Loews Corp,Insurance,,949,949,0,A,Y,Y
+D000000449,Nortel Networks,Telecom Svcs,,887,887,0,A,Y,
+"",Portugal Telecom,Telecom Svcs,,806,806,0,A,,
+D000000090,Bank of America,Commercial Banks,,739,739,0,A,Y,Y
+"",Telecomunicacoes Brasileiras,Telephone Utilities,,687,687,0,A,,
+"",Discovery Holding Co,Unknown,,515,515,0,A,,
+D000035372,Liberty Global,Telecom Svcs,,219,219,0,A,,
+"",Invensys Plc,Unknown,,159,159,0,A,,
+"",Tele Centro Oeste Celular,Unknown,,34,34,0,A,,
+"",Tim Participacoes Sa,Unknown,,25,25,0,A,,
+"",Contax Participacoes SA,Unknown,,24,24,0,A,,
+"",Telesp Celular Part Sp,Unknown,,8,8,0,A,,

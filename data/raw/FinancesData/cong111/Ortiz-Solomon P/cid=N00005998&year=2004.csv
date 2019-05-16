@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Amtex Security,Business Services,,250001,500000,0,Y,,
+"",Equitable Non-Qualified Annuity,Unknown,Insurance policies & Annuities,100001,250000,0,Y,,
+"",Wright Patman Congressional FCU,Credit Unions,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Equitable Deferred Annunity IRA,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"","2104 Lago Viejo South/Rancho Viejo, TX",Real Estate,,15001,50000,0,Y,,
+"","1011 Ennis Joslin/Corpus Christi, TX",Real Estate,,15001,50000,0,Y,,
+"",Bank of America/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

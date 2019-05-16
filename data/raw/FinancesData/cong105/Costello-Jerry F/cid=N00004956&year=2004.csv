@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",West Pointe Bancorp,Unknown,,100002,200000,0,Y,,
+D000037797,State of Illinois,Civil Servants,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",65002,150000,0,Y,Y,Y
+"",Putnam Intl New Opportunities Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Lord Abbett Mid Capital Value Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Boston Advisors US Govt Money Market,Unknown,Cash/Money Market/Savings/Checking,2,2000,0,Y,,

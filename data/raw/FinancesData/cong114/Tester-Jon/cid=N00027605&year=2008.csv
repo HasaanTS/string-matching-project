@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Farmland/Big Sandy, MT",Crop Production,,500001,1000000,0,Y,,
+"",T-Bone Farms,Livestock,,100001,250000,0,Y,,
+"",Scudder US Govt Securities,Unknown,Mutual Fund,0,1000,0,Y,,
+D000000573,American Electric Power,Electric Utilities,,0,1000,0,Y,Y,

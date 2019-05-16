@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Old Orchard Land Trust,Real Estate,,500001,1000000,0,T,,
+"",Menards Peoria LLC,Unknown,,500001,1000000,0,T,,
+"",Aurelia Properties LLC,Unknown,,250001,500000,0,T,,
+"","Wells Fargo, IRA",,"Brokerage, IRA, 401k",50001,100000,0,T,,
+D000019743,Wells Fargo,Commercial Banks,,50001,100000,0,T,Y,
+"",Citizens Equity FirstCredit Union,,"Brokerage, IRA, 401k",50001,100000,0,T,,

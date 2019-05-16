@@ -1,0 +1,41 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Residence/Washington, DC",Real Estate,,500001,1000000,0,Y,,
+"",US Senate Federal Credit Union Accounts,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,Y,Y
+"",Ranch Land/359 acres,Real Estate,,1001,15000,0,Y,,
+"",Public Employee Retirement System of Idaho,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Riversource Low Duration Bond Fund,Unknown,Mutual Fund,10485,10485,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,6773,6773,0,Y,Y,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,5996,5996,0,Y,,
+D000065629,Concho Resources,Oil & Gas,,5961,5961,0,Y,,
+"",Calamos Growth Fund,Unknown,Mutual Fund,5765,5765,0,Y,,
+"",PIMCO RealReturn Fund,Unknown,Mutual Fund,5446,5446,0,Y,,
+D000025492,Diamond Foods,Crop Production,,4945,4945,0,Y,,
+D000000467,General Mills,Food Process/Sales,,4804,4804,0,Y,Y,
+"",Core Lab Nv,Unknown,,4274,4274,0,Y,,
+D000000071,Citigroup Inc,Commercial Banks,,4200,4200,0,Y,Y,Y
+D000029955,YUM! Brands,Food & Beverage,,3727,3727,0,Y,Y,
+"",Dollar Tree Inc,Retail Sales,,3645,3645,0,Y,,
+D000026493,Hms Holdings,Business Services,,3497,3497,0,Y,Y,
+D000021977,Express Scripts,Health Services,,3297,3297,0,Y,Y,
+"",Eaton Vance Global Macro Absolute Return,Unknown,Mutual Fund,3296,3296,0,Y,,
+D000032139,Broadcom Corp,Electronics Mfg/Eqp,,3179,3179,0,Y,,Y
+D000064935,National Oilwell Varco,Oil & Gas,,3026,3026,0,Y,Y,
+D000000118,Union Pacific Corp,Railroads,,2965,2965,0,Y,Y,Y
+"",SPDR Gold Trust ETF,Mining,,2774,2774,0,Y,,
+D000000744,Eastman Chemical,Chemicals,,2774,2774,0,Y,Y,
+D000026667,Intuit Inc,Electronics Mfg/Eqp,,2760,2760,0,Y,Y,
+D000027765,Mylan Inc,Pharm/Health Prod,,2746,2746,0,Y,Y,
+D000000352,Caterpillar Inc,Building Materials,,2622,2622,0,Y,Y,Y
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,2472,2472,0,Y,Y,Y
+D000019828,Emerson Electric,Misc Mfg/Distrib,,2458,2458,0,Y,Y,
+D000046623,Albemarle Corp,Chemicals,,2454,2454,0,Y,Y,
+D000026987,Kennametal Inc,Misc Mfg/Distrib,,2249,2249,0,Y,Y,
+"",First Tr Consumer Staples Alphadex Fund,Unknown,Mutual Fund,2215,2215,0,Y,,
+D000024059,Amerigroup Corp,Health Services,,2196,2196,0,Y,Y,Y
+D000021852,Assurant Inc,Insurance,,2041,2041,0,Y,Y,
+"",Veeco Instruments,Unknown,,1976,1976,0,Y,,
+"",Jabil Circuit,Electronics Mfg/Eqp,,1968,1968,0,Y,,
+D000024873,Cliffs Natural Resources,Mining,,1872,1872,0,Y,Y,
+D000036624,Perrigo Co,Pharm/Health Prod,,1709,1709,0,Y,Y,
+D000000182,Ford Motor Co,Automotive,,1595,1595,0,Y,Y,Y

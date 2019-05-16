@@ -1,0 +1,47 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000021800,3M Co,Misc Mfg/Distrib,,600002,1250000,0,A,Y,
+D000000722,Texas Instruments,Electronics Mfg/Eqp,,500001,1000000,0,A,Y,
+D000000275,Merck & Co,Pharm/Health Prod,,500001,1000000,0,A,Y,
+D000000212,Coca-Cola Co,Food & Beverage,,500001,1000000,0,A,Y,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,400003,850000,0,A,Y,
+"",Dollar Bank Account,Unknown,Cash/Money Market/Savings/Checking,350002,750000,0,A,,
+"",Morgan Stanley Bank,Unknown,Cash/Money Market/Savings/Checking,251002,515000,0,A,,
+"",SPDR Trust Series 1 Fund,Unknown,Mutual Fund,250001,500000,0,A,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,200002,500000,0,A,Y,
+D000021977,Express Scripts,Health Services,,250001,500000,0,A,Y,Y
+D000000015,Chevron Corp,Oil & Gas,,150002,350000,0,A,Y,Y
+"",Washington Mutual Investors Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+D000000079,Verizon Communications,Telephone Utilities,,100001,250000,0,A,Y,Y
+"",BNY Mellon International Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+D000000076,AT&T Inc,Telephone Utilities,,100001,250000,0,A,Y,Y
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,65002,150000,0,A,Y,Y
+D000022195,PPL Corp,Electric Utilities,,50001,100000,0,A,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,50001,100000,0,A,Y,Y
+D000000129,Exxon Mobil,Oil & Gas,,50001,100000,0,A,Y,Y
+D000000166,Eli Lilly & Co,Pharm/Health Prod,,50001,100000,0,A,Y,
+"",Dreyfus Disciplined Stock Fund,Unknown,Mutual Fund,50001,100000,0,A,,
+D000000188,Dow Chemical,Chemicals,,50001,100000,0,A,Y,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,50001,100000,0,A,Y,
+"",BNY Mellon Mid Cap Fund,Unknown,Mutual Fund,50001,100000,0,A,,
+"",BNY Mellon Emerging Market Fund,Unknown,Mutual Fund,50001,100000,0,A,,
+"",BNY Mellon Bond Fund,Unknown,Mutual Fund,50001,100000,0,A,,
+"",AGL Resources,Oil & Gas,,50001,100000,0,A,,
+D000000168,Southern Co,Electric Utilities,,15001,50000,0,A,Y,
+D000042525,Royal Dutch Shell,Oil & Gas,,15001,50000,0,A,Y,
+"",Northwestern mutual Policy,Unknown,Insurance policies & Annuities,15001,50000,0,A,,
+"",metLife Policy,Unknown,Insurance policies & Annuities,15001,50000,0,A,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,15001,50000,0,A,Y,
+"",iShares S&P Small Cap Growth Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,A,Y,
+D000000414,Charles Schwab & Co Money Market,Securities/Invest,Cash/Money Market/Savings/Checking,15001,50000,0,A,Y,
+D000000352,Caterpillar Inc,Building Materials,,15001,50000,0,A,Y,
+D000024598,Campbell Soup,Food Process/Sales,,15001,50000,0,A,Y,
+"",BNYM National Inmdt Muni Bond Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Vanguard Small Cap Vipers Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+D000066710,Frontier Communications,Telephone Utilities,,1001,15000,0,A,Y,
+"",Energy Select Sector SPDR ETF,Oil & Gas,Mutual Fund,1001,15000,0,A,,
+"",Consumer Staples Select Sector SPDR,Securities/Invest,Mutual Fund,1001,15000,0,A,,
+D000032588,Citizens Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",BNYM Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",BNY Mellon Small Cap Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Dreyfus Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,A,,

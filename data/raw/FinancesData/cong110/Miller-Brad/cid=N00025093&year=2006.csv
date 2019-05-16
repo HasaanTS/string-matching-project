@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",US Government Savings Bonds,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Smith Barney Simplified Employ Pension,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+"",Smith Barney Citigroup IRA Rollover,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",First Citizens Investor Services Mutual,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",First Citizens Investor Services Annuity,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Equivest Self-funded Retirement,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",North Carolina Legis Retirement System,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000022724,American Funds,Securities/Invest,Mutual Fund,1001,15000,0,Y,,

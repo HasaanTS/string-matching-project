@@ -1,0 +1,38 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Approx 50 Acres,Real Estate,,500001,1000000,0,Y,,
+"",UBS Bank USA Deposit Account,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Merrimack County Savings Bank Account,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,Y,Y,Y
+D000029689,Visa Inc,Finance/Credit,,1001,15000,0,Y,Y,
+D000000118,Union Pacific Corp,Railroads,,1001,15000,0,Y,Y,
+D000021773,Travelers Companies,Insurance,,1001,15000,0,Y,Y,Y
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,Y,Y,Y
+"",RRI Energy,Electric Utilities,,1001,15000,0,Y,,
+D000068729,OAO Gazprom,Oil & Gas,,1001,15000,0,Y,,
+"",NASDAQ OMX Group,Securities/Invest,,1001,15000,0,Y,,
+"",Mueller Industries,Misc Mfg/Distrib,,1001,15000,0,Y,,
+D000022099,Mastercard Inc,Finance/Credit,,1001,15000,0,Y,Y,Y
+"",London Stock Exchange Group,Unknown,,1001,15000,0,Y,,
+D000000360,Leucadia National,Securities/Invest,,1001,15000,0,Y,Y,
+D000027185,Legg Mason,Securities/Invest,,1001,15000,0,Y,,
+"",ICICI Bank,Commercial Banks,,1001,15000,0,Y,,
+"",Huaneng Power International,Electric Utilities,,1001,15000,0,Y,,
+"",Hong Kong Exchanges & Clearing,Unknown,,1001,15000,0,Y,,
+"",Henderson Land Development,Unknown,,1001,15000,0,Y,,
+D000025681,Encana Corp,Oil & Gas,,1001,15000,0,Y,Y,
+D000000130,El Paso Corp,Oil & Gas,,1001,15000,0,Y,Y,
+D000064684,Deutsche Boerse,Securities/Invest,,1001,15000,0,Y,,
+D000068750,CNOOC Ltd,Oil & Gas,,1001,15000,0,Y,,
+D000023666,CME Group,Securities/Invest,,1001,15000,0,Y,Y,
+"",Citizens Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000071,Citigroup Inc,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000000832,Carnival Corp,Sea Transport,,1001,15000,0,Y,Y,
+"",Canadian Oil Sands Trust,Oil & Gas,,1001,15000,0,Y,,
+D000048024,Brookfield Asset Management,Real Estate,,1001,15000,0,Y,,
+D000000195,BNSF Railway,Railroads,,1001,15000,0,Y,Y,
+D000067273,BHP Billiton,Mining,,1001,15000,0,Y,,
+D000021757,Berkshire Hathaway,Securities/Invest,,1001,15000,0,Y,Y,
+"",Beijing Capital International Airport,Air Transport,,1001,15000,0,Y,,
+"",Anglo American Plc,Mining,,1001,15000,0,Y,,
+D000023850,Allegheny Energy,Electric Utilities,,1001,15000,0,Y,Y,
+"",Fidelity Muncipal Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

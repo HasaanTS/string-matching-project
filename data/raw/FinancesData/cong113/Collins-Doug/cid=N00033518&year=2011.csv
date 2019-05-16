@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Land/30 acres/Banks County, GA",Real Estate,,250001,500000,0,N,,
+"",GA Teacher Retirement,Unknown,"Brokerage, IRA, 401k",100001,250000,0,N,,
+"",United Comm Bank/Savings,Unknown,,1001,15000,0,N,,
+"",Wilshire Variable Inves Trust Incm Fd,Unknown,Mutual Fund,2381,2381,0,A,,
+"",Fidelity Overseas Fund,Unknown,Mutual Fund,2381,2381,0,A,,
+"",Fidelity Growth Fund,Unknown,Mutual Fund,2381,2381,0,A,,
+"",Wilshire Large Cap Value Fund,Unknown,,2268,2268,0,A,,
+"",Royce Capital Fund SmC,Unknown,Mutual Fund,1247,1247,0,A,,
+"",Fidelity Mid Cap Fund,Unknown,Mutual Fund,680,680,0,A,,

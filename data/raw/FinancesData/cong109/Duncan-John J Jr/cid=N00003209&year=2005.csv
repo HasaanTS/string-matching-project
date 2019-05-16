@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",BB&T Bank,Commercial Banks,,200002,500000,0,Y,,
+D000000168,Southern Co,Electric Utilities,,15001,50000,0,Y,Y,
+"",Smith Barney Citi Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Income Fund of America,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000000071,Citigroup Capital VIII,Commercial Banks,,15001,50000,0,Y,Y,
+"",Lois S Duncan Grandchildren's Trust Fund,Unknown,Mutual Fund,26000,26000,0,Y,,
+D000065292,Toronto-Dominion Bank,Commercial Banks,,1001,15000,0,Y,,
+"",State of TN Pension Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,
+D000000547,Gap Inc,Retail Sales,,1001,15000,0,Y,Y,
+"",Fidelity Funds,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Cracker Barrel,Food & Beverage,,1001,15000,0,Y,,
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank North,Commercial Banks,,1001,15000,0,Y,,

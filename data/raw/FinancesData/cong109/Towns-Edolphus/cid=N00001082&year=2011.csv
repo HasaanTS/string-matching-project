@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental Property,Real Estate,,250001,500000,0,Y,,
+"",New York Community Bank-Savings,Unknown,,100001,250000,0,Y,,
+D000053236,LPL Financial,Securities/Invest,,100001,250000,0,Y,,
+"",Sunlight Financial,Unknown,,50001,100000,0,Y,,
+"",Bank Of America-8155,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Wells Fargo Bank NA,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",New York Community Bank-Checking,Unknown,,1001,15000,0,Y,,
+"",Merrill Lynch/Bank Of America-2481,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Congressional Federal Credit Union #2 Ch,Unknown,,1001,15000,0,Y,,
+"",Congressional Federal Credit Union #1 Sa,Unknown,,1001,15000,0,Y,,
+"",Bank Of America-9520,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000000014,American General Corp,Insurance,,1001,15000,0,Y,,

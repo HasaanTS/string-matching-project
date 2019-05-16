@@ -1,0 +1,47 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Blackrock California Municipal Bond Fund,Unknown,Mutual Fund,252220,252220,0,Y,,
+"",Providence Farming,Crop Production,,50001,100000,0,Y,,
+"",iShares Barclays US Aggregate Bond Fund,Unknown,Mutual Fund,70995,70995,0,Y,,
+"",TCW Funds,Unknown,,70430,70430,0,Y,,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,69792,69792,0,Y,,
+"",3627 W 104th Street LLC,Real Estate,,15001,50000,0,Y,,
+"",Loomis Sayles II Strategic Income Fund,Unknown,Mutual Fund,43100,43100,0,Y,,
+"",iShares Barclays Treasury Inflation Prot,Unknown,Mutual Fund,34079,34079,0,Y,,
+"",Franklin Gold & Precious Metals Fund,Mining,,33537,33537,0,Y,,
+"",Matthews Pacific Tiger Fund,Unknown,Mutual Fund,32608,32608,0,Y,,
+"",iShares Russell 1000 Index,Unknown,Mutual Fund,30839,30839,0,Y,,
+"",Oppenheimer Developing Markets Fund,Unknown,Mutual Fund,23396,23396,0,Y,,
+"",iShares Russell Mid Cap Index,Unknown,Mutual Fund,23185,23185,0,Y,,
+"",Sun Trust Bank/CD,Unknown,Cash/Money Market/Savings/Checking,20958,20958,0,Y,,
+"",Virtus Foreign Opportunities Fund,Unknown,Mutual Fund,20316,20316,0,Y,,
+"",Kinetics Water Infrastructure Fund,Unknown,Mutual Fund,18826,18826,0,Y,,
+"",Howard Berman Ubs/cash,Unknown,Cash/Money Market/Savings/Checking,18049,18049,0,Y,,
+"",JPMorgan Prime Money Market,Unknown,Cash/Money Market/Savings/Checking,16700,16700,0,Y,,
+"",Ivy Funds Asset Strategy Fund,Unknown,Mutual Fund,15342,15342,0,Y,,
+"",iShares Russell 2000 Index,Unknown,Mutual Fund,15173,15173,0,Y,,
+"",iShares MSCI EAFE Index,Unknown,Mutual Fund,14870,14870,0,Y,,
+"",UQM Technologies Inc,Unknown,,13700,13700,0,Y,,
+"",FT Franklin Income Fund,Unknown,Mutual Fund,13108,13108,0,Y,,
+"",PIMCO Commodity RealReturn Strategy Fund,Unknown,Mutual Fund,10616,10616,0,Y,,
+D000000118,Union Pacific Corp,Railroads,,9585,9585,0,Y,Y,Y
+D000000079,Verizon Communications,Telephone Utilities,,8282,8282,0,Y,Y,Y
+D000028500,Questar Corp,Oil & Gas,,7274,7274,0,Y,Y,
+D000027988,Newmont Mining,Mining,,7096,7096,0,Y,Y,
+D000029942,XTO Energy,Oil & Gas,,6979,6979,0,Y,Y,
+D000019828,Emerson Electric,Misc Mfg/Distrib,,6560,6560,0,Y,Y,
+D000000132,Archer Daniels Midland,Agricultural Svcs,,6262,6262,0,Y,Y,
+D000000076,AT&T Inc,Telephone Utilities,,6250,6250,0,Y,Y,Y
+D000023178,Mosaic Co,Agricultural Svcs,,5973,5973,0,Y,,
+D000064776,Goldcorp Inc,Mining,,5901,5901,0,Y,,
+D000021908,Chesapeake Energy,Oil & Gas,,5823,5823,0,Y,Y,
+D000000373,McDonald's Corp,Food & Beverage,,5806,5806,0,Y,Y,
+D000067273,BHP Billiton,Mining,,5743,5743,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,5603,5603,0,Y,Y,Y
+D000000128,Walt Disney Co,TV/Movies/Music,,4837,4837,0,Y,Y,Y
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,4486,4486,0,Y,Y,
+D000022110,Medtronic Inc,Pharm/Health Prod,,3254,3254,0,Y,Y,
+D000047258,Arena Pharmaceuticals,Pharm/Health Prod,,2662,2662,0,Y,Y,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,2040,2040,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1603,1603,0,Y,Y,Y
+"",Reserve Primary Fund,Unknown,Mutual Fund,939,939,0,Y,,
+"",Ginnie Mae Securities,Real Estate,,249,249,0,Y,,

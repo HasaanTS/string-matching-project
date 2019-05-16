@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000022674,Fifth Third Bank,Commercial Banks,,2250003,10500000,0,T,,
+D000059579,SEI Investments,Misc Finance,,500001,1000000,0,T,,
+"","Real Estate/Bonita Springs, FL",Real Estate,,500001,1000000,0,T,,
+"",Dual Assoc & I 71 Interchange-Veron,Real Estate,,500001,1000000,0,T,,
+"",IRA Premier Asset Mgt Fund,Unknown,Mutual Fund,250001,500000,0,T,,
+"",IRA,Unknown,"Brokerage, IRA, 401k",250001,500000,0,T,,
+"","Timeshare Real Estate/Hilton Head, SC",Real Estate,,50001,100000,0,T,,
+"",Fountain Sqaure Fund,Unknown,Mutual Fund,15001,50000,0,T,,

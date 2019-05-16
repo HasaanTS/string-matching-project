@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Qualified Blind Trust,Unknown,"Brokerage, IRA, 401k",2500004,8000000,0,Y,,
+"",S&P 500 Index Equally Weighted Fund,Unknown,Mutual Fund,500001,1000000,0,Y,,
+"",LaSalle Bank IRA,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+"",Chilton New Era Partners,Unknown,,500001,1000000,0,Y,,
+"",Advisory Research Small Mid Cap Value Eq,Unknown,Mutual Fund,500001,1000000,0,Y,,
+"",Loan Receivable-Friends of Rahm Emanuel,Unknown,Note/Note Receivable,250001,500000,0,Y,,
+"",Advisory Research Large Cap Equity Fund,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",Good Hope LP,Real Estate,,15001,50000,0,Y,,
+D000021795,LaSalle Bank,Commercial Banks,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+D000000367,Wal-Mart Stores,Retail Sales,,1001,15000,0,Y,Y,
+"",Pershing Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000026188,Gentex Corp,Misc Mfg/Distrib,,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,Y,Y,Y
+D000000123,American International Group,Insurance,,1001,15000,0,Y,Y,
+"",Vision Optical Partners,Unknown,,1,1000,0,Y,,

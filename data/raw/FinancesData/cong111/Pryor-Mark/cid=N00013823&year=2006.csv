@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Great Western Leasing,Unknown,,500001,1000000,0,Y,,
+"",Continental Lumber,Building Materials,,100001,250000,0,Y,,
+"",Pioneer Bank & Trust/Cash,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",EMH & BPH South Dakota Trust,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",CONYX Capital Corp,Unknown,,1001,15000,0,Y,,
+"",Continental Express,Unknown,,1001,15000,0,A,,

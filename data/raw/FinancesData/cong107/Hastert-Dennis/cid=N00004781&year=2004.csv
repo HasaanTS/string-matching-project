@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Home & Property,Real Estate,,1000001,5000000,0,A,,
+"","Townhouse Property/Washington, DC",Real Estate,,250001,500000,0,A,,
+"","69 Acres/Plano, IL",Real Estate,,250001,500000,0,A,,
+"",Dreyfus Premier S&P Stars Fund,Unknown,Mutual Fund,50001,100000,0,A,,
+"",Yorkville National Bank Optimum Account,Unknown,"Brokerage, IRA, 401k",15001,50000,0,A,,
+"",Yorkville National Bank Farm Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",Northwestern Life Aggressive Stock Fund,Unknown,Mutual Fund,2002,30000,0,A,,
+"",Yorkville National Bank Personal Account,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,

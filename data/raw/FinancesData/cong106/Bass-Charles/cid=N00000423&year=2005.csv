@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","1765 R Street NW/Washington, DC",Real Estate,,500001,1000000,0,Y,,
+"","1629 21st Street NW/Washington, DC",Real Estate,,500001,1000000,0,Y,,
+"",Ocean National Bank,Commercial Banks,,396006,915000,0,Y,,
+D000000483,AG Edwards & Sons,Securities/Invest,,400003,850000,0,Y,,
+"",AG Edwards Professional Fund Advisor,Unknown,Mutual Fund,280003,600000,0,Y,,
+"","Real Estate/Edgartown, MA",Real Estate,,100001,250000,0,Y,,
+"",Columbia Architectural Products,Construction Svcs,,100001,250000,0,Y,,
+"",ITT Hartford Annuity,Unknown,Insurance policies & Annuities,50001,100000,0,Y,,
+"",Lancaster Bank,Commercial Banks,,15001,50000,0,Y,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Milford ReCap LP,Real Estate,,1001,15000,0,Y,,
+"",High Standard Inc,Unknown,Note/Note Receivable,1001,15000,0,Y,,

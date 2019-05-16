@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","221 Crestview Rd/Manchester, NH",Real Estate,,500001,1000000,0,T,,
+"","172 Youville St/Manchester, NH",Real Estate,,250001,500000,0,T,,
+"",Fidelity Prime Fund,Unknown,Mutual Fund,50001,100000,0,T,,
+D000000090,Bank Of America,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,T,Y,Y
+"",Putnam Fund Income,Unknown,Mutual Fund,15001,50000,0,T,,
+"",FA Diversville,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Bellwether Credit Union,Unknown,Unknown,15001,50000,0,T,,
+D000029280,Sun Microsystems,Electronics Mfg/Eqp,,1001,15000,0,T,,
+"",St Mary's Bank,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Pimco Fixed Income Growth,Unknown,Mutual Fund,1001,15000,0,T,,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+"",FA Stars Income T,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Dreyfus Premier,Unknown,Mutual Fund,1001,15000,0,T,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+"",Black Rock Equity Dividend Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Allianz Res Tech,Unknown,Mutual Fund,1001,15000,0,T,,
+"",AIM Emerging Markets,Unknown,Mutual Fund,1001,15000,0,T,,

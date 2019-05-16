@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",FED Retirement Account,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,30002,100000,0,Y,,
+"",Retirement Account,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,

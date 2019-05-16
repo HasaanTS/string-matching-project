@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Washington State Dept of Retirement,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Washington State Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Street Tracks/Wishire RWR,Unknown,Unknown,1001,15000,0,Y,,
+"",iShares TIP,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares IVV,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares IJR,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares IJH,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares EFA,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares AGG,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Independence Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Equity Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",AGE Funds Government Obligations Fund,Unknown,Mutual Fund,1,1000,0,Y,,

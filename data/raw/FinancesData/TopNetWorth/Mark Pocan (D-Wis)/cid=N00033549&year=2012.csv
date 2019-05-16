@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Home,Real Estate,,250001,500000,0,Y,,
+"",Budget Signs & Specialties LLC,Business Services,,250001,500000,0,Y,,
+"",State of WI Pension,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",American Funds New Perspective Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",American Funds AMCAP Fund,Unknown,Mutual Fund,1001,15000,0,A,,

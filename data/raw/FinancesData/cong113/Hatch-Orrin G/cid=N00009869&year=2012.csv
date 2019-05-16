@@ -1,0 +1,79 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",US Senate FCU/MM/Checking/Savings,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",Edries N Hansen Properties,Real Estate,,250001,500000,0,Y,,
+"",Doubleline Total Return Bond Fund,Unknown,Mutual Fund,115002,300000,0,Y,,
+"",Cash,Unknown,Cash/Money Market/Savings/Checking,101002,265000,0,Y,,
+"",Dodge & Cox Stock Fund,Unknown,Mutual Fund,100001,251000,0,Y,,
+"",SPDR S&P 500 ETF Trust,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",First Eagle High Yield Fund,Unknown,Mutual Fund,30002,100000,0,Y,,
+"",Blackrock Strategic Income Fund,Unknown,Mutual Fund,30002,100000,0,Y,,
+"",RBP/Long Short Equity Fund,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",Pimco All Asset All Authority Fund,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",Mainstay Marketfield Fund,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",Blackstone/GSO Long Short Credit Income,Unknown,Mutual Fund,16002,65000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,15001,51000,0,Y,Y,Y
+D000000209,United Technologies,Defense Aerospace,,15001,50000,0,Y,Y,Y
+D000037780,Starbucks Corp,Food & Beverage,,15001,50000,0,Y,Y,Y
+"",Seadrill Ltd,Oil & Gas,,15001,50000,0,Y,,
+"",RMA Tax-Free Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Putnam Capital Spectrum Fund,Unknown,,15001,50000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",Powershares QQQ Trust,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000055403,Philip Morris International,Tobacco,,15001,50000,0,Y,Y,Y
+"",MFS Emerging Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000275,Merck & Co,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+"",Loomis Sayles Investment Grade Bond Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",KKR Financial Holdings,Securities/Invest,,15001,50000,0,Y,,
+"",KKR Financial,Securities/Invest,Mutual Fund,15001,50000,0,Y,,
+D000035105,Kinder Morgan Inc,Oil & Gas,,15001,50000,0,Y,Y,Y
+"",JPMorgan Strategic Income Opport Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000334,Honeywell International,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",First Eagle Global Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Energy Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000033463,Enterprise Products Partners,Oil & Gas,,15001,50000,0,Y,Y,Y
+"",Enterprise Products,Oil & Gas,,15001,50000,0,Y,,
+D000032736,Colgate-Palmolive Co,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000000212,Coca-Cola Co,Food & Beverage,,15001,50000,0,Y,Y,Y
+D000000015,Chevron Corp,Oil & Gas,,15001,50000,0,Y,Y,Y
+"",Capital Bank & Trust Capital SEP IRA,Unknown,,15001,50000,0,Y,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+D000021757,Berkshire Hathaway,Securities/Invest,,15001,50000,0,Y,Y,Y
+"",Bank of America/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Aviva Life & Annuity Whole Life Policies,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",AG Mortgage Investment Trust Inc,Real Estate,,15001,50000,0,Y,,
+"",UBS Bank Deposit Account,Unknown,Cash/Money Market/Savings/Checking,1001,16000,0,Y,,
+D000028500,Questar Corp,Oil & Gas,,1001,16000,0,Y,Y,Y
+D000063010,QEP Resources,Oil & Gas,,1001,16000,0,Y,Y,Y
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,16000,0,Y,Y,Y
+"",FMI Large Cap Fund,Unknown,Mutual Fund,1001,16000,0,Y,,
+"",China Mobile,Telecom Svcs,,1001,16000,0,Y,,
+"",Zions Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Nyumba Bora Inc,Home Builders,,1001,15000,0,Y,,
+"",Invesco Balanced Risk Allocation Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Hatch Trust Fund For Legal Fees & Costs,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Overseas Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"","Contract receivable, Walter J Plumb III",Unknown,Unknown,1001,15000,0,Y,,
+"",BlackRock Emerging Market Long Short Equity Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000045868,Barrick Gold Corp,Mining,,1001,15000,0,Y,Y,Y
+D000000090,Bank Of America,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",Ashni Naturaceuticals,Pharm/Health Prod,,1001,15000,0,Y,,
+"",AQR Risk Parity Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000021846,Apollo Education Group,Education,Mutual Fund,1001,15000,0,Y,Y,Y
+"",20 acres of Undeveloped land,Real Estate,,1001,15000,0,Y,,
+"",Van Eck Global Hard Assets Fund,Unknown,Mutual Fund,0,1000,0,Y,,
+"",Third Avenue Focused Credit Investor,Unknown,Mutual Fund,0,1000,0,Y,,
+"",Permanent Portfolio Fund,Unknown,Mutual Fund,0,1000,0,Y,,
+"",Nuveen Tradewinds Global All Cap Fund,Unknown,Mutual Fund,0,1000,0,Y,,
+D000027988,Newmont Mining,Mining,,0,1000,0,Y,Y,
+"",Market Vectors Gold Miners ETF,Mining,,0,1000,0,Y,,
+"",Ivy Global Natural Resources Fund,Misc Energy,Mutual Fund,0,1000,0,Y,,
+"",Ivy Asset Strategy Fund,Unknown,Mutual Fund,0,1000,0,Y,,
+D000022042,ING Group,Insurance,,0,1000,0,Y,Y,Y
+"",Franklin Templeton Global Bond Fund,Unknown,Mutual Fund,0,1000,0,Y,,
+"",FPA Crescent Fund,Unknown,Mutual Fund,0,1000,0,Y,,
+D000000328,Fidelity Investments,Securities/Invest,Mutual Fund,0,1000,0,Y,,
+"",Connorstreet Assoc,Real Estate,,0,1000,0,Y,,
+"",Beneficiary Interest in Edries N Hansen,Unknown,Mutual Fund,0,1000,0,Y,,
+D000045868,Barrick Gold Corp,Mining,Mutual Fund,0,1000,0,Y,Y,Y
+D000047259,Ares Capital Corp,Securities/Invest,Mutual Fund,0,1000,0,Y,,

@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Piedmont Shopping Center,Retail Sales,,1000001,5000000,0,O,,
+"",Gloria Deo Inc,Retail Sales,,100001,250000,0,O,,
+"",Pioneer Global High Yield Y,Unknown,Mutual Fund,15001,50000,0,O,,
+"",John Hancock Core High Yield Fund,Unknown,Mutual Fund,15001,50000,0,O,,
+"",Ivy High Income Fund,Unknown,Mutual Fund,15001,50000,0,O,,
+"",Union Bank Checking Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,O,,
+"",Pershing Government Account/Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,O,,
+"",ING Security Life of Denver,Unknown,Insurance policies & Annuities,1001,15000,0,O,,
+"",CREF Stock Fund,Unknown,Mutual Fund,1001,15000,0,O,,
+"",CREF Global Equities Fund,Unknown,Mutual Fund,1001,15000,0,O,,
+"",C Gregory Write Inc,Unknown,,1001,15000,0,O,,

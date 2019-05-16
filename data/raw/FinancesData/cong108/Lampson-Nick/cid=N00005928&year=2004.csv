@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Texas County & District Retirement Sys,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,T,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",100001,250000,0,T,,
+"",Beaumont Telco Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,100001,250000,0,T,,
+D000000071,Smith Barney,Securities/Invest,,50001,100000,0,T,Y,Y
+"","1038 Park Meadow Drive/Beaumont, TX",Real Estate,,50001,100000,0,T,,
+"",Mid-county Teachers Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"","7090 Prutzman 25/Beaumont, TX",Real Estate,,15001,50000,0,T,,
+"","7090 Prutzman 24/Beaumont, TX",Real Estate,,15001,50000,0,T,,
+"",Tri-continental Corp,Unknown,,1001,15000,0,T,,
+"",Texoga Corp,Unknown,,1001,15000,0,T,,

@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Cummins Engine,Construction Svcs,,1001,15000,0,Y,,
+"",Keybank National Assn,Commercial Banks,Unknown,1,1000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Western Asset Government Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Telkonet,Unknown,,1001,15000,0,Y,,
+"",Citibank Bank Deposit Program,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000039505,Digital Angel Corp,Electronics Mfg/Eqp,,1,1000,0,Y,,

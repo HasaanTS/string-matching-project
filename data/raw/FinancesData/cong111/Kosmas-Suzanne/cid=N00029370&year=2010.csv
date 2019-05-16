@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Real Estate/NSB, FL",Real Estate,,500001,1000000,0,T,,
+"",Raymond James Pension,Unknown,"Brokerage, IRA, 401k",350002,750000,0,T,,
+"","KGI, Note",Unknown,Note/Note Receivable,250001,500000,0,T,,
+D000021700,Ameriprise Financial,Securities/Invest,,250001,500000,0,T,Y,Y
+"","798 9th Ave/New Smyrna Beach, FL",Real Estate,,250001,500000,0,T,,
+"","50 Oak Tree/New Smyrna Beach, FL",Real Estate,,250001,500000,0,T,,
+"","3640 S Atl Ave/NSB, FL",Real Estate,,100001,250000,0,T,,
+"","17 Randolph/Lexington, VA",Real Estate,,100001,250000,0,T,,
+"","1302 257 MBW/New Smyrna Beach, FL",Real Estate,,100001,250000,0,T,,
+"","13 Whitmore/Lexington, VA",Real Estate,,100001,250000,0,T,,
+"","Vacant Land/NSB, FL",Real Estate,,50001,100000,0,T,,
+D000019743,Wells Fargo,Commercial Banks,,15001,50000,0,T,Y,
+"",Wells Fargo IRA,Unknown,,1001,15000,0,T,,
+"",State Farm IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,T,,

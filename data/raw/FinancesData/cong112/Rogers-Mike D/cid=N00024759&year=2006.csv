@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Farm Property/Weaver, AL",Crop Production,,1000001,5000000,0,Y,,
+"",Oxford Auto Finance,Finance/Credit,,350002,750000,0,Y,,
+"",Venture Properties LLC,Real Estate,,315003,650000,0,Y,,
+"",Avery Auto Sales,Automotive,,300002,600000,0,Y,,
+"",Initial Investments LLC,Unknown,,200002,500000,0,Y,,
+"",Capital Development LLC,Real Estate,,250001,500000,0,Y,,
+"",Noble Bank,Commercial Banks,,100001,250000,0,Y,,
+"",Retirement Systems of Alabama,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Compass Brokerage 401K,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+D000000168,Southern Co,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",Noble Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Ft McClellan Credit Union Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional FCU Account,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Compass Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Cheaha Financial,Misc Finance,,1001,15000,0,Y,,

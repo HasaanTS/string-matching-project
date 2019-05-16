@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",6207 30th Street North,Unknown,,1000001,5000000,0,O,,
+"",Commercial Building - Highway 5 South,Real Estate,,250001,500000,0,O,,
+"",65 Acres Land - Greenbrier Farms/McDonald Farms,Real Estate,,100001,250000,0,O,,
+"",Greenbrier Enterprises,Real Estate,,100002,200000,0,O,,
+"",NY Life Securities LLC - IRA,Unknown,"Brokerage, IRA, 401k",50001,100000,0,O,,
+"",60 Acres Land - Hoggleridge,Unknown,,15001,50000,0,O,,
+"",Traders & Farmers Bank,Unknown,,2003,31000,0,O,,
+"",Voya Financial Classic Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,O,,
+"",Traders & Farmers Bank IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,O,,
+"",Tekla Healthcare Investors,Unknown,,1001,15000,0,O,,
+D000036400,Oppenheimer Holdings,Unknown,,1001,15000,0,O,,
+D000027918,Navistar International,Trucking,,1001,15000,0,O,Y,
+D000000133,GlaxoSmithKline,Pharm/Health Prod,,1001,15000,0,O,Y,Y
+"",Congressional Federal Credit Union Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,O,,
+"",Beaver Dam Farm,Crop Production,,1001,15000,0,O,,
+D000066608,America Movil,Telephone Utilities,,1001,15000,0,O,Y,

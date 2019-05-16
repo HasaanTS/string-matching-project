@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Investment Entrepreneurs LLC,Unknown,,100001,250000,0,A,,
+D000000090,Bank of America,Commercial Banks,,30002,100000,0,A,Y,Y
+"","645-47 W Liberty Street/Sumter, SC",Real Estate,,50001,100000,0,A,,
+D000000108,Merrill Lynch,Securities/Invest,,15001,50000,0,A,Y,
+D000028916,SCANA Corp,Electric Utilities,,1001,15000,0,A,Y,Y
+"",Bank of America account,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000031719,Automatic Data Processing Inc,Business Services,,1001,15000,0,A,Y,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,A,,
+"",South Carolina State Credit Union,Credit Unions,Unknown,1,1000,0,A,,
+"",Fort Jackson Federal Credit Union,Credit Unions,Unknown,1,1000,0,A,,

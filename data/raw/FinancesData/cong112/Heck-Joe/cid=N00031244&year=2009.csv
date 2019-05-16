@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Mutual of Omaha 401K Toolbox,Unknown,"Brokerage, IRA, 401k",115002,300000,0,N,,
+"",Specialized Medical Operations Inc,Unknown,,50001,100000,0,N,,
+"",Bank of America Account,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,N,,
+"",Inland Western REIT,Real Estate,,15001,50000,0,N,,
+"",USAA Precious Metals Fund,Mining,,1001,15000,0,N,,
+"",USAA International Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",USAA College Savings Plan,Unknown,"Brokerage, IRA, 401k",1001,15000,0,N,,
+"",USAA Growth & Tax,Unknown,Mutual Fund,1,1000,0,N,,

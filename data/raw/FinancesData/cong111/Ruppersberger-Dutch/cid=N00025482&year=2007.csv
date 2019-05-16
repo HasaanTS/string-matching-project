@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Summer Beach 608/Ocean City, MD",Real Estate,,250001,500000,0,Y,,
+"",Legg Mason Special Investment Trust,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",Rupp & Assoc,Real Estate,,100001,250000,0,Y,,
+"",Legg Mason Value Trust,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",John J Murphy Trust,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Neuberger Berman Genesis Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",MFS Sun Life Financial Annuities,Unknown,Mutual Fund,30002,100000,0,Y,,
+"",Fidelity Equity Income Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Summit Community Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",NW Money Market Prime,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Legg Mason Opportunity Trust Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000027185,Legg Mason,Securities/Invest,,15001,50000,0,Y,,Y
+"",Bank of America account,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",First Mariner,Unknown,,1001,15000,0,Y,,

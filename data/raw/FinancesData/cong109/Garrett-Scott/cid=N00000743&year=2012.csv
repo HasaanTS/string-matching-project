@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Nobel Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Dreyfus Disciplined Stock Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Traveler's Annuity/Met Life,Insurance,,15001,50000,0,Y,,
+"",Lakeland Bank,Commercial Banks,,15001,50000,0,Y,,
+"",Dreyfus Appreciation Fund Inc,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Lakeland Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Hussman Total Return Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Hussman Strategic Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",USNG Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Nobel Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Dreyfus Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","6200 South Park Avenue/Hamburg, NY",Real Estate,,100001,250000,0,Y,,
+"","H102 Snowpine Village/Ellicottville, NY",Real Estate,,50001,100000,0,Y,,
+D000062018,Key Bank,Commercial Banks,Cash/Money Market/Savings/Checking,17003,80000,0,Y,,Y
+"",Erie County Employers Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1002,16000,0,Y,,
+"",Pioneer Protected Principal Fund II,Unknown,Mutual Fund,1001,15000,0,Y,,
+"","Lot 5 East Hill Estates/Springville, NY",Real Estate,,1001,15000,0,Y,,
+"",American Funds Growth Fund of America,Misc Finance,Mutual Fund,1001,15000,0,Y,,

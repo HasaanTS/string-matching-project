@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Merrill Lynch Retirement,Unknown,"Brokerage, IRA, 401k",100001,250000,0,N,,
+"",Bucks County Retirement,Unknown,"Brokerage, IRA, 401k",50001,100000,0,N,,
+"",Vireva FCU,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,

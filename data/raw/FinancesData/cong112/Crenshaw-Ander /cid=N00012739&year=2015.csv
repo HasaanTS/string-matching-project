@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Challen Partners,Unknown,,250001,500000,0,Y,,
+"",Trinity Asset Holdings,Unknown,,100001,250000,0,Y,,
+"",High Quality Dividend Yield,,Mutual Fund,100001,250000,0,Y,,
+"",ETF Inc Growth Sector,,Mutual Fund,100001,250000,0,Y,,
+"",Direct Mail Systems,Unknown,,100001,250000,0,Y,,
+"",BCP Cove Fund,,Mutual Fund,100001,250000,0,Y,,
+"",Alachua County FL Health Facilities Bond,,Government Bond,100001,250000,0,Y,,
+D000000168,Southern Co,Electric Utilities,,50001,100000,0,Y,Y,
+"",Wachovia(now Wells Fargo) money market,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Everbank Money Market Account,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000148,CSX Corp,Railroads,,15001,50000,0,Y,Y,Y
+"",Alamo Storage Partners,Misc Business,,15001,50000,0,Y,,
+"",Wright Patnam Congressional FCU,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",State of Florida Pension,,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000065394,National Life Insurance,,Insurance policies & Annuities,1001,15000,0,Y,,

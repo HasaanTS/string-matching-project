@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Morningstar ADP,Unknown,,15001,50000,0,A,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Harris County Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",American General Life Insurance,Insurance,,1001,15000,0,Y,,
+D000035635,Marlin Oil,Oil & Gas,,1,1000,0,Y,,
+"",Bank of America account,Commercial Banks,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

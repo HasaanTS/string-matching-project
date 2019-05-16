@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","221 Crestview Rd/Manchester, NH",Real Estate,,500001,1000000,0,A,,
+"",172 Youville Rd/Manchester NH,Real Estate,,250001,500000,0,A,,
+"",Fidelity Prime Fund,Unknown,Mutual Fund,50001,100000,0,A,,
+D000000090,Bank of America,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,A,Y,Y
+"",Putnam Fixed Income,Unknown,Mutual Fund,15001,50000,0,A,,
+"",FA Divers International Victorys,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Bellieotter Credit Union,Unknown,Unknown,15001,50000,0,A,,
+D000029280,Sun Microsystems,Electronics Mfg/Eqp,,1001,15000,0,A,,
+"",St Mary's Bank,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Pimco Fixed Income Global,Unknown,Mutual Fund,1001,15000,0,A,,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+"",Fidelity Strategic Income Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Dreyfus Premier,Unknown,Mutual Fund,1001,15000,0,A,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+"",Black Rock Equity Dividend Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Allianz Realtech,Unknown,Mutual Fund,1001,15000,0,A,,
+"",AIM Annuity,Unknown,Unknown,1001,15000,0,A,,

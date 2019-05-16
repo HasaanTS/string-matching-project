@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Guthrie Family Irrevocable Trust,Unknown,"Brokerage, IRA, 401k",100001,250000,0,N,,
+"",Deferred Compensation Plan Met Life,Unknown,"Brokerage, IRA, 401k",50001,100000,0,N,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,50001,100000,0,N,,
+"",US Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,N,,
+"",Franklin Growth Fund,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Van Kampen HEF Global Franchise Portf,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Van Kampen HEF Equity & Income Portfolio,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Van Kampen HEF Comstock Portfolio,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Valley Forge Life Variable Life Policy,Unknown,Insurance policies & Annuities,1001,15000,0,N,,
+"",New England Financial Var Life Policy,Unknown,Insurance policies & Annuities,1001,15000,0,N,,
+D000032589,Citizens First Bank,Commercial Banks,,1001,15000,0,N,,Y
+"",American Funds AMCAP Fund,Unknown,Mutual Fund,1001,15000,0,N,,

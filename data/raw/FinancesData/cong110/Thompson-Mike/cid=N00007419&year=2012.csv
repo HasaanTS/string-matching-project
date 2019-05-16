@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Farm/2140 Finley Rd/Finley, CA",Unknown,Unknown,500001,1000000,0,Y,,
+"","1435/1439 Kearny St, St Helena",Real Estate,Unknown,500001,1000000,0,Y,,
+"",Silverado Credit Union,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",Travis Webb General Partnership,Unknown,,100001,250000,0,Y,,
+D000044505,First Republic Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Bank of America account,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,50001,100000,0,Y,Y,Y
+"",Short Term Investment Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Large Cap Index Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Asset Allocation Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Adventist Health Care Retirement Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Washington Mutual Investors Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

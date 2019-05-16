@@ -1,0 +1,20 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","1 Bashford Lane/Alexandria, VA",Real Estate,,250001,500000,0,Y,,
+"","Valley Road/Tupelo, MS",Real Estate,,100001,250000,0,Y,,
+"",Ginnie Mae Securities,Real Estate,,100001,250000,0,Y,,
+"",Dreyfus General Money Market,Unknown,Cash/Money Market/Savings/Checking,16002,65000,0,Y,,
+D000000301,Torchmark Corp,Insurance,,15001,50000,0,Y,Y,Y
+"",Putnam Growth & Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+D000000163,Freddie Mac,Real Estate,,15001,50000,0,Y,,
+D000000148,CSX Corp,Railroads,,15001,50000,0,Y,Y,Y
+D000024513,Bunge Ltd,Crop Production,,15001,50000,0,Y,Y,Y
+"",Alliance Global Tech Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",US Treasury Bond,Unknown,Government Bond,1001,15000,0,Y,,
+D000028475,Protective Life Corp,Insurance,,1001,15000,0,Y,Y,Y
+D000067115,Petroleo Brasileiro SA,Oil & Gas,,1001,15000,0,Y,,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",American Funds Investment Co of America,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000023883,Amazon.com,Internet,,1001,15000,0,Y,Y,Y
+"",ABAG Finance Authority,Unknown,Government Bond,1001,15000,0,Y,,
+D000027451,Massey Energy,Mining,,0,1000,0,Y,,

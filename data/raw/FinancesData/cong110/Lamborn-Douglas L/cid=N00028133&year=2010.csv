@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Research In Motion,Retail Sales,,15001,50000,0,Y,,
+D000036160,Netapp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+"",Lamborn for Congress (Campaign Loan),Candidate Cmtes,Note/Note Receivable,15001,50000,0,Y,,
+"",Scottrade IRA,Unknown,"Brokerage, IRA, 401k",2002,30000,0,Y,,
+"",Wells Fargo Bank accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",GMO US Growth Funds,Unknown,Mutual Fund,1001,15000,0,Y,,

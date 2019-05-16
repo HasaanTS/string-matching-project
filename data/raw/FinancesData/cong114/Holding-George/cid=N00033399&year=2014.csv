@@ -1,0 +1,39 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000025811,First Citizens Bancshares,Commercial Banks,Cash/Money Market/Savings/Checking,1001002,5015000,0,O,,Y
+"",Cape Fear LLP,Unknown,,500001,1000000,0,O,,
+"",Candidate Loan to George Holding for Congress,Unknown,Note/Note Receivable,250001,500000,0,O,,
+"",BB&T Bank,Commercial Banks,Cash/Money Market/Savings/Checking,250001,500000,0,O,,
+"",University of North Carolina System Bond,Unknown,Government Bond,100001,250000,0,O,,
+"",Sterling Capital NC Intermediate Tax-Free,Unknown,Government Bond,100001,250000,0,O,,
+"","Haywood County, NC Bond",Unknown,Government Bond,100001,250000,0,O,,
+"","Chapel Hill, NC Bond",Unknown,Government Bond,100001,250000,0,O,,
+D000021773,Travelers Companies,Insurance,,50001,100000,0,O,Y,
+D000037414,Schlumberger Ltd,Oil & Gas,,50001,100000,0,O,,
+D000042525,Royal Dutch Shell,Oil & Gas,,50001,100000,0,O,Y,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,50001,100000,0,O,Y,Y
+D000055403,Philip Morris International,Tobacco,,50001,100000,0,O,Y,Y
+"","Johnston County, NC Bond",Unknown,Government Bond,50001,100000,0,O,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,50001,100000,0,O,Y,
+"",Goldman Sachs Growth Opportunities Fund,Unknown,Mutual Fund,50001,100000,0,O,,
+D000000125,General Electric,Misc Mfg/Distrib,,50001,100000,0,O,Y,Y
+"","Forsyth County, NC Bond",Unknown,Government Bond,50001,100000,0,O,,
+D000000461,Comcast Corp,Telecom Svcs,,50001,100000,0,O,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,50001,100000,0,O,Y,Y
+D000000015,Chevron Corp,Oil & Gas,,50001,100000,0,O,Y,
+"",Chatham County Bond,Unknown,Government Bond,50001,100000,0,O,,
+"","Buncombe County, NC Bond",Unknown,Government Bond,50001,100000,0,O,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,50001,100000,0,O,Y,
+"",BB&T Money Market Account,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,O,,
+"",Artisan Funds Midcap Value,Unknown,Mutual Fund,50001,100000,0,O,,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,15001,50000,0,O,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,15001,50000,0,O,Y,
+"",Mount Olive Pickle,Unknown,,15001,50000,0,O,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,O,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,O,Y,Y
+"",Harding Loevner International Equity Portfolio,Unknown,Mutual Fund,15001,50000,0,O,,
+"",Harbor International Fund,Unknown,Mutual Fund,15001,50000,0,O,,
+D000000495,DuPont Co,Chemicals,,15001,50000,0,O,Y,
+"",Boyle Investment Group,Unknown,,15001,50000,0,O,,
+D000000076,AT&T Inc,Telephone Utilities,,15001,50000,0,O,Y,Y
+D000000217,American Express,Finance/Credit,,15001,50000,0,O,Y,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,15001,50000,0,O,Y,

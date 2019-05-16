@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",R&R Resource Recovery,Business Services,,100001,250000,0,Y,,
+"",R&R Properties,Real Estate,,100001,250000,0,Y,,
+"",Real Estate,Real Estate,,51002,115000,0,Y,,
+"",Law Office of Thomas W Reed II,Lawyers/Law Firms,,50001,100000,0,Y,,
+"",Life Insurance Northwest Whole Life,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Oclaro,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",M&T Bank accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Life Insurance Guardian Whole Life,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",First Heritage FCU Accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

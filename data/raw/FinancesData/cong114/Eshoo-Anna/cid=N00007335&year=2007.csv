@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity CA Municipal Money Market,Unknown,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+"",Inter Bancock Pfd Income,Unknown,,100001,250000,0,Y,,
+"",Hartford Grap/Deferred Comp Plan,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Wells Fargo Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Templeton Dragon Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Pace International Equity Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",First Republic Bank/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"","County of San Mateo County, CA",Unknown,,1001,15000,0,Y,,
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

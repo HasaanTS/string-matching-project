@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Home - Michigan City, IN",Real Estate,,500001,1000000,0,A,,
+"",Vanguard Institutional Target Retirement 2020 Fund,,Mutual Fund,100001,250000,0,A,,
+"",TIAA-CREF Growth & Income Retirement Fund,,Mutual Fund,100001,250000,0,A,,
+"",Stewart Superior Corp,,,15001,50000,0,A,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,A,Y,
+"",Notre Dame Credit Union,,Cash/Money Market/Savings/Checking,2002,30000,0,A,,
+"",Old National Bank Checking,,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Notre Dame Credit Union Savings,,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Notre Dame Credit Union Checking,,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000027373,Manulife Financial,Misc Finance,,1001,15000,0,A,Y,
+"",Fidelity Dividend Growth,,Mutual Fund,1001,15000,0,A,,
+"",Fidelity Money Market,,Mutual Fund,0,1000,0,A,,

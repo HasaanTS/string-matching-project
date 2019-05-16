@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",NYS Employees' Retirement System,Unknown,"Brokerage, IRA, 401k",30002,100000,0,Y,,
+D000035524,M&T Bank,Commercial Banks,Cash/Money Market/Savings/Checking,18004,95000,0,Y,,Y
+"",New York College Savings Account,Unknown,"Brokerage, IRA, 401k",16002,65000,0,Y,,
+"",CRV Capital,Unknown,,15001,50000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",New York State Employees Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

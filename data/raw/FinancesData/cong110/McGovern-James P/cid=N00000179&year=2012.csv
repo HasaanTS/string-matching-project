@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Basement Rental Unit,Real Estate,,1000001,5000000,0,Y,,
+"",FA Freedom 2025 A retirement account,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Eaton Vance Tax Managed Growth Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+D000000190,Viacom Inc,TV/Movies/Music,,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Eaton Vance Global Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000457,Corning Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000019792,CBS Corp,TV/Movies/Music,,1001,15000,0,Y,,

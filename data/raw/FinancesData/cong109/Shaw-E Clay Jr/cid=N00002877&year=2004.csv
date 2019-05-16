@@ -1,0 +1,25 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Dania Farms,Crop Production,,6000002,30000000,0,Y,,
+"",Shaw Land Co,Real Estate,,1000001,5000000,0,Y,,
+"",New River Land Co,Unknown,,1000001,5000000,0,Y,,
+"","Vacation Home/Cashiers, NC",Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"","Timberland/Cuba, AL",Real Estate,,250001,500000,0,Y,,
+D000021573,Wachovia Corp,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",Santarus Inc,Unknown,,15001,50000,0,Y,,
+"",REGEN Biologies Inc,Unknown,,15001,50000,0,Y,,
+"",Zhone Tech,Unknown,,1001,15000,0,Y,,
+D000000367,Wal-Mart Stores,Retail Sales,,1001,15000,0,Y,Y,Y
+D000057363,Syntroleum Corp,Oil & Gas,,1001,15000,0,Y,Y,
+D000057196,Stewart Enterprises,Misc Services,,1001,15000,0,Y,,
+"",PIMCO Commodity RealReturn Strategy Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000028035,Northern Trust,Commercial Banks,,1001,15000,0,Y,,
+"",Munder Net Net Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Motorola Inc,Telecom Svcs,,1001,15000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",Liberty Media,TV/Movies/Music,,1001,15000,0,Y,,
+D000068481,Genzyme Corp,Pharm/Health Prod,,1001,15000,0,Y,,
+D000066662,Flextronics International,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000000089,FedEx Corp,Air Transport,,1001,15000,0,Y,Y,Y
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,Y,Y,
+"",Arvida JMB Partnership,Unknown,,1001,15000,0,Y,,

@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Washington State GET Fund,Unknown,Mutual Fund,100002,200000,0,O,,
+"",Washington State Retirement System,Unknown,"Brokerage, IRA, 401k",30002,100000,0,O,,
+"",USAA/Savings,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,O,,
+"",Vanguard 500 Index Signal,Unknown,Mutual Fund,15001,50000,0,O,,
+"",USAA/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,O,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,O,Y,
+"",Chase Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,O,,
+"",Calamos Growth Fund,Unknown,Mutual Fund,1001,15000,0,O,,

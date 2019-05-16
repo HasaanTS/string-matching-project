@@ -1,0 +1,27 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Minnesota College Savings Plan,Unknown,"Brokerage, IRA, 401k",65003,151000,0,Y,,
+"",TD Ameritrade Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Wells Fargo/Savings & Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Universal Life Insurance Policy,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Target Corp Common Stock Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",S&P 500 Index,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Minnesota State Retirement System,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Minnesota Reverse Corp Plan SIF Money M,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Minnesota Retirement Fixed Interest Fund,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Lutheran Church Extension Fund/Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Target 401k,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",American Century Investments Roth IRA,Unknown,Mutual Fund,1002,16000,0,Y,,
+D000022329,Xcel Energy,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",Vanguard Staple IRA 500 Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Tech Nw Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",TD Ameritrade Reserve Funds Yield Plus,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",TD Ameritrade Port Investor Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Lutheran Church Extension Fund/CD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Key Bank IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Growth Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Gencase,Retail Sales,,1001,15000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000059889,LSI Corp,Electronics Mfg/Eqp,,1,1000,0,Y,,
+D000023834,Alcatel-Lucent,Telecom Svcs,,1,1000,0,Y,Y,

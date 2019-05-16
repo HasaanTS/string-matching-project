@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Real Estate/Wilson, NC",Real Estate,,500001,1000000,0,Y,,
+"",Butterfield & Connie,Real Estate,,250001,500000,0,Y,,
+"",Butterfield & Mills,Real Estate,,100001,250000,0,Y,,
+"",Carrons Funeral Home,Unknown,Note/Note Receivable,50001,100000,0,Y,,
+"",BB&T Bank,Commercial Banks,Cash/Money Market/Savings/Checking,17004,81000,0,Y,,
+D000063530,State Employees' Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",JSL Development Center,Unknown,Note/Note Receivable,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

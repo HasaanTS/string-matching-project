@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000249,NEW YORK LIFE INSURANCE,Insurance,,30002,100000,0,O,Y,
+"",Essence Marketing,Unknown,,50001,100000,0,O,,
+"",Wells Fargo account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,O,,
+"",Vanguard Total Bond Market Index,Unknown,Mutual Fund,15001,50000,0,O,,
+"",Vanguard Institutional Index,Unknown,Mutual Fund,15001,50000,0,O,,
+"",Mainstay VP Mod Gr Allocation,Unknown,Mutual Fund,2002,30000,0,O,,
+"",MainStay VP Balanced Fund,Unknown,Mutual Fund,1001,15000,0,O,,
+"",Janus Aspen Balanced Portfolio,Unknown,Mutual Fund,1001,15000,0,O,,
+"",Growth Fund of America Fund,Unknown,Mutual Fund,1001,15000,0,O,,
+"",Calvert VP SRI Balanced Portfolio,Unknown,Mutual Fund,1001,15000,0,O,,
+"",Franklin Money Fund,Unknown,Mutual Fund,1,1000,0,O,,

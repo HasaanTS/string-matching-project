@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Real Estate-Individual/Wilson, NC",Real Estate,,1000001,5000000,0,Y,,
+"","Real Estate/Washington, DC",Real Estate,,250001,500000,0,Y,,
+"",Butterfield & Co,Real Estate,,250001,500000,0,Y,,
+"",Real Estate-Wilson Home,Real Estate,,100001,250000,0,Y,,
+"",Butterfield & Mills,Real Estate,,100001,250000,0,Y,,
+"",Carrons Funeral Home,Unknown,Note/Note Receivable,50001,100000,0,Y,,
+"",BB&T Bank,Commercial Banks,Cash/Money Market/Savings/Checking,18004,95000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000063530,State Employees' Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Note Receivable/JSL Development Center,Unknown,Note/Note Receivable,1001,15000,0,Y,,

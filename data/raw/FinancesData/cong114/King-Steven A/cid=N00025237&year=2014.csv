@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",New York Life Insurance/Whole Life,Unknown,Insurance policies & Annuities,30002,100000,0,O,,
+"",Prime Fund Capital Reserves Class (FPRXX),Unknown,Mutual Fund,15001,50000,0,O,,
+"",American Funds Income Fund of America,Unknown,Mutual Fund,15001,50000,0,O,,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,O,Y,Y
+"",United Bank of Iowa Accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,O,,
+"",Tennessee Valley Authority Series A Bond,Unknown,Government Bond,1001,15000,0,O,,
+"",Oneok Partners,Oil & Gas,,1001,15000,0,O,,
+D000067057,Mondelez International,Food Process/Sales,,1001,15000,0,O,Y,
+"",Met Life Inc,Unknown,,1001,15000,0,O,,
+D000001024,Kraft Foods,Food Process/Sales,,1001,15000,0,O,,
+"",Invesco High Yield Muni Fund,Unknown,Mutual Fund,1001,15000,0,O,,
+"",DNP Select Income Fund,Unknown,Mutual Fund,1001,15000,0,O,,
+"",Bank of Iowa/Accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,O,,
+D000000067,Altria Group,Tobacco,,1001,15000,0,O,Y,
+D000066710,Frontier Communications,Telephone Utilities,,1,1000,0,O,Y,

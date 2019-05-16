@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",State of Ohio Public Employment Retirees System,,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"","Warrensville Heights, Ohio Primary Residence",Real Estate,,100001,250000,0,Y,,
+"",Third Federal Credit Union,,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Cuyahoga County Deferred Compensation,,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Pacific Life/Annuity Short Duration Bond,,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Pacific Life/Annuity Managed Bond,,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Pacific Life/Annuity Large Cap Value,,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Pacific Life/Annuity Floating Rate Loan,,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Pacific Life Annuity High Yeild Bond,,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Pacific Life Annuity Bond,,Insurance policies & Annuities,1001,15000,0,Y,,

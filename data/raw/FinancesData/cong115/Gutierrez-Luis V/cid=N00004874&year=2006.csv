@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","535 Marina Street/Rio Grande, PR",Real Estate,,250001,500000,0,A,,
+"","615 Vistamar Street/Rio Grande, PR",Real Estate,,100001,250000,0,A,,
+"",MidAmerica Bank Account,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",First Eagle Global Fund,Unknown,Mutual Fund,15001,50000,0,A,,

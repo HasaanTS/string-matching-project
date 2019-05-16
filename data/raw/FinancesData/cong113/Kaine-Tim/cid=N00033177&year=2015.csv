@@ -1,0 +1,34 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000212,Coca-Cola Co,Food & Beverage,,100001,250000,0,A,Y,Y
+"",Virginia Retirement System,Insurance,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100002,200000,0,A,,
+D000000125,General Electric,Misc Mfg/Distrib,,65002,150000,0,A,Y,Y
+"",First Eagle Global Fund,,Mutual Fund,51002,115000,0,A,,
+"",Wells Fargo Checking,,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",Vanguard Wellesley Income Inv,,Mutual Fund,50001,100000,0,A,,
+"",Mutual Global Discovery Z Fund,,Mutual Fund,50001,100000,0,A,,
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,50001,100000,0,A,Y,
+D000000129,Exxon Mobil,Oil & Gas,,50001,100000,0,A,Y,
+D000000015,Chevron Corp,Oil & Gas,,50001,100000,0,A,Y,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,50001,100000,0,A,Y,Y
+"",Templeton Global Bond Fund,,Mutual Fund,16002,65000,0,A,,
+"",Loomis Sayles Bond Institutional,,Mutual Fund,16002,65000,0,A,,
+"",Vanguard Small Cap Index Fund,,Mutual Fund,15001,50000,0,A,,
+"",Vanguard Mid-Cap ETF,,Mutual Fund,15001,50000,0,A,,
+"",Oppenheimer Developing Markets Fund,,Mutual Fund,15001,50000,0,A,,
+"",Morgan Stanley Bank Savings,,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",MFS Emerging Markets Debt Fund,,Mutual Fund,15001,50000,0,A,,
+D000000477,Duke Energy,Electric Utilities,,15001,50000,0,A,Y,Y
+D000000076,AT&T Inc,Telephone Utilities,,15001,50000,0,A,Y,Y
+"",TICC Capital Corp,Securities/Invest,,1001,15000,0,A,,
+D000000201,Textron Inc,Air Transport,,1001,15000,0,A,Y,Y
+"",Target Date 2030 Portfolio,,Mutual Fund,1001,15000,0,A,,
+D000029185,Staples Inc,Retail Sales,,1001,15000,0,A,,
+"",Solar Capital Ltd,Unknown,,1001,15000,0,A,,
+"",Oakmark Equity & Income Fund,,Mutual Fund,1001,15000,0,A,,
+D000035105,Kinder Morgan Inc,Oil & Gas,,1001,15000,0,A,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,A,Y,Y
+"",Halyard Health,Pharm/Health Prod,,1001,15000,0,A,,
+"",Franklin VA Tax-Free Income,,Mutual Fund,1001,15000,0,A,,
+"",Fidelity Growth & Income Fund,,Mutual Fund,1001,15000,0,A,,
+"",Columbia Acorn International,,Mutual Fund,1001,15000,0,A,,
+"",America Movil SAB de CV,,,1001,15000,0,A,,

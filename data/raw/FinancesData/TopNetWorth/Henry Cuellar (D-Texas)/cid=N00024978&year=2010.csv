@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","1519 Washington/Laredo, TX",Real Estate,,250001,500000,0,Y,,
+"",HC Air,Unknown,,100001,250000,0,Y,,
+"","1520 Victoria/Laredo, TX",Real Estate,,100001,250000,0,Y,,
+"",Texas State Retirement Account,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"","4902 Marcella Ave/Laredo, TX",Real Estate,,50001,100000,0,Y,,
+"",401k State of Texas Comptroller,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"","602 Reynolds (Rear)/St Laredo, TX",Real Estate,,15001,50000,0,Y,,
+"","602 Reynolds (Middle)/St Laredo, TX",Real Estate,,15001,50000,0,Y,,
+"","Mobile Home/Laredo, TX",Real Estate,,1001,15000,0,Y,,
+"",HC International,Unknown,,1001,15000,0,Y,,
+"",Commerce Bank/CD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

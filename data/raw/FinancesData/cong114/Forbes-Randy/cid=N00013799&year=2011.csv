@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","524 Johnstown Rd/Cheasapeake, VA",Real Estate,,1000001,5000000,0,Y,,
+"",Residential Home,Real Estate,,554001,704000,0,Y,,
+"",Vacant Lot,Real Estate,,200002,500000,0,Y,,
+"",Bank of Hampton Roads Accounts,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Virginia Consultants LLC,Unknown,,1001,15000,0,Y,,
+"",SunTrust Accounts,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Bank of America Account,Commercial Banks,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Towne Bank Account,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1,1000,0,Y,,

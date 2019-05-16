@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",TIAA CREF-Traditional Account,,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",TIAA CREF-CREF,,Mutual Fund,50001,100000,0,Y,,
+"",Fidelity Magellan,,Mutual Fund,30002,100000,0,Y,,
+"",Fidelity Cash Reserves,,Mutual Fund,15001,50000,0,Y,,

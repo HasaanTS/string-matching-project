@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Putnam Investments IRA,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"",American Funds Growth Fund of America,Misc Finance,Mutual Fund,115811,115811,0,A,,
+"",American New Perspective Fund,Unknown,Mutual Fund,64755,64755,0,A,,
+"",American Income Fund of America,Unknown,Mutual Fund,61692,61692,0,A,,
+"",CREF Stock Account,Unknown,Mutual Fund,61631,61631,0,A,,
+"",Commonwealth of PA Deferred Compensation,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+"",American Capital World Growth & Income,Unknown,Mutual Fund,48465,48465,0,A,,
+"",American Washington Mutual Investors,Unknown,Mutual Fund,36826,36826,0,A,,
+"",American Balanced Fund,Unknown,Mutual Fund,35696,35696,0,A,,
+"",TIAA Traditional Account,Unknown,"Brokerage, IRA, 401k",28703,28703,0,A,,
+"",Inland American Real Estate Trust,Real Estate,,25000,25000,0,A,,
+"",National Penn Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

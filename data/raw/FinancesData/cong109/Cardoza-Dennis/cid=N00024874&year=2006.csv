@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Charles Schwab Bank Account,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Capital Corp of the West,Commercial Banks,,15001,50000,0,Y,,
+"",Bank of America/Checking & Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",JDS Uniphase,Telecom Svcs,,1001,15000,0,Y,,

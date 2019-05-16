@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Ross Pharmacy,Retail Sales,,500001,1000000,0,Y,,
+"",Fidelity Growth & Income Fund,Unknown,Mutual Fund,100002,200000,0,Y,,
+"",Fidelity Spartan International Index,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000022105,McKesson Corp,Pharm/Health Prod,,16002,65000,0,Y,Y,Y
+"",Leased to Super D Drug Acquisition Co,Real Estate,,15001,50000,0,Y,,
+"",Fidelity Leveraged Co Stock Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Blue Chip Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Dodge & Cox International Stock Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Lots 14-15 Charles Haynie Subdiv/Prescot,Real Estate,,1001,15000,0,Y,,
+"",Lots 12-13 Charles Haynie Subdiv/Prescot,Real Estate,,1001,15000,0,Y,,
+"",Fidelity Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Diversified International Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Commercial Lot,Real Estate,,1001,15000,0,Y,,
+"",Bank of Prescott,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Fidelity Blended Fund Investments,Unknown,Mutual Fund,1,1000,0,Y,,

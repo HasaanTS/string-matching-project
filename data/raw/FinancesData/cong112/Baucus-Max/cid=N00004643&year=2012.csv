@@ -1,0 +1,27 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental Condominium,Real Estate,,250001,500000,0,Y,,
+"",Land,Real Estate,,250001,500000,0,Y,,
+"",Wells Fargo/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000064241,Vodafone Group,Telecom Svcs,,0,1000,0,Y,,
+"",Vanguard Smallcap,Unknown,Mutual Fund,0,1000,0,Y,,
+"",Vanguard REIT Index,Real Estate,,0,1000,0,Y,,
+"",Vanguard MSCI Pacific ETF,Unknown,Mutual Fund,0,1000,0,Y,,
+"",Vanguard Mid Cap ETF,Unknown,Mutual Fund,0,1000,0,Y,,
+"",Vanguard European MSCI ETF,Unknown,Mutual Fund,0,1000,0,Y,,
+"",Vanguard Emerging Markets Fund,Unknown,Mutual Fund,0,1000,0,Y,,
+D000000487,US Bancorp,Commercial Banks,,0,1000,0,Y,Y,Y
+D000000209,United Technologies,Defense Aerospace,,0,1000,0,Y,Y,Y
+"",United Healthcare Group,Misc Health,,0,1000,0,Y,,
+"",TJX Cos Inc,Retail Sales,,0,1000,0,Y,,
+D000023662,Thermo Fisher Scientific,Misc Mfg/Distrib,,0,1000,0,Y,Y,
+D000037414,Schlumberger Ltd,Oil & Gas,,0,1000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,0,1000,0,Y,Y,Y
+D000055647,Precision Castparts,Misc Mfg/Distrib,,0,1000,0,Y,,
+"",Powershares ETF,Unknown,Mutual Fund,0,1000,0,Y,,
+D000028392,Plum Creek Timber,Forest Products,,0,1000,0,Y,Y,Y
+D000042332,Nestle Sa,Food & Beverage,,0,1000,0,Y,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,0,1000,0,Y,Y,Y
+D000000804,Intel Corp,Electronics Mfg/Eqp,,0,1000,0,Y,Y,
+"",CVS/Caremark Corp,Retail Sales,,0,1000,0,Y,,
+D000000427,Cooper Industries,Misc Mfg/Distrib,,0,1000,0,Y,,
+D000000217,American Express,Finance/Credit,,0,1000,0,Y,Y,

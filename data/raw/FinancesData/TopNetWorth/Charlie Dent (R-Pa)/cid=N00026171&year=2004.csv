@@ -1,0 +1,26 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000031466,American Bank,Commercial Banks,Cash/Money Market/Savings/Checking,31003,115000,0,Y,,Y
+"",Pennsylvania State Employ Retirement Sys,Unknown,,50001,100000,0,Y,,
+"",Pennsylvania Deferred Compensation,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",50001,100000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,16002,65000,0,Y,Y,Y
+"",TIAA-CREF,Securities/Invest,Unknown,15001,50000,0,Y,,
+D000000108,Merrill Lynch,Securities/Invest,,15001,50000,0,Y,Y,Y
+D000000126,AFLAC Inc,Insurance,,15001,50000,0,Y,Y,Y
+"",Wachovia Bank Sweep,Unknown,Cash/Money Market/Savings/Checking,3003,45000,0,Y,,
+D000021573,Wachovia Corp,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",UK Harbor Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Salomon Brothers Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",PA Top Account,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Oppenheimer Quest,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Gabelli Equity Trust,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",AllianceBernstein Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Alliance PEA Target Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Alliance PEA Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000021809,Air Products & Chemicals Inc,Chemicals,,1001,15000,0,Y,Y,Y
+D000000530,Lucent Technologies,Telecom Svcs,,2,2000,0,Y,Y,
+"",Agere Systems,Electronics Mfg/Eqp,,2,2000,0,Y,,
+"",Treasury Fund Money Clan,Unknown,Mutual Fund,1,1000,0,Y,,
+D000059345,Lafayette Ambassador Bank,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Gabelli Utility Trust,Unknown,Mutual Fund,1,1000,0,Y,,
+D000024209,Avaya Inc,Telecom Svcs,,1,1000,0,Y,Y,
+"",AllianceBernstein Large Cap Fund,Unknown,Mutual Fund,1,1000,0,Y,,

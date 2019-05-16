@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Townhouse Apartment/Washington,Real Estate,,100001,250000,0,Y,,
+"",Congressional FCU IRA Accounts/Wayne,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Congressional CU IRA Account/Joan Allard,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",US Senate Credit Union Roth IRA/Wayne,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",US Senate Credit Union Roth IRA/Joan,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",UNUMProvident,Insurance,,1001,15000,0,Y,,
+"",Senate Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000049510,Colorado Community Bank,Commercial Banks,Cash/Money Market/Savings/Checking,0,1000,0,Y,,

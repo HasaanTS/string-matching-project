@@ -1,0 +1,20 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Located in Montross, VA",Unknown,,500001,1000000,0,A,,
+"",Virginia Retirement System,Insurance,Insurance policies & Annuities,200002,500000,0,A,,
+"",Trust of America,Unknown,Mutual Fund,50001,100000,0,A,,
+"","Rental Property/Montross, VA",Real Estate,,50001,100000,0,A,,
+"",Peoples Community Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",Peoples Community Bank,Commercial Banks,,15001,50000,0,A,,
+"",National Western Life Annuity,Unknown,Insurance policies & Annuities,15001,50000,0,A,,
+"",Genworth Financial Inc,Insurance,,15001,50000,0,A,,
+"",Commonwealth Of VA 457 Deferred Comp,Unknown,Insurance policies & Annuities,15001,50000,0,A,,
+"",Bank of Lancaster/Money Market Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",Met Life Universal Life Insurance,Unknown,Insurance policies & Annuities,2002,30000,0,A,,
+D000068479,WellPoint Inc,Health Services,,1001,15000,0,A,,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,A,Y,Y
+"",Piedmont Office Realty Trust Inc,Unknown,Mutual Fund,1001,15000,0,A,,
+D000000015,Chevron Corp,Oil & Gas,,1001,15000,0,A,Y,
+D000059008,Bay Banks of Virginia,Commercial Banks,,1001,15000,0,A,,Y
+"",401A Cash Match Plan Commonwealth of Virginia 4,Unknown,Insurance policies & Annuities,1001,15000,0,A,,
+D000053560,Media General Inc,TV/Movies/Music,,1,1000,0,A,Y,
+D000066710,Frontier Communications,Telephone Utilities,,1,1000,0,A,Y,

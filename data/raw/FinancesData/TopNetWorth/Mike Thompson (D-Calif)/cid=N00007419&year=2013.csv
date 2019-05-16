@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Ownership/Finley, CA",Unknown,,500001,1000000,0,Y,,
+"","1435/1439 Kearny St, St Helena",Real Estate,,500001,1000000,0,Y,,
+"",Silverado Credit Union,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",Real Estate Property/1590 Webster,Real Estate,,100001,250000,0,Y,,
+"",Bank of America Account,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000019566,Wells Fargo Bank,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Nationwide Asset Allocation Index Med,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000022143,Nationwide,Insurance,Mutual Fund,15001,50000,0,Y,Y,Y
+"",AHRP Cap Pres,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Washington Mutual Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Vanguard Institutional Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Harbor Mid Cap,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",First Republic Bank San Francisco,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

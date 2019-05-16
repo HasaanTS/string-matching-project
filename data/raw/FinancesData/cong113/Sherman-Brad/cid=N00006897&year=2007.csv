@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Home with Rental/Washington, DC",Real Estate,,500001,1000000,0,Y,,
+"",Dreyfus S&P Index Fund,Unknown,Mutual Fund,500001,1000000,0,Y,,
+"",Vanguard 500 Index,Securities/Invest,Mutual Fund,250001,500000,0,Y,,
+"",US Savings Bond,Unknown,Government Bond,100001,250000,0,Y,,
+"",CA State Legislators Retirement Pension,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Water District Municipal Bond,Unknown,Government Bond,50001,100000,0,Y,,
+"",Vanguard TIPS Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Merrill Lynch Stern Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Joint Powers Authority Muni Bond,Unknown,Government Bond,50001,100000,0,Y,,
+"",BeeBee Draw/Hambert Combined Properties,Real Estate,,50001,100000,0,Y,,
+D000029798,Wescom Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,Y
+"",Vanguard Intermediate CA Tax Exempt Bond,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Union Bank of California,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Dreyfus California Tax Exempt Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Bank of America account,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Pacolma Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",CPA Practice Equipment,Accountants,,1,1000,0,Y,,

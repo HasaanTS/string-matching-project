@@ -1,0 +1,89 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Brandy Trust Multi-Strategy Common Trust Fund,,Mutual Fund,6700005,31500000,0,Y,,
+"",Brandy Trust Global Common Trust Fund,,Mutual Fund,2700005,11500000,0,Y,,
+D000029193,State Street Bank & Trust,Securities/Invest,Cash/Money Market/Savings/Checking,580005,1200000,0,Y,,
+"",Dreyfus Treasury Prime Cash Management Fund,,Mutual Fund,501002,1015000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,500002,1000000,0,Y,Y,
+"",Brandy Wine Private Equity Partners (2011),,Mutual Fund,500001,1000000,0,Y,,
+"",Brandy Wine Private Equity Partners (2008),,Mutual Fund,500001,1000000,0,Y,,
+"",Brandy Wine Private Equity Partners (2007),,Mutual Fund,500001,1000000,0,Y,,
+"",Brandy Wine Private Equity partners,,Mutual Fund,500001,1000000,0,Y,,
+D000067823,Alphabet Inc,Internet,,390010,1000000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,366005,765000,0,Y,Y,Y
+"",Brandy Trust Global Partners LP,Unknown,,330004,700000,0,Y,,
+D000000128,Walt Disney Co,TV/Movies/Music,,230005,550000,0,Y,Y,
+D000000275,Merck & Co,Pharm/Health Prod,,250001,500000,0,Y,Y,Y
+D000025625,Ecolab Inc,Chemicals,,195005,500000,0,Y,Y,
+"",Brandy Wine Private Equity Partners (2013),,Mutual Fund,250001,500000,0,Y,,
+"",Brandy Wine Private Equity Partners (2006),,Mutual Fund,250001,500000,0,Y,,
+"",Brandy Wine Private Equity Partners (2005),,Mutual Fund,250001,500000,0,Y,,
+"",Brandy Trust Private Equity LP,,Mutual Fund,250001,500000,0,Y,,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,181005,465000,0,Y,Y,Y
+D000026221,Gilead Sciences,Pharm/Health Prod,,180004,450000,0,Y,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,167005,430000,0,Y,Y,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,165003,400000,0,Y,Y,Y
+D000032432,Celgene Corp,Pharm/Health Prod,,145004,400000,0,Y,Y,Y
+D000023883,Amazon.com,Internet,,130003,350000,0,Y,Y,Y
+D000000103,JPMorgan Chase & Co,Commercial Banks,,116003,315000,0,Y,Y,Y
+"",Eaton Vance Small Cap Fund,,Mutual Fund,116003,315000,0,Y,,
+D000067057,Mondelez International,Food Process/Sales,,115002,300000,0,Y,Y,
+D000000373,McDonald's Corp,Food & Beverage,,110005,300000,0,Y,Y,
+"",Chubb Ltd,Unknown,,130004,300000,0,Y,,
+D000000144,Anheuser-Busch,"Beer, Wine & Liquor",,110005,300000,0,Y,,
+D000042332,Nestle SA,Food & Beverage,,95004,250000,0,Y,Y,
+D000000212,Coca-Cola Co,Food & Beverage,,115003,250000,0,Y,Y,Y
+"",Brandy Trust SPL EQ PTNR II LP,,Mutual Fund,100001,250000,0,Y,,
+D000000408,Deere & Co,Agricultural Svcs,,82005,230000,0,Y,Y,
+D000037414,Schlumberger Ltd,Oil & Gas,,81004,215000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,60004,200000,0,Y,Y,Y
+D000000055,Monsanto Co,Agricultural Svcs,,68005,195000,0,Y,Y,
+D000000161,Waste Management Inc,Waste Management,,67004,180000,0,Y,Y,
+D000019838,Agilent Technologies,Electronics Mfg/Eqp,,47005,180000,0,Y,,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,67004,180000,0,Y,Y,Y
+D000000367,Wal-Mart Stores,Retail Sales,,46004,165000,0,Y,Y,
+D000000336,Rockwell International,Unknown,,66003,165000,0,Y,,
+"",Microchip Technology Inc,Electronics Mfg/Eqp,,66003,165000,0,Y,,
+"",AvalonBay Communities,Real Estate,,66003,165000,0,Y,,
+D000000786,Accenture,Business Services,,66003,165000,0,Y,Y,Y
+"",SSGA Inst US Treas Money Market Inv Fund,,Mutual Fund,65002,150000,0,Y,,
+"",First Republic Bank San Francisco,Commercial Banks,,65002,150000,0,Y,,
+D000026889,Johnson Controls,Automotive,,33005,145000,0,Y,Y,
+D000000172,MetLife Inc,Insurance,,32004,130000,0,Y,Y,
+D000000081,United Parcel Service,Air Transport,,31003,115000,0,Y,Y,Y
+D000000321,NextEra Energy,Electric Utilities,,51002,115000,0,Y,Y,Y
+D000000071,Citigroup Inc,Commercial Banks,,51002,115000,0,Y,Y,Y
+D000000079,Verizon Communications,Telephone Utilities,,19005,110000,0,Y,Y,Y
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,19005,110000,0,Y,Y,
+D000000722,Texas Instruments,Electronics Mfg/Eqp,,30002,100000,0,Y,Y,Y
+D000019414,Metropolitan Life Insurance,Insurance,Insurance policies & Annuities,50001,100000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,30002,100000,0,Y,Y,Y
+D000000334,Honeywell International,Misc Mfg/Distrib,,30002,100000,0,Y,Y,Y
+D000000166,Eli Lilly & Co,Pharm/Health Prod,,50001,100000,0,Y,Y,Y
+D000000015,Chevron Corp,Oil & Gas,,50001,100000,0,Y,Y,Y
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,30002,100000,0,Y,Y,Y
+"",Brandy Trust Structured Index Fund,,Mutual Fund,50001,100000,0,Y,,
+"",Brandy Trust SPL EQ PTNR LP,,Mutual Fund,50001,100000,0,Y,,
+"",Brandy TR Structured Index Fund,,Mutual Fund,50001,100000,0,Y,,
+D000060098,Analog Devices Inc,Electronics Mfg/Eqp,,30002,100000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,Mutual Fund,17003,80000,0,Y,Y,Y
+D000056216,Rockwell Automation,Misc Mfg/Distrib,,16002,65000,0,Y,,
+"",United Parcel Services Fund,,Mutual Fund,15001,50000,0,Y,,
+D000030442,TJX Companies,Retail Sales,,15001,50000,0,Y,,
+D000000805,KeyCorp,Commercial Banks,,15001,50000,0,Y,Y,
+"",Eagle Midcap Growth Fund,,Mutual Fund,15001,50000,0,Y,,
+D000025214,CVS Health,Retail Sales,,15001,50000,0,Y,Y,
+"",Chubb Ltd,,,15001,50000,0,Y,,
+D000024300,"Becton, Dickinson & Co",Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000000391,Amgen Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+"",Linear Technology Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,,
+"",Brandy Trust Spl Eq Partners LP,,Mutual Fund,2002,30000,0,Y,,
+"",Wells Fargo Bank Account,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Vanguard Star Fund,,Mutual Fund,1001,15000,0,Y,,
+D000000209,United Technologies,Defense Aerospace,,1001,15000,0,Y,Y,Y
+"",First Republic San Fran,Unknown,,1001,15000,0,Y,,
+"",EMC Corp Mass,,,1001,15000,0,Y,,
+"",CVS/Caremark Corp,Retail Sales,,1001,15000,0,Y,,
+"",Brandy Trust Spl Eq LP,,Mutual Fund,1001,15000,0,Y,,
+"",Bank of America Checking Account,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank of America Account,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000066804,Abbvie Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y

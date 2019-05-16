@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",New York Life Variable Annuity,Unknown,Mutual Fund,100001,250000,0,A,,
+"",California State Teacher Retirement Plan,Unknown,"Brokerage, IRA, 401k",100001,250000,0,A,,
+"",Defined Benefit Supplement - Savings Acc,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",New York Life Whole Life Policy,Unknown,,1001,15000,0,C,,
+"",Mainstay Us Small Cap Fund,Unknown,Mutual Fund,1001,15000,0,C,,
+"",California Public Empl Retirement System,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",Alturn Credit Union,Unknown,,1001,15000,0,C,,

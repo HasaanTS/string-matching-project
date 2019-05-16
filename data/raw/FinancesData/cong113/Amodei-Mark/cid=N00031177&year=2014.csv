@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",681 S Richmond Ave,Real Estate,,100001,250000,0,O,,
+"",National Financial Services IRA Cnl,Unknown,"Brokerage, IRA, 401k",50001,100000,0,O,,
+"",National Financial Services - IRA Wells,Unknown,"Brokerage, IRA, 401k",50001,100000,0,O,,
+"",Valic Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,O,,
+"",Greater Nevada Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,O,,
+"",Chase Bank account,Unknown,"Brokerage, IRA, 401k",1001,15000,0,O,,
+D000000090,Bank of America,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,O,Y,
+"",PNC Bank Account,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,O,,
+"",Capital One Bank accounts,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,O,,

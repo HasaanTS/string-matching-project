@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Investment Entrepreneurs LLC,Real Estate,,100001,250000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,31003,115000,0,Y,Y,Y
+"",645-47 W Liberty St,Real Estate,,50001,100000,0,Y,,
+D000028916,SCANA Corp,Electric Utilities,,15001,50000,0,Y,Y,Y
+D000031719,Automatic Data Processing Inc,Business Services,,1001,15000,0,Y,Y,
+"",Wright Patnam Congressional FCU,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000018957,South Carolina Credit Union League,,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Franklin Utilities Fund,Electric Utilities,,50001,100000,0,Y,,
+"",American Funds Washington Mutual Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Interoil Corp,Oil & Gas,,15001,50000,0,Y,,
+D000026188,Gentex Corp,Misc Mfg/Distrib,,15001,50000,0,Y,,Y
+"",Franklin Templeton Perspectives Alloc Fd,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American Funds World Growth/Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000030713,Urstadt Biddle Properties,Real Estate,,1001,15000,0,Y,,
+"",PowerShares WilderHill Clean Energy,Misc Energy,,1001,15000,0,Y,,
+"",Pacific Ethanol,Misc Energy,,1001,15000,0,Y,,
+"",Ivanhoe Energy,Oil & Gas,,1001,15000,0,Y,,
+"",Compass Diversified,Unknown,,1001,15000,0,Y,,
+"",APA Enterprises,Unknown,,1001,15000,0,Y,,
+"",McKenzie Bay International,Unknown,,1,1000,0,Y,,
+D000000403,CMS Energy,Electric Utilities,,1,1000,0,Y,Y,Y
+"",Clarion Technologies,Unknown,,1,1000,0,Y,,

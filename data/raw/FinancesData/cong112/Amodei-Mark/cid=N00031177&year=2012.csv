@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wells REIT II,Real Estate,,50001,100000,0,Y,,
+"",CNL REIT,Real Estate,,50001,100000,0,Y,,
+"",Greater Nevada Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000090,Bank Of America,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,Y,

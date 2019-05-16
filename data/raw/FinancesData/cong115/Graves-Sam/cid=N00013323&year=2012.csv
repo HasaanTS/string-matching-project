@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Sam Graves Farms,Crop Production,,1000001,5000000,0,Y,,
+"",Graves Brothers Farms,Crop Production,,250001,500000,0,Y,,
+"",Airport Farms Aviation LLC,Air Transport,,100001,250000,0,Y,,
+"",US Bank/Two Checking Accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Golden Triangle Energy Cooperative,Misc Energy,,15001,50000,0,Y,,
+"",Biofuels Llc,Misc Energy,,15001,50000,0,Y,,
+"",Archer Aviation,Air Transport,,15001,50000,0,Y,,
+"",Farm Equipment & Machinery,Agricultural Svcs,,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Rockin Hord LLC,Unknown,,1,1000,0,Y,,

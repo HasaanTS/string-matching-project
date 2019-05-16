@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","210 11th St. SE/Washington, DC",Real Estate,,500001,1000000,0,Y,,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",E*Trade Account,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000030081,Stein Mart,Retail Sales,,1001,15000,0,Y,,
+D000054859,Nuance Communications,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",JAG Greenscape,Unknown,,1001,15000,0,Y,,
+D000022008,Google Inc,Internet,,1001,15000,0,Y,Y,Y
+"","6741 Hwy 59/Gulf Shores, AL",Unknown,,1001,15000,0,Y,,
+"",3-D Systems,Unknown,,1001,15000,0,Y,,
+"",John & Cynthia Graves Life Insurance Trust #2,Unknown,"Brokerage, IRA, 401k",1,1000,0,Y,,
+"",John & Cynthia Graves Life Insurance Trust #1,Unknown,"Brokerage, IRA, 401k",1,1000,0,Y,,

@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Texoga Technologies,Unknown,,50001,100000,0,Y,,
+"","1038 Park Meadow Drive/Beaumont, TX",Real Estate,,50001,100000,0,Y,,
+D000028090,OGE Energy,Electric Utilities,,15001,50000,0,Y,,
+"",Neches Fed Cr La,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Mid-county Teachers Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Lord Abbott Bond Debenture,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000368,Exelon Corp,Electric Utilities,,15001,50000,0,Y,Y,
+"","7090 Prutzman/Beaumont, TX",Real Estate,,15001,50000,0,Y,,
+"",Money Market Aut,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",John Hancock Classic Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Calamos Global Growth & Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Funds Growth Fund of America,Misc Finance,Mutual Fund,1001,15000,0,Y,,

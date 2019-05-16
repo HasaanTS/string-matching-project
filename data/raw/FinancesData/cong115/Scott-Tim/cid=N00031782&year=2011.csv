@@ -1,0 +1,19 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",1403-1409 Ashley River Road/Charleston,Unknown,,1000001,5000000,0,A,,
+"",Dan Martin Carolina Insurance Group,Insurance,,250001,500000,0,Y,,
+"",Dan Martin Carolina Insurance Agency,Unknown,Note/Note Receivable,250001,500000,0,Y,,
+"","118 Two Hitch Road/Summerville, SC",Unknown,,100001,250000,0,A,,
+"",Tim Scott & Assoc,Business Services,,50001,100000,0,Y,,
+D000000632,Allstate Insurance,Insurance,,16002,65000,0,Y,Y,Y
+"",South Carolina Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Oppenheimer Global Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Great West Mutual Pension,Unknown,Unknown,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",Allstate Investment Co Life,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Fidelity Growth Fund,Unknown,Mutual Fund,1569,1569,0,A,,
+"",Fidelity Asset Manager Fund,Unknown,Mutual Fund,1558,1558,0,A,,
+D000021576,Wachovia Bank,Commercial Banks,,1,1000,0,Y,,
+"",Hope Floats LLC,Unknown,,1,1000,0,Y,,
+"",Heritage Trust Federal Credit Union,Unknown,,1,1000,0,Y,,
+D000032589,Citizens First Bank,Commercial Banks,,1,1000,0,Y,,

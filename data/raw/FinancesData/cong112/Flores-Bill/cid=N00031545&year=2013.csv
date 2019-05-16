@@ -1,0 +1,68 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Salient MLP Fund,Unknown,Mutual Fund,2073507,2073507,0,A,,
+"",Loans Receivable from Bill Flores for Congress Cam,Unknown,Note/Note Receivable,500001,1000000,0,A,,
+"",iShares S&P National Municipal Bond Fund,Unknown,Mutual Fund,474507,474507,0,A,,
+D000062308,MarkWest Energy Partners,Oil & Gas,,398632,398632,0,A,,
+"",TPH Partners LP,Securities/Invest,,384226,384226,0,A,,
+"",Partners Capital Account TPH Partners LTD,Unknown,,371265,371265,0,A,,
+"",EV Energy Partners,Misc Energy,,347477,347477,0,A,,
+"",Targa Resources,Oil & Gas,,305014,305014,0,A,,
+"",Tesoro Logistics,Oil & Gas,,281799,281799,0,A,,
+"",Standard Renewable Energy Group,Misc Energy,,100001,250000,0,A,,
+"",Sanders Opportunity Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",Brokerage account at Fidelity Investments,Unknown,"Brokerage, IRA, 401k",100001,250000,0,A,,
+"",Aircraft Hangar at Coulter Airport,Air Transport,,100001,250000,0,A,,
+"",Invesco Van Kampen High Yield Fund,Unknown,Mutual Fund,236672,236672,0,A,,
+"",Neuberger Berman MLP Income,Unknown,Mutual Fund,195214,195214,0,A,,
+"",Vanguard Intermediate Tax Exempt Fund,Unknown,Mutual Fund,188263,188263,0,A,,
+"",First Tr MLP & Energy Income Fund,Unknown,Mutual Fund,177028,177028,0,A,,
+"",Cohen & Steers MLP Inc Energy Opp,Unknown,Mutual Fund,165869,165869,0,A,,
+"",Doubleline Total Return Bond Fund,Unknown,Mutual Fund,161024,161024,0,A,,
+"",iShares iBoxx Inv Grade Corp Bond Fund,Unknown,Mutual Fund,156745,156745,0,A,,
+"",Vanguard Total Bond,Unknown,Mutual Fund,139076,139076,0,A,,
+"",Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",113393,113393,0,A,,
+"",SPDR Ser Tr Barclays Caphigh Yield Bond,Unknown,Mutual Fund,112091,112091,0,A,,
+"",iShares Trust iBoxx S High Yield Corpbond Etf,Unknown,Mutual Fund,112026,112026,0,A,,
+"",Southern Farm Bureau Life Insurance Policies,Unknown,Insurance policies & Annuities,50001,100000,0,A,,
+"",Cearbridge Emern Energy MLP Fund,Unknown,Mutual Fund,95355,95355,0,A,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,78396,78396,0,A,Y,
+D000000303,ConocoPhillips,Oil & Gas,,77715,77715,0,A,Y,Y
+D000000138,Pfizer Inc,Pharm/Health Prod,,71980,71980,0,A,Y,Y
+D000066804,Abbvie Inc,Pharm/Health Prod,,71293,71293,0,A,Y,Y
+D000000079,Verizon Communications,Telephone Utilities,,65110,65110,0,A,Y,Y
+D000000495,DuPont Co,Chemicals,Mutual Fund,60747,60747,0,A,Y,
+D000000015,Chevron Corp,Oil & Gas,,60581,60581,0,A,Y,Y
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,59836,59836,0,A,Y,
+D000000200,Pepsico Inc,Food & Beverage,,58058,58058,0,A,Y,
+"",Partners Capital Account TPH Partners II LTD,Unknown,,56331,56331,0,A,,
+D000000067,Altria Group,Tobacco,,53746,53746,0,A,Y,Y
+"",Cash,Unknown,Cash/Money Market/Savings/Checking,45725,45725,0,A,,
+"",TPH Partners II LP,Securities/Invest,,43536,43536,0,A,,
+"",Wells Fargo Adv Intm Tax AMTFree Intsl,Unknown,Mutual Fund,30113,30113,0,A,,
+D000000467,General Mills,Food Process/Sales,,27001,27001,0,A,Y,
+D000000373,McDonald's Corp,Food & Beverage,,23190,23190,0,A,Y,
+D000000076,AT&T Inc,Telephone Utilities,,19303,19303,0,A,Y,Y
+D000028149,ONEOK Inc,Oil & Gas,,17783,17783,0,A,Y,Y
+D000000383,Abbott Laboratories,Pharm/Health Prod,,17440,17440,0,A,Y,
+D000032736,Colgate-Palmolive Co,Pharm/Health Prod,,16368,16368,0,A,Y,
+"",JW Flores Family I LP,Unknown,,1002,16000,0,A,,
+D000000619,Target Corp,Retail Sales,,15691,15691,0,A,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15568,15568,0,A,Y,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,15387,15387,0,A,Y,
+"",Wells Fargo Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000031719,Automatic Data Processing Inc,Business Services,,14463,14463,0,A,Y,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,14025,14025,0,A,Y,
+D000022099,Mastercard Inc,Finance/Credit,,13367,13367,0,A,Y,
+"",Daily Money Fund Us Treasury,Unknown,Mutual Fund,12870,12870,0,A,,
+D000000104,Lockheed Martin,Defense Aerospace,,12785,12785,0,A,Y,Y
+D000021800,3M Co,Misc Mfg/Distrib,,12763,12763,0,A,Y,
+D000000166,Eli Lilly & Co,Pharm/Health Prod,,12546,12546,0,A,Y,
+D000000786,Accenture,Business Services,,11675,11675,0,A,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,11672,11672,0,A,Y,Y
+D000030442,TJX Companies,Retail Sales,,11663,11663,0,A,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,11654,11654,0,A,Y,
+"",Williams Cos,Oil & Gas,,11648,11648,0,A,,
+D000055403,Philip Morris International,Tobacco,,10717,10717,0,A,Y,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,8830,8830,0,A,Y,Y
+"",Trulite Inc,Electronics Mfg/Eqp,,1,1000,0,A,,
+D000055757,Protonex Technology,Misc Mfg/Distrib,,1,1000,0,A,,

@@ -1,0 +1,145 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Note receivable - Mike Kelly Hyundai,Unknown,Note/Note Receivable,1000001,5000000,0,Y,,
+"",Claddagh Property LP,Real Estate,,1000001,5000000,0,Y,,
+"",Blackrock Liquidity Fund,Unknown,Mutual Fund,500001,1000000,0,Y,,
+"",Vanguard Value Index ETF,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",Vanguard Growth ETF,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",T Rowe Price Value Fund Inc Fund #107,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",T Rowe Price Growth stock Fund#40,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",Mary H Phillips Residuary Trust,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"",iShares Tips Bond ETF,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",iShares JP Morgan Emerging Markets Bond Fund,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",iShares iBoxx $ Investment (LQD) Grade,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",Dodge & Cox International Fund,Misc Finance,Mutual Fund,200002,500000,0,Y,,
+"",Washington State G/O Ambac Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"",VanguardMid Cap Growth Index ETF,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Vanguard Mid Cap ETF,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Vanguard Mega Cap Value ETF,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Tampa Bay Water Fla A Regl Water Ref Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"",SPDR SER Trust Barclays High Yield Bond ETF,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",SPDR Gold Trust ETF,Mining,,100001,250000,0,Y,,
+"",Prince George's County MD Cons Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"",Pimco 0-5 Year High Yield Corp Bond Index Exchange,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Ohio Water Dev Auth Water Ref In Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"",Ohio State Common Sch G/O Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"",North Carolina Estrn Muni PR Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"",Nevada State Unemployment Compens Revenue Call,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Missouri Hwys & Trans Commn Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"",Michigan State Trunk Line Fd Ref Fsa Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"",Michigan Environmental Program Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"",Mich Mun Auth Revenue Clean Water Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"",Maryland 2nd S G/O Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"",iShares MSCI Emerging Markets Index,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Illinois Sales Tax Revenue Agm Ca Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"",Harbor International Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Goldman Sachs Absolute Return Tracker Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Florida Board Cap Outlay Ser Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"",Driehaus Active Income Fund #640,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Diamond Hill Long-Short Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Commodity Index Total Return EFT,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Colorado Hlth Facs Auth Revenue Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"",Citizens Property Insurance Co Bonds,Insurance,,100001,250000,0,Y,,
+"",California G/O Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"",California Economic Ref Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"",Artisan FDS Inc International Fund #661,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",AQR Managed Futures Strategy Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Vanguard Small Cap Value Index,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Vanguard Small Cap Growth Index,Securities/Invest,Mutual Fund,50001,100000,0,Y,,
+"",Vanguard LT Inv Grade Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Kelly Chevrolet Cadillac,Automotive,Mutual Fund,50001,100000,0,Y,,
+"",Blackrock Funds Equity Dividend Institutional,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",PNC Bank Account,Unknown,Cash/Money Market/Savings/Checking,16002,65000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",Vanguard Windsor II Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Vanguard Small Cap Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",T Rowe Price New Horizons Fund Inc Fund#42,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",T Rowe Price Large Cap Growth,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",PNC Small Cap Fund Class 1 Fund #426,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",NTS 2013 Erwin LP,Unknown,,15001,50000,0,Y,,
+"",NTS 2012 Blue Jay LP,Unknown,,15001,50000,0,Y,,
+"",Land 12.67 acres,Real Estate,,15001,50000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,15001,50000,0,Y,Y,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+D000022008,Google Inc,Internet,,15001,50000,0,Y,Y,Y
+"",Goldman Sachs Growth Opportunity Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000155,General Motors,Automotive,,15001,50000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",Atossa Genetics Inc,Unknown,,15001,50000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+"",PC Exploration Ltd Ptr 2008,Oil & Gas,,2002,30000,0,Y,,
+"",PC Exploration Ltd Ptr 2007,Oil & Gas,,2002,30000,0,Y,,
+D000022330,Yahoo! Inc,Internet,,1001,15000,0,Y,Y,
+"",Wyndham Worldwide Corp,Unknown,,1001,15000,0,Y,,
+"",Wisconsin Energy Corp,Electric Utilities,,1001,15000,0,Y,,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,Y,Y,Y
+D000029689,Visa Inc,Finance/Credit,,1001,15000,0,Y,Y,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000000209,United Technologies,Defense Aerospace,,1001,15000,0,Y,Y,Y
+D000000118,Union Pacific Corp,Railroads,,1001,15000,0,Y,Y,Y
+D000029036,Shire Plc,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000037414,Schlumberger Ltd,Oil & Gas,,1001,15000,0,Y,,
+D000022216,Regions Financial,Commercial Banks,,1001,15000,0,Y,Y,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",PVH Corp,Retail Sales,,1001,15000,0,Y,,
+D000028426,PPG Industries,Chemicals,,1001,15000,0,Y,Y,Y
+D000028403,Polaris Industries,Misc Transport,,1001,15000,0,Y,Y,
+"",PC Exploration Ltd Ptr 2010,Unknown,,1001,15000,0,Y,,
+"",PC Exploration Ltd Ptr 2009,Unknown,,1001,15000,0,Y,,
+"",PC Exploration Ltd Ptr 2006,Unknown,,1001,15000,0,Y,,
+"",PC Exploration Ltd Ptr 1989,Unknown,,1001,15000,0,Y,,
+"",PC Exploration Ltd Ptr 1985,Unknown,,1001,15000,0,Y,,
+"",PATA Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000028140,Omnicare Inc,Health Services,,1001,15000,0,Y,Y,
+"",NXP Semi Conductors,Unknown,,1001,15000,0,Y,,
+D000036294,NU Skin Enterprises,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000027998,Nike Inc,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+"",Mike Kelly Hyundai,Automotive,,1001,15000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",Methanex Corp,Unknown,,1001,15000,0,Y,,
+D000022105,McKesson Corp,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000035589,Manpower Inc,Business Services,,1001,15000,0,Y,,
+D000045998,Magna International,Automotive,,1001,15000,0,Y,,
+D000000104,Lockheed Martin,Defense Aerospace,,1001,15000,0,Y,Y,Y
+D000022084,Lincoln National Corp,Insurance,,1001,15000,0,Y,Y,
+D000020980,Las Vegas Sands,Casinos/Gambling,,1001,15000,0,Y,Y,
+"",Jazz Pharmaceuticals PLC,Pharm/Health Prod,,1001,15000,0,Y,,
+"",Ivy Small Cap Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Ivy Global Natural Resources Fund,Misc Energy,,1001,15000,0,Y,,
+"",Ivy Asset Strategy Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000026669,Invesco Ltd,Securities/Invest,,1001,15000,0,Y,Y,
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,Y
+D000026470,Hershey Co,Food & Beverage,,1001,15000,0,Y,Y,
+"",Helmercich & Payne Inc,Unknown,,1001,15000,0,Y,,
+D000000281,Halliburton Co,Oil & Gas,,1001,15000,0,Y,Y,
+D000000085,Goldman Sachs,Securities/Invest,,1001,15000,0,Y,Y,Y
+D000021991,Franklin Resources,Securities/Invest,,1001,15000,0,Y,Y,
+D000021983,Fifth Third Bancorp,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000043943,Eog Resources,Oil & Gas,,1001,15000,0,Y,,
+D000021970,eBay Inc,Internet,,1001,15000,0,Y,Y,
+"",Discover Financial W/L,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000350,Delta Air Lines,Air Transport,,1001,15000,0,Y,Y,
+"",CVS/Caremark Corp,Retail Sales,,1001,15000,0,Y,,
+"",Conoco Philips,Unknown,,1001,15000,0,Y,,
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,Y,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000000071,Citigroup Inc,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000320,Chubb Corp,Insurance,,1001,15000,0,Y,Y,
+D000000015,Chevron Corp,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000032432,Celgene Corp,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000019792,CBS Corp,TV/Movies/Music,,1001,15000,0,Y,,
+D000046126,Canadian Pacific Railway,Railroads,,1001,15000,0,Y,Y,
+D000000100,Boeing Co,Defense Aerospace,,1001,15000,0,Y,Y,Y
+D000024328,Best Buy,Retail Sales,,1001,15000,0,Y,Y,Y
+D000024300,"Becton, Dickinson & Co",Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",B/E Aerospace Inc,Unknown,,1001,15000,0,Y,,
+D000000217,American Express,Finance/Credit,,1001,15000,0,Y,Y,Y
+D000000067,Altria Group,Tobacco,,1001,15000,0,Y,Y,Y
+D000023856,Allergan Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000296,Aetna Inc,Health Services,,1001,15000,0,Y,Y,Y
+"",Campbells Gas Partners 2005,Oil & Gas,,2,2000,0,Y,,
+"",PC Exploration Ltd Ptr 2002,Oil & Gas,,1,1000,0,Y,,
+"",PC Exploration Ltd Ptr 2001,Oil & Gas,,1,1000,0,Y,,
+"",PC Exploration Ltd Ptr 2000,Oil & Gas,,1,1000,0,Y,,

@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental Property,Real Estate,,100001,250000,0,Y,,
+"",Pulaski Tech College,Unknown,,50001,100000,0,Y,,
+"",Goldman Sachs Cash Account,,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Kansas City Life Insurance Universal Life,,Insurance policies & Annuities,2002,30000,0,Y,,
+"",US Savings Bond,,Government Bond,1001,15000,0,Y,,
+"",Stephens Inc Money Market,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Arvest Bank Accounts,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

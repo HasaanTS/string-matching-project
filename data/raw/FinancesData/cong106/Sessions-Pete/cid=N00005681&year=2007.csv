@@ -1,0 +1,32 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Countrywide SavingsLink,Unknown,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+"",AT&T Qualified Pension Benefit,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+D000000076,AT&T Inc,Telephone Utilities,,352005,730000,0,Y,Y,Y
+"",US Treasury Bond,Unknown,Government Bond,265002,550000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,215003,550000,0,Y,Y,Y
+"",Fidelity International,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",Total US Stock Index,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Fidelity Mid & Small Cap,Unknown,Mutual Fund,100001,250000,0,Y,,
+D000022303,Valero Energy,Oil & Gas,,31003,115000,0,Y,Y,Y
+"",Stable Value Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Fidelity Large Cap Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000000205,Fannie Mae,Real Estate,,50001,100000,0,Y,Y,Y
+"",USAA Annuity,Unknown,Insurance policies & Annuities,16002,65000,0,Y,,
+"",USAA TXE-LT,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000045915,Transocean Inc,Oil & Gas,,15001,50000,0,Y,Y,
+"",Magellan Midstream,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Lighting Science,Misc Mfg/Distrib,,15001,50000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Citigroup Inc IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000000195,BNSF Railway,Railroads,,15001,50000,0,Y,Y,Y
+"",Stephens Money Market,Unknown,Cash/Money Market/Savings/Checking,3003,45000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,2002,30000,0,Y,Y,
+D000000071,Citigroup Inc,Commercial Banks,,2002,30000,0,Y,Y,Y
+"",USAA Tax Exempt,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Oppenheimer Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Lincoln Life IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Dreyfus Intermediate,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",AT&T PaySop Pension Plan,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",American Century Select Stock Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Century Non-Retire Select Stock,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",USAA Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

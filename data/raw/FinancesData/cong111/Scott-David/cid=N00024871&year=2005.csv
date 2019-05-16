@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Sprint Nextel,Telecom Svcs,,15978,15978,0,Y,,
+D000000681,Kerr-McGee Corp,Oil & Gas,,9995,9995,0,Y,Y,
+D000032736,Colgate-Palmolive Co,Pharm/Health Prod,,9050,9050,0,Y,Y,
+D000000419,Home Depot,Retail Sales,,8906,8906,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,8062,8062,0,Y,Y,Y
+D000000141,Prudential Financial,Insurance,,7319,7319,0,Y,Y,
+D000022110,Medtronic Inc,Pharm/Health Prod,,7196,7196,0,Y,Y,
+D000000126,AFLAC Inc,Insurance,,6963,6963,0,Y,Y,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,5770,5770,0,Y,Y,Y
+"",UBS Bank USA Deposit Account,Unknown,Cash/Money Market/Savings/Checking,1889,1889,0,Y,,
+"",UBS Retirement Money Fund,Unknown,Cash/Money Market/Savings/Checking,409,409,0,Y,,

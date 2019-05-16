@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","5 Buckhotz Road/Ettrick, WI",Real Estate,,250001,500000,0,Y,,
+"",Wisconsin Deferred Compensation Fund,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",50001,100000,0,Y,,
+"","213 Pearl Street/LaCrosse, WI",Real Estate,,50001,100000,0,Y,,
+"",Janus Growth & Income Fund,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",Wisconsin Deferred Compensation Program,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,Y,Y
+"",Massachusetts Investors,Unknown,,2002,30000,0,Y,,
+"",Fidelity Wisconsin EdVest 529 Plan,Unknown,"Brokerage, IRA, 401k",2002,30000,0,Y,,
+"",Janus Twenty Fund,Unknown,Mutual Fund,1002,16000,0,Y,,
+"",Putnam Mutual Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Putnam INU,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Oakmart Select,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Oakmark Equity & Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Janus Global Technology Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Janus Mercury Education IRA,Unknown,"Brokerage, IRA, 401k",1,1000,0,Y,,

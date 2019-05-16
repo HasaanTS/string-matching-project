@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Law Office,Lawyers/Law Firms,Unknown,100001,250000,0,Y,,
+"",IRA Charles Schwab Money Market,Unknown,Cash/Money Market/Savings/Checking,51002,115000,0,Y,,
+"",Charles Schwab Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Chico's,Unknown,,15001,50000,0,Y,,
+"",Wright Patman Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Wells Fargo/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000019743,Wells Fargo/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,Y,

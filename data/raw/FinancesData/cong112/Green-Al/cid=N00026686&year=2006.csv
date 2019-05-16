@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Texas County & District Retirement Sys,Unknown,"Brokerage, IRA, 401k",1000001,5000000,0,Y,,
+"","350 G Street SW/Washington, DC",Real Estate,,500001,1000000,0,Y,,
+"","Harris County, TX Deferred Comp Program",Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Capital One Bank Account,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"","7447 Cambridge 124/Houston, TX",Real Estate,,100001,250000,0,Y,,
+"","7447 Cambridge 107/Houston, TX",Real Estate,,100001,250000,0,Y,,
+"","7447 Cambridge 105/Houston, TX",Real Estate,,100001,250000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Morgan Stanley SEP IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Unity National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Morgan Stanley Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

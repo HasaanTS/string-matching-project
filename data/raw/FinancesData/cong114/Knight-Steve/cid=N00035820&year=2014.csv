@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental Property,Real Estate,,100001,250000,0,A,,
+"",Parcel of Land,Unknown,,100001,250000,0,A,,
+"",Los Angeles Fire & Police Pension,Unknown,"Brokerage, IRA, 401k",100001,250000,0,A,,
+"",Allianz Annuity,Unknown,Insurance policies & Annuities,100001,250000,0,A,,
+"",Allianz Whole Life,Unknown,Insurance policies & Annuities,102004,230000,0,A,,
+D000000205,Fannie Mae,Real Estate,,15001,50000,0,A,,
+"",US Savings Bond,Unknown,Government Bond,2002,30000,0,A,,
+D000020730,Chase Bank,Unknown,Unknown,2002,30000,0,A,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,A,Y,
+"",Los Angeles Police Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Golden One Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,

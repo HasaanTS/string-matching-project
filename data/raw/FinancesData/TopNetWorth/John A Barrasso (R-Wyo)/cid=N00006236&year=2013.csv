@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Vanguard Total Stock Market Index,Unknown,Mutual Fund,1000001,5000000,0,Y,,
+"",Promissory Note,Unknown,Note/Note Receivable,500001,1000000,0,Y,,
+"",Vanguard TIPS Fund,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",Vanguard Tax Exempt Money Market Fund,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",Vanguard Real Estate Investment Trust,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",Wyoming Orthopaedics Institute,Health Professionals,,201004,465000,0,Y,,
+"",Vanguard Prime Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000021757,Berkshire Hathaway,Securities/Invest,,100001,250000,0,Y,Y,Y
+"",Wells Fargo Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",First Interstate Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Tamarack Prime Money Market,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Jonah Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Hilltop National Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

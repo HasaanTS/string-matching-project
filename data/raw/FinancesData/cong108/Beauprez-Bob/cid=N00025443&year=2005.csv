@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Front Range Capital Corp,Commercial Banks,,2015003,10050000,0,Y,,
+"","Rental/382 Balckhawk Lane/Lafayette, CO",Real Estate,,1000001,5000000,0,Y,,
+"","Rental/595 Beauprez Avenue/Lafayette, CO",Real Estate,,250001,500000,0,Y,,
+"","Rental/104 Starline Ave/Lafayette, CO",Real Estate,,100001,250000,0,Y,,
+"",Wachovia Money Market,Unknown,Cash/Money Market/Savings/Checking,51002,115000,0,Y,,
+"",Pentegra Stable Value Fund,Unknown,"Brokerage, IRA, 401k",51002,115000,0,Y,,
+"",Heritage Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Pentegra Cash Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Beauprez Ltd,Unknown,,1001,15000,0,Y,,
+"",American Century Funds Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Indian Peaks Inc,Unknown,,1,1000,0,Y,,

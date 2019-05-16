@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Townhouse,Real Estate,,500001,1000000,0,Y,,
+"",iShares Life Sciences,Pharm/Health Prod,,100001,250000,0,Y,,
+"",Geosocial Inc,,,1001,15000,0,Y,,

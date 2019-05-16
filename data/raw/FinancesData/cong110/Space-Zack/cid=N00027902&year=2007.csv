@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Snoozer Ltd,Lodging/Tourism,,250001,500000,0,Y,,
+"",Ohio Public Employees Retirement System,Unknown,"Brokerage, IRA, 401k",115002,300000,0,Y,,
+"",State of Ohio Deferred Compensation Plan,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"","714 N Wooster Avenue/Dover, OH",Real Estate,,100001,250000,0,Y,,
+"",123-127 West High Ave/New Philadelphia,Real Estate,,100001,250000,0,Y,,
+"",Second Mortgage Receivable Eric & Tamm,Unknown,Note/Note Receivable,15001,50000,0,Y,,
+"",Quaker Inn LLC,Lodging/Tourism,,15001,50000,0,Y,,
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,Y,Y,Y
+"",Seligman Communications,Unknown,,1001,15000,0,Y,,
+"",Putnam Tax Free Hi Yield,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Putnam New Opportunities Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Putnam LTD Duration Govt Inc Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Huntington Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Gartmore Nationwide Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",First Eagle Global Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Aim Real Estate Fund,Real Estate,Mutual Fund,1001,15000,0,Y,,

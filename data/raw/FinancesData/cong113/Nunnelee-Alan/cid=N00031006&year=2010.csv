@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Allied Funeral,Misc Services,,250001,500000,0,Y,,
+"",Mississippi Public Employ Retirement Sys,Unknown,"Brokerage, IRA, 401k",65002,150000,0,Y,,
+"",Mississippi Supplemental Legislative Ret,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Allied Funeral Insurance Agency PA,Misc Services,,15001,50000,0,Y,,
+"",Allied Funeral Assoc,Misc Services,,15001,50000,0,Y,,
+"",Fidelity Diversified International Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fayez Sarofim,Misc Finance,,1001,15000,0,Y,,
+"",Boston Co Mid Cap Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",BlackRock Equity Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

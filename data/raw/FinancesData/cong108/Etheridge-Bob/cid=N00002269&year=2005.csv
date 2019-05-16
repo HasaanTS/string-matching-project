@@ -1,0 +1,34 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Farm/Broadway, NC",Crop Production,,250001,500000,0,Y,,
+"",North Carolina State Deferred Comp 401k,Unknown,"Brokerage, IRA, 401k",100001,250000,0,A,,
+"",New Century Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",1108 Mamers-Summerville Rd/Lillington NC,Real Estate,,15001,50000,0,A,,
+D000000480,Williams Companies,Oil & Gas,,1001,15000,0,A,Y,
+D000037414,Schlumberger Ltd,Oil & Gas,,1001,15000,0,Y,Y,
+"",RBC Centura Bank,Commercial Banks,,1001,15000,0,Y,,
+"",RBC Centura,Unknown,,1001,15000,0,A,,
+D000000398,Progress Energy,Electric Utilities,,1001,15000,0,A,Y,Y
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Oppenheimer Equity Income fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Nanometrics Inc,Unknown,,1001,15000,0,A,,
+D000000106,Morgan Stanley,Securities/Invest,,1001,15000,0,A,Y,Y
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,A,Y,Y
+"",iShares S&P Europe,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares MSCI EAFE Index,Unknown,Mutual Fund,1001,15000,0,A,,
+"",iShares Lehman,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000334,Honeywell International,Misc Mfg/Distrib,,1001,15000,0,A,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000495,DuPont Co,Chemicals,,1001,15000,0,A,Y,
+D000000477,Duke Energy,Electric Utilities,,1001,15000,0,A,Y,Y
+D000000188,Dow Chemical,Chemicals,,1001,15000,0,Y,Y,
+"",Dean Witter Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Cornerstone Banke,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000303,ConocoPhillips,Oil & Gas,,1001,15000,0,Y,Y,
+"",Commercial Property/Lillington,Real Estate,,1001,15000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,
+"",Citizens Commonwealth,Unknown,,1001,15000,0,Y,,
+D000031773,Baker Hughes Inc,Oil & Gas,,1001,15000,0,Y,Y,
+D000023883,Amazon.com,Internet,,1001,15000,0,Y,Y,
+D000043975,Alliance Capital Management,Securities/Invest,,1001,15000,0,A,,
+"",Coho Energy,Misc Energy,,1,1000,0,Y,,

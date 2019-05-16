@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",USAA Federal Savings Bank,Savings & Loans,,15001,50000,0,Y,,
+D000066809,Republic Consulting,Business Services,,15001,50000,0,Y,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000055329,Pentagon Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,Y,

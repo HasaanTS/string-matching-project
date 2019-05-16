@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Northern Trust Comp Account,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"",Fifth Third Bank Account,Unknown,"Brokerage, IRA, 401k",1001,15000,0,T,,
+D000023834,Alcatel-Lucent,Telecom Svcs,,1001,15000,0,T,Y,

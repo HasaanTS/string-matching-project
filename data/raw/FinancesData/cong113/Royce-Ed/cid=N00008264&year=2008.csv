@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity International Equity Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",UBS Bank USA Deposit Account,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+"",Congressional Federal Credit Union/Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000023834,Alcatel-Lucent,Telecom Svcs,,1,1000,0,Y,Y,

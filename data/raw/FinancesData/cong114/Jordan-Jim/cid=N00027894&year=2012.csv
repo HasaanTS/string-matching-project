@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Ohio Public Employee Retirement System,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Ohio Teachers Retirement System,Unknown,"Brokerage, IRA, 401k",15002,51000,0,Y,,
+"",Universal Guaranty Life,Insurance,Insurance policies & Annuities,2002,30000,0,Y,,
+"",Ohio Public Employees Def Compensation,Unknown,Mutual Fund,2002,30000,0,Y,,
+D000063321,Security National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

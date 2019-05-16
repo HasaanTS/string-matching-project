@@ -1,0 +1,28 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Farm Land/Broadway, NC",Crop Production,,250001,500000,0,Y,,
+"",North Carolina State Deferred Comp 401k,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"","Rental Property/House/Lillington, NC",Real Estate,,15001,50000,0,Y,,
+"",New Century Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000398,Progress Energy,Electric Utilities,,2002,30000,0,Y,Y,Y
+"",RBC Centura,Unknown,,1002,16000,0,Y,,
+D000019512,Sprint PCS,Telecom Svcs,,1001,15000,0,Y,,
+"",RBC Centura Bank,Commercial Banks,,1001,15000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Oppenheimer Equity Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000106,Morgan Stanley,Securities/Invest,,1001,15000,0,Y,Y,Y
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000334,Honeywell International,Defense Aerospace,,1001,15000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000495,DuPont Co,Chemicals,,1001,15000,0,Y,Y,
+D000000477,Duke Energy,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",Dean Witter Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Cornerstone Bank,Commercial Banks,,1001,15000,0,Y,,
+D000000303,ConocoPhillips,Oil & Gas,,1001,15000,0,Y,Y,
+"",Commercial Property/Lillington,Real Estate,,1001,15000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",American Opportunities Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000043975,Alliance Capital Management,Securities/Invest,,1001,15000,0,Y,,
+D000000081,United Parcel Service,Air Transport,,1,1000,0,Y,Y,Y
+"",Coho Energy,Misc Energy,,1,1000,0,Y,,

@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Hanston Insurance Agency,Insurance,,100001,250000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,100001,250000,0,Y,Y,Y
+"",Capital Income Builder Fund,Unknown,Mutual Fund,51002,115000,0,Y,,
+"",Capital World Growth & Income Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Income Fund of America,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",Fidelity Growth Opportunity Fund,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",American Funds Investment Co of America,Unknown,Mutual Fund,16002,65000,0,Y,,
+D000045915,Transocean Inc,Oil & Gas,,15001,50000,0,Y,Y,
+D000037414,Schlumberger Ltd,Oil & Gas,,15001,50000,0,Y,,
+"",MFS Massachusetts Inv Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000281,Halliburton Co,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000000015,Chevron Corp,Oil & Gas,,15001,50000,0,Y,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000100,Boeing Co,Defense Aerospace,,1001,15000,0,Y,Y,Y

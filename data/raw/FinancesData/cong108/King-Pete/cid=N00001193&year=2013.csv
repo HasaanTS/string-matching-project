@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000020730,Chase Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Nassau Co Credit Union,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Astoria Federal Savings,Savings & Loans,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,

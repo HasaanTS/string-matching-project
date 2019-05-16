@@ -1,0 +1,141 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000032432,Celgene Corp,Pharm/Health Prod,,501002,1015000,0,A,Y,
+"",13/4/3 Parcel 200,Unknown,,500002,1000000,0,A,,
+"",Bank of New Albany,Commercial Banks,,350004,850000,0,A,,
+"",50% 3/5 interest in 21.06 Acres,Real Estate,,250001,500000,0,A,,
+"",Watkins & Eager Retirement Trust,Misc Finance,,100001,250000,0,A,,
+"",2/5 Interest in 21.06 Acres,Unknown,,100001,250000,0,A,,
+"",Renasant Trust MDA,Unknown,,46004,165000,0,A,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,52003,130000,0,A,Y,
+D000000275,Merck & Co,Pharm/Health Prod,,50001,102000,0,A,Y,Y
+D000038863,Raymond James Bank,Commercial Banks,,50001,100000,0,A,,
+"",Parking Lot E Jefferson/E Walnut Parking Lot,Real Estate,,50001,100000,0,A,,
+"",Oasis Petroleum,Oil & Gas,,50001,100000,0,A,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,16002,65000,0,A,Y,
+D000000303,ConocoPhillips,Oil & Gas,,16002,65000,0,A,Y,Y
+"",Ingersoll Rand Financial Corp Inter Note,Unknown,Note/Note Receivable,15001,51000,0,A,,
+D000059696,Whiting Petroleum,Oil & Gas,,15001,50000,0,A,,
+"",Walgreen Co,Retail Sales,,15001,50000,0,A,,
+"",Villere Balanced Inv Fund,Unknown,,15001,50000,0,A,,
+"",USG Corp,Building Materials,,15001,50000,0,A,,
+D000029514,Trinity Industries,Railroads,,15001,50000,0,A,Y,
+"",Triangle Capital Corp,Securities/Invest,,15001,50000,0,A,,
+"",Pentair Plc,Unknown,,15001,50000,0,A,,
+"",Neuberger Berman MLP Income Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Morgan Stanley Private Bank NA,Unknown,,15001,50000,0,A,,
+D000067057,Mondelez International,Food Process/Sales,,15001,50000,0,A,Y,
+"",Mississippi Dev Bk Special Obligation Sewer Bonds,Unknown,Government Bond,15001,50000,0,A,,
+"",Midstates Petroleum,Oil & Gas,,15001,50000,0,A,,
+"",Medical Properties Trust,Real Estate,,15001,50000,0,A,,
+"",MarkWest Energy Partners LP,Unknown,,15001,50000,0,A,,
+D000062132,Legacy Reserves,Oil & Gas,,15001,50000,0,A,,
+D000027084,Kroger Co,Food Process/Sales,Note/Note Receivable,15001,50000,0,A,Y,
+"",Kohlberg Kravis Roberts & Co,Unknown,,15001,50000,0,A,,
+D000026963,KBR Inc,Construction Svcs,,15001,50000,0,A,,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,15001,50000,0,A,Y,Y
+"",International Paper Co,Unknown,,15001,50000,0,A,,
+"",Hercules Technology Growth Capital Inc,Unknown,,15001,50000,0,A,,
+D000000677,Hartford Financial Services,Insurance,Note/Note Receivable,15001,50000,0,A,Y,
+D000000085,Goldman Sachs,Securities/Invest,,15001,50000,0,A,Y,Y
+D000020679,Ford Motor Credit Co,Finance/Credit,Note/Note Receivable,15001,50000,0,A,,
+D000000277,Fluor Corp,General Contractors,,15001,50000,0,A,Y,Y
+D000000205,Fannie Mae,Real Estate,Note/Note Receivable,15001,50000,0,A,,
+D000000129,Exxon Mobil,Oil & Gas,,15001,50000,0,A,Y,Y
+"",Energy Transfer Equity LP,Oil & Gas,,15001,50000,0,A,,
+D000033033,Danaher Corp,Misc Mfg/Distrib,,15001,50000,0,A,Y,
+D000025214,CVS Health,Retail Sales,,15001,50000,0,A,Y,Y
+"",Crestwood Midstream Partners LP,Unknown,,15001,50000,0,A,,
+"",Covidien plc,Pharm/Health Prod,,15001,50000,0,A,,
+D000049483,Colfax Corp,Sea Transport,,15001,50000,0,A,,
+"",CenturyLink Inc,Telephone Utilities,,15001,50000,0,A,,
+"",Bunge Limited Finance Corp,Unknown,,15001,50000,0,A,,
+D000021873,Blackstone Group,Securities/Invest,,15001,50000,0,A,Y,Y
+D000066768,Bank of Montreal,Commercial Banks,,15001,50000,0,A,,
+"",Atlas Resource Partners,Unknown,,15001,50000,0,A,,
+"",Belle Haven Country Club,Unknown,,2002,30000,0,A,,
+D000000090,Bank of America,Commercial Banks,,2002,30000,0,A,Y,
+"",Linn Co,Unknown,,1001,17000,0,A,,
+D000001024,Kraft Foods,Food Process/Sales,,1001,17000,0,A,,
+"",Tallgrass Energy Partners,Unknown,,1001,16000,0,A,,
+D000022084,Lincoln National Corp,Insurance,,1001,16000,0,A,Y,
+"",Xilinx Inc,Electronics Mfg/Eqp,,1001,15000,0,A,,
+D000029689,Visa Inc,Finance/Credit,,1001,15000,0,A,Y,
+D000000487,US Bancorp,Commercial Banks,,1001,15000,0,A,Y,
+D000000081,United Parcel Service,Air Transport,,1001,15000,0,A,Y,Y
+"",Trustmark National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000030442,TJX Companies,Retail Sales,,1001,15000,0,A,,
+D000029382,Terex Corp,Building Materials,,1001,15000,0,A,,
+D000000168,Southern Co,Electric Utilities,,1001,15000,0,A,Y,Y
+"",Seadrill Ltd,Unknown,,1001,15000,0,A,,
+D000042761,Ross Stores,Retail Sales,,1001,15000,0,A,,
+"",Regions Financial Corp,Unknown,,1001,15000,0,A,,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+D000028398,PNC Financial Services,Commercial Banks,,1001,15000,0,A,Y,
+"",Peoples Bank of Ripley,Commercial Banks,,1001,15000,0,A,,
+D000055329,Pentagon Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,A,Y,
+D000000321,NextEra Energy,Electric Utilities,,1001,15000,0,A,Y,Y
+D000064935,National Oilwell Varco,Oil & Gas,,1001,15000,0,A,Y,
+D000000244,Marathon Oil,Oil & Gas,,1001,15000,0,A,Y,Y
+"",Mallinckrodt Public Ltd,Unknown,,1001,15000,0,A,,
+D000000207,Loews Corp,Insurance,,1001,15000,0,A,Y,Y
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,1001,15000,0,A,Y,
+"",Invesco Mid Cap Growth Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Invesco Equity & Income Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Inergy Midstream,Unknown,,1001,15000,0,A,,
+D000000419,Home Depot,Retail Sales,,1001,15000,0,A,Y,Y
+D000026221,Gilead Sciences,Pharm/Health Prod,,1001,15000,0,A,Y,
+D000026187,Genesee & Wyoming,Railroads,,1001,15000,0,A,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,A,Y,Y
+"",FNMA REMIC Trust,Unknown,Mutual Fund,1001,15000,0,A,,
+D000021977,Express Scripts,Health Services,,1001,15000,0,A,Y,
+"",EMC Corp,Electronics Mfg/Eqp,,1001,15000,0,A,,
+D000021970,eBay Inc,Internet,,1001,15000,0,A,Y,
+D000000495,DuPont Co,Chemicals,,1001,15000,0,A,Y,Y
+D000000188,Dow Chemical,Chemicals,,1001,15000,0,A,Y,Y
+D000021651,Dean Foods,Dairy,,1001,15000,0,A,Y,Y
+D000024786,CIT Group,Finance/Credit,,1001,15000,0,A,Y,
+D000000015,Chevron Corp,Oil & Gas,,1001,15000,0,A,Y,Y
+"",Banco Santander SA,Securities/Invest,,1001,15000,0,A,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+D000021800,3M Co,Misc Mfg/Distrib,,1001,15000,0,A,Y,Y
+"",Williams Partners,Oil & Gas,,0,2000,0,A,,
+D000000172,Metlife Inc,Insurance,,0,2000,0,A,Y,Y
+D000000089,FedEx Corp,Air Transport,,0,2000,0,A,Y,Y
+D000042050,Dr Pepper Snapple Group,Food & Beverage,,0,2000,0,A,,Y
+D000000148,CSX Corp,Railroads,,0,2000,0,A,Y,Y
+D000029969,Zions Bancorp,Commercial Banks,,0,1000,0,A,Y,
+D000065824,WPX Energy,Oil & Gas,,0,1000,0,A,Y,
+D000022303,Valero Energy,Oil & Gas,,0,1000,0,A,Y,
+"",Triangle Petroleum,Oil & Gas,,0,1000,0,A,,
+D000045915,Transocean Inc,Unknown,,0,1000,0,A,Y,
+"",Thoratec Corp,Pharm/Health Prod,,0,1000,0,A,,
+D000029389,Teva Pharmaceutical Industries,Unknown,,0,1000,0,A,Y,
+"",Targa Resources Partners,Oil & Gas,,0,1000,0,A,,
+"",Targa Resources Corp,Oil & Gas,,0,1000,0,A,,
+"",Synchronoss Technologies,Electronics Mfg/Eqp,,0,1000,0,A,,
+"",Sudley Manor Retirement Home,Unknown,,0,1000,0,A,,
+D000057143,Stanley Black & Decker,Misc Mfg/Distrib,,0,1000,0,A,Y,
+"",Rowan Companies,Oil & Gas,,0,1000,0,A,,
+D000000341,Rite Aid Corp,Retail Sales,,0,1000,0,A,Y,
+"",RF Micro Devices Inc,Unknown,,0,1000,0,A,,
+D000000141,Prudential Financial,Insurance,,0,1000,0,A,Y,
+"",Pimco All Asset All Authority Fund,Unknown,Mutual Fund,0,1000,0,A,,
+D000000200,Pepsico Inc,Food & Beverage,,0,1000,0,A,Y,Y
+D000064974,Old Dominion Freight Line,Trucking,,0,1000,0,A,Y,
+"",Nuveen Credit Strategies Income Fund,Unknown,,0,1000,0,A,,
+"",Newfield Exploration,Misc Energy,,0,1000,0,A,,
+D000036078,Nabors Industries,Oil & Gas,,0,1000,0,A,Y,
+D000067119,Linn Energy,Misc Energy,,0,1000,0,A,,
+"",Kimco Realty Corp,Real Estate,,0,1000,0,A,,
+D000022038,Illinois Tool Works,Misc Mfg/Distrib,,0,1000,0,A,Y,
+D000026132,HollyFrontier Corp,Oil & Gas,,0,1000,0,A,Y,
+D000064795,Helix Energy Solutions,Oil & Gas,,0,1000,0,A,Y,
+"",GMX Resources,Oil & Gas,,0,1000,0,A,,
+D000000467,General Mills,Food Process/Sales,,0,1000,0,A,Y,
+D000000393,Freeport-McMoRan Inc,Unknown,,0,1000,0,A,,
+"",EverBank Financial Corp,Commercial Banks,,0,1000,0,A,,
+"",Eaton Vance Worldwide Health Sciences Fund,Unknown,Mutual Fund,0,1000,0,A,,
+D000021757,Berkshire Hathaway,Securities/Invest,,0,1000,0,A,Y,Y
+"",Applied Micro Circuits Corp,Unknown,,0,1000,0,A,,
+D000000391,Amgen Inc,Pharm/Health Prod,,0,1000,0,A,Y,Y
+"",Alumina Ltd,Mining,,0,1000,0,A,,

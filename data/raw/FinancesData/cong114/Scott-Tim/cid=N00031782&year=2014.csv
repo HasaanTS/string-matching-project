@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Residential Rental/Summerville, SC",Real Estate,,100001,250000,0,Y,,
+"",South Carolina State Retirement System,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Allstate Corp,Unknown,,15001,50000,0,Y,,
+D000000632,Allstate Insurance,Insurance,,2002,30000,0,Y,Y,Y
+"",Tim Scott & Assoc,Unknown,,1001,15000,0,Y,,
+"",Oppenheimer Global Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Growth & Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Asset Manager 20% Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Congressional Federal Credit Union Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

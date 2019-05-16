@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",First Niagara,Unknown,,100001,250000,0,Y,,
+"",Bank North,Savings & Loans,,15001,50000,0,Y,,
+"",T Rowe Price Cap Appreciation Fund,,Mutual Fund,1001,15000,0,Y,,
+"","City of Springfield, MA Retirement Fund",,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Cambridge Investors Fidelity Balanced Fund,,Mutual Fund,1001,15000,0,Y,,
+"",Cambridge Investors Bank Deposit Sweep,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Springfield MA Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Fidelity Leveraged Company Stock Fund,,Mutual Fund,1,1000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

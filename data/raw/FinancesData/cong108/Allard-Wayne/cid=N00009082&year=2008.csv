@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Washington Townhouse Apartment,Real Estate,,250001,500000,0,Y,,
+"",US Senate Credit Union IRA,Unknown,"Brokerage, IRA, 401k",200002,500000,0,Y,,
+"",West Fork Apartments 305,Real Estate,,100001,250000,0,Y,,
+"",West Fork Apartments 202,Real Estate,,100001,250000,0,Y,,
+"",US Senate FCU Roth IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Roth IRA Accounts-US Senate CU Joan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Pinkham Mountain Lot,Real Estate,,15001,50000,0,Y,,
+"",Colorado Community Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Senate Credit Union/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Colorado Community Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",US Sen CU member account,Unknown,Cash/Money Market/Savings/Checking,0,2000,0,Y,,

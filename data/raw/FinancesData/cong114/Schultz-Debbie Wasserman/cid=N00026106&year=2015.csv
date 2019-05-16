@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Stonegate Bank,,,45003,150000,0,Y,,
+"",Stonegate Bank,Unknown,,15001,50000,0,Y,,
+"",JH LS agg active Strategy Fund,,Mutual Fund,15001,50000,0,Y,,
+"",529 Florida Prepaid College Plan,,"Brokerage, IRA, 401k",3003,45000,0,Y,,
+"",Stonegate Bank Savings account,,Cash/Money Market/Savings/Checking,2003,31000,0,Y,,
+"",State of israel 4th Mazel Tov savings,,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,
+"",EFSC LLC,Unknown,,1001,15000,0,Y,,
+"",DNC 401K SSGA Cash Series US Gov't Fund,,Mutual Fund,1001,15000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,

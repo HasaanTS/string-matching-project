@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","3426 9th Ave/ Tucson, AZ",Real Estate,,50001,100000,0,Y,,
+"",Public Safety Personnel Retirement Sys,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Alliance Value Mark IV Annuity,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+D000000480,Williams Companies,Oil & Gas,,1001,15000,0,Y,Y,
+D000037414,Schlumberger Ltd,Oil & Gas,,1001,15000,0,Y,,
+D000000648,RR Donnelley & Sons,Publishing,,1001,15000,0,Y,Y,
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000023178,Mosaic Co,Agricultural Svcs,,1001,15000,0,Y,Y,
+"",Citibank Bank Deposit Program,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Arizona State Retirement System,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000000217,American Express,Finance/Credit,,1001,15000,0,Y,Y,
+D000031387,Alcoa Inc,Misc Mfg/Distrib,,1001,15000,0,Y,Y,

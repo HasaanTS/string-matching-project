@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity IRA,Unknown,"Brokerage, IRA, 401k",115002,300000,0,Y,,
+"",Sovereign Bank,Commercial Banks,Cash/Money Market/Savings/Checking,65002,150000,0,Y,,
+"",Riverbank,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000061152,Enterprise Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,Y

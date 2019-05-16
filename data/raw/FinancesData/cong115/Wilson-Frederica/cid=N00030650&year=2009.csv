@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wachovia Bank/Checking & Savings,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,N,,
+"",ING IRA,Unknown,"Brokerage, IRA, 401k",250001,500000,0,N,,
+"","Property/Miami, FL",Real Estate,,150002,350000,0,N,,
+"",Ameriprise Brokerage Gain/Loss,Unknown,"Brokerage, IRA, 401k",100001,250000,0,N,,
+"",US Savings Bonds,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,N,,
+"",Bencor 4038,Unknown,Unknown,15001,50000,0,N,,

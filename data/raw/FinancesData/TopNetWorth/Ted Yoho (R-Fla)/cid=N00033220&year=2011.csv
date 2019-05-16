@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental Property/Key Colony Beach, FL",Real Estate,,500001,1000000,0,A,,
+D000028488,Publix Super Markets,Food Process/Sales,,250001,500000,0,A,Y,Y
+"","Investment Property/Gainesville, FL",Real Estate,,250001,500000,0,A,,
+"","Investment Property/Welaka, FL",Real Estate,,100001,250000,0,A,,
+"","Investment Property/Orlando, FL",Real Estate,,100001,250000,0,A,,
+"","Allison & Eric Hiers, DVM",Unknown,,100001,250000,0,A,,
+"",E*trade IRA,Unknown,"Brokerage, IRA, 401k",30002,100000,0,N,,
+"",Suntrust Invest Serv,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,N,,
+"",SunTrust Bank Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,N,,
+"",Morgan Stanley SEP IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,N,,
+"",Morgan Stanley IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,N,,
+"",LPL Financial IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,A,,
+"",Capital One Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",Sunstate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,

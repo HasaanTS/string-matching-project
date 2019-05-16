@@ -1,0 +1,53 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Family Partnership,Unknown,,1000001,5000000,0,Y,,
+"",Partnership w/eldest son,Unknown,,500001,1000000,0,Y,,
+"",Padre Co,Unknown,,250001,500000,0,Y,,
+"",ONB Bank & Trust,Commercial Banks,,250001,500000,0,Y,,
+"",Litigation Settlement,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",250001,500000,0,Y,,
+"",Money Market,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"","Apartment/Washington, DC",Real Estate,,100001,250000,0,Y,,
+"",Stillwater National Bank-Tulsa Account,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000000596,Genentech Inc,Pharm/Health Prod,,50001,100000,0,Y,,
+"",Arvest Bank & Trust account,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+D000029955,YUM! Brands,Food & Beverage,,15001,50000,0,Y,Y,
+D000000284,Wyeth,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000000367,Wal-Mart Stores,Retail Sales,,15001,50000,0,Y,Y,Y
+D000000348,UnitedHealth Group,Health Services,,15001,50000,0,Y,Y,Y
+"",Total Fina Elf,Unknown,,15001,50000,0,Y,,
+"",Swan Note & Mortgage,Unknown,,15001,50000,0,Y,,
+D000068756,Suncor Energy,Oil & Gas,,15001,50000,0,Y,,
+D000000215,Sanofi,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+"",Research In Motion,Retail Sales,,15001,50000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+D000022163,Novartis AG,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000000170,Northrop Grumman,Misc Defense,,15001,50000,0,Y,Y,Y
+"",NASDAQ Stock Market,Securities/Invest,,15001,50000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000000244,Marathon Oil,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000022008,Google Inc,Internet,,15001,50000,0,Y,Y,
+D000000133,GlaxoSmithKline,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+D000068481,Genzyme Corp,Pharm/Health Prod,,15001,50000,0,Y,,
+D000025887,Foster Wheeler,Construction Svcs,,15001,50000,0,Y,Y,
+D000000182,Ford Motor Co,Automotive,,15001,50000,0,Y,Y,Y
+D000000089,Fedex Corp,Air Transport,,15001,50000,0,Y,Y,
+"",F&M Bank & Trust-Tulsa Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000019828,Emerson Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+"",DW Dividend Growth,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000071,Citigroup Inc,Commercial Banks,,15001,50000,0,Y,Y,Y
+D000021891,Capital One Financial,Finance/Credit,,15001,50000,0,Y,Y,
+D000048024,Brookfield Asset Management,Real Estate,,15001,50000,0,Y,,
+D000021757,Berkshire Hathaway,Securities/Invest,,15001,50000,0,Y,Y,
+D000000076,AT&T Inc,Telephone Utilities,,15001,50000,0,Y,Y,Y
+D000000786,Accenture,Business Services,,15001,50000,0,Y,Y,
+"",ABB Ltd,Misc Energy,,15001,50000,0,Y,,
+D000029695,Visteon Corp,Automotive,,1001,15000,0,Y,,
+D000021766,Genworth Financial,Insurance,,1001,15000,0,Y,Y,
+"",Dean Witter Discover,Unknown,,1001,15000,0,Y,,
+D000000106,Dean Witter,Securities/Invest,,1001,15000,0,Y,Y,Y
+"",Rental Property,Real Estate,,0,1000,0,Y,,
+"",Guaranty Abstract-Tulsa,Unknown,,0,1000,0,Y,,
+"",First State Bank-Ketchum,Commercial Banks,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+"",Congressional FCU Account,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+"",Commercial Real Estate,Real Estate,,0,1000,0,Y,,

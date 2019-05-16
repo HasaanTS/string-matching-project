@@ -1,0 +1,19 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","1791 Erringer Rd/Simi Valley, CA",Real Estate,,500001,1000000,0,Y,,
+"","12 Via Santanella/Rancho Mirage, CA",Real Estate,,500001,1000000,0,Y,,
+"",Shrader Family Trust,Unknown,,250001,500000,0,Y,,
+"","1491 Duarte Circle/Simi Valley, CA",Real Estate,,250001,500000,0,Y,,
+D000020730,Chase Bank,Commercial Banks,Cash/Money Market/Savings/Checking,80003,200000,0,Y,,
+D000030609,Union Bank,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000000391,Amgen Inc,Pharm/Health Prod,,50001,100000,0,Y,Y,Y
+"",John Hancock US Global,Unknown,,15001,50000,0,Y,,
+"",Calamos Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Blackrock Value Opportunity,Unknown,,15001,50000,0,Y,,
+"",Blackrock Capital,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",AllianceBernstein Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,2002,30000,0,Y,Y,Y
+"",Wells Fargo Keogh IRA/Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Pershing Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Midland Property Ltd,Unknown,,1001,15000,0,Y,,
+"",Merrill Lynch Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Dynamic Realty,Real Estate,,1001,15000,0,Y,,

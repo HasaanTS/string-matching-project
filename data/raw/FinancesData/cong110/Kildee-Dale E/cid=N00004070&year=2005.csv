@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Western Bank of Puerto Rico/CD,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000021573,Wachovia Bank account,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,Y,
+"",Fremont Investment & Loan/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Citigroup Bank Deposit,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",AIG Federal Savings Bank/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Wachovia Bank/CD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional Federal Credit Union IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Citigroup Smith Barney SEP,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

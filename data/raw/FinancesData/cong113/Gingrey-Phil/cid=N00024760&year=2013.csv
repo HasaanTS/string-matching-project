@@ -1,0 +1,28 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Champ Investment Trust,Misc Finance,,950004,2000000,0,Y,,
+"",West Cobb Properties,Real Estate,,500001,1000000,0,Y,,
+"","North Carolina Ave SE/Washington, DC",Real Estate,,500001,1000000,0,Y,,
+"",Wells Fargo Advantage Government Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"","Old Hwy 5/Canton, GA",Real Estate,,100001,250000,0,Y,,
+"",Marietta Outpatient Surgery,Health Services,,100001,250000,0,Y,,
+"",Loomis Sayles Bond Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Income Fund of America,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Franklin Income Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",FPA New Income Income Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Columbia Income Builder Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Calvert Ultra Short Income Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Calvert Income Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",American Balanced Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,66003,165000,0,Y,Y,Y
+"",Victory Fund for Income,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",PIMCO Exchange Traded Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Metropolitan West Total Return Bond Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Calamos Growth & Income Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",WestSide Bank,Commercial Banks,,15001,50000,0,Y,,
+D000000367,Wal-Mart Stores,Retail Sales,,15001,50000,0,Y,Y,Y
+"",Vanguard Healthcare Fund,Misc Health,,15001,50000,0,Y,,
+"",Pershing Government Account,Unknown,,15001,50000,0,Y,,
+"",Index Great Companies America Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Community Bank of the South,Unknown,,15001,50000,0,Y,,
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,Y
+"",Charles Schwab Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

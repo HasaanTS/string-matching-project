@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000021868,BB&T Corp,Commercial Banks,Unknown,1001,15000,0,Y,Y,
+"",Andrews Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Unified Series Trust Appleseed Fund,Unknown,Mutual Fund,2790,2790,0,Y,,
+"",Neuberger Berman Socially Responsive Fd,Unknown,Mutual Fund,2668,2668,0,Y,,
+"",Flex Funds Total Return Utilities Fund,Electric Utilities,,2617,2617,0,Y,,
+"",Parnassus Small Cap Fund,Unknown,Mutual Fund,2503,2503,0,Y,,
+D000000155,General Motors,Automotive,,1441,1441,0,Y,Y,
+"",Bank Deposit Sweep cash,Unknown,Cash/Money Market/Savings/Checking,1276,1276,0,Y,,
+"",Lockheed Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000000182,Ford Motor Co,Automotive,,647,647,0,Y,Y,Y
+"",Ryman Hospitality PPTYS RHP,Unknown,Mutual Fund,192,192,0,Y,,

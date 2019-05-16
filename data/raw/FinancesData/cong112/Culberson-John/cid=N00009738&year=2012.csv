@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Northern VA Home,Real Estate,,500001,1000000,0,Y,,
+"",State of Texas Retirement System,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Houston Home,Real Estate,,100001,250000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1,1000,0,Y,Y,

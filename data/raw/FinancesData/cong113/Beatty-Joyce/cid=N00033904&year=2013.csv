@@ -1,0 +1,26 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fifth Third Saving Accounts,Unknown,Cash/Money Market/Savings/Checking,1000001,5000000,0,A,,
+D000028396,PNC Bank Corp,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,A,,
+"",Joyce Beatty & Assoc DPA Pieces,Unknown,,100001,250000,0,A,,
+D000021983,Fifth Third Bancorp,Commercial Banks,,100001,250000,0,A,Y,Y
+"",Key,Unknown,Unknown,50001,100000,0,A,,
+"",Cash,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",US Savings Bond,Unknown,Government Bond,15001,50000,0,A,,
+"",Joyce & Otto Beatty Scholarship Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,2002,30000,0,A,Y,Y
+"",Touchstone Flexible Income Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+D000000168,Southern Co,Electric Utilities,,1001,15000,0,A,Y,
+"",Source Capital Inc,Securities/Invest,,1001,15000,0,A,,
+"",Ohio Credit Union,Credit Unions,Unknown,1001,15000,0,A,,
+"",Nuveen Quality Preferred Income Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",NASDAQ Premium Income & Growth Fund Inc,Unknown,Mutual Fund,1001,15000,0,A,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,A,Y,Y
+"",iShares MSCI Singapore Index Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Huntington Bancshares Inc,Commercial Banks,,1001,15000,0,A,,
+D000000163,Freddie Mac,Real Estate,,1001,15000,0,A,Y,
+D000033563,Facebook Inc,Internet,,1001,15000,0,A,Y,
+"",Corinthian Baptist Church Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Columbus Municipal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",CareFusion Corp,Pharm/Health Prod,,1001,15000,0,A,,
+D000021892,Cardinal Health,Pharm/Health Prod,,1001,15000,0,A,Y,Y
+D000000217,American Express,Finance/Credit,,1001,15000,0,A,Y,Y

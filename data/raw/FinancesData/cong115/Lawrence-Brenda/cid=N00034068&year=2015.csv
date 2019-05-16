@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000182,Ford Motor Co,Automotive,,265002,550000,0,Y,Y,Y
+"",T Rowe Price Plan Deferred Compensation Science,,Mutual Fund,100001,250000,0,Y,,
+D000022724,American Funds,,Mutual Fund,100001,250000,0,Y,,
+"",Dearborn Federal Credit Union Account,,"Brokerage, IRA, 401k",65002,150000,0,Y,,
+"",Rental home,Real Estate,,50001,100000,0,Y,,
+D000000089,Fedex Corp,Air Transport,,30002,100000,0,Y,Y,
+"",Voyage Fund,,Mutual Fund,15001,50000,0,Y,,
+"",Dynamic Asset,,Mutual Fund,15001,50000,0,Y,,
+"",Dearborn Federal Credit Union,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000029689,Visa Inc,Finance/Credit,,1001,15000,0,Y,Y,
+D000036161,Netflix Inc,Internet,,1001,15000,0,Y,Y,
+"",Michigan 1st Credit Union,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000085,Goldman Sachs,Securities/Invest,,1001,15000,0,Y,Y,Y
+D000000155,General Motors,Automotive,,1001,15000,0,Y,Y,Y
+D000000071,Citigroup Inc,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,Y

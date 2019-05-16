@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000044217,Mass Mutual Financial Group,,,100001,250000,0,Y,,
+"",USAA Nasdaq 100 Index,,Mutual Fund,1001,15000,0,Y,,
+"",USAA Emerging Markets Fund,,Mutual Fund,1001,15000,0,Y,,
+"",Third Avenue Real Estate Fund,,,1001,15000,0,Y,,
+"",iShares Dow Jones US ETF,,Mutual Fund,1001,15000,0,Y,,
+"",USAA Precious Metals & Minerals Fund,Mining,,1,1000,0,Y,,
+"",USAA Money Market,,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Gold & Precious Metals Fund,,Mutual Fund,1,1000,0,Y,,

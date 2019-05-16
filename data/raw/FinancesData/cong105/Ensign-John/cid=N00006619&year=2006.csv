@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",E&P Partnership,Real Estate,,1000001,5000000,0,Y,,
+"",RBC Dain Rauscher/Trevor S Ensign,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"",RBC Dain Rauscher/Siena A Ensign,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"",J Ensign & G Pribyl DVM CHTD,Agricultural Svcs,,250001,500000,0,Y,,
+"",RBC Dain Rauscher/Michael S Ensign,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"","Newberry Home/Newberry, CA",Unknown,Note/Note Receivable,50001,100000,0,Y,,
+"",Charles Schwab Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Bank of America/Checking & Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",US Senate Federal Credit Union/Checking,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,

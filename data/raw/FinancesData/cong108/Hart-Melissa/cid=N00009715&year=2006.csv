@@ -1,0 +1,32 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000026569,II-VI Inc,Misc Mfg/Distrib,Unknown,50001,100000,0,T,Y,Y
+"",Thornburg International Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+D000028698,Respironics Inc,Pharm/Health Prod,,15001,50000,0,T,Y,Y
+D000025531,Dollar Bank,Savings & Loans,Cash/Money Market/Savings/Checking,15001,50000,0,T,Y,Y
+"",Commonwealth of PA UST 60/40 Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Commonwealth of PA Ext Market Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",American Funds World Growth Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",American Funds IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,T,,
+"",American Funds Europacific Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",American Funds Capital Income Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",UBS Bank USA Deposit Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Pennsylvania Employee Retirement System,Civil Servants,"Brokerage, IRA, 401k",1001,15000,0,T,,
+"",Oppenheimer Strategic Bond,Unknown,Government Bond,1001,15000,0,T,,
+"",Oppenheimer AG Mid cap,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Oppenheimer AG Global,Unknown,Mutual Fund,1001,15000,0,T,,
+"",MML Equity Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,T,Y,Y
+D000022110,Medtronic Inc,Pharm/Health Prod,,1001,15000,0,T,Y,Y
+"",Korea Electric Power,Electric Utilities,,1001,15000,0,T,,
+"",GMAC Coupon,Unknown,,1001,15000,0,T,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,T,Y,Y
+D000025490,Diageo PLC,"Beer, Wine & Liquor",,1001,15000,0,T,Y,
+D000032813,Concur Technologies,Electronics Mfg/Eqp,,1001,15000,0,T,,
+"",ConAgra Inc,Food Process/Sales,,1001,15000,0,T,,
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,T,Y,Y
+D000042315,Bausch & Lomb,Misc Mfg/Distrib,,1001,15000,0,T,,
+D000043112,AstraZeneca plc,Pharm/Health Prod,,1001,15000,0,T,,
+"",Rogers Brothers Money Res,Unknown,Unknown,1,1000,0,T,,
+D000042633,Del Monte Foods,Food Process/Sales,,1,1000,0,T,Y,
+D000024209,Avaya Inc,Telecom Svcs,,1,1000,0,T,Y,
+D000023834,Alcatel-Lucent,Telecom Svcs,,1,1000,0,T,Y,

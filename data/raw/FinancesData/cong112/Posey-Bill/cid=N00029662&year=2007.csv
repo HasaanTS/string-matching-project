@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","806 Mystic Dr/Cape Canaveral, FL",Real Estate,,100001,250000,0,N,,
+"","1824 South Fiske Blvd/Rockledge, FL",Real Estate,,100001,250000,0,N,,
+"","1004 Barton Blvd/Rockledge, FL",Real Estate,,100001,250000,0,N,,
+"","2368 Tink Drive/Tallahassee, FL",Real Estate,,50001,100000,0,N,,
+"","1820 Huntington Lane/Rockledge, FL",Real Estate,,50001,100000,0,N,,
+D000021573,Wachovia Bank Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,N,Y,
+"",SunTrust Banks Account,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,N,,
+"",Posey & Co Realtors,Real Estate,,15001,50000,0,N,,
+"",Rockledge Group I Vac Lot US 1,Unknown,,1001,15000,0,N,,
+"",Rockledge Country Club Stock,Unknown,,1001,15000,0,N,,
+"",Rockledge Realty,Real Estate,,1,1000,0,N,,
+"",Indian Oaks Corp,Unknown,,1,1000,0,N,,

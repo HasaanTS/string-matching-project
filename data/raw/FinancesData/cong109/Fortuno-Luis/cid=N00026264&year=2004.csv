@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Eastern Builders,Unknown,,600003,1250000,0,Y,,
+"",Doral Bank Money Market,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Salomon Smith Barney Retirement Plan,Unknown,"Brokerage, IRA, 401k",80003,200000,0,Y,,
+"","Correa, Collazo et al",Unknown,,100002,200000,0,Y,,
+"",Western Bank IRA/CD,Unknown,Cash/Money Market/Savings/Checking,30002,100000,0,Y,,
+"","Matinez, Odell & Calabria Retiremnt Plan",Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Law PR Closing & Title Service,Lawyers/Law Firms,,15001,50000,0,Y,,
+"",Oriental Group IRA,Unknown,"Brokerage, IRA, 401k",2002,30000,0,Y,,
+"",Doral Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1003,17000,0,Y,,
+"",Equitable Life Insurance Policy,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",San Juan West Residential Properties,Real Estate,,1,1000,0,Y,,

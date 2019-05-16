@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000200,Pepsico Inc,Food & Beverage,,15001,50000,0,Y,Y,
+"",Congressional Federal Credit Union Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000029955,YUM! Brands,Food & Beverage,,1001,15000,0,Y,Y,
+"",State of Maryland Pension Plan,Unknown,,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+"",Merrill Lynch Bank Deposit Program,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Partition Street property/Saugerties, NY",Real Estate,,250001,500000,0,Y,,
+"","Property Echo Hill Road/Saugerties, NY",Real Estate,,100001,250000,0,Y,,
+"",American Funds 529 College Savings Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Prudential IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Oppenheimer Funds 401k,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Ulster Savings/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Key Bank/Personal Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000036285,Novo Networks,Electronics Mfg/Eqp,,1,1000,0,Y,,
+"",Alfacell Corp,Unknown,,1,1000,0,Y,,

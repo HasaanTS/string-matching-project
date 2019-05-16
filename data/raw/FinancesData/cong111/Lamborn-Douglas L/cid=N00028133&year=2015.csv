@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Interest in Farm,,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,
+"",NetApp Inc,Unknown,,80003,200000,0,Y,,
+"",Scottrade IRA,,"Brokerage, IRA, 401k",30002,100000,0,Y,,
+"",Wells Fargo Bank Accounts,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Scottrade Margin Account,,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",GMO US Growth,,Mutual Fund,1001,15000,0,Y,,
+"",NetApp Inc,,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",0,0,0,Y,,

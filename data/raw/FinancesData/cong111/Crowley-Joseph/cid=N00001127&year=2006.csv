@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",New York State & Local Defined Benefit Retirement,Unknown,Insurance policies & Annuities,50001,100000,0,A,,
+"",Reliaster Life Insurance,Insurance,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Allianz NFJ Small Cap Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"","1 Farley Drive/Rensselaer, NY",Real Estate,,15001,50000,0,Y,,
+"",New York College Savings Program,Unknown,"Brokerage, IRA, 401k",2003,31000,0,Y,,

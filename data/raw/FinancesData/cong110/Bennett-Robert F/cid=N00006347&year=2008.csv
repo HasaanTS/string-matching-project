@@ -1,0 +1,28 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Watermark Properties,Real Estate,,5000001,25000000,0,Y,,
+"",Anniversary Inn South Temple LLC,Lodging/Tourism,,1000001,5000000,0,Y,,
+"",Anniversary Inn Salt City Jail LLC,Lodging/Tourism,,1000001,5000000,0,Y,,
+"",Russ Fletcher/Note Receivable,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",250001,500000,0,Y,,
+"",D Street Investments,Unknown,,250001,500000,0,Y,,
+"",MS Active Assets Tax Free Trust,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",American Europacific Growth Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000000106,Morgan Stanley,Securities/Invest,,16002,65000,0,Y,Y,Y
+"",Skywest Inc,Air Transport,,15001,50000,0,Y,,
+"",S&P 500 CD IDX zero coupon/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",PIMCO Income Opportunity Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",MS STRS CBOE DJIA Buywrite Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000104,Lockheed Martin,Defense Aerospace,,15001,50000,0,Y,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000000334,Honeywell International,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",US Senate Credit Union Share Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Steel Dynamics,Steel Production,,1001,15000,0,Y,,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Highland Credit Strategies,Unknown,,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000408,Deere & Co,Agricultural Svcs,,1001,15000,0,Y,Y,
+"",CVS/Caremark Corp,Retail Sales,,1001,15000,0,Y,,
+"",Cushing MLP total Return Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Watermark Corp,Lodging/Tourism,,0,3000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,0,1000,0,Y,Y,Y
+"",W-B Real Estate LLC,Real Estate,,0,1000,0,Y,,

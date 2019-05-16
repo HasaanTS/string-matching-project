@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000037670,Sonny's Barbeque,Food & Beverage,,1000001,5000000,0,Y,,
+"","Rental Property/Doonberg, Ireland",Real Estate,,1000001,5000000,0,Y,,
+D000031427,Almost Family Inc,Health Services,,1000001,5000000,0,Y,,Y
+D000021868,BB&T Corp,Commercial Banks,,500001,1000000,0,Y,,
+"",Sports Revenue & Enterprises,Unknown,,50001,100000,0,Y,,
+"",Northwestern Life Variable annuity,Unknown,Insurance policies & Annuities,50001,100000,0,Y,,
+"",Fifth Third Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Lannett Inc,Food & Beverage,,15001,50000,0,Y,,
+"",Blue & Grey Film Ventures,TV/Movies/Music,,1001,15000,0,Y,,
+"",Blairmore Pictures,Unknown,,1001,15000,0,Y,,

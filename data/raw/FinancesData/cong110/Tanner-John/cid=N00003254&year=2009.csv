@@ -1,0 +1,46 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Westan Insurance,Insurance,,1000001,5000000,0,A,,
+"",Tanner Farms,Crop Production,,1000001,5000000,0,A,,
+"",Corrections Corp of America,Misc Business,,51002,115000,0,A,,
+"",HSBC Bank/CD Zero Coup,Commercial Banks,Cash/Money Market/Savings/Checking,16002,65000,0,A,,
+"",Motorola Inc,Telecom Svcs,,15001,50000,0,A,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,A,Y,
+"",Mass Investors Trust,Unknown,"Brokerage, IRA, 401k",15001,50000,0,A,,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,A,Y,Y
+D000059111,Commercial Bank,Commercial Banks,Unknown,15001,50000,0,A,,
+"",Blackrock Real Asset Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",American Funds New Perspective Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",American Funds Cap World Growth/Inc Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Alliance Bernstein Growth & Income Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",First Trust Dividend & Income,Unknown,Mutual Fund,2002,30000,0,A,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,A,Y,Y
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,A,Y,Y
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,A,Y,Y
+"",Mem Airport Bond,Unknown,Government Bond,1001,15000,0,A,,
+D000022110,Medtronic Inc,Pharm/Health Prod,,1001,15000,0,A,Y,
+"",Marion Cty School Bond,Unknown,Government Bond,1001,15000,0,A,,
+D000000530,Lucent Technologies,Telecom Svcs,,1001,15000,0,A,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,A,Y,
+"",iShares Nat Tax Free,Unknown,Mutual Fund,1001,15000,0,A,,
+"",GTX Inc,Unknown,,1001,15000,0,A,,
+"",Geron Corp,Pharm/Health Prod,,1001,15000,0,A,,
+"",First Trust Inflation Defense,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Federal Home Loan Bond,Unknown,Government Bond,1001,15000,0,A,,
+"",E*Trade,Unknown,,1001,15000,0,A,,
+"",Davis New York Venture Fund,Securities/Invest,Mutual Fund,1001,15000,0,A,,
+"",Cracker Barrel Old Country Store Inc,Food & Beverage,,1001,15000,0,A,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,A,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+D000000352,Caterpillar Inc,Building Materials,,1001,15000,0,A,Y,
+D000000091,BP,Oil & Gas,,1001,15000,0,A,Y,
+"",Blackrock Mid Cap Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Blackrock Closed End Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+D000021757,Berkshire Hathaway,Securities/Invest,,1001,15000,0,A,Y,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,A,Y,Y
+"",American Funds Investment Co of America,Unknown,,1001,15000,0,A,,
+"",American Funds Capital Income Builder Fd,Unknown,Mutual Fund,1001,15000,0,A,,
+D000000067,Altria Group,Tobacco,,1001,15000,0,A,Y,Y
+"",Hilliard Govt Fund,Unknown,Mutual Fund,2,2000,0,A,,
+"",Agere Systems,Electronics Mfg/Eqp,,2,2000,0,A,,
+"",Munder Net Classic,Unknown,,1,1000,0,A,,
+D000024209,Avaya Inc,Telecom Svcs,,1,1000,0,A,Y,

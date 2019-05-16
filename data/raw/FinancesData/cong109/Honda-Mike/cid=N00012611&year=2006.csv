@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",California Teachers Retirement System,Unknown,"Brokerage, IRA, 401k",150002,350000,0,Y,,
+"",International County/City Managers Assoc,Unknown,Unknown,50001,100000,0,Y,,
+"",American Financial Life & Annuity Insur,Unknown,Insurance policies & Annuities,50001,100000,0,Y,,
+D000029279,Sun Life Assurance Co of Canada,Insurance,,16002,65000,0,Y,,
+"",Fidelity Funds,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",Provident Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",California Public Empl Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000030609,Union Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",San Bernardino Land Parcel #040271130000,Real Estate,,1001,15000,0,Y,,
+"",Keystone/Evergreen Small Co Growth,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Golden Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

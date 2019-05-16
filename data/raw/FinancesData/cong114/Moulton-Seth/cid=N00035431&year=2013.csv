@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Eastern Healthcare,Unknown,,15001,50000,0,N,,
+"",Vector Group Ltd,Unknown,,1001,15000,0,N,,
+"",Senomyx Inc,Unknown,,1001,15000,0,N,,
+"",Sears Hometown & Outlet Stores,Unknown,,1001,15000,0,N,,
+D000043036,Phh Corp,Real Estate,,1001,15000,0,N,,
+D000028051,NRG Energy,Electric Utilities,,1001,15000,0,N,Y,
+"",Janus Flex Bond Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Janus Balanced Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Goldman Sachs Midcap Value Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",BlackRock Global All C,Unknown,Mutual Fund,1001,15000,0,N,,
+D000064167,1-800-Flowers.com,Agricultural Svcs,,1001,15000,0,N,,

@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Farmland 41 Acres/Stafford, MO",Crop Production,,250001,500000,0,Y,,
+"","Condominium/116 Treehouse/Branson, MO",Real Estate,,100001,250000,0,Y,,
+"",Churchill Coffee,Food & Beverage,,50001,100000,0,Y,,
+"",Putnam Discovery Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000104,Lockheed Martin,Defense Aerospace,,1001,15000,0,Y,Y,Y
+"",Hartford Mutual Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Guaranty Federal Bank,Commercial Banks,,1001,15000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000067,Altria Group,Tobacco,,1001,15000,0,Y,Y,Y

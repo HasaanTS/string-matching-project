@@ -1,0 +1,20 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Walgreen Co,Retail Sales,,2002,30000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,2002,30000,0,Y,Y,Y
+"",Noyes Money Market,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Nokia Corp,Telecom Svcs,,2002,30000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,Y
+"",Kohls Corp,Retail Sales,,2002,30000,0,Y,,
+"",New York Community Bancorp,Commercial Banks,,1001,15000,0,Y,,
+"",New York Bancorp,Commercial Banks,,1001,15000,0,Y,,
+D000000106,Morgan Stanley,Securities/Invest,,1001,15000,0,Y,Y,Y
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",Income Fund of America,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000059217,Flagstar Bancorp,Commercial Banks,,1001,15000,0,Y,,
+"",Evergreen Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",Bank of America account,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000022907,AllianceBernstein LP,Securities/Invest,Mutual Fund,1001,15000,0,Y,,
+D000021802,ABN AMRO,Commercial Banks,,1001,15000,0,Y,Y,Y

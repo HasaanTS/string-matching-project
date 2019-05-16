@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",South Georgia Banking/CD,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000029314,Synovus Financial Corp,Commercial Banks,,15001,50000,0,Y,,Y
+"",SWGA Financial Group Bank,Commercial Banks,,15001,50000,0,Y,,
+"",Gateway Capital Investment Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",AiHeart Medical Technologies,Health Services,,15001,50000,0,Y,,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Kendallwood Crossing,Real Estate,,1001,15000,0,Y,,
+"",BlackRock Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",AerovectRx Corp,Unknown,,1001,15000,0,Y,,
+"",PhysioStream Inc,Health Services,,0,1000,0,Y,,

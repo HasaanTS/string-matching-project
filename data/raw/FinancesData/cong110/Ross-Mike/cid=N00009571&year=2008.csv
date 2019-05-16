@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity Investments Fidelity Spartan,Unknown,Mutual Fund,65002,150000,0,Y,,
+"",Fidelity Growth & Income Fund,Unknown,Mutual Fund,30002,100000,0,Y,,
+"",Fidelity Spartan International Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"","Commercial Building, Leased to Super D D",Real Estate,,15001,50000,0,Y,,
+D000022105,McKesson Corp,Pharm/Health Prod,,2002,30000,0,Y,Y,Y
+"",Fidelity Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Leveraged Company Stock Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Diversified International Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Blue Chip Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Dodge & Cox International Stock Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Bank of Prescott Accounts,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Ross Pharmacy,Retail Sales,,1,1000,0,Y,,

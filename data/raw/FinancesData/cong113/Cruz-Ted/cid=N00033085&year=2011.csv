@@ -1,0 +1,53 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Loan To Ted Cruz For Senate,Unknown,Note/Note Receivable,500001,1000000,0,N,,
+"",Morgan Lewis,Lawyers/Law Firms,,250001,500000,0,N,,
+"",Vanguard Target Retirement 2035,Unknown,Mutual Fund,100001,250000,0,N,,
+"",Morgan Lewis - Cash Balance Retirement P,Unknown,"Brokerage, IRA, 401k",100001,250000,0,N,,
+"",CEP Investments Holdings,Unknown,Note/Note Receivable,100001,250000,0,A,,
+"",BlackRock Life Path Portfolio Target D,Unknown,Mutual Fund,100001,250000,0,N,,
+"",BFK,Unknown,,100001,250000,0,N,,
+D000028149,ONEOK Inc,Oil & Gas,,50001,100000,0,N,Y,
+"",Goldman Sachs Municipal Income,Unknown,Mutual Fund,50001,100000,0,N,,
+"",Fidelity-529 MA Portfolio 2027,Unknown,Mutual Fund,50001,100000,0,N,,
+D000000129,Exxon Mobil,Oil & Gas,,50001,100000,0,N,Y,Y
+D000033463,Enterprise Products Partners,Oil & Gas,,50001,100000,0,N,Y,
+D000000015,Chevron Corp,Oil & Gas,,50001,100000,0,N,Y,Y
+D000031066,William Blair & Co,Securities/Invest,,15001,50000,0,N,,
+"",Vanguard Target Retirement 2040,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Vanguard REIT Index,Real Estate,,15001,50000,0,N,,
+"",USAA 529 - Moderate,Unknown,Mutual Fund,15001,50000,0,N,,
+"",USAA 529 - Balanced,Unknown,Mutual Fund,15001,50000,0,N,,
+"",USAA 529 - Aggressive Growth,Unknown,Mutual Fund,15001,50000,0,N,,
+"",USAA 529 - Ace-Based Aggressive Growth,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Texas ERS Retirement Account,Unknown,"Brokerage, IRA, 401k",15001,50000,0,N,,
+D000000373,McDonald's Corp,Food & Beverage,,15001,50000,0,N,Y,
+"",Hotchkis & Wiley Mid-Cap Value,Unknown,,15001,50000,0,N,,
+"",Goldman Sachs Strategic Growth,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Goldman Sachs Large Cap Value,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Goldman Sachs High Yield Muni,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Goldman Sachs High Yield,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Goldman Sachs Growth Opportunities,Unknown,,15001,50000,0,N,,
+D000000085,Goldman Sachs,Securities/Invest,,15001,50000,0,N,Y,Y
+"",GIDGX,Unknown,,15001,50000,0,N,,
+"",Gartmore Nationwide Fund,Unknown,Mutual Fund,15001,50000,0,N,,
+D000000495,DuPont Co,Chemicals,,15001,50000,0,N,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,15001,50000,0,N,Y,Y
+"",Bank of America/Savings,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,N,,
+D000000076,AT&T Inc,Telephone Utilities,,15001,50000,0,N,Y,Y
+"",WisdomTree Japan Hedged Equity Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,N,Y,Y
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,N,Y,Y
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,N,Y,Y
+"",JPMorgan Savings,Unknown,,1001,15000,0,N,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,N,Y,Y
+"",ING Direct Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Goldman Sachs Small Cap Value,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Goldman Sachs Local Emrg Markets Debt,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Goldman Sachs Asia Equity,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Citibank/Savings,Unknown,,1001,15000,0,N,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,N,Y,Y
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,N,Y,Y
+"",Bancorp Bank USA,Unknown,,1001,15000,0,N,,
+"",American Express/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Rental House,Real Estate,,0,1000,0,N,,
+"",Rental Condo,Real Estate,,0,1000,0,N,,

@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","1830 11th St NW Ste 1/Washington, DC",Real Estate,,500001,1000000,0,Y,,
+"",Global Policy Solutions LLC,Unknown,,250001,500000,0,Y,,
+"","2221 St Paul St/Baltimore, MD",Real Estate,,250001,500000,0,Y,,
+"","2014 Madison Ave/Baltimore, MD",Real Estate,,250001,500000,0,Y,,
+"",Wright Patman Congressional FCU Roth IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Merrill Lynch 401k Venture,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Evergreen Core Bond Fund,Unknown,Government Bond,1001,15000,0,Y,,
+"",Blackrock Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Blackrock Large Cap Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Blackrock Global Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

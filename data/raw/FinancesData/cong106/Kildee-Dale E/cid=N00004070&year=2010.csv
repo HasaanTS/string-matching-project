@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000021576,Wachovia Bank,Commercial Banks,Unknown,100001,250000,0,Y,,
+"",Morgan Stanley Smith Barney IRA,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",American Express Centurian Bank/CD,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Ally Bank - UT,Unknown,,50001,100000,0,Y,,
+"",Wachovia Bank SEP/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Congressional FCU Account,Unknown,,15001,50000,0,Y,,
+"",Barclays Bank Delaware/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Wachovia Bank IRA/CD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Citibank South Dakota Bank Deposit Prog,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

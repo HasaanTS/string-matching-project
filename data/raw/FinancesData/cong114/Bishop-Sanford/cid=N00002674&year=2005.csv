@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","House & Lot 908 Illges Rd/Columbus, GA",Real Estate,,50001,100000,0,Y,,
+"",Dryden Municipal Bonds,Unknown,Government Bond,50001,100000,0,Y,,
+D000024064,Amsouth Bancorp,Commercial Banks,,17003,80000,0,Y,Y,
+"",Merrill Lynch Cash Management Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"","House & Lot 311 Yates St/Starkville, MS",Real Estate,,15001,50000,0,Y,,
+"",SunTrust Banks account,Commercial Banks,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Legislative Retirement System of Georgia,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"","Lakemont Heights Lot 24A/Hartwell, GA",Real Estate,,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

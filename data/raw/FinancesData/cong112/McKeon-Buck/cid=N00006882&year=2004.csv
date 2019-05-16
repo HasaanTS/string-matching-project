@@ -1,0 +1,23 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000530,Lucent Technologies,Telecom Svcs,,17003,80000,0,Y,Y,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000030711,Urban Outfitters,Retail Sales,,3003,45000,0,Y,,
+"",Symbol Technologies,Electronics Mfg/Eqp,,2002,30000,0,Y,,
+D000000341,Rite Aid Corp,Retail Sales,,2002,30000,0,Y,Y,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,
+D000000449,Nortel Networks,Telecom Svcs,,2002,30000,0,Y,Y,
+"",JDS Uniphase,Telecom Svcs,,2002,30000,0,Y,,
+"",Covad Communications,Unknown,,2002,30000,0,Y,,
+D000042594,Cabela's Inc,Retail Sales,,2002,30000,0,Y,,
+D000021677,SBC Communications,Telephone Utilities,,1001,15000,0,Y,,
+"",Red Hat Software,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000570,Eastman Kodak,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000672,Charter Communications,Telecom Svcs,,1001,15000,0,Y,Y,
+"",Cendant Corp,Lodging/Tourism,,1001,15000,0,Y,,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,Y,Y,Y
+"",Surebeam Corp,Unknown,,2,2000,0,Y,,
+"",Satellite Ent Corp,Unknown,,1,1000,0,Y,,

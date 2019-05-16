@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Metlife Defined Contribution Plan,Unknown,Insurance policies & Annuities,116592,116592,0,A,,
+"",PNC Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Olive B Andrews Testamentary Trust,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Morgan Stanley Dean Witter Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Dean Witter Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,
+"",Pepco Inc,Unknown,,1001,15000,0,Y,,
+"",Citizens Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Condominium/Washington, DC",Real Estate,,250001,500000,0,Y,,
+"","House/Howell, MI",Real Estate,,50001,100000,0,Y,,
+"",Star One Credit Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Standard Federal Act,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Fidelity Mutual Fund,Unknown,Mutual Fund,2002,30000,0,Y,,

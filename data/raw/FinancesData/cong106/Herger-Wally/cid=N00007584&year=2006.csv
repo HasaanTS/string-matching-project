@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Herger Ranch,Livestock,,1000001,5000000,0,Y,,
+"",Herger Gas,Oil & Gas,,1000001,5000000,0,Y,,
+D000022976,Pacific Life Real Estate,Real Estate,,502479,502479,0,Y,,
+"","Rental Office/4th Avenue/Rio Oso, CA",Real Estate,,250001,500000,0,Y,,
+"","Rental House/4th Avenue/Rio Oso, CA",Real Estate,,250001,500000,0,Y,,
+"",Pacific Life International Large Cap,Unknown,Mutual Fund,382061,382061,0,Y,,
+"",Pacific Life Money Market,Unknown,Cash/Money Market/Savings/Checking,22547,22547,0,Y,,
+"",American Funds Growth Fund of America,Misc Finance,Mutual Fund,15033,15033,0,Y,,
+"",Congressional FCU/Money market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

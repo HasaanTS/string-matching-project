@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Polly Place Farm,Crop Production,,100001,250000,0,Y,,
+"",USEE Bonds,Unknown,Government Bond,50001,100000,0,Y,,
+"",Kentucky Public Empl Deferred Comp A/C,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Woodford Sun,Publishing,,15001,50000,0,Y,,
+"",Kentucky PERS,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Gross Fund of America,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Community Trust Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"","Rental Unit/Versailles, KY",Real Estate,,1001,15000,0,Y,,
+"",Lipid Sciences Inc,Unknown,,1001,15000,0,Y,,
+"",Commonwealth Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1,1000,0,Y,Y,Y

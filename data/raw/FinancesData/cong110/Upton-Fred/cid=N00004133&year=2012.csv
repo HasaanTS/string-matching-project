@@ -1,0 +1,153 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000029842,Whirlpool Corp,Misc Mfg/Distrib,,2000002,10000000,0,Y,Y,Y
+"",Northern Multi-Manager Large Cap,Unknown,Mutual Fund,1000001,5000000,0,Y,,
+"",Wright Patman Credit Union Accounts,Unknown,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+"",Northern Multi-Manager Intl Fund,Unknown,Mutual Fund,500001,1000000,0,Y,,
+"",JPMorgan Account,Unknown,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,265002,550000,0,Y,Y,Y
+"",Hartford Inflation Plus Fund,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",Fifth Third Bank Account,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",Edgewater Bank/CD's,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,115002,300000,0,Y,Y,Y
+D000029955,YUM! Brands,Food & Beverage,,101002,265000,0,Y,Y,Y
+"",Northern Tax Exempt,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Northern Multi-Manager Small Cap,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Northern Multi-Manager Mid Cap,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Northern Multi-Manager Global,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Northern Multi-Manager EM,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Northern Inter Tax Exempt,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",MassMutual Life Insurance policy,Unknown,Insurance policies & Annuities,100001,250000,0,Y,,
+"",Hilliard Lyons & Market & cash,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Hartford Life Insurance Policy,Unknown,Insurance policies & Annuities,100001,250000,0,Y,,
+D000000328,Fidelity Investments,Securities/Invest,Mutual Fund,100001,250000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,100002,200000,0,Y,Y,Y
+D000067954,XPO Logistics,Misc Transport,,50001,100000,0,Y,Y,
+"",SPDR S&P 500 ETF Trust,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Primer Commodity,Unknown,,50001,100000,0,Y,,
+"",Northern Global Real Estate Index,Real Estate,,50001,100000,0,Y,,
+"",Manning & Napier World Opps Series Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",JPMorgan US Equity Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",JPMorgan Market Expansion Index,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",JPMorgan Emerging Markets Equity Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",JPMorgan Checking Accounts,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Eaton Vance Floating Rate Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000033211,Dodge & Cox,Securities/Invest,Mutual Fund,50001,100000,0,Y,,
+"",Cash & JP Morgan Short Term Fund,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",BBH Tax Efficient Equity Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000000076,AT&T Inc,Telephone Utilities,,30002,100000,0,Y,Y,Y
+"",AIM Investment Funds Bel Risk,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",HSBC Bren EAFE,Unknown,,6006,90000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,16002,65000,0,Y,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,16002,65000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,16002,65000,0,Y,Y,Y
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,16002,65000,0,Y,Y,Y
+"",BNP Cont Buff EQ,Unknown,Mutual Fund,16002,65000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,15001,50000,0,Y,Y,
+"",Vanguard Intermediate Term Bond Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",T Row Price International/New Asia,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",RS International Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Professionally Managed Port Osterweis Fd,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",PIMCO Unconstrained Bond Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Peonossus Inc Trust,Unknown,,15001,50000,0,Y,,
+"",Payden High Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",New York Life Insurance/Policy,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+"",MFS Total Return Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",MFS International Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Matthews Pacific Tiger Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+"",JPMorgan Strategic Income Opport Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",JPMorgan Short Term Interim Muni Bond,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",JPMorgan Michigan Muni - Bond,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",JPMorgan Large Cap Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",JPMorgan Interm Tax Free Bond Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",Ivy Large Cup Growth,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",iShares MSCI EAFE Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Ishares Cohen & Steers Realty Morgan,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+"",GS Bren SPX,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Gateway Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000021983,Fifth Third Bancorp,Commercial Banks,,15001,50000,0,Y,Y,
+"",Edgewood Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Eaton Vance Met Funds Total Return,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Dreyfus Laurel Emerging Market,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Doubleline Total Return Bond Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",DB 95% PPN FX Bsk,Unknown,Unknown,15001,50000,0,Y,,
+"","Cumberland, IN B/Q",Unknown,Government Bond,15001,50000,0,Y,,
+"",Columbia Tax Exempt,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,15001,50000,0,Y,Y,Y
+D000021908,Chesapeake Energy,Oil & Gas,,15001,50000,0,Y,Y,Y
+"",Blackrock High Yield Bond Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Aston Optimum Mid Cap Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Artisan International Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000217,American Express,Finance/Credit,,15001,50000,0,Y,Y,Y
+"",Goldman Sachs BREN EAFE,Unknown,Mutual Fund,3003,45000,0,Y,,
+D000000067,Phillip Morris,Tobacco,,2002,30000,0,Y,Y,Y
+"",Goldman Sachs Cont Buff EQ SPX,Unknown,Mutual Fund,2002,30000,0,Y,,
+D000000067,Altria Group,Tobacco,,2002,30000,0,Y,Y,Y
+D000064241,Vodafone Group,Telecom Svcs,,1001,15000,0,Y,,
+"",UBS Palladium CBEN,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",UBS Cont Buff EQ SPX,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Trusts not managed by filer,Unknown,,1001,15000,0,Y,,
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,Y,Y,Y
+D000037780,Starbucks Corp,Food & Beverage,,1001,15000,0,Y,Y,
+"",SPDR Gold Trust ETF,Mining,,1001,15000,0,Y,,
+D000000175,Raytheon Co,Defense Electronics,,1001,15000,0,Y,Y,Y
+"",Ralcorp Holdings,Food Process/Sales,,1001,15000,0,Y,,
+"",Putnam Global Equity Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Powershares DB Commodity Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Pest Holdings,Misc Services,,1001,15000,0,Y,,
+D000000206,Occidental Petroleum,Oil & Gas,,1001,15000,0,Y,Y,Y
+"",Northern US Govt,Unknown,Unknown,1001,15000,0,Y,,
+"",Northern Fixed Income,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000067048,News Corp,TV/Movies/Music,,1001,15000,0,Y,,
+"",Nerborgen Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Nationwide Life Insurance policy,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+D000000055,Monsanto Co,Agricultural Svcs,,1001,15000,0,Y,Y,Y
+D000067057,Mondelez International,Food Process/Sales,,1001,15000,0,Y,Y,
+"",Mead Johnson Nutrition,Pharm/Health Prod,,1001,15000,0,Y,,
+"",Matthews Asia Dividend Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Manning & Napier Equity Series Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000027296,Lowe's Companies,Retail Sales,,1001,15000,0,Y,Y,Y
+D000066678,Kraft Foods Group,Food Process/Sales,,1001,15000,0,Y,Y,Y
+"",JPMorgan Intl Currency Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares Russell Mid Cap Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares MSCI Emerging Markets Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares Core S&P Mid Cap ETF,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",HSBC Delta One MSCI,Unknown,,1001,15000,0,Y,,
+"",Harding Loevner,Securities/Invest,,1001,15000,0,Y,,
+"",GS Mkt Pks SPX,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Freeport-McMoRan Copper & Gold,Mining,,1001,15000,0,Y,,
+"",Fortune Brands,Securities/Invest,,1001,15000,0,Y,,
+D000000495,DuPont Co,Chemicals,,1001,15000,0,Y,Y,Y
+D000000188,Dow Chemical,Chemicals,,1001,15000,0,Y,Y,Y
+D000022519,DIRECTV Group,Telecom Svcs,,1001,15000,0,Y,,
+"",DFA US Small Cap,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",DB Mkt Plus 5x5 E,Unknown,Unknown,1001,15000,0,Y,,
+"",CS EAFE Bren,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",CS Bren EAFE,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",CS BREN Asia Bskt 7/3/13,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",CS BREN Asia Bskt 3/13/13,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",CS Asia Basket Bren 9/5/13,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",Chemical Financial Corp,Commercial Banks,,1001,15000,0,Y,,
+D000000091,BP,Oil & Gas,,1001,15000,0,Y,Y,
+"",BNP Rer SPX,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",BNP Delta One MSCI,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",BNP Bren EAFE,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",BNP Bren & Levenged CBEN,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Beam Inc,Securities/Invest,,1001,15000,0,Y,,
+"",BARC Market Plus 5x5 E,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",BARC BREN SPX,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",BARC BREN Gold note,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",BARC BREN Commod Basket,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",BARC BREN Asia Basket,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",BARC 93% PPN Currency Basket,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Argon Registry,Unknown,Unknown,1001,15000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000021700,Ameriprise Financial,Securities/Invest,,1001,15000,0,Y,Y,
+"",American Century Equity Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000023883,Amazon.com,Internet,,1001,15000,0,Y,Y,Y
+D000021800,3M Co,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y

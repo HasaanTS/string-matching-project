@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity Asset Manager Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",ING Annuity Co Deferred Comp Plan,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+"",Fidelity Equity Income II Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Bangor Savings Bank NOW Account,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",US Senate Federal Credit Union/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",SW Collins Co,Building Materials,,1001,15000,0,Y,,
+"",Peoples Heritage Bank NOW Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

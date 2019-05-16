@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",RW Allen LLC,General Contractors,,5000001,25000000,0,N,,
+"",Residential rental property,Real Estate,,1000001,5000000,0,N,,
+"",1015 Broad Street LLC Commercial Rental Property 1,Unknown,,1000001,5000000,0,N,,
+"",Short Term Fixed Income Fund,Unknown,Mutual Fund,250001,500000,0,N,,
+"",RAWA Leasing Equipment Rental 100% Ownership,Unknown,,100001,250000,0,N,,
+"",Georgia Bank & Trust Bank Account,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,N,,
+D000029492,Total System Services,Commercial Banks,,15001,50000,0,N,Y,
+"",Principal Financial IRA Short Term Fixed Income,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Columbia Marisco Focused Equity Fund,Unknown,Mutual Fund,2002,30000,0,N,,
+"",Wells Fargo account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Synovus Financial,Unknown,,1001,15000,0,N,,
+"",Small-Mid US Equity,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Other,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,N,,
+"",Large US Equity,Unknown,Mutual Fund,1001,15000,0,N,,
+D000021868,BB&T Corp,Commercial Banks,,1001,15000,0,N,Y,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,N,Y,Y

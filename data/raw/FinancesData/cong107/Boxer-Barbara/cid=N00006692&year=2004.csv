@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Barbara & Stewart Boxer Blind Trust,Unknown,"Brokerage, IRA, 401k",1000001,5000000,0,Y,,
+"","Residential Condo/Washington, DC",Real Estate,,100001,250000,0,Y,,
+"",Stewart Boxer Inc,Unknown,Note/Note Receivable,50001,100000,0,Y,,
+"",Barclays Plaza Office Building,Real Estate,,15001,50000,0,Y,,
+"",West America Bank,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Wells Fargo Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,Y,Y,Y
+"",Technology Funding Partners,Securities/Invest,,1001,15000,0,Y,,
+"",Plato Learning Inc,Unknown,,1001,15000,0,Y,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y

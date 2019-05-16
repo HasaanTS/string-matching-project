@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Agriculture Land 475 Acr/Burrell Twp, IA",Crop Production,,250001,500000,0,Y,,
+"",Farm Equipment,Agricultural Svcs,,100001,250000,0,Y,,
+"",Breeding Stock (cattle),Unknown,,100001,250000,0,Y,,

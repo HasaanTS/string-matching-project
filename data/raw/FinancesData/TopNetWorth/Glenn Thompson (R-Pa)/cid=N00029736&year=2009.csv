@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Prudential 401K Retirement Plan,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"","606 Walnut Street/Howard, PA",Real Estate,,50001,100000,0,Y,,
+"",Susquehanna Health 403(b) Plan,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",Bank Sovereign Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

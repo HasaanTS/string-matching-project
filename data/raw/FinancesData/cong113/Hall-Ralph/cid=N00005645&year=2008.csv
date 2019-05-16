@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",North & East Trading Co,Unknown,,500001,1000000,0,Y,,
+"",Lakeside Bancshares,Commercial Banks,,500001,1000000,0,Y,,
+"",Lakeside National Bank/CD & Accounts,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Lakeside National Bank,Commercial Banks,,50001,100000,0,Y,,
+"","50% Interest 4 Acres/Rockwall, TX",Real Estate,,50001,100000,0,Y,,
+"","50% Interest 152 Acres/Hunt County, TX",Crop Production,,50001,100000,0,Y,,
+"","Oil Interest/Caddo Parrish, LA",Oil & Gas,,1,1000,0,Y,,

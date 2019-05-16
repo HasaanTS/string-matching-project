@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Smith Barney Shearson IRA,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Copeland Co,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"","19 Bock Avenue/Newark, NJ",Real Estate,,100001,250000,0,Y,,
+D000021573,Wachovia Corp,Commercial Banks,,50001,100000,0,Y,Y,Y
+D000000141,Prudential,Real Estate,,15001,50000,0,Y,Y,Y
+D000000275,Merck & Co,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+"",World Space,Unknown,,1001,15000,0,Y,,
+D000000223,Schering-Plough Corp,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000022108,Medco Health Solutions,Health Services,,1001,15000,0,Y,Y,Y

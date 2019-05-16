@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",New York Life (whole life),Unknown,Insurance policies & Annuities,200002,500000,0,Y,,
+"",Residential Property,Real Estate,,100001,250000,0,Y,,
+"",60.3 acres bnd,Real Estate,,50001,100000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000032790,Community Bank & Trust,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,Y

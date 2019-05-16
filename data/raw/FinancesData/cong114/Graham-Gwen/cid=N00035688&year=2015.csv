@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Graham Companies,Real Estate,,5100002,25250000,0,A,,
+"",SunTrust Accounts,,"Brokerage, IRA, 401k",50001,100000,0,A,,
+"",Rental Property,Real Estate,,50001,100000,0,A,,
+"",US Stock Market Index,,Mutual Fund,15001,50000,0,A,,
+"",US Small/Mid Cap Equity Fund,,Mutual Fund,15001,50000,0,A,,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,A,Y,
+"",US Bond Enhanced Index Fund,,Mutual Fund,1001,15000,0,A,,
+"",Stanley G Tate Fla Prepaid College Prog 4 Yr Tuit,,"Brokerage, IRA, 401k",1001,15000,0,A,,
+D000037015,Regions Bank,Commercial Banks,,1001,15000,0,A,,
+"",Large Cap US Equity Fund,,Mutual Fund,1001,15000,0,A,,
+"",Foreign Stock Index Fund,,Mutual Fund,1001,15000,0,A,,
+"",BlackRock Global Allocation Fund,Securities/Invest,Mutual Fund,1001,15000,0,A,,

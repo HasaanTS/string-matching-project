@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Lamar Saeligson Ranch/Surface & Mine Int,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1000001,5000000,0,A,,
+D000000090,Bank of America,Commercial Banks,,250001,500000,0,A,Y,
+"","19 Warren Street/Barnstable, MA",Real Estate,,250001,500000,0,A,,
+"","425 Soledad/San Antonio, TX",Real Estate,,100001,250000,0,A,,
+D000021573,Wachovia Corp,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,A,Y,
+"",Lago Vista Joint Venture,Unknown,Unknown,15001,50000,0,A,,
+D000033907,Frost Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,A,,Y
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Bank of America account,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,A,,

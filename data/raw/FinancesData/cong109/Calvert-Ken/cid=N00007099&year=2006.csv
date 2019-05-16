@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Commercial Rental/1065 E 3rd/Corona, CA",Real Estate,,1000001,5000000,0,Y,,
+"",Green Farms,Crop Production,Note/Note Receivable,500001,1000000,0,Y,,
+"",Limonite Mira Loma Vacant Land,Real Estate,,250001,500000,0,Y,,
+"","Commercial Rental/Corona, CA",Misc Services,,250001,500000,0,Y,,
+"",Calvert Real Properties,Real Estate,,250001,500000,0,Y,,
+"","624 East Grand Boulevard/Corona, CA",Real Estate,,250001,500000,0,Y,,
+"",Citizens Business Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"","501 & 503 E 6th Street/Corona, CA",Real Estate,,100001,250000,0,Y,,

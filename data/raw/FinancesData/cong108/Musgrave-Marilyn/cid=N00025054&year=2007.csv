@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",FBL-IRA-NSD,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"","Farm/Fort Morgan, CO",Crop Production,,100001,250000,0,Y,,
+"","Real Estate/Galeton, CO",Real Estate,,50001,100000,0,Y,,
+"",Precious Metals/Coins,Mining,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Farm Bureau Life Insurance IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Fort Morgan State Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Farmers State Bank of Ft Morgan/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

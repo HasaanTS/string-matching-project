@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Shared Health Services,Unknown,,1000001,5000000,0,T,,
+"",Priamerica,Unknown,,32004,130000,0,T,,
+D000000141,Prudential,Real Estate,,7007,105000,0,T,Y,
+"",Carter County Bank,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"",Putnam Fund,Unknown,Mutual Fund,2002,30000,0,T,,
+"",State of Tennessee 401k,Unknown,"Brokerage, IRA, 401k",1001,15000,0,T,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Allianz Annuity,Unknown,Insurance policies & Annuities,1001,15000,0,T,,
+D000022586,TransAmerica,Insurance,,3,3000,0,T,,

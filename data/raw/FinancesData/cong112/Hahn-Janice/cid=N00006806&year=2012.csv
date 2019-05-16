@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wells Fargo/Savings,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",Wells Fargo/Retirement Brokerage Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Cash Only-No Assets,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",ILWU Credit Union CD Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

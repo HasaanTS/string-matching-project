@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Ross Pharmacy,Retail Sales,,500001,1000000,0,Y,,
+"","Commercial Building/Prascott, AR",Real Estate,,101002,265000,0,Y,,
+"",Fidelity Growth & Income Fund,Unknown,Mutual Fund,101003,215000,0,Y,,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000022105,Mckesson Corp,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+"",Fidelity Value,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Puritan Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Mckasson stock,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity International,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Growth Company Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"","Commercial Lot/Prescott, AR",Real Estate,,1001,15000,0,Y,,
+"",Bank of Prasutt,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

@@ -1,0 +1,54 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",S&P 500 Index,Unknown,Mutual Fund,100001,250000,0,A,,
+"",Russell 3000 Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",Blackrock Temp Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+D000000071,Citigroup Inc,Commercial Banks,,65002,150000,0,A,Y,Y
+D000000129,Exxon Mobil,Oil & Gas,,51002,115000,0,A,Y,Y
+"",Wellington Large Cap,Unknown,Mutual Fund,50001,100000,0,A,,
+"",Smith Barney Money Fund Retirement Portf,Unknown,Mutual Fund,50001,100000,0,A,,
+"",Emerging Market Equity Fund,Unknown,Mutual Fund,50001,100000,0,A,,
+D000000071,CitiGroup Inc,Commercial Banks,Mutual Fund,50001,100000,0,A,Y,Y
+D000000804,Intel Corp,Electronics Mfg/Eqp,,16002,65000,0,A,Y,
+D000059660,United Bank,Commercial Banks,,15001,50000,0,A,,
+D000021773,Travelers Companies,Insurance,,15001,50000,0,A,Y,Y
+D000042525,Royal Dutch Shell,Oil & Gas,,15001,50000,0,A,Y,Y
+"",PIMCO All Asset Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Legg Mason Large Cap Value Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+D000001024,Kraft Foods,Food Process/Sales,,15001,50000,0,A,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,A,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,A,Y,Y
+D000067105,Gen-Probe Inc,Health Services,,15001,50000,0,A,,
+"",Citigroup Employee Fund of Funds,Unknown,Mutual Fund,15001,50000,0,A,,
+D000000320,Chubb Corp,Insurance,,15001,50000,0,A,Y,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,15001,50000,0,A,Y,
+D000000106,Morgan Stanley,Securities/Invest,,2002,30000,0,A,Y,Y
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,2002,30000,0,A,Y,
+D000000477,Duke Energy,Electric Utilities,,2002,30000,0,A,Y,
+D000000212,Coca-Cola Co,Food & Beverage,,2002,30000,0,A,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,2002,30000,0,A,Y,
+D000026556,Huntington Bancshares,Commercial Banks,,1002,16000,0,A,Y,Y
+"",West Virginia Pub Employ Retirement Sys,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,A,Y,
+"",Vista Resources,Oil & Gas,,1001,15000,0,A,,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,A,Y,Y
+D000000081,United Parcel Service,Air Transport,,1001,15000,0,A,Y,Y
+D000063839,United Bankshares,Commercial Banks,,1001,15000,0,A,,
+D000045190,Spectra Energy,Oil & Gas,,1001,15000,0,A,Y,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,A,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,A,Y,Y
+D000019639,Norfolk Southern,Railroads,,1001,15000,0,A,Y,Y
+"",MSCI EAFE Index,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Middleburg Fin Corp,Unknown,,1001,15000,0,A,,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,A,Y,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,A,Y,Y
+D000023666,CME Group,Securities/Invest,,1001,15000,0,A,Y,Y
+"",Citigroup Venture Capital International,Securities/Invest,,1001,15000,0,A,,
+"",Citigroup Capital Partners II,Unknown,,1001,15000,0,A,,
+"",Citigroup Capital Partners I,Unknown,,1001,15000,0,A,,
+"",Blackrock Fed Funds,Unknown,Mutual Fund,1001,15000,0,A,,
+"",BB&T Bank,Commercial Banks,,1001,15000,0,A,,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,A,Y,Y
+"",Bank Deposit Program,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000000391,Amgen Inc,Pharm/Health Prod,,1001,15000,0,A,Y,Y
+"",Alliance Petroleum,Oil & Gas,,1001,15000,0,A,,
+"",Middleburg Fin Corp,Unknown,Unknown,1,1000,0,A,,

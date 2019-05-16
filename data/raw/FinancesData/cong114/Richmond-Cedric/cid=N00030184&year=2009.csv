@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","4809 Eastview Dr/New Orleans, LA",Real Estate,,50001,100000,0,N,,
+"","Land/78 acres/Jeff Davis, MS",Real Estate,,1001,15000,0,N,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1463,1463,0,C,Y,Y
+"",GE Interest Plus,Unknown,,1,1000,0,N,,
+D000037610,Sirius XM Radio,TV/Movies/Music,,60,60,0,C,Y,
+D000000672,Charter Communications,Telecom Svcs,,25,25,0,C,Y,
+"",JPMorgan Liquid Assets Money Market,Unknown,Cash/Money Market/Savings/Checking,15,15,0,C,,

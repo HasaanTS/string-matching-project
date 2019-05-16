@@ -1,0 +1,65 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000058630,William Wrigley Jr Co,Food Process/Sales,,1500002,6000000,0,Y,,
+D000029842,Whirlpool Corp,Misc Mfg/Distrib,,1000001,5000000,0,Y,Y,Y
+D000000200,PepsiCo Inc,Food & Beverage,,300002,600000,0,Y,Y,Y
+"",Chemical Financial,Commercial Banks,,251002,515000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,115002,300000,0,Y,Y,Y
+"",Strylem,Unknown,,100001,250000,0,Y,,
+D000030157,Stryker Corp,Pharm/Health Prod,,100001,250000,0,Y,,Y
+"",Mostcos Select & Market,Unknown,Mutual Fund,100001,250000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,100002,200000,0,Y,Y,Y
+D000000128,Walt Disney Co,TV/Movies/Music,,65002,150000,0,Y,Y,Y
+D000000129,Exxon Mobil,Oil & Gas,,65002,150000,0,Y,Y,Y
+D000029955,YUM! Brands,Food & Beverage,,50001,100000,0,Y,Y,
+"",Wright Patman Congressional FCU,Credit Unions,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Fifth Third Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000021983,Fifth Third Bancorp,Commercial Banks,,50001,100000,0,Y,,
+D000021908,Chesapeake Energy,Oil & Gas,,50001,100000,0,Y,,Y
+D000000091,BP,Oil & Gas,,30002,100000,0,Y,Y,Y
+"",Bank One,Commercial Banks,,50001,100000,0,Y,,
+D000021677,SBC Communications,Telephone Utilities,,16002,65000,0,Y,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,16002,65000,0,Y,Y,
+"",Vanguard Bond Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"","Upton, Vial & Dynasty/Cash",Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Senbanc,Unknown,,15001,50000,0,Y,,
+"",Seligmon Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000223,Schering AG,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+"",Regen Tech,Unknown,,15001,50000,0,Y,,
+"",Put College & University,Education,,15001,50000,0,Y,,
+"",Massachusetts Investors Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+"",Hilliard Lyons Government Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Michigan Municipal Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000205,Fannie Mae,Real Estate,,15001,50000,0,Y,Y,
+D000000099,BellSouth Corp,Telephone Utilities,,15001,50000,0,Y,Y,
+D000000217,American Express,Finance/Credit,,15001,50000,0,Y,Y,
+D000000079,Verizon Communications,Telephone Utilities,,2002,30000,0,Y,Y,Y
+D000064241,Vodafone Group,Telecom Svcs,,1001,15000,0,Y,Y,
+"",US-UPS Family Partnership,Unknown,,1001,15000,0,Y,,
+"",T Rowe Price New Horizon,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Small Cap World Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000175,Raytheon Co,Defense Electronics,,1001,15000,0,Y,Y,
+D000028494,Putnam Investments,Securities/Invest,,1001,15000,0,Y,,
+"",One Group Municipal & Market,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Northern Funds US Government Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Northern Funds Final Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000067048,News Corp,TV/Movies/Music,,1001,15000,0,Y,,
+D000022143,Nationwide Financial Services,Insurance,,1001,15000,0,Y,Y,
+D000000055,Monsanto Co,Agricultural Svcs,,1001,15000,0,Y,Y,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,
+D000000326,JC Penney,Retail Sales,,1001,15000,0,Y,Y,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Grand Forks Public Bond,Unknown,Government Bond,1001,15000,0,Y,,
+"",Gallaher Group,Securities/Invest,,1001,15000,0,Y,,
+"",Fortune Brands,Securities/Invest,,1001,15000,0,Y,,
+"",Fifth Third Savings Bank,Unknown,Unknown,1001,15000,0,Y,,
+"",Fifth Third Prime Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000188,Dow Chemical,Chemicals,,1001,15000,0,Y,Y,Y
+D000022519,DIRECTV Group,Telecom Svcs,,1001,15000,0,Y,,
+"",Conager Capital,Unknown,,1001,15000,0,Y,,
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,Y,Y,Y
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Atria,Unknown,,1001,15000,0,Y,,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000045867,Aegon NV,Insurance,,1001,15000,0,Y,Y,
+"",Petroleum Revenue Service,Oil & Gas,Unknown,1,1000,0,Y,,

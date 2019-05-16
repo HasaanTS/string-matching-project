@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Bank of America account,Commercial Banks,Cash/Money Market/Savings/Checking,300002,600000,0,Y,,
+"",California Legislativ Retirement Pension,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+D000029798,Wescom Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,Y
+"",Vanguard TIPS Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",US Savings Bonds,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Dreyfus S&P Index,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Dreyfus CA Intermediate Muni Bond Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",BeeBee Draw/Hambert Combined Properties,Real Estate,,50001,100000,0,Y,,
+"",Union Bank of California,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Dreyfus California Tax Exempt Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",CPA Practice Equipment Including Furnit,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1,1000,0,Y,,

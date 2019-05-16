@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",VALIC Annuity Insurance,Insurance,Insurance policies & Annuities,265002,550000,0,A,,
+"",Knight Insurance,Insurance,,15001,50000,0,A,,
+"",Seaway Nat Bank,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000027997,Nicor Inc,Oil & Gas,,1001,15000,0,A,Y,
+"",Community Bank of Lawndale,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Austin Bank of Chicago,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Equitable,Insurance,,1,1000,0,A,,

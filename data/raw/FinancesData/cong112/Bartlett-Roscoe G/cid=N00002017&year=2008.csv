@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",House & other buildings,Real Estate,,1000001,5000000,0,Y,,
+"",Precious Metals,Mining,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",250001,500000,0,Y,,
+"","House/Pleasantville, TN",Real Estate,,100001,250000,0,Y,,
+"","House/Knoxville, MD",Real Estate,,100001,250000,0,Y,,
+"","House/Frederick, MD",Real Estate,,100001,250000,0,Y,,
+"","153 Acres & 2 houses/Pocahontas Cnty, WY",Real Estate,,100001,250000,0,Y,,
+"","Mortgage/Knoxville, MD",Real Estate,,100002,200000,0,Y,,
+"","House/Franklin, WV",Real Estate,,50001,100000,0,Y,,
+"",Stock Medical Dynamics,Unknown,,1001,15000,0,Y,,
+"",Putnam Bonds,Unknown,Government Bond,1001,15000,0,Y,,

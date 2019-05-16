@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Morgan Stanley Bank Trust,Commercial Banks,Cash/Money Market/Savings/Checking,16002,65000,0,N,,
+D000050922,First United Bank,Commercial Banks,Unknown,15001,50000,0,N,,
+"",Think Partnership Inc,Unknown,,2002,30000,0,N,,
+"",Morgan Stanley Emerging Mkts Domestic Fd,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Morgan Stanley Diversified Future Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000034842,JetBlue Airways,Air Transport,,1001,15000,0,N,,
+"",Ivy Asset Strategy Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000034433,Heritage Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+D000000182,Ford Motor Co,Automotive,,1001,15000,0,N,Y,Y
+"",DWS Dreman Value Income Edge Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000032698,CNET Networks,Internet,,1001,15000,0,N,,
+"",Consolidated American Industrial Corp,Unknown,,2,2000,0,N,,

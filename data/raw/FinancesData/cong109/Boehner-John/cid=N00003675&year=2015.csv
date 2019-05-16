@@ -1,0 +1,116 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000079,Verizon Communications,Telephone Utilities,,30002,100000,0,T,Y,Y
+D000029309,Symantec Corp,Electronics Mfg/Eqp,"Brokerage, IRA, 401k",30002,100000,0,T,Y,
+"",Royce Special Equity Fund,,Mutual Fund,50001,100000,0,T,,
+"",Putnam Diversified Income Fund,,Mutual Fund,50001,100000,0,T,,
+D000022170,Omnicom Group,Business Services,"Brokerage, IRA, 401k",30002,100000,0,T,Y,
+"",Ohio Public Employees Retirment System,,Insurance policies & Annuities,50001,100000,0,T,,
+"",Lord Abbett Short Duration Income Fund,,Mutual Fund,50001,100000,0,T,,
+"",Harbor Fund International,,Mutual Fund,50001,100000,0,T,,
+"",Growth Fund of America,,Mutual Fund,50001,100000,0,T,,
+"",Franklin Mutual Global Discovery Fund,,Mutual Fund,50001,100000,0,T,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"",Computer Sciences Corp,Electronics Mfg/Eqp,"Brokerage, IRA, 401k",30002,100000,0,T,,
+"",Columbia Dividend Opportunity Fund,,Mutual Fund,50001,100000,0,T,,
+D000000076,AT&T Inc,Telephone Utilities,"Brokerage, IRA, 401k",30002,100000,0,T,Y,Y
+D000000188,Dow Chemical,Chemicals,"Brokerage, IRA, 401k",16002,65000,0,T,,
+D000000391,Amgen Inc,Pharm/Health Prod,,16002,65000,0,T,Y,Y
+"",Voya Global Real Estate Fund,Securities/Invest,,15001,50000,0,T,,
+"",Victory Sycamore Established Value Fund,,Mutual Fund,15001,50000,0,T,,
+D000030824,VF Corp,Misc Mfg/Distrib,,15001,50000,0,T,Y,
+"",Vanguard Bond Index Short Term Bond ETF,,Mutual Fund,15001,50000,0,T,,
+D000000487,US Bancorp,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,T,Y,Y
+D000000348,Unitedhealth Group,Health Services,,15001,50000,0,T,Y,Y
+D000000209,United Technologies,Defense Aerospace,,15001,50000,0,T,Y,Y
+D000000081,United Parcel Service,Air Transport,,15001,50000,0,T,Y,Y
+"",UBS Bank Deposit Account,,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+D000021773,Travelers Companies,Insurance,,15001,50000,0,T,Y,
+"",Templeton Glbal Bond ADV,,Mutual Fund,15001,50000,0,T,,
+D000022388,TE Connectivity,Electronics Mfg/Eqp,,15001,50000,0,T,Y,Y
+"",TCW Total Return Bond Fund,,Mutual Fund,15001,50000,0,T,,
+D000000619,Target Corp,Retail Sales,"Brokerage, IRA, 401k",15001,50000,0,T,Y,Y
+D000029194,State Street Corp,Securities/Invest,,15001,50000,0,T,Y,Y
+D000056521,Scripps Networks Interactive,Electronics Mfg/Eqp,"Brokerage, IRA, 401k",15001,50000,0,T,Y,
+D000037414,Schlumberger Ltd,Oil & Gas,,15001,50000,0,T,,
+"",RMA Tax-Free Fund,,Mutual Fund,15001,50000,0,T,,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,15001,50000,0,T,Y,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,15001,50000,0,T,Y,Y
+D000028426,PPG Industries,Chemicals,"Brokerage, IRA, 401k",15001,50000,0,T,Y,
+D000028398,PNC Financial Services,Commercial Banks,,15001,50000,0,T,Y,Y
+D000028396,PNC Bank Corp,Commercial Banks,Note/Note Receivable,15001,50000,0,T,,
+"",PIMCO Total Return Fund,,Mutual Fund,15001,50000,0,T,,
+"",Pimco Commodity Real Return Strategy Fund Class P,,Mutual Fund,15001,50000,0,T,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,15001,50000,0,T,Y,Y
+D000000200,Pepsico Inc,Food & Beverage,,15001,50000,0,T,Y,Y
+D000028227,Parker-Hannifin,Misc Mfg/Distrib,,15001,50000,0,T,Y,Y
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,15001,50000,0,T,Y,Y
+"",Oppenheimer Senior Floating Rate Fund,,Mutual Fund,15001,50000,0,T,,
+"",Oppenheimer Developing Markets Fund,,Mutual Fund,15001,50000,0,T,,
+D000000206,Occidental Petroleum,Oil & Gas,,15001,50000,0,T,Y,Y
+D000000106,Morgan Stanley,Securities/Invest,"Brokerage, IRA, 401k",15001,50000,0,T,Y,Y
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,T,Y,Y
+"",MFS Value Fund,,Mutual Fund,15001,50000,0,T,,
+D000000275,Merck & Co,Pharm/Health Prod,,15001,50000,0,T,Y,Y
+D000022110,Medtronic Inc,Pharm/Health Prod,,15001,50000,0,T,Y,
+"",Loomis Sayles Investment Grade Bond Fund,,Mutual Fund,15001,50000,0,T,,
+D000000207,Loews Corp,Insurance,,15001,50000,0,T,Y,
+D000022084,Lincoln National Corp,Insurance,,15001,50000,0,T,Y,
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,15001,50000,0,T,Y,
+D000000103,JPMorgan Chase & Co,Commercial Banks,"Brokerage, IRA, 401k",15001,50000,0,T,Y,Y
+"",JP Morgan Strategic Income Opportunities Fund,,Mutual Fund,15001,50000,0,T,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,15001,50000,0,T,Y,
+"",John Hancock Signature,,,15001,50000,0,T,,
+"",Ishares Core US Aggregate Bond ETF,,Mutual Fund,15001,50000,0,T,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,T,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,T,Y,
+D000000334,Honeywell International,Misc Mfg/Distrib,,15001,50000,0,T,Y,
+D000000419,Home Depot,Retail Sales,,15001,50000,0,T,Y,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,15001,50000,0,T,,
+"",Henderson International Opportunities Fund,,Mutual Fund,15001,50000,0,T,,
+"",Goldman Sachs Strategic Income Fund,,Mutual Fund,15001,50000,0,T,,
+D000000085,Goldman Sachs,Securities/Invest,"Brokerage, IRA, 401k",15001,50000,0,T,Y,Y
+D000026221,Gilead Sciences,Pharm/Health Prod,"Brokerage, IRA, 401k",15001,50000,0,T,Y,
+"",Genl Elec Cap Corp NTS,Unknown,,15001,50000,0,T,,
+D000000165,General Dynamics,Defense Electronics,,15001,50000,0,T,Y,
+"",GE Capital Internotes,Unknown,,15001,50000,0,T,,
+"",Franklin Strategic Inc,,Mutual Fund,15001,50000,0,T,,
+"",First Trust Preferred Securities and Income ETF,,Mutual Fund,15001,50000,0,T,,
+D000033678,First Financial Bank USA,,"Brokerage, IRA, 401k",15001,50000,0,T,,
+D000021983,Fifth Third Bancorp,Commercial Banks,,15001,50000,0,T,Y,
+"",Fidelity Advisor Ltd Term Bond Fund,,Mutual Fund,15001,50000,0,T,,
+D000000129,Exxon Mobil,Oil & Gas,,15001,50000,0,T,Y,Y
+"",EMC Corp,Electronics Mfg/Eqp,,15001,50000,0,T,,
+"",Eaton Vance Short Duration Strategic Income Fund,,Mutual Fund,15001,50000,0,T,,
+"",Eaton Vance Global Macro Absolute Return Fund,,Mutual Fund,15001,50000,0,T,,
+D000059154,Dover Corp,Misc Mfg/Distrib,,15001,50000,0,T,,
+"",Doubleline Total Return Bond Fund,,Mutual Fund,15001,50000,0,T,,
+D000068122,Dell,,"Brokerage, IRA, 401k",15001,50000,0,T,,
+"",Credit Suisse Floating High Income Fund,,Mutual Fund,15001,50000,0,T,,
+D000000303,ConocoPhillips,Oil & Gas,,15001,50000,0,T,Y,Y
+D000000461,Comcast Corp,Telecom Svcs,,15001,50000,0,T,Y,Y
+"",Columbia Strategic Income Fund,,Mutual Fund,15001,50000,0,T,,
+"",Columbia Acorn International Fund,,Mutual Fund,15001,50000,0,T,,
+D000065473,Coca-Cola Enterprises,Food & Beverage,,15001,50000,0,T,,
+D000000071,Citigroup Inc,Commercial Banks,Government Bond,15001,50000,0,T,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,15001,50000,0,T,Y,
+D000000015,Chevron Corp,Oil & Gas,,15001,50000,0,T,Y,Y
+D000021892,Cardinal Health,Pharm/Health Prod,,15001,50000,0,T,Y,
+D000000100,Boeing Co,Defense Aerospace,"Brokerage, IRA, 401k",15001,50000,0,T,Y,Y
+"",Blackrock Strategic Income Fund,,Mutual Fund,15001,50000,0,T,,
+"",Blackrock Global Long/Short Credit Fund,,Mutual Fund,15001,50000,0,T,,
+D000031719,Automatic Data Processing Inc,Business Services,,15001,50000,0,T,Y,
+"",Archer-Daniels-Midland Co,,"Brokerage, IRA, 401k",15001,50000,0,T,,
+"",Arbitrage Fund Institutional Class,,Mutual Fund,15001,50000,0,T,,
+"",AQR Managed Futures Strategy Fund,,Mutual Fund,15001,50000,0,T,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,15001,50000,0,T,Y,Y
+D000023159,Anthem Inc,Health Services,,15001,50000,0,T,,
+D000021700,Ameriprise Financial,Securities/Invest,,15001,50000,0,T,Y,
+"",American Funds New World Fund,,Mutual Fund,15001,50000,0,T,,
+"",Allstate,Unknown,,15001,50000,0,T,,
+D000066804,AbbVie Inc,Pharm/Health Prod,,15001,50000,0,T,Y,Y
+"",St Paul Companies,Insurance,,1001,15000,0,T,,
+"",NTHN TR Corp,,,1001,15000,0,T,,
+D000025483,Devon Energy,Oil & Gas,,1001,15000,0,T,Y,Y
+"",Cons Edison Co of NY,,"Brokerage, IRA, 401k",1001,15000,0,T,,
+"",Cleve Electric Illum,,"Brokerage, IRA, 401k",1001,15000,0,T,,
+D000024095,Apache Corp,Oil & Gas,,1001,15000,0,T,Y,

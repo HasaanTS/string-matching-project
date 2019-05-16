@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",ING Reliastar Life Ins Financial Variabl,Unknown,Mutual Fund,250001,500000,0,A,,
+"",Wachovia Money Market,Unknown,Cash/Money Market/Savings/Checking,115002,300000,0,A,,
+"",Residential Rental Property,Real Estate,,115002,300000,0,A,,
+"",Riversource Guaranteed,Unknown,Mutual Fund,50001,100000,0,A,,
+"",Wachovia Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",US Savings Bond,Unknown,Government Bond,15001,50000,0,A,,
+"",Wells Fargo Advantage Core Equity Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",S FLA Educational Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Miami-Dade School Board 401a Bencor,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,

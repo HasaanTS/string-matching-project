@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000470,Washington Mutual,Savings & Loans,,50001,100000,0,A,,
+"",American Funds CB&T Cust Simple IRA,Unknown,Mutual Fund,94343,94343,0,A,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Old Second,Unknown,,1001,15000,0,Y,,
+"",First United,Unknown,,1001,15000,0,Y,,

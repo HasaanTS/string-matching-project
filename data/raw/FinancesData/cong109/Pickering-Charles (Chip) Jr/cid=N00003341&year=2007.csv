@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",First Commercial Bank,Commercial Banks,Cash/Money Market/Savings/Checking,251002,515000,0,Y,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Washington Mutual Investors Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Smith Barney Mutual Fund Ed IRA,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",First Bankshares,Commercial Banks,,1001,15000,0,Y,,
+D000024243,BancorpSouth Bank,Commercial Banks,,1001,15000,0,Y,,

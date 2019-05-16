@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Obsidian Holdings LLC,Real Estate,,1000001,5000000,0,Y,,
+"",Promissory Note - Bulloch,,Note/Note Receivable,500001,1000000,0,Y,,
+"",Promissory Note - M Magoon,,Note/Note Receivable,100001,250000,0,Y,,
+"",IRA - sEI Trust,,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Roth IRA - sEI Trust,,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Panguitch Lake Properties,,,50001,100000,0,Y,,
+"",Thrift Savings Plan,,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Mesquite Magnificent 7 LLC,Unknown,,15001,50000,0,Y,,
+"",H3B Mesquite Properties LLC,Unknown,,15001,50000,0,Y,,
+"",America First Credit Union - savings,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",America First Credit Union - Checking,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,

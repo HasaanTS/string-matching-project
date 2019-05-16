@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000030803,Ventas Inc,Real Estate,,30002,100000,0,Y,,
+"",USAA Life Insurance,Insurance,Unknown,50001,100000,0,Y,,
+D000034341,Harte-Hanks Inc,Business Services,,30002,100000,0,Y,,Y
+"",General Growth Properties Inc,Real Estate,,15001,50000,0,Y,,
+"",Developers Diversified Realty,Real Estate,,15001,50000,0,Y,,
+D000032416,CBL & Assoc,Real Estate,,15001,50000,0,Y,,
+"",USAA Federal Savings Bank,Commercial Banks,Unknown,1001,15000,0,Y,,
+"",Orthodontic Centers Inc,Health Professionals,,1001,15000,0,Y,,

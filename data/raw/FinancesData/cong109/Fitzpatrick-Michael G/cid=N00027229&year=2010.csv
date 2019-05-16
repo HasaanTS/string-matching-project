@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Merrill Lynch Wealth Management,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",County of Bucks Employee Retirment,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Viriva Community Credit Union,Credit Unions,,1001,15000,0,Y,,

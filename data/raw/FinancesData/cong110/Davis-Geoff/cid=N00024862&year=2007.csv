@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000066809,Republic Consulting,Unknown,,50001,100000,0,Y,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",USAA Federal Savings Bank,Savings & Loans,Unknown,15001,50000,0,Y,,
+D000055329,Pentagon Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

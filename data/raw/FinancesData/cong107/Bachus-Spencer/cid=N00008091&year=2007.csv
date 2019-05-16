@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Pacific Life Annuity,Unknown,Insurance policies & Annuities,250001,500000,0,Y,,
+"",Southwood Properties,Real Estate,,100001,250000,0,Y,,
+"",Smith Barney IRA,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",CGCM Large Cap Value Investments,Unknown,Mutual Fund,100001,250000,0,Y,,
+"","2351 Rocky Ridge Road/Birmingham, AL",Real Estate,,100001,250000,0,Y,,
+"",CGCM International Equity Investments,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",CGCM Small Cap Value Investments,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",CGCM Large Cap Growth Investments,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",CGCM Emerging Markets Equity Investments,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",CGCM Core Fixed Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000037015,Regions Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1002,16000,0,Y,,Y
+"",CitiBank NA,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",CGCM Money Market Investments,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",CGCM International Fixed Income,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000328,Fidelity Investments,Securities/Invest,,1,1000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",CGCM Small Cap Growth Investments,Unknown,Mutual Fund,1,1000,0,Y,,

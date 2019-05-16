@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",UBS Money Market,,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+"",Monarch Bay Securities,Securities/Invest,,100001,250000,0,Y,,
+"",Laguna Advisory Partners,,,100001,250000,0,Y,,
+"",Cardiff Partners Business Consulting,Business Services,,100001,250000,0,Y,,
+"","Apartment bldg - Hermes Avenue, Encinitas, CA",Real Estate,,50001,100000,0,Y,,
+D000065717,Madrona Venture Group,,Mutual Fund,15001,50000,0,Y,,
+"",Digital Map Series,,,15001,50000,0,Y,,
+"",Camino Partners Consulting,Unknown,,1001,15000,0,Y,,

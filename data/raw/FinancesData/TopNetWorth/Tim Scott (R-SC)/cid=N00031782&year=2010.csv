@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Gideon Properties LLC,Real Estate,,1000001,5000000,0,Y,,
+"",Tim Scott & Assoc,Unknown,,500001,1000000,0,Y,,
+"",Rivertown Investments,Unknown,,100001,250000,0,Y,,
+D000000632,Allstate Insurance,Insurance,,15001,50000,0,Y,Y,Y

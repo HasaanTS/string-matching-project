@@ -1,0 +1,33 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000028396,PNC Bank Corp,Commercial Banks,,1000001,5000000,0,Y,,
+D000021573,Wachovia Corp,Commercial Banks,,500001,1000000,0,Y,Y,
+"",Sherwood Freightliner,Trucking,,500001,1000000,0,Y,,
+"",Sherwood Chev Inc,Unknown,,500001,1000000,0,Y,,
+"",Horlacher & Sherwood,Unknown,,500001,1000000,0,Y,,
+"",D'Agata Sherwood Realty,Real Estate,,500001,1000000,0,Y,,
+"",Red Point Partners,Unknown,,250001,500000,0,Y,,
+"",First Clearing LLC,Unknown,,250001,500000,0,Y,,
+"",Sherwood Groves Auto Group,Automotive,,100001,250000,0,Y,,
+"",Sherwood Farms,Crop Production,,50001,100000,0,Y,,
+"",Peoples Ltd,Unknown,,50001,100000,0,Y,,
+"",Grange Bank,Commercial Banks,,50001,100000,0,Y,,
+D000000155,General Motors,Automotive,,50001,100000,0,Y,Y,Y
+D000037699,Southern Union,Unknown,,15001,50000,0,Y,,
+"",PPL Resources,Unknown,,15001,50000,0,Y,,
+D000000108,Merrill Lynch,Securities/Invest,,15001,50000,0,Y,Y,
+D000019828,Emerson Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+D000000457,Corning Inc,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",Wright Patman Congressional FCU,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Sherwood Groves Farm,Crop Production,,1001,15000,0,Y,,
+D000000341,Rite Aid Corp,Retail Sales,,1001,15000,0,Y,Y,Y
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,Y,Y,
+"",Peoples Financial Services,Misc Finance,,1001,15000,0,Y,,
+D000000165,General Dynamics,Defense Aerospace,,1001,15000,0,Y,Y,Y
+D000000182,Ford Motor Co,Automotive,,1001,15000,0,Y,Y,
+"",Fleet Boston Financial,Misc Finance,,1001,15000,0,Y,,
+"",EDS Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Comm Bank Corp,Commercial Banks,,1001,15000,0,Y,,
+D000000091,BP,Oil & Gas,,1001,15000,0,Y,Y,
+"",BIO-key International,Unknown,,1001,15000,0,Y,,
+"",RcN,Unknown,Unknown,1,1000,0,Y,,
+"",Prudential Insurance,Insurance,Unknown,1,1000,0,Y,,

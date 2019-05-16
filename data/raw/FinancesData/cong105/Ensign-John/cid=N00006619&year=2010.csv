@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",E&P Partnership,Real Estate,,1000001,5000000,0,T,,
+"",RBC/Trevor Ensign,Unknown,"Brokerage, IRA, 401k",100001,250000,0,T,,
+"",RBC/Siena Ensign,Unknown,"Brokerage, IRA, 401k",100001,250000,0,T,,
+"",RBC/Michael Ensign,Unknown,"Brokerage, IRA, 401k",100001,250000,0,T,,
+"",J Ensign & G Pr,Agricultural Svcs,Unknown,100001,250000,0,T,,
+D000000090,Bank of America,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,T,Y,

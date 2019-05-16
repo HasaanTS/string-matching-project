@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000021649,Nextel Communications,Telecom Svcs,,16205,16205,0,A,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,9411,9411,0,A,Y,Y
+D000000419,Home Depot,Retail Sales,,9402,9402,0,A,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,8395,8395,0,A,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,7728,7728,0,A,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,7481,7481,0,A,Y,Y
+D000022330,Yahoo! Inc,Internet,,6782,6782,0,A,Y,
+D000000212,Coca-Cola Co,Food & Beverage,,6412,6412,0,A,Y,Y
+D000022110,Medtronic Inc,Pharm/Health Prod,,6208,6208,0,A,Y,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,6088,6088,0,A,Y,Y
+D000000126,AFLAC Inc,Insurance,,5976,5976,0,A,Y,Y
+D000000141,Prudential Financial,Insurance,,5496,5496,0,A,Y,
+D000000596,Genentech Inc,Pharm/Health Prod,,5444,5444,0,A,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,3765,3765,0,A,Y,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,2469,2469,0,A,Y,

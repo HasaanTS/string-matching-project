@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",BB&T IRA,Unknown,"Brokerage, IRA, 401k",16002,65000,0,Y,,
+"",BB&T/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000021868,BB&T Corp,Commercial Banks,,1001,15000,0,Y,,Y

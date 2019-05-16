@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Brownlea Farm,,,250001,500000,0,Y,,
+"",Ohio Public Employees Retirment System,,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Huntington National Bank Checking,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Plain Dealer Credit Union Checking,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Lorain National Bank Checking,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Fidelity Magellan,,Mutual Fund,0,1000,0,Y,,

@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",BB&T/cash,Unknown,Cash/Money Market/Savings/Checking,65002,150000,0,Y,,
+"",BB&T Bank,Commercial Banks,,1002,16000,0,Y,,
+"",BB&T/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,1,1000,0,Y,Y,Y

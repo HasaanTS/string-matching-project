@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",New York State & Local Defined Benefit Retirement,Unknown,Insurance policies & Annuities,50001,100000,0,A,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Reliastar Life Insurance,Insurance,Insurance policies & Annuities,15001,50000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,3003,45000,0,Y,Y,Y
+"",New York College Savings Program,Unknown,"Brokerage, IRA, 401k",3003,45000,0,Y,,
+"",Coca-Cola Co Stock held by spouse for DC,Unknown,,3003,45000,0,Y,,
+"",Washington Mutual Investors Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Growth Fund of America,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Small Cap Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Federated Mid Cap Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Europacific Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American High Income Trust Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Balanced Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Allianz NFJ Small Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

@@ -1,0 +1,25 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Vanguard 500 Index,Securities/Invest,Mutual Fund,250001,500000,0,Y,,
+D000000487,US Bancorp,Commercial Banks,,150002,350000,0,Y,Y,Y
+D000042329,Stanley Works,Misc Mfg/Distrib,,31003,115000,0,Y,,
+"",Schwab Money Market,Unknown,Cash/Money Market/Savings/Checking,30002,100000,0,Y,,
+"",Elk Petroleum,Oil & Gas,,30002,100000,0,Y,,
+"",ZLDR Ventures,Unknown,,15001,50000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",RBC Dain Rauscher Money Market,Unknown,Cash/Money Market/Savings/Checking,3003,45000,0,Y,,
+"",New Resource Bank,Commercial Banks,,2003,31000,0,Y,,
+"",Piper Jaffray Companies,Securities/Invest,,2002,30000,0,Y,,
+"",Royal Bank of Canada Inflation notes,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,Y,Y,
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,Y,Y,
+D000000677,Hartford Life Insurance,Insurance,Insurance policies & Annuities,1001,15000,0,Y,Y,Y
+D000000703,Costco Wholesale,Retail Sales,,1001,15000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000000067,Altria Group,Tobacco,,1001,15000,0,Y,Y,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000133,GlaxoSmithKline,Pharm/Health Prod,,2,2000,0,Y,Y,
+"",Weitz Value Fund,Misc Finance,Mutual Fund,1,1000,0,Y,,
+"",Tweedy Brown Global Value Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",T Rowe Price Equity Income Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Longleaf Partners Small Cap Fund,Unknown,Mutual Fund,1,1000,0,Y,,

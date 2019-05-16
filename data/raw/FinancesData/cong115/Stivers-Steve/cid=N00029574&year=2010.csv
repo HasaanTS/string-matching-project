@@ -1,0 +1,37 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,115002,300000,0,Y,Y,Y
+"",Farm Land/Crawford-Marion City,Crop Production,,100001,250000,0,Y,,
+"",Ohio Public Employees Retirement System,Unknown,"Brokerage, IRA, 401k",51002,115000,0,Y,,
+"",S&P 500 Index,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",JPMorgan Chase Retirement Account,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",First America Tax Free Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",First America Short Tax Free Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Common Stock Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Wheeler Co,Commercial Banks,,1001,15000,0,Y,,
+"",Wells Fargo Mutual Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+"",Vanguard Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Ripley Real Estate,Real Estate,,1001,15000,0,Y,,
+"",PNC Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",JPMorgan C,Unknown,,1001,15000,0,Y,,
+D000034869,JM Smucker Co,Food Process/Sales,,1001,15000,0,Y,,
+D000061748,Huntington Bank,Commercial Banks,,1001,15000,0,Y,,Y
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Franklin Mutual Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000531,Firstenergy Corp,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",First America Treasury,Unknown,,1001,15000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000033211,Dodge & Cox,Securities/Invest,Mutual Fund,1001,15000,0,Y,,
+"",Credit Suisse LOM,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Chase Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Chase Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",Blackrock Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",PNC Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",PNC Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Palomar Medical Technologies,Unknown,,1,1000,0,Y,,
+"",Northwestern Mutual Whole Life,Unknown,,1,1000,0,Y,,
+"",JPMorgan US Treasury,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Citigroup Bank Deposit Program,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Blackrock Liquidity Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Am Equity Inv Whole Life Cash Val,Unknown,Insurance policies & Annuities,1,1000,0,Y,,

@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wells Fargo/Checking-Savings-Money Mkt,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,N,,
+"",Sam's Foreign & Domestic Auto Center,Automotive,,50001,100000,0,N,,
+"",Nationwide Bond Index,Unknown,Mutual Fund,30002,100000,0,N,,
+"",Life Insurance of the Southwest Annuity,Unknown,Insurance policies & Annuities,15001,50000,0,N,,
+"",Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,

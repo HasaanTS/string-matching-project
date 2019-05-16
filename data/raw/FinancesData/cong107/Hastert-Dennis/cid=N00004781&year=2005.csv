@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",North Star Trust,Unknown,Cash/Money Market/Savings/Checking,1000001,5000000,0,Y,,
+"",Home & Property,Real Estate,,1000001,5000000,0,Y,,
+"","125.96 Acres/Kendall County, IL",Real Estate,,1000001,5000000,0,Y,,
+"","Farm/Crawford County, WI",Crop Production,,500001,1000000,0,Y,,
+"","69 Acres/Plano, IL",Real Estate,,500001,1000000,0,Y,,
+"","Townhouse Property/Washington, DC",Real Estate,,250001,500000,0,Y,,
+"",Yorkville National Bank Optimum Account,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Dreyfus Premier S&P Stars Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Northwestern Life Aggressive Stock Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Yorkville National Bank Personal Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Yorkville National Bank Farm Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

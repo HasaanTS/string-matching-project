@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Lincoln Life Multi Fund Retirement Annty,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000198,Massachusetts Mutual Life Insurance,Insurance,,15001,50000,0,Y,Y,
+"",Lincoln Life NB Mid Cap,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Lincoln Life Del Small Cap Value,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Lincoln Life AFIS International,Unknown,,15001,50000,0,Y,,
+"",Lincoln Life AFIS Growth,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Wachovia Bank North Capitol & E,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Investment Property,Real Estate,,250001,500000,0,Y,,
+"",Huizenga Gravel,Building Materials,,250001,500000,0,Y,,
+"",Thrift Savings Plan C Fund,,Mutual Fund,100001,250000,0,Y,,
+"",Riverbend LLC,Real Estate,,15001,50000,0,Y,,
+D000026889,Johnson Controls,Automotive,,15001,50000,0,Y,Y,
+D000045471,Huntington National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,3003,45000,0,Y,,
+"",Small Cap World Fund,,Mutual Fund,1001,15000,0,Y,,
+"",Investor Growth & Income Fund,,Mutual Fund,1001,15000,0,Y,,
+D000026188,Gentex Corp,Misc Mfg/Distrib,,1001,15000,0,Y,,Y
+"",Chase Bank Money Market,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",American Funds Growth Fund of America,,Mutual Fund,1001,15000,0,Y,,
+"",AllianzGI NFJ Mid Cap Value Fund,,Mutual Fund,1001,15000,0,Y,,
+"",Alliance Focused Growth Fund,,Mutual Fund,1001,15000,0,Y,,
+"",PIMCO Total Return Fund,,Mutual Fund,1,1000,0,Y,,

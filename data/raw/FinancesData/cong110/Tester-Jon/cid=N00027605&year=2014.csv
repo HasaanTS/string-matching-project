@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",T-Bone Farms Inc,Livestock,,500001,1000000,0,Y,,
+"",Family Farm Land Big Sandy,Crop Production,,500001,1000000,0,Y,,
+"","Wells Fargo Bank(Big Sandy, MT)/Checking",Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000573,American Electric Power,Electric Utilities,,15001,50000,0,Y,Y,
+"",DWS Strategic Government Securities Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",DA Davidson Cash Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

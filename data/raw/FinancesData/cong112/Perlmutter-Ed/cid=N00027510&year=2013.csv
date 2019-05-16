@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Vanguard 500 Index Signal,Unknown,Mutual Fund,250001,500000,0,Y,,
+D000000487,US Bancorp,Commercial Banks,Mutual Fund,100002,200000,0,Y,Y,Y
+D000057143,Stanley Black & Decker,Misc Mfg/Distrib,,30002,100000,0,Y,Y,
+"",25% interest in ZLDR partnership owning 95 acres +,Unknown,,15001,50000,0,Y,,
+"",Piper Jaffray Companies,Unknown,,2002,30000,0,Y,,
+"",Elk Petroleum,Oil & Gas,,2002,30000,0,Y,,
+"",Permanent Portfolio Fund,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",New Resource Bank,Commercial Banks,,1001,15000,0,Y,,
+"",NEA Valuebuilder Variable Annuity,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000133,GlaxoSmithKline,Pharm/Health Prod,,2,2000,0,Y,Y,
+"",Westerra Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Tweedy Brown Global Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Sterling Capital Equity,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Presidential Brokerage,Unknown,,1,1000,0,Y,,
+"",Perkins Mid Cap Value Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Longleaf Partners Fund,Unknown,Mutual Fund,1,1000,0,Y,,

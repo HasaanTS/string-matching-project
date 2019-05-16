@@ -1,0 +1,45 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","612 Haish Blvd/De Kalb, IL",Real Estate,,100001,250000,0,N,,
+"",American Funds Investment Co of America,Unknown,Mutual Fund,5005,75000,0,N,,
+"",American Funds New Perspective Fund,Unknown,Mutual Fund,4004,60000,0,A,,
+"",American Funds Income Fund of America,Unknown,Mutual Fund,4004,60000,0,A,,
+"",US Army Thrift Savings Plan/Bryan Bowlsb,Unknown,"Brokerage, IRA, 401k",15001,50000,0,N,,
+"",Lincoln Shareholders Adv Old Cnt,Unknown,,15001,50000,0,N,,
+"",Small Cap World Fund,Unknown,Mutual Fund,3003,45000,0,A,,
+D000000125,General Electric,Misc Mfg/Distrib,,3003,45000,0,N,Y,Y
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,2002,30000,0,N,Y,Y
+D000000804,Intel Corp,Electronics Mfg/Eqp,,2002,30000,0,N,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,2002,30000,0,N,Y,
+D000000352,Caterpillar Inc,Building Materials,,2002,30000,0,N,Y,
+"",Bond Fund of America,Unknown,Mutual Fund,2002,30000,0,A,,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,2002,30000,0,N,Y,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,N,Y,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,N,Y,
+"",USAA Savings Act,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",USAA Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",USAA Checking Act,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+D000022291,Unisys Corp,Electronics Mfg/Eqp,,1001,15000,0,N,Y,
+"",Tax Exempt Bond Fund Amer,Unknown,Mutual Fund,1001,15000,0,N,,
+D000028414,PotashCorp,Agricultural Svcs,,1001,15000,0,N,,
+"",Nutrisystem,Unknown,,1001,15000,0,N,,
+D000000321,Nextera Energy,Electric Utilities,,1001,15000,0,N,Y,
+"",New Perspectives Fund LLA,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,A,Y,Y
+D000000104,Lockheed Martin,Defense Aerospace,,1001,15000,0,N,Y,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,N,Y,
+"",Income Fund of America Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000022038,Illinois Tool Works,Misc Mfg/Distrib,,1001,15000,0,N,Y,Y
+D000000085,Goldman Sachs,Securities/Invest,,1001,15000,0,N,Y,Y
+"",EMC Corp,Electronics Mfg/Eqp,,1001,15000,0,A,,
+"",Edward Jones Roth IRA/Bryan Bowlsbey,Unknown,,1001,15000,0,N,,
+"",Edward Jones Roth IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,N,,
+D000000495,DuPont Co,Chemicals,,1001,15000,0,N,Y,
+D000000457,Corning Inc,Electronics Mfg/Eqp,,1001,15000,0,N,Y,Y
+D000000832,Carnival Corp,Sea Transport,,1001,15000,0,N,Y,
+"",Capital World Growth & Income Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Cap World Growth & Income,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000132,Archer Daniels Midland,Agricultural Svcs,,1001,15000,0,N,Y,
+"",Pacific First Health Solutions LLC,Unknown,,1,1000,0,N,,
+"",IL Comm Credit Union-Chkng,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,N,,
+"",Frontier Communication,Unknown,,1,1000,0,N,,
+"",Bank of Hawaii Check Act,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,N,,

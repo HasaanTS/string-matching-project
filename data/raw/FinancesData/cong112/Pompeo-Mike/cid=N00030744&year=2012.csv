@@ -1,0 +1,23 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",John Napcock 401K Rollen MD IRA w Vang,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",VBD Short Term Investment Grade Fd,Unknown,,15001,50000,0,Y,,
+"",T Rowe Price Equity Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",JPMorgan Large Cap Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",VGD Prime Money Market,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",VGD Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Vanguard Mid Cap ETF,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",SPDR Gold Trust ETF,Mining,,1001,15000,0,Y,,
+"",Northwestern Mutual/Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Northampton Mutual Life Insurance,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Ivy International Core Equity Fund,Unknown,,1001,15000,0,Y,,
+D000026669,Invesco Ltd,Securities/Invest,,1001,15000,0,Y,Y,
+"",DFA International,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",CJ Hi Income Yield,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Baron Small Cap Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",VGD Energy Fund,Unknown,,1,1000,0,Y,,
+"",Vanguard Total Bond Market ETF,Unknown,Mutual Fund,1,1000,0,Y,,
+D000027084,Kroger Co,Food Process/Sales,,1,1000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,1,1000,0,Y,Y,Y
+"",Carlisle of Wichita,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000024328,Best Buy,Retail Sales,,1,1000,0,Y,Y,

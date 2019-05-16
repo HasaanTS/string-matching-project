@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Artwork,,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1000001,5000000,0,Y,,
+"",Vela Law Offices Law Practice Assets,Unknown,,250001,500000,0,Y,,
+"",Texas National Bank Checking,,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Staples Linlay Blucher,Unknown,,100001,250000,0,Y,,
+"",Rene Raminer Persuant Dept,,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,
+"",Employee Retirment System of Texas,,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"","275 Calle Scaramta Brownsville, TX",,,100001,250000,0,Y,,
+"",Hildago County Minerals,,,50001,100000,0,Y,,
+"",Plains Coastal Bank Checking,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Prosperity Bank Checking,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Merill Lynch IRA Filemon Vela,,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Merill Lynch IRA Rose Vela,,"Brokerage, IRA, 401k",1,1000,0,Y,,

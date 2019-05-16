@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",M&M Partnership,Unknown,,50001,100000,0,Y,,
+"",RVS Trust Co Variable Universal Life,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",RVS Small Cap Value,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",RVS Select Value,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",RVS International Select Value,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",RVS Fundamental Value,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Maine State Retirement,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",East Mill Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"","111 Main Street/East Millinocket, ME",Real Estate,,15001,50000,0,Y,,
+"",Maine State Employees FCU,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"","Land/Midway, ME",Real Estate,,1001,15000,0,Y,,
+"","109 Main Street/East Millinocket, ME",Real Estate,,1001,15000,0,Y,,

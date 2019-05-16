@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Real Estate/Alexandria, VA",Real Estate,,500002,1000000,0,Y,,
+"",Hilliard Lyons Government Fund,Unknown,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+"","Real Estate/Tupelo, MS",Real Estate,,200002,500000,0,Y,,
+"","Real Estate/Oxford, MS",Real Estate,,250001,500000,0,Y,,
+D000000223,Schering-Plough Corp,Pharm/Health Prod,,16002,65000,0,Y,Y,Y
+D000028580,Renasant Corp,Commercial Banks,,15001,50000,0,Y,,Y
+"",Putnam Growth & Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000024243,BancorpSouth Bank,Commercial Banks,,15001,50000,0,Y,,
+D000058942,Allegheny Corp,Insurance,,15001,50000,0,Y,,
+"",Walgreen Co,Retail Sales,,1001,15000,0,Y,,
+"",US Treasury Bond,Unknown,Government Bond,1001,15000,0,Y,,
+D000067466,Tenaris SA,Steel Production,,1001,15000,0,Y,Y,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",American Funds Investment Co of America,Unknown,,1001,15000,0,Y,,
+D000023883,Amazon.com,Internet,,1001,15000,0,Y,Y,Y
+"",ABAG Fin Auth for Nonprof CA Hlth Fac Bd,Unknown,Government Bond,1001,15000,0,Y,,

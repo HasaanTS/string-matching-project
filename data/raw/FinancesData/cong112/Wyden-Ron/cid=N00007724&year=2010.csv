@@ -1,0 +1,33 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Strand Book Store Inc,Retail Sales,,1000001,1000001,1,Y,,
+"",Merrill Lynch Bank Deposit Program MM,Unknown,Cash/Money Market/Savings/Checking,1000001,1000001,1,Y,,
+"",Bass Real Estate,Real Estate,,1000001,1000001,1,Y,,
+"",Bass Book Trading,Retail Sales,,1000001,1000001,1,Y,,
+"",Strand II Corp,Unknown,,500001,1000000,0,Y,,
+"",BIF Money Fund,Unknown,Mutual Fund,500001,1000000,0,Y,,
+"",US Senate FCU Money Market,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",US Senate FCU Kid's Club Account,Unknown,Cash/Money Market/Savings/Checking,200002,500000,0,Y,,
+"",US Savings Bond,Unknown,Government Bond,100001,250000,0,Y,,
+D000032432,Celgene Corp,Pharm/Health Prod,,50001,100000,0,Y,Y,
+"",US Senate FCU/Gold Source Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000055,Monsanto Co,Agricultural Svcs,,15001,50000,0,Y,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+"",EMC Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,,
+"",CVS/Caremark Corp,Retail Sales,,15001,50000,0,Y,,
+D000023666,CME Group,Securities/Invest,,15001,50000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000021754,Apple Inc,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000058827,Zimmer Holdings,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000068479,Wellpoint Inc,Health Services,,1001,15000,0,Y,,
+D000030711,Urban Outfitters,Retail Sales,,1001,15000,0,Y,,
+D000000522,Sallie Mae,Finance/Credit,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,
+"",Motorola Inc,Telecom Svcs,,1001,15000,0,Y,,
+D000027296,Lowe's Companies,Retail Sales,,1001,15000,0,Y,Y,Y
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000021970,eBay Inc,Internet,,1001,15000,0,Y,Y,Y
+D000059055,CB Richard Ellis,Real Estate,,1001,15000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000000217,American Express,Finance/Credit,,1001,15000,0,Y,Y,
+D000031323,Adobe Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,

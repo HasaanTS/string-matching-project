@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Metlife Defined Contribution Plan,Unknown,Insurance policies & Annuities,225674,225674,0,A,,
+"",PNC Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Olive B Andrews Testamentary Trust,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+"",Citizens Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000061689,Hill International,Construction Svcs,,45439,45439,0,A,,
+"",Pepco Inc,Electric Utilities,,1001,15000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,2470,2470,0,A,Y,Y
+D000026470,Hershey Co,Food & Beverage,,1,1000,0,Y,Y,

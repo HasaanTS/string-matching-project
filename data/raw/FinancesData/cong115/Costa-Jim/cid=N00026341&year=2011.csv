@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Costa Farms,Crop Production,,1000001,5000000,0,Y,,
+"",408 5th Street SE/Washington DC,Real Estate,,500001,1000000,0,Y,,
+"","1750 S Chateau/Fresno, CA",Real Estate,,250001,500000,0,Y,,
+"",Wachovia Securities 401k,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",West America Bank,Commercial Banks,,15001,50000,0,Y,,
+"",Wells Fargo Bank NA,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Premier Valley Bank,Commercial Banks,,1001,15000,0,Y,,
+"",Portuguese Fraternal Society of America,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

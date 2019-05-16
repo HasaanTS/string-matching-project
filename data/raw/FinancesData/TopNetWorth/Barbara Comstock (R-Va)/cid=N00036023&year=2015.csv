@@ -1,0 +1,30 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Vanguard Value Index,,Mutual Fund,115002,300000,0,Y,,
+"",Vanguard Growth ETF,,Mutual Fund,115002,300000,0,Y,,
+D000000249,New York Life Insurance,Insurance,Insurance policies & Annuities,100001,250000,0,Y,Y,Y
+"",Vanguard FTSE Developed Markets ETF,,Mutual Fund,65002,150000,0,Y,,
+"",iShares Intermediate Credit Bond Fund,,Mutual Fund,65002,150000,0,Y,,
+"",Vanguard Small Cap Fund,,Mutual Fund,16002,65000,0,Y,,
+"",Vanguard REIT ETF,Real Estate,,16002,65000,0,Y,,
+"",Vanguard Mid Cap Growth Fund,,Mutual Fund,16002,65000,0,Y,,
+"",Vanguard FTSE Emerging Markets Fund,,Mutual Fund,16002,65000,0,Y,,
+"",SPDR Barclays Capital High Yield Bond Fund,,Mutual Fund,16002,65000,0,Y,,
+"",iShares Tips Bond ETF,,Mutual Fund,16002,65000,0,Y,,
+"",Ishares JP Morgan Em Bond ETF,,Mutual Fund,16002,65000,0,Y,,
+"",Invesco Floating Rate Y Confirm NBR,,Mutual Fund,16002,65000,0,Y,,
+D000030589,Twenty-First Century Group,Lobbyists,,2002,30000,0,Y,Y,
+"",Sirius XM Holdings,TV/Movies/Music,,2002,30000,0,Y,,
+D000067048,News Corp,Publishing,,2002,30000,0,Y,Y,
+"",Morgan Stanley Bank Deposit Program,,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Virginia Retirement System,Insurance,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,
+D000067057,Mondelez International,Food Process/Sales,,1001,15000,0,Y,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000027589,Micron Technology,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000067808,Kraft Heinz Co,Food Process/Sales,,1001,15000,0,Y,Y,
+"",IXYs Corp,,,1001,15000,0,Y,,
+D000067801,HP Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000067800,Hewlett Packard Enterprise,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000182,Ford Motor Co,Automotive,,1001,15000,0,Y,Y,Y
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Ambarella Inc,Unknown,,1001,15000,0,Y,,
+"",CAPITAL ONE 360,,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

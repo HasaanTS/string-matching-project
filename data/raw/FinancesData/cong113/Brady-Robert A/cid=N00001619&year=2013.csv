@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000028346,Philadelphia Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,750002,1500000,0,A,,Y
+"",Carpenters Pension,Unknown,"Brokerage, IRA, 401k",250001,500000,0,A,,
+D000032615,"City of Philadelphia, PA",Civil Servants,"Brokerage, IRA, 401k",50001,100000,0,A,Y,Y
+"",Pennsylvania Turnpike Bond,Unknown,Government Bond,15001,50000,0,A,,
+"",Brigadoon Motel LLC,Real Estate,,15001,50000,0,A,,
+"",D&B Investment,Misc Finance,,1,1000,0,A,,

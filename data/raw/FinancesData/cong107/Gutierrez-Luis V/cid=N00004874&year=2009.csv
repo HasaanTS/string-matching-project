@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",National City Bank/CD,Unknown,Cash/Money Market/Savings/Checking,400004,1000000,0,Y,,
+"",National City Bank Money Market,Unknown,Cash/Money Market/Savings/Checking,500002,1000000,0,Y,,
+"","535 Marina St/Rio Grande, Puerto Rico",Real Estate,,250001,500000,0,Y,,
+"",New York Life Insurance Annuity,Unknown,Insurance policies & Annuities,100001,250000,0,Y,,
+"",Great American Insurance Annuity,Unknown,Insurance policies & Annuities,100001,250000,0,Y,,
+"","615 Vistamar St/Rio Grande, Puerto Rico",Real Estate,,100001,250000,0,Y,,
+"",National City Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

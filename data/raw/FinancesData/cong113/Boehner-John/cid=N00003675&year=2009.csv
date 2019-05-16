@@ -1,0 +1,92 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",UBS Liquid Assets Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Henderson Global Investors Intl Opp,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Davis New York Venture Fund,Securities/Invest,Mutual Fund,100001,250000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Vanguard Selected Value Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Royce Special Equity Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Ohio Public Employee Retirement System,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+D000042727,Newell Rubbermaid,Misc Mfg/Distrib,,30002,100000,0,Y,,
+"",Munder Mid Cap Core Growth Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Keeley Funds Small Cap Value Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",FT Franklin Strategic Income Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Calamos Market Neutral Income Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",American Funds New World Fund,Unknown,Mutual Fund,30002,100000,0,Y,,
+D000028426,PPG Industries,Chemicals,,16002,65000,0,Y,Y,Y
+D000000607,Xerox Corp,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+D000068479,Wellpoint Inc,Health Services,,15001,50000,0,Y,,
+D000000367,Wal-Mart Stores,Retail Sales,,15001,50000,0,Y,Y,Y
+D000030824,VF Corp,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+"",US Treasury Notes,Unknown,Government Bond,15001,50000,0,Y,,
+D000000209,United Technologies,Defense Aerospace,,15001,50000,0,Y,Y,Y
+"",Tyco Electronics,Electronics Mfg/Eqp,,15001,50000,0,Y,,
+D000021773,Travelers Companies,Insurance,,15001,50000,0,Y,Y,Y
+D000000722,Texas Instruments,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000029194,State Street Corp,Securities/Invest,,15001,50000,0,Y,Y,
+D000037533,Sherwin-Williams Co,Chemicals,,15001,50000,0,Y,Y,Y
+"",Sara Lee Corp,Food Process/Sales,,15001,50000,0,Y,,
+"",PIMCO Commodity RealReturn Strategy Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",PIMCO All Asset Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000028227,Parker-Hannifin,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+D000022170,Omnicom Group,Business Services,,15001,50000,0,Y,Y,Y
+D000000206,Occidental Petroleum,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000022084,Lincoln National Corp,Insurance,,15001,50000,0,Y,Y,Y
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,15001,50000,0,Y,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000334,Honeywell International,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000085,Goldman Sachs,Securities/Invest,,15001,50000,0,Y,Y,Y
+D000000165,General Dynamics,Defense Electronics,,15001,50000,0,Y,Y,Y
+D000001065,GE Capital,Finance/Credit,Government Bond,15001,50000,0,Y,,
+"",Freeport-McMoRan Copper & Gold,Mining,,15001,50000,0,Y,,
+"",Franklin Templeton Foreign Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000033753,Forest Laboratories,Pharm/Health Prod,,15001,50000,0,Y,Y,
+"",Federal Home Loan Bank securities,Real Estate,,15001,50000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000019828,Emerson Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+D000025483,Devon Energy,Oil & Gas,,15001,50000,0,Y,Y,Y
+"",Covidien Plc,Unknown,,15001,50000,0,Y,,
+D000000303,ConocoPhillips,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000021930,Computer Sciences Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000222,CIGNA Corp,Insurance,,15001,50000,0,Y,Y,Y
+D000000015,Chevron Corp,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000000091,BP,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000042577,Black & Decker,Misc Mfg/Distrib,,15001,50000,0,Y,,
+"",Bear Sterns Companies,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+"",AT&T Wireless Group,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+D000000076,AT&T Inc,Telephone Utilities,,15001,50000,0,Y,Y,Y
+D000024095,Apache Corp,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000000391,Amgen Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+D000021700,Ameriprise Financial,Securities/Invest,,15001,50000,0,Y,Y,Y
+"",Allstate Corp,Insurance,,15001,50000,0,Y,,
+D000031387,Alcoa Inc,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+"",Unilever Capital Corp,Unknown,,1001,15000,0,Y,,
+D000029309,Symantec Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",St Paul Companies,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,
+"",RMA Tax Free Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000022192,Pitney Bowes Inc,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Pepsi Bottling Group,Food & Beverage,,1001,15000,0,Y,,
+"",Nucite Sales,Misc Mfg/Distrib,,1001,15000,0,Y,,
+D000027084,Kroger Co,Food Process/Sales,,1001,15000,0,Y,Y,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000800,ITT Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000026492,HJ Heinz Co,Food Process/Sales,,1001,15000,0,Y,Y,
+D000000163,Freddie Mac Securities,Real Estate,,1001,15000,0,Y,,
+D000033678,First Financial Bank USA,Commercial Banks,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000000239,Edison International,Electric Utilities,,1001,15000,0,Y,Y,
+D000000477,Duke Energy,Electric Utilities,,1001,15000,0,Y,Y,Y
+D000021933,Constellation Energy,Electric Utilities,,1001,15000,0,Y,Y,Y
+D000025111,Consolidated Edison Inc,Electric Utilities,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,Y,
+"",Carefusion Corp,Pharm/Health Prod,,1001,15000,0,Y,,
+D000021892,Cardinal Health,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000099,Bellsouth Corp,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,
+D000021765,Bank of New York Mellon,Securities/Invest,,1001,15000,0,Y,Y,Y

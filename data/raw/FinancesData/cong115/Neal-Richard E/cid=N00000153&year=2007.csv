@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",SunAmerica Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",City of Springfield Retirement Fund,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Alliance Bank/CD,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Countrywide/CD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank North,Savings & Loans,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"","Springfield, MA Credit Union",Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

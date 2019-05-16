@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Liberty National whole life insurance po,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Fort Sill Federal Credit Union Accounts,Unknown,,15001,50000,0,Y,,
+"",American General whole life insurance po,Unknown,,15001,50000,0,Y,,
+"",Raymond James Profit Sharing Plan,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000036970,Raymond James Financial Services,Securities/Invest,,1001,15000,0,Y,Y,Y
+"",Raymond James Bank Deposit Program,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",PSE&G,Unknown,,1001,15000,0,Y,,
+"",Principal Life Term 2025,Unknown,,1001,15000,0,Y,,
+"",First Command Bank Accounts,Unknown,,1001,15000,0,Y,,

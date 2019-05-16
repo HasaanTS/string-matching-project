@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Nuveen CA Div Advntg Mun,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",Blackrock California,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Alpine Global Dynamic,Unknown,,100001,250000,0,Y,,
+"",Wachovia Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",USB Capital Trust XI,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Nuveen Ind CA Prem Fund2,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000000737,National City Corp,Commercial Banks,,50001,100000,0,Y,Y,
+"",Fountain Apartments,Real Estate,,50001,100000,0,Y,,
+"",Enerplus Resources Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Eaton Vance Dividend Tax Managed Eq Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Dryden Stock Index Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000000461,Comcast Corp,Telecom Svcs,,50001,100000,0,Y,Y,Y
+"",Citizens Funding,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Sequoia Equities,Securities/Invest,,15001,50000,0,Y,,

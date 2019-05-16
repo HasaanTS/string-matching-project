@@ -1,0 +1,22 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000511,Cargill Inc,Crop Production,,250001,500000,0,N,Y,Y
+D000030790,Vanguard Co,Securities/Invest,Unknown,102003,280000,0,N,,
+"",Linsco/Private Ledger Cash Account,Unknown,Cash/Money Market/Savings/Checking,15002,51000,0,N,,
+"",KS Learning Quest Moderate,Unknown,Mutual Fund,15001,50000,0,N,,
+"",KS Learning Quest Conservative,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Kansas Public Employees Retirement Sys,Unknown,"Brokerage, IRA, 401k",15001,50000,0,N,,
+"",ING Global Intl Cap Worth Growth Fund,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Growth Fund of America,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Fidelity VIP Contra Fund,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Byron Growth Fund,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Allianz NFJ Fund,Unknown,Mutual Fund,15001,50000,0,N,,
+D000000619,Target Corp,Retail Sales,,2002,30000,0,N,Y,Y
+"",Vanguard Windsor II Fund Investor,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Vanguard Total International Stock Trade,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Van Kampen Strategic Growth Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000037610,Sirius XM Radio,TV/Movies/Music,,1001,15000,0,N,Y,
+"",Proshares Trust,Unknown,Unknown,1001,15000,0,N,,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Linsco/Private Ledger Product MM,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Linsco/Private Ledger Premier MM,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Community National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,N,,

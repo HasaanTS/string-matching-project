@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",TIAA CREF Retirement,,"Brokerage, IRA, 401k",16002,65000,0,A,,
+"",TIAA-CREF Retirement Account,,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",TIAA CREF TIA CREF Retirement,,Mutual Fund,1001,15000,0,A,,
+"",TIA CREF Retirement,,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",Alta Vista Credit Union,,,1001,15000,0,A,,
+"",AAA Universal Life Insurance,,Insurance policies & Annuities,1001,15000,0,A,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,A,,

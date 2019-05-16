@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Office Building (Dental & Antiques),Real Estate,,500001,1000000,0,N,,
+"",Dental Practice,Health Professionals,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",250001,500000,0,N,,
+"",Antique Store & Inventory,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",250001,500000,0,N,,
+"",Personal Assets,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",50001,100000,0,N,,
+"",Gosar East Fork Family Trust,Unknown,"Brokerage, IRA, 401k",50001,100000,0,N,,
+"",Vehicles & Trailers,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,N,,

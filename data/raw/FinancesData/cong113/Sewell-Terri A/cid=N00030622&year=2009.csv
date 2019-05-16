@@ -1,0 +1,21 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Beach House,Real Estate,,250001,500000,0,N,,
+D000032702,Coach Inc,Misc Mfg/Distrib,,50001,100000,0,N,,
+"",Van Kampen Growth & Income Fund,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Regions Stable Principal,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Fidelity Mid Cap Fund,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Eaton Vance Income Fund of Boston,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Columbia Acorn 401K,Unknown,Mutual Fund,15001,50000,0,N,,
+"",American Funds Europacific Growth Fund,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Schwab NJ AMT Tax Free Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Retirement Reserves,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,N,Y,Y
+"",Evergreen Asset,Unknown,,1001,15000,0,N,,
+"",DWS Dreman Small Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Columbia Marisco Growth,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,N,Y,Y
+"",American Investment,Unknown,Mutual Fund,1001,15000,0,N,,
+"",American Funds Washington,Unknown,Mutual Fund,1001,15000,0,N,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,1001,15000,0,N,,
+"",American Europacific Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",American Funds AMCAP,Unknown,Mutual Fund,1,1000,0,N,,

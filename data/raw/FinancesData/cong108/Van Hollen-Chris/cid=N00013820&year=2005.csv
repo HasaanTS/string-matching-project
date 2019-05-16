@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000022723,ING Direct,Savings & Loans,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Avent Fox Pension Plan,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Congressional Federal Credit Union Account,Credit Unions,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",State of Maryland Pension Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,15001,50000,0,Y,Y,
+"",EIF Equity Income Fund,Unknown,Mutual Fund,1002,16000,0,Y,,
+D000029955,YUM! Brands,Food & Beverage,,1001,15000,0,Y,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000125,General Electric,Unknown,,1001,15000,0,Y,Y,
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,Y,Y,
+D000000188,Dow Chemical,Chemicals,,1001,15000,0,Y,Y,
+"",Merrill Lynch Ready Assets Trust,Unknown,,1,1000,0,Y,,

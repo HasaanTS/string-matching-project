@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Mainstay Mutual Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Washington Mutual Investors Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",New Perspective Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",New Economy Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",EuroPacific Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Mutual Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Housing Trust,Unknown,,1001,15000,0,Y,,
+"",American Funds Growth Fund of America,Misc Finance,Mutual Fund,1001,15000,0,Y,,

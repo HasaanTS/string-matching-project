@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fixed Income Funds Commerce Bank,Unknown,Mutual Fund,100001,250000,0,Y,,
+"","Trust Carolyn B Skelton Estate, Commerc",Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Equity Mutual Funds Commerce Bank,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000021573,Wachovia Corp,Commercial Banks,,1001,15000,0,Y,Y,
+"",Financial Square Tax Free Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",B&L Bank/CD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

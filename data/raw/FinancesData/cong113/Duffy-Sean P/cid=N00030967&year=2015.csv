@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wells Fargo Savings Account,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",The Oakmark Equity & Income Fund Class 1,,Mutual Fund,15001,50000,0,Y,,
+"",Checking Account - Wells Fargo,,"Brokerage, IRA, 401k",1001,15000,0,Y,,

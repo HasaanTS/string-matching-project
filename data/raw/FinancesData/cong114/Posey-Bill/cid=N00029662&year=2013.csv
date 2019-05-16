@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","606 Mystic Dr #310/Cape Canaveral, FL",Real Estate,,100001,250000,0,Y,,
+"","1803 Hensky Dr/Rockledge, FL",Real Estate,,100001,250000,0,Y,,
+"","1224 S Fiske Blvd /Rockledge, FL",Real Estate,,100001,250000,0,Y,,
+"","1004 Boston Blvd/Rockledge, FL",Real Estate,,100001,250000,0,Y,,
+D000019566,Wells Fargo Bank,Commercial Banks,Unknown,15001,50000,0,Y,,
+"",Suntrust Bank,Commercial Banks,Unknown,15001,50000,0,Y,,
+"",Posey & Co Realtors,Real Estate,,15001,50000,0,Y,,
+"","1220 Huntington Lane/Rockledge, FL",Real Estate,,15001,50000,0,Y,,
+"",Stock Rockledge Group I,Unknown,,1001,15000,0,Y,,
+"",Rockledge Country Club,Recreation,,1001,15000,0,Y,,
+"",Community Educators CU,Unknown,,1001,15000,0,Y,,
+"",Rockledge Realty Corp,Real Estate,,1,1000,0,Y,,

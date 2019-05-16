@@ -1,0 +1,42 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Federal Home Loan Bank Bond,Real Estate,,14750028,26500003,1,Y,,
+"",Federal Farm Credit Bank security,Agricultural Svcs,,3000010,6000000,0,Y,,
+D000027988,Newmont Mining,Mining,,3600006,4250003,1,Y,Y,
+D000064776,Goldcorp Inc,Mining,,3300006,3750003,1,Y,,
+D000049463,Coeur D'Alene Mines,Mining,,2080006,3200001,1,Y,Y,
+"",Belo Corp,Publishing,,3000003,3000003,1,Y,,
+D000000122,UST Inc,Tobacco,,2500003,3000002,1,Y,Y,
+D000029787,Webster Bank,Savings & Loans,Cash/Money Market/Savings/Checking,600002,1250000,0,Y,,
+"",WeeHoose Farm,Crop Production,,1000001,1000001,1,Y,,
+"",SEI Tax Exempt Trust Port # 21,Unknown,Cash/Money Market/Savings/Checking,1000001,1000001,1,Y,,
+"",SEI Class A Taxable Money Market,Unknown,Cash/Money Market/Savings/Checking,1000001,1000001,1,Y,,
+"","Undeveloped Land/Sorrento, ME",Real Estate,,500001,1000000,0,Y,,
+"",Dell Inc,Electronics Mfg/Eqp,,500002,1000000,0,Y,,
+"",Tamarack US Govt Money Market,Unknown,Cash/Money Market/Savings/Checking,365004,750000,0,Y,,
+D000000076,AT&T Inc,Telephone Utilities,,315003,650000,0,Y,Y,Y
+D000000223,Schering-Plough Corp,Pharm/Health Prod,,250001,500000,0,Y,Y,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,250001,500000,0,Y,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,250001,500000,0,Y,Y,
+"","House/Franconia, NH",Real Estate,,250001,500000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,250001,500000,0,Y,Y,Y
+"",Berna Gold Corp,Mining,,250001,500000,0,Y,,
+"",Alupka Absolute Return Fund,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",Webster Financial,Misc Finance,,100001,250000,0,Y,,
+D000000275,Merck & Co,Pharm/Health Prod,,100001,250000,0,Y,Y,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,100001,250000,0,Y,Y,Y
+"",Dreyfus Gen Govt Securities Market Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+D000000188,Dow Chemical,Chemicals,,100001,250000,0,Y,Y,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,100001,250000,0,Y,Y,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,30002,100000,0,Y,Y,
+D000000166,Eli Lilly & Co,Pharm/Health Prod,,50001,100000,0,Y,Y,Y
+"",Cytra Inc,Unknown,,50001,100000,0,Y,,
+"",Citizens Bank of Rhode Island Accounts,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000000091,BP,Oil & Gas,,50001,100000,0,Y,Y,
+D000020844,OppenheimerFunds,Securities/Invest,Mutual Fund,15001,50000,0,Y,,
+"",Cyntra Inc,Unknown,,15001,50000,0,Y,,
+D000032009,BMC Software,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+"",Bank of America Account,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000000156,Qwest Communications,Telecom Svcs,,1001,15000,0,Y,Y,
+D000034347,Hasbro Inc,Misc Mfg/Distrib,,1001,15000,0,Y,,Y
+"",AllianceBernstein Govt Reserves Fund,Unknown,Mutual Fund,0,1000,0,Y,,

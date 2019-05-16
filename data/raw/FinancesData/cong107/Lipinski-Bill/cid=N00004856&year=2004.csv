@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000021795,LaSalle Bank,Commercial Banks,Unknown,250001,500000,0,T,,
+D000043471,TCF Bank,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"",IRA Charter One,Unknown,Unknown,30002,100000,0,T,,
+D000022724,American Funds,Securities/Invest,Mutual Fund,50001,100000,0,T,,
+D000021971,Edward Jones,Securities/Invest,,1001,15000,0,T,,
+"",Chicago Park District Retirement Fund,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,T,,
+"",Baird,Unknown,,1001,15000,0,T,,
+"",Polish National Alliance,Unknown,,1,1000,0,T,,
+"",Archer Heights Civics League,Unknown,Unknown,1,1000,0,T,,

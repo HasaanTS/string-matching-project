@@ -1,0 +1,28 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Residence at 14521 Mastin St,Real Estate,,250001,500000,0,Y,,
+"",TIAA Cref T-C Lifecycle 2040-Rtmt,,Mutual Fund,50001,100000,0,Y,,
+"",Capitol Federal Savings,Savings & Loans,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Kansas Public Employees Retirement System,,Insurance policies & Annuities,15001,50000,0,Y,,
+"",EnLink Midstream,Oil & Gas,,2002,30000,0,Y,,
+"",Western Gas Partners,Oil & Gas,,1001,15000,0,Y,,
+D000022303,Valero Energy,Oil & Gas,,1001,15000,0,Y,Y,Y
+"",United Community Bank of Western Kentucky,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",TRP Retirement 2040,,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Tesoro Logistics,Oil & Gas,,1001,15000,0,Y,,
+"",Tallgrass Energy Partners,Oil & Gas,,1001,15000,0,Y,,
+"",Sunoco LP,,,1001,15000,0,Y,,
+"",Sunoco Logistics Partners,Oil & Gas,,1001,15000,0,Y,,
+"",SPTN 500 Index,,Mutual Fund,1001,15000,0,Y,,
+D000045190,Spectra Energy,Oil & Gas,,1001,15000,0,Y,Y,
+"",Phillips 66 Partners,,,1001,15000,0,Y,,
+D000023121,MPLX LP,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000027337,Magellan Midstream Partners,Oil & Gas,,1001,15000,0,Y,Y,
+"",Learning Quest Account,,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",EQT Midstream Partners,Oil & Gas,,1001,15000,0,Y,,
+D000033463,Enterprise Products Partners,Oil & Gas,,1001,15000,0,Y,Y,
+D000025688,Energy Transfer Equity,Oil & Gas,,1001,15000,0,Y,Y,
+D000045416,Commerce Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000024686,Cerner Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",American Century Ultra Fund,,Mutual Fund,1001,15000,0,Y,,
+"",Williams Cos,Oil & Gas,,1,1000,0,Y,,
+D000025689,Energy Transfer Partners,Oil & Gas,,1,1000,0,Y,,

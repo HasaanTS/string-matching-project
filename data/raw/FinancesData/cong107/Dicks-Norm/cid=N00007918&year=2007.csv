@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",NB Mid Cap Value Retirement annuity,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Massachusetts Mutual Life Ins Panorama,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Del Small Cap Value Retirement annuity,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",AFIS International Retirement annuity,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",AFIS Growth Retirement annuity,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+D000021573,Wachovia Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,Y,Y

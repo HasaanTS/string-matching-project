@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Magellan Fidelity Retirement Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Lincoln Lincoln Jeffries Farms LLC,Crop Production,,100001,250000,0,Y,,
+"",Bank of America/Checking,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Bank of America/CD,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Bank of America American Balanced Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Bank of America Amer Balanced Retire Fd,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Sandy Slough Hunting Club Real Property,Real Estate,,50001,100000,0,Y,,
+"",Lincoln Family Gift Trust,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",University of Tennessee Retirement A/C,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Smith Barney Shearson Tax Free Bond Fund,Unknown,Government Bond,15001,50000,0,Y,,
+"",Helena National Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Franklin Templeton Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",First National Bank of Phillips IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000021757,Berkshire Hathaway,Securities/Invest,,15001,50000,0,Y,Y,Y
+"",Bank of America Focused Equity Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Bank of America College America 529,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Bank of America VA Tech Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

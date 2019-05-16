@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Basement Rental/1225 Mass Ave/Wash, DC",Real Estate,,1000001,5000000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Family Vacation Home,Real Estate,,15001,50000,0,Y,,
+D000036970,Raymond James Financial Services,Securities/Invest,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Janus Twenty Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Janus Fund X,Unknown,Mutual Fund,1001,15000,0,Y,,

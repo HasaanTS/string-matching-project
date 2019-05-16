@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Public Employees Retirement Assn,Unknown,"Brokerage, IRA, 401k",100001,250000,0,A,,
+"","227 E Palace, Ste F/Santa Fe, NM",Unknown,,100001,250000,0,A,,
+"",Delta Consulting Group,Unknown,,50001,100000,0,A,,
+"",Bernalillo County Deferred Comp Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,N,,
+"",NW Mutual Life Ins,Unknown,Unknown,1001,15000,0,N,,

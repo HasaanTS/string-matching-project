@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Homestead Property/Pasture & Undeveloped,Real Estate,,1000001,5000000,0,Y,,
+"",US Treasury Notes,Unknown,Government Bond,315004,802000,0,Y,,
+D000032153,Brown & Brown Insurance,Insurance,,250003,600000,0,Y,,Y
+"","Undeveloped Land/Brevard County, FL",Real Estate,,100001,250000,0,Y,,
+"",Certificate of Deposit,Unknown,Cash/Money Market/Savings/Checking,100002,201000,0,Y,,
+"",SunTrust Securities Cash Reserve,Unknown,Cash/Money Market/Savings/Checking,16002,65000,0,Y,,
+"",Nuveen Municipal Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",AIM Basic Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,

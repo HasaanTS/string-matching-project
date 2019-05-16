@@ -1,0 +1,20 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental Property/1650 Norcross/Erie, PA",Real Estate,,250001,500000,0,T,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,250001,500000,0,T,,
+"",Dahlkemper Landscape Architects,Subcontractors,,250001,500000,0,T,,
+"",Fidelity Equity Income Fund,Unknown,Mutual Fund,181005,465000,0,T,,
+"",Erie Federal Credit Union/Savings,Unknown,Cash/Money Market/Savings/Checking,100002,251000,0,T,,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,100001,250000,0,T,,
+"",Columbia Acorn Fund,Unknown,Mutual Fund,100002,200000,0,T,,
+D000000125,General Electric,Misc Mfg/Distrib,,30002,100000,0,T,Y,Y
+"","Erie Federal Credit Union, Checking",Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"",Regency LP,Unknown,,15001,50000,0,T,,
+"",Fidelity Mid Cap Stock Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Alliance OCC Renaissance,Unknown,Mutual Fund,15001,50000,0,T,,
+"",AIM Constellation Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Riversource Large Cap Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Aggressive Growth Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Erie Federal Credit Union Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,T,Y,Y
+"",Aim Global Growth,Unknown,Mutual Fund,1001,15000,0,T,,
+D000000079,Verizon Communications,Telephone Utilities,,1,1000,0,T,Y,Y

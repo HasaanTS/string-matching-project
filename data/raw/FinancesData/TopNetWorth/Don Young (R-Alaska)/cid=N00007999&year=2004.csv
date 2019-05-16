@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Putnam Growth & Income Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Congressional Federal Credit Union IRA,Unknown,"Brokerage, IRA, 401k",66003,165000,0,Y,,
+D000000249,New York Life Insurance,Insurance,Unknown,50001,100000,0,Y,Y,Y
+D000000659,State Farm Insurance,Insurance,Unknown,15001,50000,0,Y,Y,
+"",H Power,Unknown,,1,1000,0,Y,,

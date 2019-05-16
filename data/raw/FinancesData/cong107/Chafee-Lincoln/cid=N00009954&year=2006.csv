@@ -1,0 +1,45 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Federal Home Loan Bank Bond,Real Estate,,7000007,7032007,1,T,,
+D000064776,Goldcorp Inc,Mining,,4250006,5500003,1,T,,
+D000027988,Newmont Mining,Mining,,3600006,4250003,1,T,Y,
+"",US Treasury Bond,Unknown,,3000004,4001002,1,T,,
+D000049463,Coeur D'Alene Mines,Mining,,2715006,3550002,1,T,Y,
+"",Central Fund of Canada,Unknown,Mutual Fund,2500006,3100002,1,T,,
+"",AH Belo Corp,TV/Movies/Music,,3000003,3000003,1,T,,
+"",WeeHoose Farm,Crop Production,,1000001,1000001,1,T,,
+"",UST N/B Coupon Bond,Unknown,Government Bond,1000001,1000001,1,T,,
+"",SEI Tax Exempt Trust Port 21 Money Mkt,Unknown,Cash/Money Market/Savings/Checking,1000001,1000001,1,T,,
+"",SD Chafee Blind Trust,Unknown,"Brokerage, IRA, 401k",1000001,1000001,1,T,,
+D000066772,Kinross Gold,Mining,,1000001,1000001,1,T,Y,
+D000000129,Exxon Mobil,Oil & Gas,,1000001,1000001,1,T,Y,Y
+"",Bema Gold,Mining,,1000001,1000001,1,T,,
+"","Undeveloped Lane/Sorrento, ME",Real Estate,,500001,1000000,0,T,,
+"",Louisa D Chafee Trust,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,T,,
+D000000076,AT&T Inc,Telephone Utilities,,400003,850000,0,T,Y,Y
+"",Tamarack US Govt Money Market,Unknown,Cash/Money Market/Savings/Checking,365004,750000,0,T,,
+"",Dell Inc,Electronics Mfg/Eqp,,350002,750000,0,T,,
+"",Webster Financial,Misc Finance,,250001,500000,0,T,,
+D000000223,Schering-Plough Corp,Pharm/Health Prod,,250001,500000,0,T,Y,
+D000000275,Merck & Co,Pharm/Health Prod,,250001,500000,0,T,Y,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,250001,500000,0,T,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,250001,500000,0,T,Y,
+"","House/Franconia, NH",Real Estate,,250001,500000,0,T,,
+"",Bank of Rhode Island Accounts,Unknown,"Brokerage, IRA, 401k",250001,500000,0,T,,
+"",Alupka Absolute Return Fund,Unknown,Mutual Fund,250001,500000,0,T,,
+"",SEI Taxable Money Market,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,T,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,100001,250000,0,T,Y,Y
+D000000188,Dow Chemical,Chemicals,,100001,250000,0,T,Y,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,100001,250000,0,T,Y,
+D000000091,BP,Oil & Gas,,100001,250000,0,T,Y,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,100002,200000,0,T,Y,
+"",Cytra Inc,Unknown,,65002,150000,0,T,,
+D000020844,OppenheimerFunds,Securities/Invest,Mutual Fund,50001,100000,0,T,,
+"",Citizens Bank of Rhode Island Accounts,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"",Webster Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+D000000079,Verizon Communications,Telephone Utilities,,15001,50000,0,T,Y,Y
+D000000166,Eli Lilly & Co,Pharm/Health Prod,,15001,50000,0,T,Y,Y
+D000032009,BMC Software,Electronics Mfg/Eqp,,15001,50000,0,T,Y,
+"",Bank of America Accounts,Unknown,"Brokerage, IRA, 401k",15001,50000,0,T,,
+D000000156,Qwest Communications,Telecom Svcs,,1001,15000,0,T,Y,
+D000034347,Hasbro Inc,Misc Mfg/Distrib,,1001,15000,0,T,,Y
+"",Dreyfus Gen Govt Securities Market Fund,Unknown,Mutual Fund,0,1000,0,T,,

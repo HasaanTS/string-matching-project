@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Oakland, CA Residential Property",Real Estate,,1000001,5000000,0,Y,,
+"",Wells Fargo Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Vanguard Total Bond Market Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",SPP Mid Cap Mg Fund Growth,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",SPP International Managed Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Savings Plus Socially Responsible Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Massachusetts Investors Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",East West Bank Accounts,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Delaware Trend Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Charles Schwab & Co/Money Market,Securities/Invest,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

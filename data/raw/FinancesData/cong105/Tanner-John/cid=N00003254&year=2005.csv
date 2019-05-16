@@ -1,0 +1,50 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Westan Insurance Group,Insurance,,1000001,5000000,0,Y,,
+"",Tanner Farms,Crop Production,,500001,1000000,0,Y,,
+D000000223,Schering-Plough Corp,Pharm/Health Prod,,100001,250000,0,Y,Y,
+"",MFS Massachusetts Investors Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Hillenbrand Industries,Pharm/Health Prod,,100001,250000,0,Y,,
+D000024064,Amsouth Bancorp,Commercial Banks,,100001,250000,0,Y,Y,
+"",AllianceBernstein Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Putnam Investors Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"","Commercial Real Estate/Obion Cty, TN",Real Estate,,50001,100000,0,Y,,
+D000059111,Commercial Bank,Commercial Banks,Unknown,50001,100000,0,Y,,
+"",Corrections Corp of America,Misc Business,,17004,81000,0,Y,,
+"",Westan Insurance/Promissory Note,Unknown,Note/Note Receivable,15001,50000,0,Y,,
+"",Smal Cap World Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000739,Providian Financial,Finance/Credit,,15001,50000,0,Y,,
+"",Portis Family Estate,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+D000000206,Occidental Petroleum,Oil & Gas,,15001,50000,0,Y,Y,Y
+"",New Perspective Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Motorola Inc,Telecom Svcs,,15001,50000,0,Y,,
+"",Morgan Keegan IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000000205,Fannie Mae,Real Estate,,15001,50000,0,Y,Y,Y
+"",EB Tanner Estate,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+"",Cap World Growth & Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000367,Wal-Mart Stores,Retail Sales,,1001,15000,0,Y,Y,Y
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,Y,Y,Y
+D000064447,Syngenta AG,Agricultural Svcs,,1001,15000,0,Y,Y,
+"",Synagro Technologies,Unknown,,1001,15000,0,Y,,
+"",Sector Select Health Care,Misc Health,,1001,15000,0,Y,,
+"",PowerShares Energy,Misc Energy,,1001,15000,0,Y,,
+"",PIMCO Commodity Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,Y,Y,
+"",Nokia Corp,Telecom Svcs,,1001,15000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000027589,Micron Technology,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000022110,Medtronic Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Meager Means Investment Club,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",GTX Inc,Unknown,,1001,15000,0,Y,,
+D000033813,Freescale Semiconductor,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000457,Corning Inc,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,Y
+"","Clarksville, TN Imp Bonds",Unknown,Government Bond,1001,15000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",BlackRock Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000023834,Alcatel-Lucent,Telecom Svcs,,1001,15000,0,Y,,
+"",Agere Systems,Electronics Mfg/Eqp,,2,2000,0,Y,,
+"",Munder Net Classic,Unknown,,1,1000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1,1000,0,Y,Y,Y
+D000024209,Avaya Inc,Telecom Svcs,,1,1000,0,Y,Y,
+D000045867,Aegon NV,Insurance,,1,1000,0,Y,Y,

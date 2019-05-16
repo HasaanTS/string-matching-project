@@ -1,0 +1,19 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",First Western Bancorp,Commercial Banks,,1000001,5000000,0,Y,,
+"",Della Mae Ramstad Trust/Farm Property,Crop Production,,1000001,5000000,0,Y,,
+"",Farm Property,Crop Production,,250001,500000,0,Y,,
+"",First Western Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Fidelity Managed Income Portfolio,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,A,,
+"",Fidelity Freedom 2010 Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",Peterborough Housing Assoc,Unknown,,50001,100000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,50001,100000,0,Y,Y,
+"",Bank of the West/Keogh Fargo,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+D000000367,Wal-Mart Stores,Retail Sales,,15001,50000,0,Y,Y,Y
+"",Legislative Retirement Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000000467,General Mills,Food Process/Sales,,15001,50000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+D000021949,Darden Restaurants,Food & Beverage,,15001,50000,0,Y,Y,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+"",Urban Improvement Fund 73,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000205,Fannie Mae,Real Estate,,1001,15000,0,Y,Y,
+"",Woodworth Farmers Group,Agricultural Svcs,,1,1000,0,Y,,

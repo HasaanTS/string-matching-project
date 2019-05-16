@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Residential Real Estate/Las Vegas, NV",Real Estate,,100001,250000,0,Y,,
+"",LoBiondo Brothers Motor Express,Unknown,,100001,250000,0,Y,,
+"",LoBiondo Bros Motor Express 401k,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Franklin Growth Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Silver State Schools Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Vanguard Total Stock Market Vipers,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",US Bank Money Market/Cash Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",SPDR Trust Unit Series 1,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Rydex S&P Equal Weighted Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Congressional FCU Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000065292,TD Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1,1000,0,Y,Y,

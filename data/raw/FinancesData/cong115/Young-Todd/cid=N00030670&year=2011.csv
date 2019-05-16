@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental Property,Real Estate,,500001,1000000,0,Y,,
+"",Indiana Public Employees Retirement Fund,Unknown,"Brokerage, IRA, 401k",30002,100000,0,Y,,
+"",College Choice Advisors 529,Unknown,,30002,100000,0,Y,,

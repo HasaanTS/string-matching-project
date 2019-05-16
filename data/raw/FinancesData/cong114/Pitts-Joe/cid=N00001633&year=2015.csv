@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",FERS Thrift Savings Plan Fidelity Govt Mmkt,,Mutual Fund,500001,1000000,0,Y,,
+"",Mass Mutual MML Am Funds Cor Alloc,,Mutual Fund,250001,500000,0,Y,,
+"",CREF Stock Retirement Annuity,,Insurance policies & Annuities,50001,100000,0,Y,,
+"",TIAA Trad Retire Annuity,,Insurance policies & Annuities,15001,50000,0,Y,,
+"",National Penn Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Congressional Federal Credit Union Account,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Xenia Hotels & Resorts Inc,Lodging/Tourism,,1001,15000,0,Y,,
+"",Inventrust Properties Corp,Unknown,,1001,15000,0,Y,,
+"",Fidelity Govt Money Market Capital Reserves,,Mutual Fund,1001,15000,0,Y,,

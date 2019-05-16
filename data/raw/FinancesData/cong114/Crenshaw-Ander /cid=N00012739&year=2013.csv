@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Merrill Lynch & Co/Account,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,A,,
+"",Trinity Asset Holdings,Unknown,,100001,250000,0,A,,
+D000000168,Southern Co,Electric Utilities,,100001,250000,0,A,Y,
+"",Everbank Money Market Account,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,A,,
+"",Direct Mail Systems Inc,Business Services,,100001,250000,0,A,,
+"",Alachua County FL Health Facilities Bond,Unknown,Government Bond,100001,250000,0,A,,
+"",Wachovia(now Wells Fargo) money market a,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+D000000148,CSX Corp,Railroads,,15001,50000,0,A,Y,Y
+"",Challen Partners,Unknown,,15001,50000,0,A,,
+"",Alamo Storage Partners,Misc Business,,15001,50000,0,A,,
+"",Wright Patnam Congressional FCU,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",National Life Insurance Co,Insurance,,1001,15000,0,A,,

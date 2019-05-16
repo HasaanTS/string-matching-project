@@ -1,0 +1,24 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000100,Boeing Co,Defense Aerospace,,1015002,5050000,0,Y,Y,Y
+"",Multi-Unit Apartment Building/Vancouver,Real Estate,,500001,1000000,0,Y,,
+"","4596 Perry Street/Denver, CO",Real Estate,,250001,500000,0,Y,,
+"",Merrill Lynch USA Govt Reserves,Unknown,Government Bond,115003,301000,0,Y,,
+D000000607,Xerox Corp,Misc Mfg/Distrib,,100001,250000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,100001,250000,0,Y,Y,Y
+D000021021,AMR Corp,Air Transport,,100001,250000,0,Y,,
+"","35 River Walk Way/Lowell, MA",Real Estate,,100001,250000,0,Y,,
+D000000128,Walt Disney Co,TV/Movies/Music,,50001,100000,0,Y,Y,
+"",Schwab Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000000570,Eastman Kodak,Misc Mfg/Distrib,,50001,100000,0,Y,Y,
+D000000226,United Airlines,Air Transport,,15001,50000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,
+"",Merrill Lynch Cash Management Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000275,Merck & Co,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+"",Wachovia Bank/Checking & Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000169,Northwest Airlines,Air Transport,,1001,15000,0,Y,Y,
+"",Morgan Stanley Discover,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000182,Ford Motor Co,Automotive,,1001,15000,0,Y,Y,Y
+D000000632,Allstate Corp,Insurance,,1001,15000,0,Y,Y,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

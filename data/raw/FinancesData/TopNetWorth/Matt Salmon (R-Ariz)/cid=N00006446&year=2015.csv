@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Transamerica Life,Unknown,,15001,50000,0,Y,,
+"",First Eagle US Value Fund,,Mutual Fund,15001,50000,0,Y,,
+"",First Eagle Overseas Fund,,Mutual Fund,15001,50000,0,Y,,
+"",Corp Capital Trust,Unknown,,15001,50000,0,Y,,
+"",CNL Growth Property REIT,Unknown,,15001,50000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,2002,30000,0,Y,Y,Y
+"",Transamerica Multi-Manager Alternative Strategies,,Mutual Fund,1001,15000,0,Y,,
+"",Northstar Realty Finance Corp,Unknown,,1001,15000,0,Y,,
+"",Forward Real Fund,,Mutual Fund,1001,15000,0,Y,,
+"",Forward Real Estate Long,,Mutual Fund,1001,15000,0,Y,,
+"",Forward Intl Real Estate,,Mutual Fund,1001,15000,0,Y,,
+"",First Eagle Global Fund,,Mutual Fund,1001,15000,0,Y,,
+"",First Eagle Fund,,Mutual Fund,1001,15000,0,Y,,
+"",CFCU Savings,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",North Star Realty Europe,Real Estate,,1,1000,0,Y,,

@@ -1,0 +1,21 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000021868,BB&T Corp,Commercial Banks,,100001,250000,0,Y,Y,Y
+"",BB&T Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000000168,Southern Co,Electric Utilities,,15001,50000,0,Y,Y,
+"",Smith Barney IRA Income Fund of America,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Smith Barney IRA Fidelity Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000155,General Motors,Automotive,,15001,50000,0,Y,Y,
+D000000129,Exxon Mobil,Oil & Gas,,15001,50000,0,Y,Y,Y
+"",Citigroup Capital VII,Unknown,,15001,50000,0,Y,,
+"",State of Tennessee Pension Fund,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,
+"",Smith Barney IRA Fidelity Fund Inc,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Smith Barney Citi Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000027296,Lowe's Companies,Retail Sales,,1001,15000,0,Y,,
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,
+D000021654,Gillette Co,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000547,Gap Inc,Retail Sales,,1001,15000,0,Y,Y,
+"",Cracker Barrel,Food & Beverage,,1001,15000,0,Y,,
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Cape Cod B&T/Bank North,Commercial Banks,,1001,15000,0,Y,,
+D000019639,Norfolk Southern,Railroads,,1,1000,0,Y,Y,Y
+D000042696,Krispy Kreme Doughnuts,Food Process/Sales,,1,1000,0,Y,,

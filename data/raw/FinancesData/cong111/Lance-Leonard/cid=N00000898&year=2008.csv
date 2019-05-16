@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",JPMorgan Chase 401k,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+D000020989,UBS Financial Services,Securities/Invest,,250001,500000,0,Y,,
+"",JPMorgan Retirement Plan,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"",Estate of Wesley Lance,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",250001,500000,0,Y,,
+"",Vanguard IRA,Unknown,"Brokerage, IRA, 401k",150002,350000,0,Y,,
+"",Estate of Mae Anderson,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",50001,100000,0,Y,,
+"",Bank of America/Checking,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Bank of America Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Scottrade Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000328,Fidelity Investments,Securities/Invest,,15001,50000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",Bank of America account,Commercial Banks,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

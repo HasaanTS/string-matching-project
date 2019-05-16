@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental 1,Real Estate,,1000001,5000000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,550002,1100000,0,Y,,
+"",Rental 3,Real Estate,,500001,1000000,0,Y,,
+"",Rental 2,Real Estate,,500001,1000000,0,Y,,
+"",Alianz Fixed Annuity,Unknown,Insurance policies & Annuities,250001,500000,0,Y,,
+"",Bank of Guam/Checking Account,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Sun Trust Bank Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000045657,Sun Trust Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,

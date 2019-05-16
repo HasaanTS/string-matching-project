@@ -1,0 +1,218 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Leaders 2003 711463068,Unknown,Unknown,250001,500000,0,T,,
+"",US Inflation Notes,Unknown,Government Bond,50001,100000,0,T,,
+D000042329,Stanley Works,Misc Mfg/Distrib,,50001,100000,0,T,,
+"",Nuveen Flagship Ct Mutual Bond Fund,Unknown,Mutual Fund,30002,100000,0,T,,
+"",Nuveen CT Premium Muni,Unknown,Mutual Fund,50001,100000,0,T,,
+"",BlackRock Debt Strategy Fund,Unknown,Mutual Fund,50001,100000,0,T,,
+D000031175,XL Capital,Insurance,,15001,50000,0,T,Y,
+"",Wm Equity Income Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Wells Fargo Capital Trust,Unknown,Unknown,15001,50000,0,T,,
+D000029787,Webster Bank,Savings & Loans,,15001,50000,0,T,,Y
+"",Vanguard Star Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Vanguard International Exploper Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",US Treasury Notes,Unknown,Government Bond,15001,50000,0,T,,
+"",US Treasury Bond,Unknown,Government Bond,15001,50000,0,T,,
+"",Merrill Lynch Bank USA,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,15001,50000,0,T,Y,Y
+D000017957,General Motors Acceptance Corp,Finance/Credit,,15001,50000,0,T,,
+"",Franklin Mutual,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Fidelity Utilities Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Fidelity Spartan Ct Muni Interest Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Fidelity Real Estate Investment Portf,Real Estate,,15001,50000,0,T,,
+"",Fidelity International Discovery Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Fidelity Balanced Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Federated Capital Reserves,Unknown,,15001,50000,0,T,,
+D000000205,Fannie Mae Securities,Real Estate,,15001,50000,0,T,Y,
+"",Bank One Capital,Commercial Banks,,15001,50000,0,T,,
+"",BAC Capital Trust,Unknown,,15001,50000,0,T,,
+"",US Treasury Note,Unknown,Government Bond,2002,30000,0,T,,
+D000000106,Morgan Stanley,Securities/Invest,,2002,30000,0,T,Y,Y
+D000026387,Harley-Davidson Inc,Misc Transport,,2002,30000,0,T,Y,
+"",Grupo Televisa Sa,Unknown,,2002,30000,0,T,,
+"",Fleet Cap Trust VIII,Unknown,,2002,30000,0,T,,
+"",EMC Corp,Electronics Mfg/Eqp,,2002,30000,0,T,,
+"",Windstream Corp,Telecom Svcs,,1001,15000,0,T,,
+D000029842,Whirlpool Corp,Misc Mfg/Distrib,,1001,15000,0,T,Y,Y
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,T,Y,
+"",Webster Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+D000030926,Waters Corp,Misc Mfg/Distrib,,1001,15000,0,T,,
+D000000470,Washington Mutual,Savings & Loans,,1001,15000,0,T,Y,Y
+D000021573,Wachovia Corp,Commercial Banks,,1001,15000,0,T,Y,
+D000064241,Vodafone Group,Telecom Svcs,,1001,15000,0,T,,
+D000030824,VF Corp,Misc Mfg/Distrib,,1001,15000,0,T,Y,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,T,Y,Y
+"",Verifone Holdings,Unknown,,1001,15000,0,T,,
+"",VCA Antech Inc,Agricultural Svcs,,1001,15000,0,T,,
+"",Vanguard Wellington Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Vanguard Wellesley Income Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Vanguard Mid Cap Growth Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Vanguard Intermedate Tr,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Vanguard Growth Index,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Vanguard Extended Market Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Vanguard Dividend Growth Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+D000000348,UnitedHealth Group,Health Services,,1001,15000,0,T,Y,Y
+D000000209,United Technologies,Defense Aerospace,,1001,15000,0,T,Y,Y
+D000021773,Travelers Companies,Insurance,,1001,15000,0,T,Y,Y
+D000030495,Toyota Motor Corp,Automotive,,1001,15000,0,T,Y,
+"",Thomas & Betts,Misc Energy,,1001,15000,0,T,,
+"",Thermo Electron Corp,Misc Mfg/Distrib,,1001,15000,0,T,,
+D000000722,Texas Instruments,Electronics Mfg/Eqp,,1001,15000,0,T,Y,Y
+"",Tesoro Corp,Oil & Gas,,1001,15000,0,T,,
+"",Tesco Plc,Food Process/Sales,,1001,15000,0,T,,
+D000067818,Taiwan Semiconductor Manufacturing,Electronics Mfg/Eqp,,1001,15000,0,T,,
+"",Swed Bank,Commercial Banks,,1001,15000,0,T,,
+D000029286,Supervalu Inc,Food Process/Sales,,1001,15000,0,T,Y,
+D000029280,Sun Microsystems,Electronics Mfg/Eqp,,1001,15000,0,T,Y,Y
+D000045197,Steelcase Inc,Misc Mfg/Distrib,,1001,15000,0,T,,
+"",Smith International,Oil & Gas,,1001,15000,0,T,,
+"",SKF AB,Unknown,,1001,15000,0,T,,
+D000042425,Siemens AG,Misc Energy,,1001,15000,0,T,Y,Y
+"",Shizhoka Bank,Commercial Banks,,1001,15000,0,T,,
+D000000415,Sempra Energy,Electric Utilities,,1001,15000,0,T,Y,Y
+D000042496,Sega Sammy Holdings,Unknown,,1001,15000,0,T,,
+D000022242,Seagate Technology,Electronics Mfg/Eqp,,1001,15000,0,T,,
+D000037414,Schlumberger Ltd,Oil & Gas,,1001,15000,0,T,,
+"",Sandvick AB,Unknown,,1001,15000,0,T,,
+"",San Paola IMI Spa,Unknown,,1001,15000,0,T,,
+"",Sage Group,Unknown,,1001,15000,0,T,,
+D000068744,RWE AG,Unknown,,1001,15000,0,T,,
+D000000648,RR Donnelley & Sons,Publishing,,1001,15000,0,T,Y,
+D000042474,Roche Holdings,Pharm/Health Prod,,1001,15000,0,T,Y,Y
+D000000092,Reynolds American,Tobacco,,1001,15000,0,T,Y,
+D000000156,Qwest Communications,Telecom Svcs,,1001,15000,0,T,Y,
+"",Qlogic Corp,Unknown,,1001,15000,0,T,,
+D000000141,Prudential Financial,Insurance,,1001,15000,0,T,Y,Y
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,T,Y,Y
+D000055647,Precision Castparts,Defense Aerospace,,1001,15000,0,T,Y,
+"",Polo Ralph Lauren,Misc Mfg/Distrib,,1001,15000,0,T,,
+"",PIMCO Fixed Income Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,T,Y,Y
+D000067115,Petroleo Brasileiro SA,Oil & Gas,,1001,15000,0,T,,
+D000068731,Petrochina Co,Oil & Gas,,1001,15000,0,T,,
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,T,Y,Y
+D000000206,Occidental Petroleum,Oil & Gas,,1001,15000,0,T,Y,
+"",NSK LTD,Unknown,,1001,15000,0,T,,
+D000022163,Novartis AG,Pharm/Health Prod,,1001,15000,0,T,Y,Y
+D000028035,Northern Trust,Commercial Banks,,1001,15000,0,T,,
+"",Nomura  Holdings,Unknown,,1001,15000,0,T,,
+D000042727,Newell Rubbermaid,Misc Mfg/Distrib,,1001,15000,0,T,,
+D000042332,Nestle SA,Food & Beverage,,1001,15000,0,T,Y,
+D000000055,Monsanto Co,Agricultural Svcs,,1001,15000,0,T,Y,
+"",MNM Genl Elect Cap,Unknown,Unknown,1001,15000,0,T,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,T,Y,Y
+"",Metronic Inc,Unknown,,1001,15000,0,T,,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,T,Y,Y
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,T,Y,
+D000000571,Mattel Inc,Misc Mfg/Distrib,,1001,15000,0,T,Y,
+D000027441,Masco Corp,Misc Mfg/Distrib,,1001,15000,0,T,,
+D000000272,Marriott International,Lodging/Tourism,,1001,15000,0,T,Y,Y
+D000000244,Marathon Oil,Oil & Gas,,1001,15000,0,T,Y,
+D000022091,Lyondell Chemical,Chemicals,,1001,15000,0,T,Y,
+D000022084,Lincoln National Corp,Insurance,,1001,15000,0,T,Y,Y
+"",Lafarge,Unknown,,1001,15000,0,T,,
+"",Labrokes Plc,Unknown,,1001,15000,0,T,,
+D000022068,L-3 Communications,Defense Electronics,,1001,15000,0,T,Y,
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,1001,15000,0,T,Y,Y
+D000000805,KeyCorp,Commercial Banks,,1001,15000,0,T,Y,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,T,Y,Y
+D000043005,John Deere Co,Agricultural Svcs,,1001,15000,0,T,,
+"",JJX Companies,Unknown,,1001,15000,0,T,,
+"",Janus Orion Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Janus Growth & Income Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Janus Flexible Income Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",IPSCO Inc,Unknown,,1001,15000,0,T,,
+D000000418,International Game Technology,Casinos/Gambling,,1001,15000,0,T,Y,Y
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,T,Y,Y
+"",ICC Harbin,Unknown,,1001,15000,0,T,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,T,Y,Y
+"",Honda Motor,Automotive,,1001,15000,0,T,,
+D000026492,HJ Heinz Co,Food Process/Sales,,1001,15000,0,T,Y,
+"",Hilton Hotels,Lodging/Tourism,,1001,15000,0,T,,
+D000026401,Harsco Corp,Misc Mfg/Distrib,,1001,15000,0,T,,
+"",Grant Prideco,Oil & Gas,,1001,15000,0,T,,
+D000022008,Google Inc,Internet,,1001,15000,0,T,Y,
+"",Global Payments,Electronics Mfg/Eqp,,1001,15000,0,T,,
+D000000133,GlaxoSmithkline,Pharm/Health Prod,,1001,15000,0,T,Y,Y
+"",Ginos Assoc,Unknown,,1001,15000,0,T,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,T,Y,Y
+"",Freeport-McMoRan Copper & Gold,Mining,,1001,15000,0,T,,
+D000000163,Freddie Mac,Real Estate,,1001,15000,0,T,Y,
+"",Fortis,Insurance,,1001,15000,0,T,,
+D000033753,Forest Laboratories,Pharm/Health Prod,,1001,15000,0,T,Y,
+"",Fidelity Tax Exempt Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Fidelity Southeast Asia Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Small Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Municipal Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Fidelity Mid Cap Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Low Priced Stock Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Latin America Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Independence Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Growth & Income Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Government Income Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Global Balanced Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Canada Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Asset Manager 50% Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Federated Department Stores,Retail Sales,,1001,15000,0,T,,
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,T,Y,Y
+D000000368,Exelon Corp,Electric Utilities,,1001,15000,0,T,Y,Y
+D000043943,EOG Resources,Oil & Gas,,1001,15000,0,T,Y,
+D000066818,Eni Spa,Misc Energy,,1001,15000,0,T,,
+D000019828,Emerson Electric,Misc Mfg/Distrib,,1001,15000,0,T,Y,Y
+"",Edward Jones Muni Bond,Unknown,,1001,15000,0,T,,
+D000050293,Duke Realty,Real Estate,,1001,15000,0,T,,
+D000000477,Duke Energy,Electric Utilities,,1001,15000,0,T,Y,Y
+D000000188,Dow Chemical,Chemicals,,1001,15000,0,T,Y,Y
+D000025490,Diageo PLC,"Beer, Wine & Liquor",,1001,15000,0,T,Y,Y
+"",Deutsche Bank,Commercial Banks,,1001,15000,0,T,,
+D000021651,Dean Foods,Dairy,,1001,15000,0,T,Y,
+"",Dassault Systems,Unknown,,1001,15000,0,T,,
+D000033033,Danaher Corp,Misc Mfg/Distrib,,1001,15000,0,T,Y,
+D000000134,Credit Suisse Group,Commercial Banks,,1001,15000,0,T,,Y
+D000025170,CR Bard Inc,Pharm/Health Prod,,1001,15000,0,T,Y,Y
+D000000457,Corning Inc,Telecom Svcs,,1001,15000,0,T,Y,Y
+D000025131,Convergys Corp,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+D000000303,ConocoPhillips,Oil & Gas,,1001,15000,0,T,Y,
+D000032736,Colgate-Palmolive Co,Pharm/Health Prod,,1001,15000,0,T,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,T,Y,
+D000019372,CNA Financial,Insurance,,1001,15000,0,T,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,T,Y,Y
+D000000015,Chevron Corp,Oil & Gas,,1001,15000,0,T,Y,
+"",Cemex SA,Building Materials,,1001,15000,0,T,,
+D000019792,CBS Corp,TV/Movies/Music,,1001,15000,0,T,,
+D000021899,CBRE Group,Real Estate,,1001,15000,0,T,,
+D000059046,Carlisle Companies,Automotive,,1001,15000,0,T,,
+D000042599,Canon Inc,Misc Mfg/Distrib,,1001,15000,0,T,,
+"",Canadian Natural Resources,Oil & Gas,,1001,15000,0,T,,
+D000024599,Canadian National Railway,Railroads,,1001,15000,0,T,Y,
+"",Cadence Design System,Unknown,,1001,15000,0,T,,
+"",BT Group,Telecom Svcs,,1001,15000,0,T,,
+"",Boehler-Uddeholm,Unknown,,1001,15000,0,T,,
+D000032012,BNP Paribas,Commercial Banks,,1001,15000,0,T,Y,
+"",Biogen Idec,Pharm/Health Prod,,1001,15000,0,T,,
+D000024300,"Becton, Dickinson & Co",Pharm/Health Prod,,1001,15000,0,T,Y,Y
+D000000643,Baxter International,Pharm/Health Prod,,1001,15000,0,T,Y,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,T,Y,Y
+D000021855,AXA,Insurance,,1001,15000,0,T,Y,Y
+D000024209,Avaya Inc,Telecom Svcs,,1001,15000,0,T,Y,
+D000031719,Automatic Data Processing Inc,Business Services,,1001,15000,0,T,Y,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,T,Y,Y
+D000021852,Assurant Inc,Insurance,,1001,15000,0,T,Y,Y
+"",Applera Applied Biosys,Unknown,,1001,15000,0,T,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+D000000144,Anheuser-Busch,"Beer, Wine & Liquor",,1001,15000,0,T,,
+D000000459,Anadarko Petroleum,Oil & Gas,,1001,15000,0,T,Y,
+"",Amphenol Corp,Electronics Mfg/Eqp,,1001,15000,0,T,,
+D000000217,American Express,Finance/Credit,,1001,15000,0,T,Y,
+"",Amdocs Ltd,Unknown,,1001,15000,0,T,,
+D000000067,Altria Group,Tobacco,,1001,15000,0,T,Y,
+D000000560,Alltel Corp,Telecom Svcs,,1001,15000,0,T,Y,
+D000000632,Allstate Corp,Insurance,,1001,15000,0,T,Y,Y
+D000023851,Allegheny Technologies,Steel Production,,1001,15000,0,T,Y,
+D000023850,Allegheny Energy,Electric Utilities,,1001,15000,0,T,Y,
+D000046542,Airgas Inc,Chemicals,,1001,15000,0,T,,
+D000000483,AG Edwards & Sons,Securities/Invest,,1001,15000,0,T,,
+D000042268,Aeon Co,Food Process/Sales,,1001,15000,0,T,,
+D000042006,Adidas AG,Unknown,,1001,15000,0,T,,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,T,Y,Y
+"",Vanguard Treas Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,T,,

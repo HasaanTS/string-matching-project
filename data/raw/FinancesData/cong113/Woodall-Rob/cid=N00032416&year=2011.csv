@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",SPDR S&P 500 ETF,Securities/Invest,Mutual Fund,100001,250000,0,Y,,
+D000029616,USAA,Insurance,,50001,100000,0,Y,Y,Y
+D000000168,Southern Co,Electric Utilities,,15001,50000,0,Y,Y,Y
+D000021573,Wachovia Corp,Commercial Banks,,1001,15000,0,Y,,
+"",T Rowe Price Blue Chip Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Boyd,Unknown,,1001,15000,0,Y,,

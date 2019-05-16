@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity Cash Reserves Fidelity Magellan,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",CREF Growth R1 Fund,,Mutual Fund,15001,50000,0,Y,,
+"",Capital One Savings Account,,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000067801,HP Inc,Electronics Mfg/Eqp,,1002,16000,0,Y,Y,
+"",TIAA Traditional Fund,,Mutual Fund,1001,15000,0,Y,,
+"",CREF Money Market,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",CREF Inf-Linked Bond R1,,Mutual Fund,1001,15000,0,Y,,
+"",Hewlett Packard Enterprise Co,,,1,1000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1,1000,0,Y,Y,Y
+"",Consolidated Edison,,,1,1000,0,Y,,
+"",Bank of America/Savings,Commercial Banks,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1,1000,0,Y,Y,
+D000023883,Amazon.com,Internet,,1,1000,0,Y,Y,Y

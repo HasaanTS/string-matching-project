@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Mutual Global Discovery Z Fund,,Mutual Fund,30002,100000,0,Y,,
+"",Leader Total Return Fund,,Mutual Fund,15001,50000,0,Y,,
+"",Franklin Income Fund,,Mutual Fund,15001,50000,0,Y,,
+"",First Eagle Global Fund,,Mutual Fund,15001,50000,0,Y,,
+"",Congress Large Cap Growth,,Mutual Fund,15001,50000,0,Y,,
+"",American Funds New Perspective Fund,,Mutual Fund,15001,50000,0,Y,,
+"",American Funds Invesment Corp of America,,Mutual Fund,15001,50000,0,Y,,
+"",Chase Bank Accounts,,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Brokerage Money Market,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

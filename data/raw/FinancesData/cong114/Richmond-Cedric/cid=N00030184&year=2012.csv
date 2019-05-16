@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Residential rental property,Real Estate,,50001,100000,0,Y,,
+D000000217,American Express,Finance/Credit,,1001,15000,0,A,Y,Y
+"",78 acres of land,Real Estate,,1001,15000,0,Y,,
+"",Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Merrill Lynch TD Ameritrade Insured Depo,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

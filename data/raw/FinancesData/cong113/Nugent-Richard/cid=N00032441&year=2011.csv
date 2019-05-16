@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Residential Rental Property,Real Estate,,500001,1000000,0,Y,,
+"",Vacant Lot,Real Estate,,150002,350000,0,Y,,
+D000051657,Hartford Insurance,Insurance,,100001,250000,0,Y,,
+"",Bank of America Account,Commercial Banks,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Suncoast Federal Credit Union Bank Accou,Unknown,,15001,50000,0,Y,,
+"",Prudential Insurance whole life policy,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",First Florida Credit Union Bank Account,Unknown,,1001,15000,0,Y,,
+"",US Savings Bond,Unknown,Government Bond,1,1000,0,Y,,

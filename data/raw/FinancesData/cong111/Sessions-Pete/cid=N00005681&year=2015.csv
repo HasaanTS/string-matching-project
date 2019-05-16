@@ -1,0 +1,63 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000079,Verizon Communications,Telephone Utilities,,101002,265000,0,Y,Y,Y
+D000027337,Magellan Midstream Partners,Oil & Gas,,100001,250000,0,Y,Y,
+D000025689,Energy Transfer Partners,Oil & Gas,,100001,250000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,66003,165000,0,Y,Y,Y
+"",Oakmark International Fund,,Mutual Fund,50001,100000,0,Y,,
+"",iShares Russell 2000 Value Index,,Mutual Fund,50001,100000,0,Y,,
+"",Brown Cap MGMT Small Co,,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+D000021757,Berkshire Hathaway,Securities/Invest,,50001,100000,0,Y,Y,Y
+D000064520,Annaly Capital Management,Securities/Invest,,50001,100000,0,Y,Y,
+"",Fresh Market Inc,Food Process/Sales,,17003,80000,0,Y,,
+D000031166,WW Grainger Inc,Retail Sales,,16002,65000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,16002,65000,0,Y,Y,Y
+D000067823,Alphabet Inc,Internet,,16002,65000,0,Y,Y,Y
+D000000383,Abbott Laboratories,Pharm/Health Prod,,16002,65000,0,Y,Y,Y
+"",TEXAS St. Rev. 5%,,Government Bond,15001,50000,0,Y,,
+"",SPDR Series Trust,,Mutual Fund,15001,50000,0,Y,,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,"Brokerage, IRA, 401k",15001,50000,0,Y,Y,Y
+D000059511,Plains All American Pipeline,Oil & Gas,"Brokerage, IRA, 401k",15001,50000,0,Y,Y,
+D000000200,Pepsico Inc,Food & Beverage,,15001,50000,0,Y,Y,
+"",N East ISD TX GO 5%,,Government Bond,15001,50000,0,Y,,
+"",MFS International New Discovery Fund,,Mutual Fund,15001,50000,0,Y,,
+"",Love Field Airport Modernization,,Government Bond,15001,50000,0,Y,,
+"",Leander TX ISD GO 5%,,Government Bond,15001,50000,0,Y,,
+D000034744,Iowa State University,Education,Note/Note Receivable,15001,50000,0,Y,Y,
+"","Harris County, TX GO Bond",,Government Bond,15001,50000,0,Y,,
+D000000188,Dow Chemical,Chemicals,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000000188,Dow Chemical,Chemicals,,15001,50000,0,Y,,
+D000018253,Discover Financial Services,Finance/Credit,,15001,50000,0,Y,Y,
+"",DFW International Airport,,Government Bond,15001,50000,0,Y,,
+D000000408,Deere & Co,Agricultural Svcs,"Brokerage, IRA, 401k",15001,50000,0,Y,Y,
+D000025214,CVS Health,Retail Sales,,15001,50000,0,Y,Y,
+D000000703,Costco Wholesale,Retail Sales,,15001,50000,0,Y,,
+"",Check Point Software Technologies,Electronics Mfg/Eqp,,15001,50000,0,Y,,
+D000000091,BP,Oil & Gas,,15001,50000,0,Y,Y,
+D000029765,Allergan plc,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000059696,Whiting Petroleum,Oil & Gas,,1001,15000,0,Y,,
+D000029782,Weatherford International,Oil & Gas,,1001,15000,0,Y,Y,
+D000029616,USAA,Insurance,"Brokerage, IRA, 401k",1001,15000,0,Y,Y,Y
+D000000081,United Parcel Service,Air Transport,,1001,15000,0,Y,Y,Y
+"",Trust One United Technologies Corp,,,1001,15000,0,Y,,
+"",Trust One KeyCorp,,,1001,15000,0,Y,,
+"",Texas Private Surface Transportation,Unknown,,1001,15000,0,Y,,
+D000029309,Symantec Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Southwest Securities,Securities/Invest,,1001,15000,0,Y,,
+"",Schwab Money Fund,,Mutual Fund,1001,15000,0,Y,,
+D000022195,PPL Corp,Electric Utilities,,1001,15000,0,Y,Y,Y
+D000028398,PNC Financial Services,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",NY State DORM AUTH PERS REV,,Government Bond,1001,15000,0,Y,,
+D000036243,Nordstrom Inc,Retail Sales,,1001,15000,0,Y,,
+D000022465,Lincoln Financial Group,Misc Finance,,1001,15000,0,Y,,
+D000026669,Invesco Ltd,Securities/Invest,,1001,15000,0,Y,Y,
+D000000368,Exelon Corp,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",Emerson Electric Co,Unknown,,1001,15000,0,Y,,
+D000025214,CVS Health,Retail Sales,"Brokerage, IRA, 401k",1001,15000,0,Y,Y,
+D000042522,Chipotle Mexican Grill,Food & Beverage,,1001,15000,0,Y,,
+D000000015,Chevron Corp,Oil & Gas,,1001,15000,0,Y,Y,
+D000000478,Brinker International,Food & Beverage,,1001,15000,0,Y,,Y
+D000000100,Boeing Co,Defense Aerospace,,1001,15000,0,Y,Y,Y
+D000024300,"Becton, Dickinson & Co",Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000069875,AmTrust Financial Services,Insurance,,1001,15000,0,Y,,

@@ -1,0 +1,109 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Ryan Hutter Investment Partnership,Misc Finance,,250001,500000,0,Y,,
+"",Wells Fargo Advantage Funds Edvest 529,Unknown,Mutual Fund,150002,350000,0,Y,,
+"",Ryan LP,Unknown,,100001,250000,0,Y,,
+D000000419,Home Depot,Retail Sales,,100001,250000,0,Y,Y,Y
+D000019743,Wells Fargo,Commercial Banks,,51002,115000,0,Y,Y,Y
+"",Fidelity Contrafund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Red River Pine Ltd,Forest Products,,16002,65000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,16002,65000,0,Y,Y,Y
+D000000090,Bank of America,Commercial Banks,,16002,65000,0,Y,Y,Y
+"",T Rowe Price New Horizons Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",T Rowe Price Equity Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Old Mutual Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000022112,Mellon Financial,Commercial Banks,,15001,50000,0,Y,,
+"",LLCO/Courage Special Situation Fund,Oil & Gas,,15001,50000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",Janus Worldwide Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000643,Baxter International,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+"",Ava O Ltd,Misc Energy,,15001,50000,0,Y,,
+D000058827,Zimmer Holdings,Pharm/Health Prod,,2002,30000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,2002,30000,0,Y,Y,Y
+D000000123,American International Group,Insurance,,2002,30000,0,Y,Y,Y
+D000000284,Wyeth,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000068479,Wellpoint Inc,Health Services,,1001,15000,0,Y,,
+"",Walgreen Co,Retail Sales,,1001,15000,0,Y,,
+D000000367,Wal-Mart Stores,Retail Sales,,1001,15000,0,Y,Y,Y
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+"",Vanguard GNMA Fund,Real Estate,,1001,15000,0,Y,,
+"",US Treasury Bond,Unknown,Government Bond,1001,15000,0,Y,,
+D000000209,United Technologies,Defense Aerospace,,1001,15000,0,Y,Y,
+"",TXU Corp,Electric Utilities,,1001,15000,0,Y,,
+D000000722,Texas Instruments,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000751,Tenet Healthcare,Hospitals/Nurs Homes,,1001,15000,0,Y,Y,Y
+D000030251,Sysco Corp,Food Process/Sales,,1001,15000,0,Y,,
+D000029194,State Street Corp,Securities/Invest,,1001,15000,0,Y,Y,
+D000029185,Staples Inc,Retail Sales,,1001,15000,0,Y,Y,
+D000000168,Southern Co,Electric Utilities,,1001,15000,0,Y,Y,
+"",Sector SPDR Energy Select Fund,Misc Energy,,1001,15000,0,Y,,
+"",Schwab Yield Plus Inv,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Schwab One Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000037414,Schlumberger Ltd,Oil & Gas,,1001,15000,0,Y,,
+D000023869,Republic Services,Waste Management,,1001,15000,0,Y,Y,
+"","Real Estate/Kingston, OK",Real Estate,,1001,15000,0,Y,,
+"","Real Estate/Ada, OK",Real Estate,,1001,15000,0,Y,,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000028430,Praxair Inc,Chemicals,,1001,15000,0,Y,Y,
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000022170,Omnicom Group,Business Services,,1001,15000,0,Y,Y,Y
+"",Oakmark Global Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Note Receivable From JB Coleman,Unknown,Note/Note Receivable,1001,15000,0,Y,,
+"",Motorola Inc,Telecom Svcs,,1001,15000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000108,Merrill Lynch,Securities/Invest,,1001,15000,0,Y,Y,
+D000022110,Medtronic Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",McGraw-Hill Companies,Publishing,,1001,15000,0,Y,,
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,Y,Y,Y
+"",Marshall & Illsley Corp,Unknown,,1001,15000,0,Y,,
+"",LLCO/Grand River Dam Authority Bond,Oil & Gas,,1001,15000,0,Y,,
+"",LLCO/Federated Capital Reserves MM,Oil & Gas,,1001,15000,0,Y,,
+"",Landmark Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Johnson Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Johnson Bank Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000326,JC Penney,Retail Sales,,1001,15000,0,Y,Y,Y
+D000026667,Intuit Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000022038,Illinois Tool Works,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Hartford Stock Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Hartford Mid Cap Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Hartford Global Technology Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Hartford Global Leaders Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Hartford Global Health Fund,Misc Health,,1001,15000,0,Y,,
+"",Hartford Disciplined Equity Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Hartford Capital Appreciation Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",H&R Block Financial Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000025831,Fiserv Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000025815,First Data Corp,Finance/Credit,,1001,15000,0,Y,Y,
+"",First American Small Cap Select Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",First American Small Cap Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",First American Short Term Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",First American Prime Obligation Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",First American Mid Cap Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",First American Intermediate Term Bond Fd,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000089,FedEx Corp,Air Transport,,1001,15000,0,Y,Y,Y
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000025642,Edwards Lifesciences,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000025625,Ecolab Inc,Chemicals,,1001,15000,0,Y,,
+"",Eaton Vance Tax Mgd Divers Equity Inc Fd,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000050293,Duke Realty,Real Estate,,1001,15000,0,Y,,
+D000000303,ConocoPhillips,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000048699,Citrix Systems,Internet,,1001,15000,0,Y,,
+D000000071,Citigroup Inc,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",Caremark Rx,Pharm/Health Prod,,1001,15000,0,Y,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000091,BP,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000021757,Berkshire Hathaway,Securities/Invest,,1001,15000,0,Y,Y,
+"",BBH Inflation Indexed Securities Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Bank of New York,Securities/Invest,,1001,15000,0,Y,,
+D000031718,Autodesk Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000024095,Apache Corp,Oil & Gas,,1001,15000,0,Y,,
+D000000391,Amgen Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000067,Altria Group,Tobacco,,1001,15000,0,Y,Y,Y
+D000000632,Allstate Insurance,Insurance,,1001,15000,0,Y,Y,
+D000000786,Accenture,Business Services,,1001,15000,0,Y,Y,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000021800,3M Co,Misc Mfg/Distrib,,1001,15000,0,Y,Y,

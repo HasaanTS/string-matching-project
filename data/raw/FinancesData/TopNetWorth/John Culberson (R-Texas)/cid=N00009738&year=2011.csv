@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Northern Virginia House,Real Estate,,500001,1000000,0,Y,,
+"",State of TX Retirement,Unknown,,100001,250000,0,Y,,
+"",Houston Home,Real Estate,,100001,250000,0,Y,,
+"",Federal Thrift Savings Plan,Unknown,Mutual Fund,50001,100000,0,Y,,

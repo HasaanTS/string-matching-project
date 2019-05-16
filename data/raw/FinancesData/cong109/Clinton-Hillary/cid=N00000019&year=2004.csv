@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Senate Qualified Blind Trust,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",5000001,25000000,0,Y,,
+"",Citibank Deposit Accounts,Unknown,"Brokerage, IRA, 401k",5000001,25000000,0,Y,,
+"",Northwestern Mutual Life Insur Policy,Unknown,Insurance policies & Annuities,30002,100000,0,Y,,
+"",Arkansas Public Employees Retirement Sys,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000067154,Riggs Bank,Commercial Banks,,0,1000,0,Y,,

@@ -1,0 +1,139 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","12 acres/Rabun County, GA",Real Estate,,1000001,5000000,0,Y,,
+"","Hampton Farms Drive/Marietta, Ga",Crop Production,,500001,1000000,0,Y,,
+"",UST SPDR Trust Services,Unknown,,250001,500000,0,Y,,
+"",Total System Services Inc,Commercial Banks,,250001,500000,0,Y,,
+"",Lincoln Financial Group Annuity,Unknown,Insurance policies & Annuities,250001,500000,0,Y,,
+"",John Hancock Life Insurance cash value,Unknown,Insurance policies & Annuities,250001,500000,0,Y,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"","Condo/Mass Ave/Washington, DC",Real Estate,,250001,500000,0,Y,,
+"",Citibank/CD,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",BB&T Bank,Commercial Banks,,250001,500000,0,Y,,
+"",4 I's LLC,Real Estate,,250001,500000,0,Y,,
+"",Sector SPDR Trust,Unknown,,101002,265000,0,Y,,
+"",Williams Realty Fund LLC,Real Estate,,100001,250000,0,Y,,
+"",Williams Opportunity Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+D000029314,Synovus Financial Corp,Commercial Banks,,100001,250000,0,Y,,Y
+"",Streettracks Gold Trust ETF,Mining,Mutual Fund,100001,250000,0,Y,,
+"",Permit LLC,Unknown,,100001,250000,0,Y,,
+"",Legg Mason Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Illumina Inc,Pharm/Health Prod,,100001,250000,0,Y,,
+"",Federated Georgia Muni Cash Trust,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,100001,250000,0,Y,Y,
+D000045930,Alexion Pharmaceuticals,Pharm/Health Prod,,100001,250000,0,Y,Y,
+D000019566,Wells Fargo Bank,Commercial Banks,,50001,100000,0,Y,,
+"",VP Corp,Unknown,,50001,100000,0,Y,,
+"",University Towers condo,Real Estate,,50001,100000,0,Y,,
+"",Transamerica Short term bond fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000023662,Thermo Fisher Scientific,Misc Mfg/Distrib,,50001,100000,0,Y,Y,
+"",Stricklin Capital land development,Unknown,,50001,100000,0,Y,,
+D000037780,Starbucks Corp,Food & Beverage,,50001,100000,0,Y,Y,
+D000028868,Saks Inc,Retail Sales,,50001,100000,0,Y,,
+"",S&P 500 Depository recipts stock,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000065056,Rovi Corp,Unknown,,50001,100000,0,Y,,
+"",Putnam Absolute Return 500 fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000000206,Occidental Petroleum,Oil & Gas,,50001,100000,0,Y,Y,Y
+D000022099,Mastercard Inc,Finance/Credit,,50001,100000,0,Y,Y,
+D000026667,Intuit Inc,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,Y
+D000034233,Guess? Inc,Misc Mfg/Distrib,,50001,100000,0,Y,,
+D000025831,Fiserv Inc,Misc Finance,,50001,100000,0,Y,Y,Y
+D000025625,Ecolab Inc,Chemicals,,50001,100000,0,Y,Y,Y
+D000025483,Devon Energy,Oil & Gas,,50001,100000,0,Y,Y,
+D000033033,Danaher Corp,Misc Mfg/Distrib,,50001,100000,0,Y,Y,
+D000000303,Conocophillips,Oil & Gas,,50001,100000,0,Y,Y,Y
+D000042522,Chipotle Mexican Grill,Food & Beverage,,50001,100000,0,Y,,
+"",Cemer Corp,Unknown,,50001,100000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,50001,100000,0,Y,Y,Y
+D000024095,Apache Corp,Oil & Gas,,50001,100000,0,Y,Y,
+D000000126,AFLAC Inc,Insurance,,50001,100000,0,Y,Y,Y
+"","54 acres/Douglas County, GA",Real Estate,,50001,100000,0,Y,,
+"",Wachovia money market account now Wells,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000029689,VISA Inc,Finance/Credit,,15001,50000,0,Y,Y,
+"",Vinings Bank & Trust,Commercial Banks,,15001,50000,0,Y,,
+"",Timeshare/Sea Pines,Real Estate,,15001,50000,0,Y,,
+"",Strico Tide LP,Unknown,,15001,50000,0,Y,,
+"",Strico Britian LP,Unknown,,15001,50000,0,Y,,
+"",Stico Cheetah LP,Unknown,,15001,50000,0,Y,,
+"",S&P mid cap 400 recpts mid cap SPDR,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Post Properties,Real Estate,,15001,50000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,15001,50000,0,Y,Y,Y
+D000023178,Mosaic Co,Agricultural Svcs,,15001,50000,0,Y,,
+"",KMI LP,Oil & Gas,,15001,50000,0,Y,,
+"",iShares 7-10 yr Treasury Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",iShares 1-3 year Treasury Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",First Citizens Bank of Georgia,Commercial Banks,,15001,50000,0,Y,,
+D000064680,Dendreon Corp,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000000104,Lockheed Martin,Defense Aerospace,,1001,16000,0,Y,Y,Y
+D000022038,Illinois Tool Works,Misc Mfg/Distrib,,1001,16000,0,Y,Y,
+D000000161,Waste Management Inc,Waste Management,,1001,15000,0,Y,Y,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000030251,Sysco Corp,Food Process/Sales,,1001,15000,0,Y,,
+D000000168,Southern Co,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",Sara Lee Corp,Food Process/Sales,,1001,15000,0,Y,,
+"",S&P Global Materials Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000042525,Royal Dutch Shell,Oil & Gas,,1001,15000,0,Y,Y,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",PowerShares ETF Dividend Achiever,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000022163,Novartis AG,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000170,Northrop Grumman,Misc Defense,,1001,15000,0,Y,Y,Y
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000000571,Mattel Inc,Misc Mfg/Distrib,,1001,15000,0,Y,,
+D000027415,Marsh & McLennan,Insurance,,1001,15000,0,Y,Y,
+D000000244,Marathon Oil,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000001024,Kraft Foods,Food Process/Sales,,1001,15000,0,Y,Y,Y
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",ishares Russell 2000 Growth fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares MSCI Emerging Markets Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares MSCI Canada Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",ishares mid cap S&P 400 growth fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",ishares Global 100 Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares DJ US consumer fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares DJ consumer goods index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares Brazil MSCI Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000334,Honeywell International,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,Y
+D000026492,HJ Heinz Co,Food Process/Sales,,1001,15000,0,Y,Y,
+"",Genuine Parts Co,Automotive,,1001,15000,0,Y,,
+"",First tr ise natural gas Index,Oil & Gas,,1001,15000,0,Y,,
+D000019828,Emerson Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000495,DuPont Co,Chemicals,,1001,15000,0,Y,Y,Y
+D000000477,Duke Energy,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",ConAgra Foods,Food Process/Sales,,1001,15000,0,Y,,
+"",Coco-Cola Co,Unknown,,1001,15000,0,Y,,
+D000024879,Clorox Co,Chemicals,,1001,15000,0,Y,Y,
+D000000320,Chubb Corp,Insurance,,1001,15000,0,Y,Y,Y
+D000000015,Chevron Corp,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000024598,Campbell Soup,Food Process/Sales,,1001,15000,0,Y,Y,Y
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,Y,Y,Y
+"",Alerian MLP ETF,Securities/Invest,,1001,15000,0,A,,
+"",ADP Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Wintercreek LLC,Real Estate,,0,1000,0,Y,,
+D000000348,UnitedHealth Group,Health Services,,0,1000,0,Y,Y,
+"",SPDR Gold Trust ETF,Mining,,0,1000,0,Y,,
+"",Solarwinds Inc,Unknown,,0,1000,0,Y,,
+"",Select SPDR Financial,Unknown,,0,1000,0,Y,,
+"",Select SPDR Energy fund,Unknown,,0,1000,0,Y,,
+"",Select SPDR Energy,Unknown,,0,1000,0,Y,,
+"",Sector SPDR Financial Fund,Misc Finance,Mutual Fund,0,1000,0,Y,,
+"",Pimco Short Term Fund,Unknown,Mutual Fund,0,1000,0,Y,,
+"",Northwest Bank & Trust,Commercial Banks,,0,1000,0,Y,,
+D000064923,Myriad Genetics,Pharm/Health Prod,,0,1000,0,Y,,
+D000022108,MedCo Health Solutions,Health Services,,0,1000,0,Y,Y,Y
+"",Longtop Financial Technologies,Misc Finance,,0,1000,0,Y,,
+"",iShares US TIPS,Unknown,Mutual Fund,0,1000,0,Y,,
+"",iShares Russell 1000 Growth Fund,Unknown,Mutual Fund,0,1000,0,Y,,
+"",iShares 20+ Treasury Index,Unknown,Mutual Fund,0,1000,0,Y,,
+"",Global Payments,Electronics Mfg/Eqp,,0,1000,0,Y,,
+D000026221,Gilead Sciences,Pharm/Health Prod,,0,1000,0,Y,Y,
+D000000165,General Dynamics,Defense Electronics,,0,1000,0,Y,Y,Y
+"",Franklin Georgia Tax Free mutual fund,Unknown,Mutual Fund,0,1000,0,Y,,
+"",China Life,Unknown,,0,1000,0,Y,,
+"",Blackstone Group LP,Unknown,,0,1000,0,Y,,
+D000023883,Amazon.com,Internet,,0,1000,0,Y,Y,

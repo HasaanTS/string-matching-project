@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Home & Property/Lake County, MT",Real Estate,,1000001,5000000,0,T,,
+D000030600,Ultra Petroleum,Oil & Gas,,500001,1000000,0,T,,
+"",401k State of Michigan Retirement A/C,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,T,,
+D000026978,Kellogg Co,Food Process/Sales,,100001,250000,0,T,Y,Y
+"","Home/Battle Creek, MI",Real Estate,,100001,250000,0,T,,
+D000030157,Stryker Corp,Pharm/Health Prod,,50001,100000,0,T,Y,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,15001,50000,0,T,Y,
+D000028392,Plum Creek Timber,Forest Products,,15001,50000,0,T,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,15001,50000,0,T,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,T,Y,
+"",Dividends On Bank Accounts,Unknown,"Brokerage, IRA, 401k",1,1000,0,T,,

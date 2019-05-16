@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Ohio Public Employee Retirement System,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"",Cuyahoga County Deferred Compensation,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Third Federal/Checking,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"","3646 Chelton Road/Shaker Heights, OH",Real Estate,,50001,100000,0,Y,,
+"",Pacific Life Annuity,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Telephone Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

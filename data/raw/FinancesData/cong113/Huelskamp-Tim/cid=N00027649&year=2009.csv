@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Gray County Farmland,Crop Production,,100001,250000,0,N,,
+"",Woddell & Reed Funds,Unknown,,15001,50000,0,N,,
+"",Vanguard Mutual Funds,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Fowler State Bank,Commercial Banks,Unknown,15001,50000,0,N,,

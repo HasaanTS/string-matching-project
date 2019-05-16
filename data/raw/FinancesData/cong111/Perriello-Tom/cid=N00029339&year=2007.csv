@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Vanguard 500 Index,Securities/Invest,Mutual Fund,15001,50000,0,N,,
+"",Virginia National Bank,Commercial Banks,Unknown,1001,15000,0,N,,
+"",Vanguard Target Ret 2045 (Roth IRA),Unknown,Mutual Fund,1001,15000,0,N,,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,1001,15000,0,N,Y,
+"",iShares MSCI Emerging Markets Index,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,N,Y,
+"",Govt Cash Trust Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,

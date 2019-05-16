@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","640 Sunset Blvd/West Columbia, SC",Real Estate,,250001,500000,0,Y,,
+"","1534 Sunset Blvd/West Columbia, SC",Real Estate,,100001,250000,0,Y,,
+"","101 Shuler Street/West Columbia, SC",Real Estate,,100001,250000,0,Y,,
+"",Graves Park Estates,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"","922 Sunset Blvd/West Columbia, SC",Real Estate,,50001,100000,0,Y,,
+"","515 E Main St/Lexington, SC",Real Estate,,50001,100000,0,Y,,
+"","2827 Wilton Road/Springdale, SC",Real Estate,,50001,100000,0,Y,,
+"","2823 Wilton Road/Springdale, SC",Real Estate,,50001,100000,0,Y,,
+"",Southern Financial,Misc Finance,,1001,15000,0,Y,,
+"",South Carolina State Retirement System,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,Y,Y,

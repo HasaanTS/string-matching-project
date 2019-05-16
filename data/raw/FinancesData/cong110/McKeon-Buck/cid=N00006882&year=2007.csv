@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Farm/1300 acres/Randolph, UT",Crop Production,,250001,500000,0,Y,,
+"",MFS Value Fund,Unknown,Mutual Fund,30002,100000,0,Y,,
+"",Fidelity Diversified International Fund,Unknown,Mutual Fund,30002,100000,0,Y,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",Riversource Partners Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Lazard Emerging Markets Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",JPMorgan Mid Cap Value Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",iShares Comex Gold,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Covad Communications,Unknown,,2002,30000,0,Y,,
+D000000449,Nortel Networks,Telecom Svcs,,1002,16000,0,Y,Y,
+"",Dean Witter IRA Money Market,Unknown,Cash/Money Market/Savings/Checking,2,2000,0,Y,,

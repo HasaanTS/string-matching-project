@@ -1,0 +1,19 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Evergreen,Unknown,Unknown,15001,50000,0,Y,,
+"",Walgreen Co,Retail Sales,,2002,30000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,2002,30000,0,Y,Y,Y
+"",Nokia Corp,Telecom Svcs,,2002,30000,0,Y,,
+"",New York Community,Unknown,Unknown,2002,30000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,Y
+"",Kohls Corp,Retail Sales,,2002,30000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,Y
+D000000106,Morgan Stanley,Securities/Invest,,1001,15000,0,Y,Y,Y
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",Income Fund of America Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",Alliance,Real Estate,,1001,15000,0,Y,,
+"",Idearc Inc,Publishing,,2,2000,0,Y,,
+D000059217,Flagstar Bancorp,Commercial Banks,,1,1000,0,Y,,
+D000018253,Discover Financial Services,Finance/Credit,,1,1000,0,Y,Y,Y

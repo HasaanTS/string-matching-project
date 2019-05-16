@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",New York City Deferred Compensation,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",250001,500000,0,Y,,
+"",US Treasury Federal Strip Interest Pay,Unknown,Government Bond,100001,250000,0,Y,,
+"",Morgan Stanley Bank Deposit Program,Unknown,Cash/Money Market/Savings/Checking,30002,100000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",TIAA-CREF Tax Deferred Compensation,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Citibank/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Lincoln Trust Government Securities Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+D000000205,Fannie Mae Bond,Real Estate,,2002,30000,0,Y,,Y
+"","Catskill, NY Central School Dist Bond",Unknown,Government Bond,2002,30000,0,Y,,
+"",Value Line Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Triborough Bridge & Tunnel Auth NY Bond,Unknown,Government Bond,1001,15000,0,Y,,
+"","Pleasantville, NY G/O Bond",Unknown,Government Bond,1001,15000,0,Y,,
+"",Oppenheimer IL Bright Start College Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",New York State College Savings Program,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Municipal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

@@ -1,0 +1,19 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","House/Abingdon, VA",Real Estate,,250001,500000,0,T,,
+"",BB&T Bank,Commercial Banks,,250001,500000,0,T,,
+"","Tract/Washington County, VA",Real Estate,,101002,265000,0,T,,
+"",Office Building,Real Estate,,100001,250000,0,T,,
+D000000090,Bank of America,Commercial Banks,,100001,250000,0,T,Y,Y
+"",Bank of America/Checking,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+D000068052,Intrexon Corp,Pharm/Health Prod,,15001,50000,0,T,,
+"",Cary Street Partners CD IRA,Unknown,,15001,50000,0,T,,
+"",BB&T IRA/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"","Lot/Town of Abingdon, VA",Real Estate,,2002,30000,0,T,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,T,Y,Y
+"",Vanguard S&P 500 Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"","Lot/Washington County, VA",Real Estate,,1001,15000,0,T,,
+"","Lot/Town of Damascus, VA",Real Estate,,1001,15000,0,T,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+D000021891,Capital One Financial,Finance/Credit,,1001,15000,0,T,Y,Y
+"",Bank of America/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+D000000141,Prudential Financial,Insurance,,1,1000,0,T,Y,

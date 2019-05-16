@@ -1,0 +1,20 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Strand Bookstore,Retail Sales,,1000001,1000001,1,Y,,
+"",Bass Book Trading,Retail Sales,,1000001,1000001,1,Y,,
+"",US Senate Federal Credit Union MM,Unknown,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+"",Strand II Corp,Unknown,,500001,1000000,0,Y,,
+"",Bass Real Estate,Real Estate,,500001,1000000,0,Y,,
+"",Merrill Lynch Deposit Program,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",US Savings Bond,Unknown,Government Bond,100001,250000,0,Y,,
+"",US Senate FCU Kid's Club Account,Unknown,Cash/Money Market/Savings/Checking,30002,100000,0,Y,,
+"",US Senate FCU/Gold Source Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Schwab Money Fund,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Schwab Market Track Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",PAX World Balance Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+D000023666,CME Group,Securities/Invest,,15001,50000,0,Y,Y,
+D000000108,Merrill Lynch,Securities/Invest,,1001,15000,0,Y,Y,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,
+"",US Treasury 4-Week Bill,Unknown,Government Bond,0,1000,0,Y,,

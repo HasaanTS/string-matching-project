@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",New York Life (whole life),Unknown,Insurance policies & Annuities,200002,500000,0,T,,
+"","residential property/Ruston, LA",Real Estate,,100001,250000,0,T,,
+"",60.3 acres land,Real Estate,,50001,100000,0,T,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+D000032790,Community Bank & Trust,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,T,,Y
+"",Jonesboro State Bank,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,T,,

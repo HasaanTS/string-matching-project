@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Community Bank of Broward,Commercial Banks,,116003,315000,0,Y,,
+"","3.15 Acre Lot/Newbury, NH",Real Estate,,50001,100000,0,Y,,
+"",401K Retirement Account,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Small Cap Index Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",MFC Templeton Foreign Small Co Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",MFC Fidelity Overseas Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",MFC American EuroPacific Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",MFC American Century Small Co Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Charles Schwab IRA Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

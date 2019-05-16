@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Latham Seed,Unknown,,500001,1000000,0,Y,,
+"","Modderman Farm 110 Acres/Alexander, IA",Crop Production,,250001,500000,0,Y,,
+"",Latham Farms LLC,Crop Production,,250001,500000,0,Y,,
+"","Farm 93.7 Acres/Latimer, IA",Crop Production,,250001,500000,0,Y,,
+"","Blom Farm/Alexander, IA",Crop Production,,250001,500000,0,Y,,
+"",Green Circle Investments,Commercial Banks,,50001,100000,0,Y,,
+D000059200,First Citizens National Bank,Commercial Banks,,50001,100000,0,Y,,Y
+"",DTB Farms,Crop Production,,50001,100000,0,Y,,
+"",Smith Barney Fundamental Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"","Farm Buildings/Alexander, IA",Crop Production,,15001,50000,0,Y,,
+"",401k Pension Plan American Funds,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Smith Barney Municipal Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Peoples Trust & Savings Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

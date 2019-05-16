@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","6207 30th Street/North Arlington, VA",Real Estate,,1000001,5000000,0,Y,,
+"",Commercial Bldg Hwy 5 South Haleyville,Real Estate,,250001,500000,0,Y,,
+"",Greenbrier Enterprises,Real Estate,,100001,250000,0,Y,,
+"",65 Acres Land - Greenbrier Farms/McDonal,Misc Agriculture,,100001,250000,0,Y,,
+D000000249,New York Life Insurance,Insurance,,50001,100000,0,Y,Y,
+"",Land/60 Acres/Hoggleridge,Real Estate,,15001,50000,0,Y,,
+"",Traders & Farmers Bank,Commercial Banks,,2003,31000,0,Y,,
+"",Traders & Farmers Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Telefonos de Mexico Sab,Telephone Utilities,,1001,15000,0,Y,,
+D000019437,Oppenheimer & Co,Securities/Invest,,1001,15000,0,Y,,
+D000027918,Navistar International,Trucking,,1001,15000,0,Y,Y,
+"",ING Classic Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",H&Q Healthcare,Misc Health,,1001,15000,0,Y,,
+D000000133,GlaxoSmithKline,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Beaver Dam Farm,Crop Production,,1001,15000,0,Y,,
+D000066608,America Movil,Telephone Utilities,,1001,15000,0,Y,Y,

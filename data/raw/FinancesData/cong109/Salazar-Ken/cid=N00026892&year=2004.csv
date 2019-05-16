@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",HHS Enterprises/Commercial Real Estate,Real Estate,,500001,1000000,0,Y,,
+"",HHS Enterprises,Food & Beverage,,250001,500000,0,Y,,
+"",AIG Valic Fixed Income Retirement Fund,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"","Ranch Property/Conejos County, CO",Livestock,,50001,100000,0,Y,,
+"",Wells Fargo Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Navidec Financial Services,Misc Finance,,1001,15000,0,Y,,
+"",Colorado State Employees Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

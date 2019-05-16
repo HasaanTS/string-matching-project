@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Punta Cana Beach Villa/Punta Cana, DR",Real Estate,,250001,500000,0,Y,,
+"",Putnam New York Div Growth Muni Trust,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",AllianceBernstein Muni Income Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",ING Principal Protection Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"","301 174th Street/Sunny Isles, FL",Real Estate,,50001,100000,0,Y,,
+D000041264,Standard & Poor's,Misc Finance,,15001,50000,0,Y,,
+"",NASDAQ 100 Trust,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fixed Annuity Contract,Unknown,Insurance policies & Annuities,15001,50000,0,A,,
+"",Dow Jones Select Dividend Index,Unknown,,15001,50000,0,Y,,
+"",Merrill Lynch Institutional Tax Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

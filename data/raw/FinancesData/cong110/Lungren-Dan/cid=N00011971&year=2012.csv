@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Congressional FCU/Savings,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"",Stoneyford Ranch,Real Estate,,15001,50000,0,T,,
+"",State Farm Insurance Whole Life Ins,Unknown,Insurance policies & Annuities,15001,50000,0,T,,
+"",Chase Bank Savings Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,

@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental Property,Real Estate,,100001,250000,0,O,,
+"",Pulaski Tech College,Unknown,,50001,100000,0,O,,
+"","Arkansas Public Employee Retirement System- Cash
+A",Unknown,"Brokerage, IRA, 401k",50001,100000,0,O,,
+"",ADFA-Donaghey Plaza Project,Unknown,,50001,100000,0,O,,
+"",University of Arkansas Fort Smith,Unknown,Government Bond,15001,50000,0,O,,
+"",Kansas City Life Insurance Universal Life,Unknown,Insurance policies & Annuities,2002,30000,0,O,,
+"",US Savings Bond,Unknown,Government Bond,1001,15000,0,O,,
+"",Stephens Inc Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,O,,
+"",Arvest Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,O,,

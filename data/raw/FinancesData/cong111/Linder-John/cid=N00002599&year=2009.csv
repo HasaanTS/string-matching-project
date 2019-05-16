@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Myrtle MS Farm,Crop Production,,2000002,10000000,0,Y,,
+"",Note Receivable/Grayling Industries,Unknown,Note/Note Receivable,1000001,5000000,0,Y,,
+"",Fairholme Funds,Unknown,Mutual Fund,1000001,5000000,0,Y,,
+"",Schwab Money Market,Unknown,Cash/Money Market/Savings/Checking,2000003,3000001,0,Y,,
+"",SunTrust Bank Money Market,Unknown,Cash/Money Market/Savings/Checking,1500003,2000001,0,Y,,
+"",Turkey Buzzard Timber,Forest Products,,500001,1000000,0,Y,,
+"",Turkey Neck Farms,Forest Products,,100001,250000,0,Y,,
+"",Turkey Deer Trace LLC,Unknown,,100001,250000,0,Y,,

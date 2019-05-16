@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","3292 Mt Vernon Ave/Alexandria, VA",Real Estate,,250001,500000,0,Y,,
+"",Newfield Bank,Commercial Banks,,100001,250000,0,Y,,
+D000019642,Northwestern Mutual Life Insurance,Insurance,,15001,50000,0,Y,,
+"",Net Life,Unknown,Unknown,15001,50000,0,Y,,
+"",Kaufman Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Schwab Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

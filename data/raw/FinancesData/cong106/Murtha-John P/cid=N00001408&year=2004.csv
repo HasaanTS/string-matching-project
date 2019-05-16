@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wesbanco Inc,Unknown,,50001,100000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,3004,46000,0,Y,,
+"",First Commonwealth Bank,Commercial Banks,Cash/Money Market/Savings/Checking,3003,45000,0,Y,,
+D000067523,Charles Schwab & Co,Securities/Invest,,1001,15000,0,Y,,
+D000000235,Axa Financial,Misc Finance,,1,1000,0,Y,,

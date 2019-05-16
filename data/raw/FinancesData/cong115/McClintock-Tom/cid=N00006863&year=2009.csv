@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wells Fargo Bank CA accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",Rydex SGI Global,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Oppenheimer Active Allocation Fund,Unknown,,1001,15000,0,A,,
+"",Fidelity Value Strategies,Unknown,Mutual Fund,1001,15000,0,A,,
+D000021765,Bank of New York Mellon,Securities/Invest,,1001,15000,0,A,Y,

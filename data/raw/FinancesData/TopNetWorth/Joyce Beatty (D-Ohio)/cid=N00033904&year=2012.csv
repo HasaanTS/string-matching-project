@@ -1,0 +1,33 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fifth Third Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+"","229-241 S High St/Columbus, OH",Real Estate,,500001,1000000,0,Y,,
+D000028396,PNC Bank Corp,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,"Brokerage, IRA, 401k",100001,250000,0,Y,Y,Y
+D000021983,Fifth Third Bancorp,Commercial Banks,,100001,250000,0,Y,Y,Y
+"",Mortgage Carried for Eric Carmicheal,Unknown,Unknown,50001,100000,0,Y,,
+D000062018,Key Bank,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,Y
+"",Cash,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",1620 E Broad St/Columbus OH,Real Estate,,50001,100000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,16002,65000,0,Y,Y,Y
+"",US Savings Bonds,Unknown,Government Bond,15001,50000,0,Y,,
+"",Personal Loan to Beatty for Congress,Unknown,Note/Note Receivable,15001,50000,0,Y,,
+"",Joyce & Otto Beatty Schol Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"","493 Parkwood Ave/Columbus, OH",Real Estate,,15001,50000,0,Y,,
+"","4226 Edison/Dayton, OH",Real Estate,,15001,50000,0,Y,,
+"",Touchstone Strategies,Business Services,,1001,15000,0,Y,,
+D000000168,Southern Co,Electric Utilities,,1001,15000,0,Y,Y,
+"",Source Capital Inc,Securities/Invest,,1001,15000,0,Y,,
+"",Ohio Credit Union,Unknown,Unknown,1001,15000,0,Y,,
+"",Nuveen Quality Preferred Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",NASDAQ Premium Income & Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",iShares MSCI Singapore,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Huntington Bancshares Inc,Commercial Banks,,1001,15000,0,Y,,
+D000033563,Facebook Inc,Internet,,1001,15000,0,Y,Y,
+"",Corinthian Church Credit Union,Unknown,Unknown,1001,15000,0,Y,,
+"",Columbus Municipal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000021892,Cardinal Health,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",American Express Bank,,,1001,15000,0,Y,,
+"",JPMorgan Chase Savings,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000000163,Freddie Mac,Real Estate,,1,1000,0,Y,,
+"",Carefusion Corp,Pharm/Health Prod,,1,1000,0,Y,,

@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",529 Account,Unknown,"Brokerage, IRA, 401k",2002,30000,0,Y,,
+D000029389,Teva Pharmaceutical Industries,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",SEP IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",New York Community Bank,Commercial Banks,Unknown,1001,15000,0,Y,,
+D000022105,McKesson Corp,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",IRA Account,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000000182,Ford Motor Co,Automotive,,1001,15000,0,Y,Y,
+D000000071,Citigroup Inc,Commercial Banks,,1001,15000,0,Y,Y,
+"",China Precision SPL,Unknown,,1001,15000,0,Y,,
+"",CDC Corp,Unknown,,1001,15000,0,Y,,
+"",Capital One Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Calamos Investment,Unknown,,1001,15000,0,Y,,

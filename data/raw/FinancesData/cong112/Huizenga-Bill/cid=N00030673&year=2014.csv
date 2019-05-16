@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Lakeridge LLC,Real Estate,,250001,500000,0,Y,,
+"",Huizenga Gravel Co,Building Materials,,250001,500000,0,Y,,
+D000026889,Johnson Controls,Automotive,,15001,50000,0,Y,Y,Y
+"",Riverbend LLC,Unknown,,1001,15000,0,Y,,
+"",JPMorgan Investor Growth & Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Huntington Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Huntington Bank - GH,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Huntington Bank - AH,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000026188,Gentex Corp,Automotive,,1001,15000,0,Y,,Y
+"",Chase Small Cap World Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Chase Growth & Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",AllianzGI NFJ Mid Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",AllianzGI Focused Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Pimco Total Return Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Chase Bank Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

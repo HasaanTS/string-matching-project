@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wilton Investments,Oil & Gas,,500001,1000000,0,T,,
+"",First Commercial Bank,Commercial Banks,,251002,515000,0,T,,
+"",US Treasury Bond,Unknown,Government Bond,15001,50000,0,T,,
+"",Bank of Bartlett/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"",Wright Patman Congressional FCU,Credit Unions,Unknown,1001,15000,0,T,,
+"",Washington Mutual Investors Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Soloman Smith Barney Mutual Fund ED-IRA,Unknown,Mutual Fund,1001,15000,0,T,,
+"",First Bankshares,Commercial Banks,,1001,15000,0,T,,
+"",Bancorp South,Unknown,,1001,15000,0,T,,

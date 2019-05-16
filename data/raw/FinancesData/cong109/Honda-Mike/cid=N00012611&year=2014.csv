@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Union Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,O,,
+"",Americo Financial Life & Annuity Insurance annuity,Unknown,Insurance policies & Annuities,200002,500000,0,O,,
+"","ICMA-RC457 Deferred Comp Plan 100% in Vantage
+Tr",Unknown,"Brokerage, IRA, 401k",50001,100000,0,O,,
+"",Acacia Life Insurance Policy,Unknown,Insurance policies & Annuities,50001,100000,0,O,,
+"",Wells Fargo Advantage Enterprise Fund,Unknown,Mutual Fund,15001,50000,0,O,,
+D000029279,Sun Life Financial,Misc Finance,,15001,50000,0,O,,
+"",Vacant Land Parcel,Unknown,,1001,15000,0,O,,
+"",Fidelity Growth Opportunity Fund,Unknown,Mutual Fund,1001,15000,0,O,,
+"",Fidelity Equity Growth Fund,Unknown,Mutual Fund,1001,15000,0,O,,

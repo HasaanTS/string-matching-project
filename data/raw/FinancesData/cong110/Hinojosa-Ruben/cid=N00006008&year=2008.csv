@@ -1,0 +1,20 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Hinojosa Development,Real Estate,,250001,500000,0,A,,
+"",H&H Foods,Food Process/Sales,,250001,500000,0,A,,
+"",Compass Bank IRA,Unknown,Cash/Money Market/Savings/Checking,115002,300000,0,A,,
+"",Bank of America/CD,Unknown,Cash/Money Market/Savings/Checking,116004,265000,0,A,,
+"",Cash Management Trust of America 529A,Unknown,Cash/Money Market/Savings/Checking,66003,165000,0,A,,
+"",US Government Securities Fund 529a,Unknown,Mutual Fund,30002,100000,0,A,,
+"",Lone Star Bank,Commercial Banks,,50001,100000,0,A,,
+"","342 S Texas Ave/Mercedes, TX",Real Estate,,50001,100000,0,A,,
+"",Bank of America/Savings,Unknown,Cash/Money Market/Savings/Checking,17003,80000,0,A,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,16002,65000,0,A,Y,
+D000000129,Exxon Mobil,Oil & Gas,,16002,65000,0,A,Y,Y
+"",Texas Tomorrow Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Hinojosa Enterprises,Business Services,,15001,50000,0,A,,
+"",Bank of America/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,2002,30000,0,A,Y,Y
+"",Wachovia Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",International Bancshares,Commercial Banks,,1001,15000,0,A,,
+"",Firm Consultants Inc,Construction Svcs,,1001,15000,0,A,,
+"",Compass Bank IMA/Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,

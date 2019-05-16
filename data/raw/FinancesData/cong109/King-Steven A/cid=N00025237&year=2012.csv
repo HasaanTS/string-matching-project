@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",King Construction,General Contractors,,100001,250000,0,Y,,
+"",Team Valley North Bond,Unknown,Government Bond,15001,50000,0,Y,,
+"",Smith Hayes Prime Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+"",United Bank of Iowa,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",One OK Partners,Oil & Gas,,1001,15000,0,Y,,
+D000000172,MetLife Inc,Insurance,Mutual Fund,1001,15000,0,Y,Y,
+D000066678,Kraft Foods Group,Food Process/Sales,,1001,15000,0,Y,Y,
+"",Invesco Van Kampan High Yield Muni,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",DNP Select Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Bank Iowa Accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",American Income Fund of America,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000067,Altria Group,Tobacco,,1001,15000,0,Y,Y,
+D000066710,Frontier Communications,Telephone Utilities,,1,1000,0,Y,Y,

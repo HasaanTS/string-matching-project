@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Personal Residence/Alpine, UT",Real Estate,,500001,1000000,0,Y,,
+"",Marriott Vacation Club,Lodging/Tourism,,15001,50000,0,Y,,
+D000045818,Zions Bank,Commercial Banks,Cash/Money Market/Savings/Checking,3003,45000,0,Y,,
+"",American Funds Investment Co of America,Unknown,,3003,45000,0,Y,,
+"",Wells Fargo Bank account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Utah State Retirement-Long Horizon,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Federated Capital Appreciation Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Evergreen Allocation Equity Asset Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000033116,Delta Petroleum,Oil & Gas,,1001,15000,0,Y,Y,
+"",Wachovia Securities Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

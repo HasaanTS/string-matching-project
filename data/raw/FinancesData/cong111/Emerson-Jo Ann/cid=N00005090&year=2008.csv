@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Bartley Goffstein LLC,Lawyers/Law Firms,,250001,500000,0,Y,,
+"",SEP,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Bank of Salem SEP,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",7720 Building Corp,Real Estate,,100001,250000,0,Y,,
+"",United Natural Foods,Food Process/Sales,,1001,15000,0,Y,,
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,
+D000026298,Great Plains Energy,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",Gold Fields Ltd,Mining,,1001,15000,0,Y,,
+"",First Commercial Bank of SE Missouri/CD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",AGE Bank Deposit Program,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000037610,Sirius XM Radio,TV/Movies/Music,,1,1000,0,Y,Y,

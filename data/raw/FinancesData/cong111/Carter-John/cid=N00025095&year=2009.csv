@@ -1,0 +1,3 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000129,Exxon Mobil,Oil & Gas,,1000001,5000000,0,Y,Y,Y
+"",Union State Bank Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

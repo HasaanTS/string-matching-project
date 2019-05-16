@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Spec Home/Lehi, UT",Real Estate,,250001,500000,0,Y,,
+"","Rental Townhome/Provo, UT",Real Estate,,250001,500000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,
+"",Equitable Mutual Fund Alliance Common St,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Research In Motion,Retail Sales,,1001,15000,0,Y,,
+"",Equitable Mutual Fund AXA Premier VIP,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",TD Ameritrade Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

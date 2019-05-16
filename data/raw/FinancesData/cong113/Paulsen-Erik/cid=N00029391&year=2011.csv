@@ -1,0 +1,32 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wells Fargo/Savings & Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Thrivent Universal Life Insurance,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",TD Ameritrade Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Target Corp Common Stock Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",SIF Money Market,Unknown,,15001,50000,0,Y,,
+"",S&P 500 Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Minnesota State Retirement Money Market,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Minnesota Retirement Fixed Interest Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Minnesota College South Pla Guaranteed O,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Minnesota College Savings Plan 1007 Equi,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Lutheran Church Extension Fund/Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",New Opp Small Cap,Unknown,Mutual Fund,1002,16000,0,Y,,
+D000022329,Xcel Energy,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",Vanguard Growth Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Vanguard 500 Index,Securities/Invest,Mutual Fund,1001,15000,0,Y,,
+"",Tech 100 Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",TD Ameritrade Reserve Funds Yield Plus,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",TD Ameritrade Port Investor Mutual Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Small Company Stock Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000022110,Medtronic Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000022105,McKesson Corp,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Lutheran Church Extension Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Key Bank IRA,Unknown,,1001,15000,0,Y,,
+"",International Stock Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Gencore,Unknown,,1001,15000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Minnesota College Savings Plan Monthly,Unknown,Mutual Fund,1,1000,0,Y,,
+"",LS: Corp,Unknown,,1,1000,0,Y,,
+D000023834,Alcatel-Lucent,Telecom Svcs,,1,1000,0,Y,Y,

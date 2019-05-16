@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000053747,Michigan Industrial Tools,Misc Mfg/Distrib,,250001,500000,0,Y,,Y
+"","Standard Bear, LLC",Real Estate,,100001,250000,0,Y,,
+"",SPDR S&P 500 ETF,Securities/Invest,Mutual Fund,95004,250000,0,Y,,
+"",SPDR S&P Mid Cap 400 ETF,Unknown,Mutual Fund,18004,95000,0,Y,,
+"",Powershs QQQ Trust Ser 1,Unknown,Mutual Fund,18004,95000,0,Y,,
+"",iShares MSCI Emerging Markets Index,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",State of Michigan/ING 457 Plan - SSgA Ta,Unknown,,15001,50000,0,Y,,
+"",Standard Bear LLC,Business Services,,15001,50000,0,Y,,
+"",SSgA Target Retirement 2050,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Spartan Extended Market Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Spartan 500 Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",iShares MSCI EAFE Index,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",SPDR Gold Trust ETF,Mining,,1001,15000,0,Y,,
+"",Spartan International Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fifth Third Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

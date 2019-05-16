@@ -1,0 +1,19 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000036161,Netflix Inc,Internet,,30002,100000,0,A,Y,Y
+D000047071,American Tower Corp,Telecom Svcs,,30002,100000,0,A,,
+"","Scottrade(St Louis, MO) Brokerage Sweep",Unknown,"Brokerage, IRA, 401k",15001,50000,0,A,,
+"","Bank of America(Charlotte, NC)/Checking",Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+D000052410,Iron Mountain,Electronics Mfg/Eqp,,2002,30000,0,A,Y,Y
+"",Vanguard Balanced Index,Unknown,Mutual Fund,1001,15000,0,A,,
+"",SPDR Dow Jones Industrial Average ETF,Unknown,Mutual Fund,1001,15000,0,A,,
+D000027998,Nike Inc,Misc Mfg/Distrib,,1001,15000,0,A,Y,Y
+"",New Jersey Public Employee Retirement System,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,A,Y,Y
+D000033563,Facebook Inc,Internet,,1001,15000,0,A,Y,Y
+D000021970,eBay Inc,Internet,,1001,15000,0,A,Y,Y
+"",Dodge & Cox Balanced Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+D000000535,DISH Network,Telecom Svcs,,1001,15000,0,A,Y,Y
+"",Ariel Fund Investor,Unknown,Mutual Fund,1001,15000,0,A,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,A,Y,Y
+D000023883,Amazon.com,Internet,,1001,15000,0,A,Y,Y
+D000067048,News Corp,TV/Movies/Music,,0,1000,0,A,Y,Y

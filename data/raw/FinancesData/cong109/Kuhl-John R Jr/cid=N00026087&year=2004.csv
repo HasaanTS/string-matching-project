@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","10 Gansevoort Street/Bath, NY",Real Estate,,100001,250000,0,Y,,
+"","Grenelete Condo/Haines City, FL",Real Estate,,50001,100000,0,Y,,
+"","County Road 87 Farm/H'port, NY",Crop Production,,50001,100000,0,Y,,
+"",T Rowe Price Equity,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Janus Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity OTC Portfolio Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000457,Corning Inc,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Pan American Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000021795,LaSalle Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",EMC Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Discover Bank Government,Commercial Banks,Unknown,1001,15000,0,Y,,

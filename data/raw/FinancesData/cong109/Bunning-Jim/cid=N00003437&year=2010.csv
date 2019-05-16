@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity Balanced Fund,Unknown,Mutual Fund,500001,1000000,0,T,,
+"",Equitable Life Insurance,Insurance,Insurance policies & Annuities,500001,1000000,0,T,,
+D000059359,Lincoln National Life Insurance,Insurance,Insurance policies & Annuities,50001,100000,0,T,,
+"",Fifth Third Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,

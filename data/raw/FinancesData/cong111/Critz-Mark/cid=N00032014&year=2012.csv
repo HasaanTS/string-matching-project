@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Pennsylvania Teachers Savings Plan,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,T,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",100001,250000,0,T,,
+"",Uncashed Savings Bonds,Unknown,Government Bond,32004,130000,0,T,,
+"",PA 529 College Savings Plan,Unknown,Cash/Money Market/Savings/Checking,30002,100000,0,T,,
+"","Checking, First National Bank",Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"",Johnstown School Employees CU,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,T,,
+"",First National Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,T,,
+"",Metlife Paid Up Insurance,Unknown,Insurance policies & Annuities,1001,15000,0,T,,
+"",MetLife Insurance Policy,Unknown,Insurance policies & Annuities,1001,15000,0,T,,

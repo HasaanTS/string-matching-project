@@ -1,0 +1,36 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,101002,265000,0,Y,Y,Y
+"",Farmland,Crop Production,,100001,250000,0,Y,,
+"",Ohio Public Employee Retirement System,Unknown,"Brokerage, IRA, 401k",51002,115000,0,Y,,
+"",S&P 500 Index,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",JPMorgan Chase Retirement Account,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Wells Fargo Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",OPERS Large Cap Index Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Nuveen Intermediate Muni Bond Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",JPMorgan Chase 401K Common Stuck Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Franklin Mutual Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,15001,50000,0,Y,Y,Y
+"",Dodge & Cox Stock,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Real Estate,Real Estate,,2002,30000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+"",Vanguard Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",PNC Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",OPERS Stock Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",OPERS Small Cap Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",OPERS Non-US Stock Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",OPERS Bond Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Nuveen Real Estate Securities Fund,Real Estate,,1001,15000,0,Y,,
+"",Northwestern Mutual Life/Insur Policy,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000034869,JM Smucker Co,Food Process/Sales,,1001,15000,0,Y,Y,
+"",Huntington Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000531,Firstenergy Corp,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",Credit Suisse Comm Ret Strat,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Chase Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",Blackrock Core Bond Portfolio,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Arlington Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Am Equity Inv Whole Life Cash Value,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",1st American Treasury,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",AJ Stivers Trust Blackrock Liquidity Fd,Unknown,Mutual Fund,1,1000,0,Y,,

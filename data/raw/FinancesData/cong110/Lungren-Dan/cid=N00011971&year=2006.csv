@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Stoneyford Ranch,Real Estate,,15001,50000,0,Y,,
+"",Schwab Stable Value,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Schwab Pimco Total Return Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Schwab Alliance Bernstein True Value Adv,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Golden One Credit Union Accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",First Horizon Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Congressional FCU Accounts,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Schwab S&P 500 Select,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Schwab Mercantille Growth & Income,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Schwab Barklays Global Investors,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",BB&T Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",TIAA Traditional Account,Unknown,Mutual Fund,300002,600000,0,Y,,
+"",CREF Stock Account,Unknown,Mutual Fund,300002,600000,0,Y,,
+"",TIAA Real Estate Account,Real Estate,,50002,101000,0,Y,,
+"",TFCU Savings Account,Unknown,,1001,15000,0,Y,,
+D000019414,Metropolitan Life Insurance,Insurance,,1001,15000,0,Y,,
+"",CREF Bond Market Fund,Unknown,Mutual Fund,1,1000,0,Y,,

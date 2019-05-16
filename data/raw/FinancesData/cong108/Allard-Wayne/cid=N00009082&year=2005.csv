@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Washington Townhouse Apt A,Real Estate,,500001,1000000,0,Y,,
+"",Home State Bank,Commercial Banks,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+"",Congressional CU IRA Account/Wayne,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"",Congressional CU IRA Account/Joan Allard,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"",Home State Bank/CD,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",UNUMProvident,Insurance,,50001,100000,0,Y,,
+"",Roth IRA Accounts/Wayne Allard,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Roth IRA Accounts/Joan Allard,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Senate Credit Union-Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Senate Credit Union-Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Colorado Community Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,

@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000020989,UBS Financial Services,Securities/Invest,,500001,1000000,0,Y,,
+"",JPMorgan Chase 401K/Retirement Plan,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+"",JPMorgan Retirement Plan,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"",Vanguard ROTH IRA,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Office Building,Real Estate,,100001,250000,0,Y,,
+"",Estate of Mae Anderson,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",American Funds Retirement Funds,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Vanguard IRA 500 Index Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",John Hancock Venture Annuity,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Estate of Adele Rohrbach,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+D000000090,Bank Of America,Commercial Banks,,15002,51000,0,Y,Y,Y
+"",Scottrade Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000467,General Mills,Food Process/Sales,,15001,50000,0,Y,Y,
+"",Estate of Wesley Lance,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Bank of America/Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank of America/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

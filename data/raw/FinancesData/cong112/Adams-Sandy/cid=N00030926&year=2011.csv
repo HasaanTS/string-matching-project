@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Genworth Financial IRA,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Ctizens Bank of Oviedo,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Central Fla Educators FCU,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000090,Bank of America,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,Y,Y
+"",Orlando Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

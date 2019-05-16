@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental Property,Real Estate,,500001,1000000,0,Y,,
+"",Indiana Prosecuting Attorney's Retiremen,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",USAA bank accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Springs Valley Bank & Trust,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000062615,Navy Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

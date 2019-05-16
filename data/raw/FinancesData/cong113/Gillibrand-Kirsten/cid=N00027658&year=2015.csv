@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Citibank SEP Money Market,,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"","US Senate Federal Credit Union/Checking, Money Mkt",,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",WindCrest LLC,Pharm/Health Prod,,15001,50000,0,Y,,
+"",TrustCo/Checking,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Citibank Accounts/Checking,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

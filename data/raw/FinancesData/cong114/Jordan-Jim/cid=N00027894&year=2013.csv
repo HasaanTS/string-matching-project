@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Ohio Public Employees Retirment System,Unknown,"Brokerage, IRA, 401k",100001,250000,0,A,,
+"",State Teachers Retirement System of Ohio,Unknown,Insurance policies & Annuities,15002,51000,0,A,,
+"",Universal Guaranty Life,Insurance,Insurance policies & Annuities,2002,30000,0,A,,
+"",Second National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",JP Morgan Chase Bank HSA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,

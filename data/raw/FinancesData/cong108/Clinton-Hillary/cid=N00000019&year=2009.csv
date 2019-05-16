@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",JPMorgan US Treasury Money Market,Unknown,Cash/Money Market/Savings/Checking,5000001,25000000,0,Y,,
+"",JPMorgan Custody Account/Cash,Unknown,Cash/Money Market/Savings/Checking,5000001,25000000,0,Y,,
+"",Real Property/California,Real Estate,,500001,1000000,0,Y,,
+"",US Treasury Note,Unknown,Government Bond,131005,315000,0,Y,,
+"",National Life Insurance Universal Life Policy,Unknown,Insurance policies & Annuities,100001,250000,0,Y,,
+D000019642,Northwestern Mutual Life Insurance,Insurance,Insurance policies & Annuities,30002,100000,0,Y,,
+D000000163,Freddie Mac Bond,Real Estate,Government Bond,15001,50000,0,Y,,
+"",Arkansas Public Employees Retirement Sys,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Citibank Deposit Accounts,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,

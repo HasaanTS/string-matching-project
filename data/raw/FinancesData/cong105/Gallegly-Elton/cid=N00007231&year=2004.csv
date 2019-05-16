@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","1791 Erringer Road/Simi Valley, CA",Real Estate,,500001,1000000,0,A,,
+D000000470,Washington Mutual,Savings & Loans,,50001,100000,0,A,Y,
+D000030609,Union Bank,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+D000000391,Amgen Inc,Pharm/Health Prod,,50001,100000,0,A,Y,Y
+"",Midland Property Ltd,Unknown,,15001,50000,0,A,,
+"",Merrill Lynch Small Cap Value Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Merrill Lynch Fundamental Growth Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",John Hancock US Global,Unknown,,15001,50000,0,A,,
+"",Calamos Growth Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Alliance Growth Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+D000000212,Coca-Cola Co,Food & Beverage,,2002,30000,0,A,Y,
+"",Wells Fargo Keogh,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",Dynamic Realty,Real Estate,,1001,15000,0,A,,

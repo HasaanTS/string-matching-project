@@ -1,0 +1,20 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000033596,Fastenal Co,Misc Mfg/Distrib,,30002,100000,0,Y,,Y
+D000000099,BellSouth Corp,Telephone Utilities,,50001,100000,0,Y,,
+D000019743,Wells Fargo Bank Account,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,Y,Y
+D000057594,Thrivent Financial,Misc Finance,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Templeton Gr,Unknown,Mutual Fund,15001,50000,0,Y,,
+"","Garage/Washington, DC",Real Estate,,15001,50000,0,Y,,
+"",Affinity Plus Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",TIAA-CREF,Securities/Invest,Unknown,1001,15000,0,Y,,
+"",Temp Growth,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Sterling Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Select Comfort Corp,Misc Mfg/Distrib,,1001,15000,0,Y,,
+"",SCSS,Unknown,Unknown,1001,15000,0,Y,,
+"",Oppenheimer Main Street Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",NASDAQ 100 Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Morgan Stanley Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Minnesota State Retirement Deferred Comp,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",IDLM OB,Unknown,,1001,15000,0,Y,,
+"",BKYL,Unknown,Unknown,1001,15000,0,Y,,
+D000023834,Alcatel-Lucent,Telecom Svcs,,1001,15000,0,Y,,

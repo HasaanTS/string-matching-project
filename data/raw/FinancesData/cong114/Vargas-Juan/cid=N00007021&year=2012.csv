@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Residential Rental Property/Sacramento, CA",Real Estate,,500001,1000000,0,Y,,
+"",403B City National Bank Fidelity Advisor,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",UBS Financial Services Pace Portfolio,Unknown,Mutual Fund,115002,300000,0,Y,,
+"",401k Liberty Mutual Retirement Incentive,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Sun Life Fin Masters Choice Variable Ann,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Spartan Total Market Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Scholarshare Coll Savings Plan TIAA-CREF,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Cabrillo Credit Union Bank A/C San Diego,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Spartan US Bond Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Spartan International Index,Unknown,Mutual Fund,1001,15000,0,Y,,

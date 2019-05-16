@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Congressional FCU Account,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",T Rowe Price Equity Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Russell Special Growth Equity Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Harbor Capital Appreciation Equity Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Spartan US Equity Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",EuroPacific Growth International Equity,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Cohen & Steers Realty Fund,Real Estate,Mutual Fund,15001,50000,0,Y,,
+"",Congressional FCU/Roth IRA,Unknown,"Brokerage, IRA, 401k",2002,30000,0,Y,,
+"",Western Asset Core Plus Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",PIMCO Total Return Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Cash Reserves,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",BlackRock Low Duration Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

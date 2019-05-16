@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",BB&T IRA/Cash,Unknown,Cash/Money Market/Savings/Checking,65002,150000,0,Y,,
+"",BB&T Bank,Commercial Banks,,1002,16000,0,Y,,
+"",BB&T/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Wachovia,Unknown,,1,1000,0,Y,,

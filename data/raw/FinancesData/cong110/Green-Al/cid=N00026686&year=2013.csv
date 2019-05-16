@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Texas County & District Retirement System,Unknown,Insurance policies & Annuities,1000001,5000000,0,Y,,
+"",Congressional Federal Credit Union Account,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",350 G Street SW #N208,Real Estate,,250001,500000,0,Y,,
+D000019566,Wells Fargo Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Southwestern National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Harris County TX Deferred Compensation,Unknown,Government Bond,100001,250000,0,Y,,
+D000043037,Capital One Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"","7447 Cambridge #124/Houston, TX",Real Estate,,100001,250000,0,Y,,
+"","7447 Cambridge #107/Houston, TX",Real Estate,,100001,250000,0,Y,,
+"","7447 Cambridge #105/Houston, TX",Real Estate,,100001,250000,0,Y,,
+"",Unity National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000000008,Morgan Stanley Smith Barney,Securities/Invest,Unknown,15001,50000,0,Y,,

@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","601 Pennsylvania Ave NW/Washington, DC",Real Estate,,1000001,5000000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,100001,250000,0,Y,Y,Y
+"",Merrill Lynch IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Federated Capital Reserves Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000019642,Northwestern Mutual Life Insurance,Insurance,,1001,15000,0,Y,,
+"",College Advantage Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000047129,Amtrust Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

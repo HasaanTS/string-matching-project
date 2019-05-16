@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000019624,Wells Fargo Securities,Securities/Invest,Unknown,500001,1000000,0,N,,
+"",Regions Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,N,,
+"",Northwest GA Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,N,,
+"",First Clearing LLC,Unknown,,250001,500000,0,N,,
+"",CapitalMark Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,N,,
+"",First Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,N,,
+"",Cornerstone Comm Accounts,Unknown,"Brokerage, IRA, 401k",100001,250000,0,N,,
+"",Bank of America Accounts,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,N,,
+"",Fleischmann & Fleischmann,Unknown,,50001,100000,0,N,,

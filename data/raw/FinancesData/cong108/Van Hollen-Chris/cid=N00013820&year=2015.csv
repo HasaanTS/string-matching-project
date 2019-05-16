@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wellesley Income Fund,,Mutual Fund,15001,50000,0,Y,,
+"",Vanguard Wellington Fund,,Mutual Fund,15001,50000,0,Y,,
+"",T Rowe Price Ret 2030,,Mutual Fund,15001,50000,0,Y,,
+"",T Rowe Price Ret 2025,,Mutual Fund,15001,50000,0,Y,,
+"",State of Maryland Pension Plan,,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000000200,Pepsico Inc,Food & Beverage,,15001,50000,0,Y,Y,
+"",Merrill Lynch Bank Deposit Program,Securities/Invest,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",Congressional Federal Credit Union Account,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000032736,Colgate-Palmolive Co,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000029955,YUM! Brands,Food & Beverage,,1001,15000,0,Y,Y,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,Y,Y,Y
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000000138,Pfizer Inc,Pharm/Health Prod,,0,0,0,Y,Y,Y

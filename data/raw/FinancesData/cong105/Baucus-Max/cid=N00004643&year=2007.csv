@@ -1,0 +1,28 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",US Treasury Bonds,Unknown,Government Bond,15001,50000,0,Y,,
+"",Freeport-McMoRan Copper & Gold,Mining,,1001,16000,0,Y,,
+D000022303,Valero Energy,Oil & Gas,,1001,15000,0,Y,Y,Y
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",UBS Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000045915,Transocean Inc,Oil & Gas,,1001,15000,0,Y,Y,
+"",Telus Corp,Unknown,,1001,15000,0,Y,,
+D000064447,Syngenta AG,Agricultural Svcs,,1001,15000,0,Y,Y,Y
+"",SunTrust Banks/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000063133,Right Now Technologies,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Research In Motion,Retail Sales,,1001,15000,0,Y,,
+D000055647,Precision Castparts,Defense Aerospace,,1001,15000,0,Y,Y,
+D000028414,PotashCorp,Agricultural Svcs,,1001,15000,0,Y,,
+D000000174,Lehman Brothers,Securities/Invest,,1001,15000,0,Y,Y,Y
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000051191,Garmin Co,Unknown,,1001,15000,0,Y,,
+D000032736,Colgate-Palmolive Co,Pharm/Health Prod,,1001,15000,0,Y,,
+D000042617,Church & Dwight,Chemicals,,1001,15000,0,Y,Y,
+D000000175,Raytheon Co,Defense Electronics,,0,1000,0,Y,Y,Y
+D000000156,Qwest Communications,Telecom Svcs,,0,1000,0,Y,Y,
+D000043203,Moody's Corp,Finance/Credit,,0,1000,0,Y,Y,
+D000000104,Lockheed Martin,Defense Aerospace,,0,1000,0,Y,Y,Y
+"",Limited Brands,Retail Sales,,0,1000,0,Y,,
+"",Gold Fields Ltd,Mining,,0,1000,0,Y,,
+D000000596,Genentech Inc,Pharm/Health Prod,,0,1000,0,Y,,
+"",Contingent Mineral Interest/Sieben Ranch,Mining,,0,1000,0,Y,,
+D000048024,Brookfield Asset Management,Real Estate,,0,1000,0,Y,,

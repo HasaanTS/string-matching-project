@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Arizona State Retirement System,Unknown,"Brokerage, IRA, 401k",200002,500000,0,Y,,
+"",MCC Property Investments,Real Estate,,100001,250000,0,Y,,
+"",Arizona Elected Officials Retirement Sys,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Mass Mutual Whole Life Policy,Unknown,Insurance policies & Annuities,30002,100000,0,Y,,
+"",Tempe Schools Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Rydex US Government Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Federated Strategic Value,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Federated Market Oppertunity,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Federated Automated Govt Money Trust,Unknown,Government Bond,15001,50000,0,Y,,
+"",Federated International Leaders Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Federated International High Income,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Federated High Income Bond,Unknown,Government Bond,1001,15000,0,Y,,

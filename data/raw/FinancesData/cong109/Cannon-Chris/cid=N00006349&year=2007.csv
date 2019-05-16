@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Cannon Industries,Misc Mfg/Distrib,,1250002,5500000,0,Y,,
+"",Loan Receivable/Joe Cannon,Unknown,Note/Note Receivable,250001,500000,0,Y,,
+"",Condo/Terrace Falls,Real Estate,,250001,500000,0,Y,,
+"","Sundance Lot/Sundance, UT",Real Estate,,100001,250000,0,Y,,
+"",Loan Receivable/David Cannon,Unknown,,100001,250000,0,Y,,
+"",Automated Comm Group/Brookline Tech,Unknown,,100001,250000,0,Y,,
+"",Gary Ruse Loan Rec,Unknown,,50001,100000,0,Y,,
+"","Farm/Heavy Equipment/Mapleton, UT",Agricultural Svcs,,15001,50000,0,Y,,
+"",Zions First National Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1002,16000,0,Y,,
+"",Wells Fargo Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

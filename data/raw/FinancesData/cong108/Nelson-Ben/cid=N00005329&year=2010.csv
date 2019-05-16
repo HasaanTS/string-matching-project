@@ -1,0 +1,115 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000021757,Berkshire Hathaway,Securities/Invest,,1500002,2000001,1,Y,Y,Y
+"",Quarry Woods Residential,Real Estate,,500001,1000000,0,Y,,
+D000000669,Principal Life Insurance Annuity,Insurance,Insurance policies & Annuities,500001,1000000,0,Y,Y,Y
+"",Behlen Co,Unknown,,500001,1000000,0,Y,,
+"",Ameritos Life IRA Annuity,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+"",State Farm IRA Annuity,Unknown,Insurance policies & Annuities,250001,500000,0,Y,,
+"","Residential Rental/Washington, DC",Real Estate,,250001,500000,0,Y,,
+"",Midland National Life Annuity,Unknown,Insurance policies & Annuities,250001,500000,0,Y,,
+"",McCook National Bank/CD,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",US Senate Retirement Funds,Unknown,Mutual Fund,100001,250000,0,Y,,
+D000000118,Union Pacific Corp,Railroads,,100001,250000,0,Y,Y,Y
+"",OPPD Bond,Unknown,Government Bond,100001,250000,0,Y,,
+"",Nebraska Tax Free CTF,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Morgan Stanley/Cash & CD,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000000198,Massachusetts Mutual Life Insurance,Insurance,Insurance policies & Annuities,100001,250000,0,Y,Y,Y
+D000021794,HSBC Finance Corp,Unknown,,100001,250000,0,Y,,
+D000000182,Ford Motor Co,Automotive,,100001,250000,0,Y,Y,
+D000000071,Citigroup Inc,Commercial Banks,,100001,250000,0,Y,Y,Y
+D000019743,Wells Fargo,Commercial Banks,,50001,100000,0,Y,Y,Y
+"","Security National Bank/Cash, Savings, CD",Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000000522,Sallie Mae,Finance/Credit,,50001,100000,0,Y,,
+"",Mutual of Omaha Bank/CD,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",MS Fixed Rate Step Up Bond Fund,Unknown,Government Bond,50001,100000,0,Y,,
+"",iShares Barclays TIPS Bond Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",GMAC LLC,Finance/Credit,,50001,100000,0,Y,,
+D000000350,Delta Air Lines,Air Transport,,50001,100000,0,Y,Y,
+D000000148,CSX Corp,Railroads,,50001,100000,0,Y,Y,Y
+D000000607,Xerox Corp,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+D000029842,Whirlpool Corp,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+"",Westinghouse Corp,Unknown,,15001,50000,0,Y,,
+D000000367,Wal-Mart Stores,Retail Sales,,15001,50000,0,Y,Y,Y
+"",Valmont,Unknown,,15001,50000,0,Y,,
+D000022303,Valero Energy,Oil & Gas,,15001,50000,0,Y,Y,
+"",US Bank/Cash,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",UBS AG Australia Bond,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",SunTrust Bank/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Sprint Capital Corp,Securities/Invest,,15001,50000,0,Y,,
+"",Sarpy County Hospital Bond,Unknown,Government Bond,15001,50000,0,Y,,
+"",Royal Carribean,Sea Transport,,15001,50000,0,Y,,
+"",Royal Bank of Scotland/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"","Residential/Commercial Lot/McCook, NE",Real Estate,,15001,50000,0,Y,,
+D000022216,Regions Financial,Commercial Banks,,15001,50000,0,Y,Y,
+D000059535,Qwest Corp,Telecom Svcs,,15001,50000,0,Y,,
+"",Public Power Gen,Unknown,Government Bond,15001,50000,0,Y,,
+D000019674,Principal Life Insurance,Insurance,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Omaha Convention Hotel Bond,Unknown,Government Bond,15001,50000,0,Y,,
+"",National Rural Utilities,Unknown,Government Bond,15001,50000,0,Y,,
+D000000737,National City Corp,Commercial Banks,,15001,50000,0,Y,,
+D000036078,Nabors Industries,Oil & Gas,,15001,50000,0,Y,Y,
+"",Motorola Inc,Telecom Svcs,,15001,50000,0,Y,,
+"",Merrill Lynch/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000027417,Marshall & Ilsley Corp,Commercial Banks,,15001,50000,0,Y,,
+D000000272,Marriott International,Lodging/Tourism,,15001,50000,0,Y,Y,
+"",Macy's Retail Holdings,Unknown,,15001,50000,0,Y,,
+D000045858,Lorillard Tobacco,Tobacco,,15001,50000,0,Y,,
+"",Key Bank/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",International Bank,Commercial Banks,,15001,50000,0,Y,,
+"",Household Finance Corp,Unknown,,15001,50000,0,Y,,
+"",Great Western Bank IRA Annuity,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000021766,Genworth Financial,Insurance,,15001,50000,0,Y,Y,Y
+D000000125,General Electric Capital/CD,Finance/Credit,Cash/Money Market/Savings/Checking,15001,50000,0,Y,Y,Y
+D000021983,Fifth Third Bancorp,Commercial Banks,,15001,50000,0,Y,Y,
+D000000561,DTE Energy,Electric Utilities,,15001,50000,0,Y,Y,Y
+D000000188,Dow Chemical,Chemicals,,15001,50000,0,Y,Y,Y
+D000042628,Cox Communications,Telecom Svcs,,15001,50000,0,Y,,
+D000024786,CIT Group,Finance/Credit,,15001,50000,0,Y,Y,
+D000021891,Capital One Financial,Finance/Credit,,15001,50000,0,Y,Y,Y
+"",Bank One Corp Bond,Commercial Banks,,15001,50000,0,Y,,
+"",Bank of America/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Associated Banc/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",American International Group Bond,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American General Life Insurance,Insurance,Insurance policies & Annuities,15001,50000,0,Y,,
+"",American Airlines Pilot Trust Bond,Unknown,Government Bond,15001,50000,0,Y,,
+D000045818,Zions Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Wolverine Tube,Unknown,Government Bond,1001,15000,0,Y,,
+"",Wells Fargo Bank/Evergreen Cash Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Union Planters,Commercial Banks,,1001,15000,0,Y,,
+D000037598,Simon Property Group,Real Estate,,1001,15000,0,Y,Y,
+D000000141,Prudential Financial,Insurance,,1001,15000,0,Y,Y,
+D000022192,Pitney Bowes Inc,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+"",New West LP,Real Estate,,1001,15000,0,Y,,
+"",MS Hybrid Curve Accrual Bond Fund,Unknown,Government Bond,1001,15000,0,Y,,
+D000000172,Metlife Inc,Insurance,,1001,15000,0,Y,Y,Y
+"",Metlife bonds,Unknown,,1001,15000,0,Y,,
+"",Medici-Ih LP,Real Estate,,1001,15000,0,Y,,
+D000027441,Masco Corp,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+"",Goldman Sachs Government Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000531,Firstenergy Corp,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",First Tennessee Bank/CD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",First National Bank/Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000403,CMS Energy,Electric Utilities,,1001,15000,0,Y,Y,
+"",Caraustar Ind,Unknown,,1001,15000,0,Y,,
+D000042510,Anheuser-Busch InBev,"Beer, Wine & Liquor",,1001,15000,0,Y,Y,Y
+D000000067,Altria Group,Tobacco,,1001,15000,0,Y,Y,Y
+D000000190,Viacom Inc,TV/Movies/Music,,0,1000,0,Y,,
+D000000201,Textron Inc,Air Transport,,0,1000,0,Y,Y,Y
+"",Nisource Finance,Unknown,,0,1000,0,Y,,
+D000000425,May Department Stores,Retail Sales,,0,1000,0,Y,,
+D000000674,Level 3 Communications,Telecom Svcs,,0,1000,0,Y,Y,Y
+D000018504,International Lease Finance Corp,Air Transport,,0,1000,0,Y,,
+"",Great Western Bank/cash,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+"",Great Southern Bank/CD,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+D000000085,Goldman Sachs,Securities/Invest,,0,1000,0,Y,Y,Y
+"",First Westroads Bank/CD,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+D000025773,Federal Home Loan Bank,Real Estate,,0,1000,0,Y,Y,Y
+"",Enterprise Bank/CD,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+"",Dundee Bank/CD,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+D000019232,Caterpillar Financial Services,Finance/Credit,,0,1000,0,Y,,
+D000020937,American General Finance,Finance/Credit,,0,1000,0,Y,,
+D000000014,American General Corp,Insurance,,0,1000,0,Y,,
+"",American Expres/Centurion CD,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+D000031387,Alcoa Inc,Misc Mfg/Distrib,,0,1000,0,Y,Y,
+"",Access Bank/CD,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,

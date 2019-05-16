@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000022724,American Funds,Securities/Invest,Mutual Fund,30002,100000,0,Y,,
+"",US Federal Savings Bonds,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Hilliard Lyons Savings Bond,Unknown,Cash/Money Market/Savings/Checking,3000,3000,0,Y,,
+"",Central Indiana School Employee FCU,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

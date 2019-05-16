@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","4317 Buckeystown Pike/Frederick, MD",Real Estate,,1000001,5000000,0,Y,,
+"",Precious Metals,Mining,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",250001,500000,0,Y,,
+"","Hwy 438 SW 3207/Pleasantville, TN",Real Estate,,100001,250000,0,Y,,
+"","4219 Lime Kiln Rd/Frederick, MD",Real Estate,,100001,250000,0,Y,,
+"","256 Knoxville Rd/Knoxville, MD",Real Estate,,100001,250000,0,Y,,
+"",2 Spruce Knob Lake Forrest Service Rd Po,Real Estate,,100001,250000,0,Y,,
+"","Mortgage/Knoxville, MD",Real Estate,,100002,200000,0,Y,,
+"","Wimer Mt Rd/Franklin, WV",Real Estate,,50001,100000,0,Y,,
+"",Putnam Bonds,Unknown,Government Bond,1001,15000,0,Y,,
+"",Medical Dynamics Inc,Misc Health,,1001,15000,0,Y,,

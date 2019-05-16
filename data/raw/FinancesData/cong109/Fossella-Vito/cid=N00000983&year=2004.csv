@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",New York City Defered Compensation,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,15001,50000,0,A,Y,Y
+"",Fidelity Short Fixed Income,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Templeton Foreign Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Scudder Dreman Small Cap Value,Unknown,Mutual Fund,1001,15000,0,A,,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",MFS Investor Growth,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Merrill Lynch Global Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Eaton Vance Large Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Columbia Conservative High Yield,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Chase New York 529 Moderate Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Chase New York 529 Aggresive Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Chase New York 529 Advisor Plan,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Chase Manhattan Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Fidelity Cash Reserves,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,A,,
+"",Dreyfus Premier Emerging Markets Fund,Unknown,Mutual Fund,1,1000,0,A,,

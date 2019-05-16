@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Cong Fed Credit Money Market,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,T,,
+"","Rental Property/Tacoma, WA",Real Estate,,100001,250000,0,T,,
+"",D3 Family Fund LP,Securities/Invest,,100001,250000,0,T,,
+"",Cref Money Market Retin,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,T,,
+"",TIAA Traditional Retirement,Unknown,"Brokerage, IRA, 401k",100002,200000,0,T,,
+"",TIAA-CREF Social Change,Unknown,Mutual Fund,50001,100000,0,T,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,T,Y,Y
+"",GET #2 529,Unknown,"Brokerage, IRA, 401k",15001,50000,0,T,,
+"",GET #1 529,Unknown,"Brokerage, IRA, 401k",15001,50000,0,T,,
+"",UBS Deposit,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,

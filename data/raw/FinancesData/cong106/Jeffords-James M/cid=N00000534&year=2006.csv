@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Undeveloped Land/Bradon, VT",Real Estate,,100001,250000,0,T,,
+"",Ethan Allen Estates,Real Estate,,100001,250000,0,T,,
+"","8 Kingsley Avenue/Rutland, VT",Real Estate,,100001,250000,0,T,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+D000041987,State Farm Life Insurance,Insurance,,1001,16000,0,T,,
+"",USAA/Subscriber Savings Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"","Land/Shrewsbury, VT",Real Estate,,1001,15000,0,T,,
+"",Credit Union of Vermont,Credit Unions,,1001,15000,0,T,,
+D000019414,Metropolitan Life Insurance,Insurance,Unknown,0,1000,0,T,,

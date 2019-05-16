@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Herger Gas,Oil & Gas,,1000001,5000000,0,T,,
+"","4th Avenue/Rio Oso, CA",Real Estate,,1000001,5000000,0,T,,
+"","Rental House/4th Avenue/Rio Oso, CA",Real Estate,,500002,1000000,0,T,,
+"",Vanguard Wellesley Income Fund,Unknown,Mutual Fund,100001,250000,0,T,,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,100001,250000,0,T,,
+"",Doubleline Total Return Bond Fund,Unknown,Mutual Fund,100001,250000,0,T,,
+"",Congressional FCU Account,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,T,,
+"",Metropolitan West Total Return Bond Fund,Unknown,Mutual Fund,50001,100000,0,T,,
+"",Umpqua Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"",Dreyfus Cash Management,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,

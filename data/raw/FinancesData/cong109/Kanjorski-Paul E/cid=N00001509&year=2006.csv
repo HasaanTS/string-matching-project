@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","90+acres/Wright Township, PA",Real Estate,,1000001,5000000,0,A,,
+"","20+acres/Dallas Township, PA",Real Estate,,500001,1000000,0,A,,
+"","126 S Franklin Street/Wilkes-Barre, PA",Real Estate,,250001,500000,0,A,,
+"",Van Kampen Government Securities Fund,Unknown,Mutual Fund,30002,100000,0,A,,
+"","Parent's Estate Union St/Nanticoke, PA",Real Estate,,50001,100000,0,A,,
+"",Cross Valley Credit Union,Credit Unions,Unknown,50001,100000,0,A,,
+"",Father's Estate,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Equivest Guaranteed Interest Account,Unknown,Cash/Money Market/Savings/Checking,1002,16000,0,A,,
+"",Law office movable assets,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,A,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,A,,

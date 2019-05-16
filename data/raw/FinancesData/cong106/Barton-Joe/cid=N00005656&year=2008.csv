@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000043943,EOG Resources,Oil & Gas,,15001,50000,0,Y,,Y
+"",Ennis Business Forms,Unknown,,15001,50000,0,Y,,
+D000000367,Wal-Mart Stores,Retail Sales,,1001,15000,0,Y,Y,Y
+"",SBC Corp,Unknown,,1001,15000,0,Y,,

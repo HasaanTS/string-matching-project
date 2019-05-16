@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Home & Furnishings/Warr Acres, OK",Real Estate,,250001,500000,0,Y,,
+"","Condominium/Alexandria, VA",Real Estate,,100001,250000,0,Y,,
+"","Mortgage on 304 NE 23rd/Norman, OK",Real Estate,,15001,50000,0,A,,
+"",American Century Ultra Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",2nd Mortgage on 6113 Inland,Real Estate,,15001,50000,0,A,,
+"",Putnam Voyager Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Putnam Intl Capital Opportunities Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Putnam Asset Allocation Growth Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Jefferson-Pilot Ensemble Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",American Century Vista Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",American Century Prime Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Putnam OTC & Emerging Growth Fund,Unknown,Mutual Fund,1,1000,0,A,,

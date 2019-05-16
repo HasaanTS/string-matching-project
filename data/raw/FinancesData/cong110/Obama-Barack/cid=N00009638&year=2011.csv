@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",US Treasury Notes,Unknown,Government Bond,1000001,5000000,0,Y,,
+"",US Treasury Bills,Unknown,Government Bond,600002,1250000,0,Y,,
+"",JPMorgan Chase Private Client/Checking,Unknown,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+"",Vanguard 500 Index,Securities/Invest,Mutual Fund,200003,450000,0,Y,,
+"",PIMCO Total Return 529 Portfolio,Unknown,Mutual Fund,100002,200000,0,Y,,
+"",Calvert Equity Portfolio 529 Portfolio,Unknown,Mutual Fund,100002,200000,0,Y,,
+"",Illinois General Assembly Pension Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Northern Trust Account/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",JPMorgan Chase Account/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

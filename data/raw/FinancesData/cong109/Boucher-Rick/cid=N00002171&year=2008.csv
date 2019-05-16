@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Bank of America/Checking,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Nations Securities IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000021868,BB&T Corp,Commercial Banks,,15001,50000,0,Y,,Y
+"",New River Funds Mutual Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Lot/Washington County,Real Estate,,1001,15000,0,Y,,
+"",Lot/Town of Damascus,Real Estate,,1001,15000,0,Y,,
+"",Bank of America/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

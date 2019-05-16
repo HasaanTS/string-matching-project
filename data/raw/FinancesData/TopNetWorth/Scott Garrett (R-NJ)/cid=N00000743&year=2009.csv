@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Dreyfus Disciplined Stock Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Dreyfus Basic Sap Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Dreyfus Appreciation Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Principal Mid Cap Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",MetLife Insurance Annuity,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",USNG Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Nobel/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Lakeland Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Lakeland Bank,Commercial Banks,,1001,15000,0,Y,,
+"",Highland Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Dreyfus Money Market,Unknown,Mutual Fund,1001,15000,0,Y,,

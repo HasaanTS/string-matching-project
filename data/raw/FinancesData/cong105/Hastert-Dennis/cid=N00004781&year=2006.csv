@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Home & Property/Plano, IL",Real Estate,,1000001,5000000,0,Y,,
+"","125.96 Acres/Kendall County, IL",Real Estate,,1000001,5000000,0,Y,,
+"","Farm/Crawford County, WI",Crop Production,,750002,1500000,0,Y,,
+"","Townhouse Property/Washington, DC",Real Estate,,250001,500000,0,Y,,
+"",Yorkville National Bank Optimum Account,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Northwestern Life Variable annuity,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Yorkville National Bank Farm Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Yorkville National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

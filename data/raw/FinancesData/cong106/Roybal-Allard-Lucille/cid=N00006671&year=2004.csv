@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",United Way Retirement Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Navy Federal Credit Union/SEP,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Bank of America SEP,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",United Way LA Retire Fund,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Prudential (Hill Retirement),Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Wells Fargo Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000055329,Pentagon Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Navy Federal Credit Union/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",United Way Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

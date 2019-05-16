@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Federal Retirement Account,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,A,,
+"",National Dairy Council,Unknown,"Brokerage, IRA, 401k",100001,250000,0,A,,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",US Senate Federal Credit Union IRA,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Capitol Hill Investment Club,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,A,,

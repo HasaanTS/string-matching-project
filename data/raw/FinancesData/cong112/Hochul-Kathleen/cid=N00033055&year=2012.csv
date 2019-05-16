@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000035524,M&T Bank,Commercial Banks,,1000001,5000000,0,T,Y,Y
+"",Vanguard 75% Total Bond,Unknown,Mutual Fund,15001,50000,0,T,,
+"",NY  529 Vanguard 75% Total Bond,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Fidelity New Insights Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Oppenheimer Street Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Oppenheimer Intl Diversified Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Oppenheimer Discovery Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Total International Equity,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Total Bond Index,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Strategic Income Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Small Cap Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Mid Cap II,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Consumer Staples,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Canada Fund,Unknown,Mutual Fund,1001,15000,0,T,,

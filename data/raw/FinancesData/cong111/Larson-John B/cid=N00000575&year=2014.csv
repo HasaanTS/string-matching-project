@@ -1,0 +1,42 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Zoctis Inc,Unknown,,1001,15000,0,Y,,
+"",WP Carey Inc,Unknown,,1001,15000,0,Y,,
+D000031017,Westlake Chemical,Chemicals,,1001,15000,0,Y,Y,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,Y,Y,Y
+D000000209,United Technologies,Defense Aerospace,,1001,15000,0,Y,Y,Y
+D000023662,Thermo Fisher Scientific,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000037780,Starbucks Corp,Food & Beverage,,1001,15000,0,Y,Y,
+"",St of CT 457 Retirement Fund (Voya Managed)-CT Sta,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000045190,Spectra Energy,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Plains GP Holdings,Unknown,,1001,15000,0,Y,,
+"",Pembina Pipeline,Unknown,,1001,15000,0,Y,,
+D000000206,Occidental Petroleum,Oil & Gas,,1001,15000,0,Y,Y,
+"",Nielsen Holdings,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",NF Utilities,Unknown,,1001,15000,0,Y,,
+D000042332,Nestle SA,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,Y,Y,Y
+"",Macquarie Global Infrastructure ETF,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000035524,M&T Bank,Commercial Banks,,1001,15000,0,Y,,
+D000042116,LVMH Moet Hennessy Louis Vuitton,Misc Mfg/Distrib,,1001,15000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",IRA/Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000021791,HSBC Holdings,Finance/Credit,,1001,15000,0,Y,Y,
+"",Fidelity Reserves,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Freedom 2025 Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000043943,EOG Resources,Oil & Gas,,1001,15000,0,Y,,
+D000033033,Danaher Corp,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000703,Costco Wholesale,Retail Sales,,1001,15000,0,Y,,
+"",Congressional Federal Credit Union/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000032736,Colgate-Palmolive Co,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,Y
+"",Bank of America/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Ansys Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000000144,Anheuser-Busch,"Beer, Wine & Liquor",,1001,15000,0,Y,,
+"",Ampherol Corp,Unknown,,1001,15000,0,Y,,
+"",American Eagle PCU Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000031323,Adobe Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Fidelity Treas Money Market,Unknown,Mutual Fund,1,1000,0,Y,,
+"",California Resources Corp,Oil & Gas,,1,1000,0,Y,,

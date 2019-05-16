@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000129,Exxon Mobil,Oil & Gas,,250001,500000,0,Y,Y,Y
+"",Edward Jones Account,,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Union State Bank - Money Market Account,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,

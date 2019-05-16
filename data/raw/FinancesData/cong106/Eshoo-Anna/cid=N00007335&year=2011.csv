@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",1000002,2000000,0,Y,,
+"",Permanent Portfolio,Unknown,Mutual Fund,100001,250000,0,A,,
+"",Oakmark Equity & Income Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",FPA Crescent International,Unknown,,100001,250000,0,A,,
+"",First Eagle Global Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",Fidelity Tax Free Bond,Unknown,Mutual Fund,100001,250000,0,A,,
+"",Berwyn Income Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",First Republic Bank/checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Fidelity CA Muni Money Market,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Congressional Fed Credit Union/checking,Unknown,,1001,15000,0,A,,
+"",Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,

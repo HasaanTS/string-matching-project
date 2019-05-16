@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Residential Property/Washington, DC",Real Estate,,500001,1000000,0,Y,,
+"",IRA Account- Charles Schwab,Unknown,,30002,100000,0,Y,,
+"",EMC Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,,
+D000064241,Vodafone Group,Telecom Svcs,,1001,15000,0,Y,Y,
+"",T Rowe Price Media & Telefund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Sangamo Bioscience,Unknown,,1001,15000,0,Y,,
+"",GE Interest Plus Savings Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional Federal Credit Union Saving Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Citicorp (IRA),Unknown,,1001,15000,0,Y,,
+"",Pacificnet.Com,Internet,,1,1000,0,Y,,

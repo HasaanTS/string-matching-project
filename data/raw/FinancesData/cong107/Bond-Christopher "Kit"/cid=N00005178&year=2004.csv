@@ -1,0 +1,54 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Charles Schwab Account,Unknown,"Brokerage, IRA, 401k",251002,515000,0,Y,,
+"",Bank of America account,Commercial Banks,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+D000021970,eBay Inc,Internet,,101002,266000,0,A,Y,Y
+"",DFA & Vanguard Equity Funds,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Travelzoo Inc,Unknown,,50001,100000,0,Y,,
+D000029170,SRA International,Misc Defense,,50001,100000,0,Y,Y,
+D000021970,eBay Inc,Internet,,50001,100000,0,Y,Y,Y
+D000024513,Bunge Ltd,Food Process/Sales,,50001,100000,0,Y,Y,Y
+D000024513,Bunge Ltd,Food Process/Sales,,50001,100000,0,A,Y,Y
+D000022303,Valero Energy,Oil & Gas,,16002,65000,0,A,Y,Y
+"",Garmin Ltd,Unknown,,16002,65000,0,Y,,
+"",Steel Dynamics,Steel Production,,15001,50000,0,Y,,
+"",Steel Dynamics,Steel Production,,15001,50000,0,A,,
+D000029170,SRA International,Misc Defense,,15001,50000,0,A,Y,
+D000000055,Monsanto Co,Agricultural Svcs,,15001,50000,0,A,Y,Y
+"",Janus Worldwide Fund,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",General Government Securities,Unknown,Government Bond,15001,50000,0,Y,,
+"",Fidelity VIP Growth Portfolio,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",CYTC Corp,Unknown,,15001,50000,0,A,,
+"","Chestnut tree farm/6 acres/Mexico, MO",Forest Products,,15001,50000,0,Y,,
+"",Charles Schwab Account,Unknown,"Brokerage, IRA, 401k",15001,50000,0,A,,
+"",American Century Small Cap Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000023885,Amedisys Inc,Health Services,,15001,50000,0,A,,
+D000029309,Symantec Corp,Electronics Mfg/Eqp,,1001,16000,0,Y,Y,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,1001,16000,0,A,Y,
+D000059096,Cognizant Technology Solutions,Electronics Mfg/Eqp,,1001,16000,0,Y,,
+"",Stifel Nicolaus General Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Omi Corp,Unknown,,1001,15000,0,A,,
+"",Ayocent Corp,Unknown,,1001,15000,0,A,,
+D000042547,Abercrombie & Fitch,Retail Sales,,1001,15000,0,Y,,
+D000068756,Suncor Energy,Oil & Gas,,0,2000,0,A,,
+D000021977,Express Scripts,Health Services,,0,2000,0,A,Y,Y
+"",Ceradyne Inc,Defense Aerospace,,0,2000,0,A,,
+D000022330,Yahoo! Inc,Internet,,0,1000,0,Y,Y,
+"",Vimpel Commun,Unknown,,0,1000,0,Y,,
+D000037780,Starbucks Corp,Food & Beverage,,0,1000,0,Y,Y,
+"",Research In Motion,Retail Sales,,0,1000,0,Y,,
+"",Research In Motion,Retail Sales,,0,1000,0,A,,
+"",Petro Development Corp,Unknown,,0,1000,0,A,,
+D000020856,Peabody Energy,Mining,,0,1000,0,A,Y,Y
+D000036243,Nordstrom Inc,Retail Sales,,0,1000,0,Y,,
+"",KFX Inc,Electric Utilities,,0,1000,0,Y,,
+"",John B Sanfiippo & Son,Unknown,,0,1000,0,Y,,
+D000000418,International Game Technology,Casinos/Gambling,,0,1000,0,Y,Y,
+D000026423,Headwaters Inc,Misc Energy,,0,1000,0,A,Y,
+D000000596,Genentech Inc,Pharm/Health Prod,,0,1000,0,Y,,
+"",Fremont General,Unknown,,0,1000,0,Y,,
+"",eResearch Technology Inc,Pharm/Health Prod,,0,1000,0,Y,,
+D000025615,E*TRADE Financial,Securities/Invest,,0,1000,0,Y,Y,Y
+"",CREF Inc,Unknown,,0,1000,0,Y,,
+"",Coldwater Creek Inc,Retail Sales,,0,1000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,0,1000,0,Y,Y,
+"",Arrythmia Research Tech,Unknown,,0,1000,0,Y,,

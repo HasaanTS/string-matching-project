@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Morningstar ADP,Unknown,,15001,50000,0,A,,
+"",Bank One/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",SSgA S&P 500 Index Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",SSgA Large Cap Core Equity Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Harris County Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,

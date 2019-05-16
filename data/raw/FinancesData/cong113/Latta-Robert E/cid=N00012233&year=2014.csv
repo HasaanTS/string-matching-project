@@ -1,0 +1,33 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity Puritan Fund,Unknown,Mutual Fund,250004,550000,0,O,,
+"","Ohio Public Employees Retirement system-deferred
+b",Unknown,"Brokerage, IRA, 401k",250001,500000,0,O,,
+"",Fidelity Low Priced Stock Fund,Unknown,Mutual Fund,250001,500000,0,O,,
+"",Fidelity Equity Income Fund,Unknown,Mutual Fund,115002,300000,0,O,,
+"",Vanguard 500 Index Signal,Unknown,Mutual Fund,100001,250000,0,O,,
+"","Ohio Public Employees Retirement system-deferreed
+",Unknown,"Brokerage, IRA, 401k",100001,250000,0,O,,
+D000021983,Fifth Third Bancorp,Commercial Banks,,75005,250000,0,O,Y,Y
+D000045471,Huntington National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100002,200000,0,O,,
+"",T-C Lifecycle 2020 Rtmt,Unknown,Mutual Fund,50001,100000,0,O,,
+D000028396,PNC Bank Corp,Commercial Banks,Cash/Money Market/Savings/Checking,30002,100000,0,O,,
+D000061269,First Federal Bank,Commercial Banks,Cash/Money Market/Savings/Checking,30002,100000,0,O,,Y
+"",Fidelity Contrafund,Unknown,Mutual Fund,50001,100000,0,O,,
+"",Fidelity Asset Manager 50% Fund,Unknown,Mutual Fund,50001,100000,0,O,,
+"",Farmers & Merchants State Bank,Crop Production,Cash/Money Market/Savings/Checking,30002,100000,0,O,,
+"",Voya Invesco Equity & Inc Port I,Unknown,Mutual Fund,15001,50000,0,O,,
+"",Voya Index Plus Mid Cap Porfolio I,Unknown,Mutual Fund,15001,50000,0,O,,
+"",Vanguard Total Stock Market Index,Unknown,Mutual Fund,15001,50000,0,O,,
+"",Fidelity VIP Growth Portfolio,Unknown,Mutual Fund,15001,50000,0,O,,
+"",Fidelity Value Fund,Unknown,Mutual Fund,15001,50000,0,O,,
+"",Fidelity Spartan 500 Index,Unknown,Mutual Fund,15001,50000,0,O,,
+"",Fidelity Nasdaq Composite Index,Unknown,Mutual Fund,15001,50000,0,O,,
+"",Fidelity Freedom 2025 Fund,Unknown,Mutual Fund,15001,50000,0,O,,
+"",Fidelity Freedom 2010 Fund,Unknown,Mutual Fund,15001,50000,0,O,,
+"",Farmers & Merchants Bancorp,Unknown,,15001,50000,0,O,,
+"",Voya T Rowe Price Divr MidCap Gr Pt I,Unknown,Mutual Fund,1001,15000,0,O,,
+"",US Treasury Bonds & Notes,Unknown,Government Bond,1001,15000,0,O,,
+"",Fidelity VIP Equity Income Portfolio,Unknown,Mutual Fund,1001,15000,0,O,,
+"",Fidelity Growth & Income Fund,Unknown,Mutual Fund,1001,15000,0,O,,
+"",Fidelity Funds,Unknown,Mutual Fund,1001,15000,0,O,,
+"",Fidelity Blue Chip Fund,Unknown,Mutual Fund,1001,15000,0,O,,

@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",HHS Enterprises,Unknown,,500001,1001000,0,Y,,
+"",State of Colorado Defined Contribution P,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"","Ranch Property/Conejos County, CO",Livestock,,50001,100000,0,Y,,
+D000019743,Wells Fargo Bank Account,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,Y,
+"",State of Colorado-PERA - Retirement Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Security Title Guaranty,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+"",Navidec Inc,Unknown,,0,1000,0,Y,,

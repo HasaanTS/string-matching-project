@@ -1,0 +1,28 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",UPS Deferred Compensation Plan,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,
+"",USAA Life Insurance Co,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",UPS Savings Plan,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000000081,United Parcel Service,Air Transport,,15001,50000,0,Y,Y,Y
+D000037335,SalesForce.com,Internet,,15001,50000,0,Y,Y,
+"",Oppenheimer Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000021941,Countrywide Financial,Real Estate,,15001,50000,0,Y,Y,
+"",Chicos FAS,Unknown,,15001,50000,0,Y,,
+D000032416,CBL & Assoc,Real Estate,,15001,50000,0,Y,,
+"",Abgenix Inc,Unknown,,15001,50000,0,Y,,
+D000058840,Zymogenetics Inc,Pharm/Health Prod,,1001,15000,0,Y,,
+D000029616,USAA Federal Savings Bank,Savings & Loans,Cash/Money Market/Savings/Checking,1001,15000,0,Y,Y,Y
+D000037158,Robert Half International,Business Services,,1001,15000,0,Y,,
+"",Nuveen Equity Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000034662,Informatica Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Gold Kist Inc,Mining,,1001,15000,0,Y,,
+D000033813,Freescale Semiconductor,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Flower Foods Inc,Food Process/Sales,,1001,15000,0,Y,,
+D000066662,Flextronics International,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000000495,DuPont Co,Chemicals,,1001,15000,0,Y,Y,Y
+"",ConAgra Foods,Food Process/Sales,,1001,15000,0,Y,,
+"",Comverse Technology,Unknown,,1001,15000,0,Y,,
+D000021700,Ameriprise Financial,Securities/Invest,,1001,15000,0,Y,Y,
+D000000217,American Express,Finance/Credit,,1001,15000,0,Y,Y,
+D000031323,Adobe Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

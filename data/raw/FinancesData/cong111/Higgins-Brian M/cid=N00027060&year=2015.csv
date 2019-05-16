@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000035524,M&T Bank,Commercial Banks,Cash/Money Market/Savings/Checking,3003,45000,0,Y,Y,Y
+"",Schwab S&P 500 Index,,Mutual Fund,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000067523,Charles Schwab & Co,Securities/Invest,,1001,15000,0,Y,,

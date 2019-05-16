@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Cincinnati Financial Co,Securities/Invest,,250001,500000,0,T,,
+"",NFP Securities Prime Fund Daily Money,Unknown,Mutual Fund,50001,100000,0,T,,
+D000032579,Cincinnati Financial,Insurance,,30002,100000,0,T,Y,Y
+"",Franklin/Savings & Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"",Victory Small CO OPPT Fund,Unknown,Mutual Fund,2002,30000,0,T,,
+"",Victory Established Value Fund,Unknown,Mutual Fund,2002,30000,0,T,,
+"",TIAA-CREF CREF Social Choice,Unknown,Mutual Fund,1001,15000,0,T,,
+"",TIAA-CREF CREF Growth,Unknown,Mutual Fund,1001,15000,0,T,,
+"",TIAA-CREF CREF Equity Index,Unknown,Mutual Fund,1001,15000,0,T,,
+D000021983,Fifth Third Bancorp,Commercial Banks,,1001,15000,0,T,Y,
+"",CREF Stock Fund,Securities/Invest,Mutual Fund,1001,15000,0,T,,
+"",American Century Ultra Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",American Century Heritage Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",American Century Growth Fund,Unknown,Mutual Fund,1001,15000,0,T,,

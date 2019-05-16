@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Tax Prap Reohl,Unknown,,100001,250000,0,Y,,
+"",Hartford Life Insurance 403K,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+D000029616,USAA,Insurance,,15001,50000,0,Y,Y,Y
+"",San Diego County Credit Union IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Hancock Bank Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Bilbray Tax Service,Misc Finance,,15001,50000,0,Y,,
+D000029616,USAA,Insurance,Cash/Money Market/Savings/Checking,2002,30000,0,Y,Y,Y
+"",USAA World Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",US Savings Bonds,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,
+"",First National Bank of Picayune,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",California Public Empl Retirement System,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,1,1000,0,Y,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1,1000,0,Y,Y,
+D000000457,Corning Inc,Misc Mfg/Distrib,,1,1000,0,Y,Y,
+D000000071,Citigroup Inc,Commercial Banks,,1,1000,0,Y,Y,Y

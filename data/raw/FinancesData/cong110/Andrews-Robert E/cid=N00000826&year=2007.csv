@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Metlife Defined Contribution Plan,Unknown,Insurance policies & Annuities,250853,250853,0,A,,
+"",PNC Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Olive B Andrews Testamentary Trust,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Citizens Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Pepco Inc,Electric Utilities,,1,1000,0,Y,,
+D000026470,Hershey Co,Food & Beverage,,1,1000,0,Y,Y,

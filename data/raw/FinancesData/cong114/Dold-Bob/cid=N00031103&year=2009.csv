@@ -1,0 +1,24 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rose Exterminator Co,Misc Services,,1001002,5015000,0,N,,
+"","414 Frontage Road/Northfield, IL",Real Estate,,500001,1000000,0,N,,
+"",Rose Pest Solutions,Misc Services,,100001,250000,0,N,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,50001,100000,0,N,Y,
+D000000094,Time Warner,TV/Movies/Music,,15001,50000,0,N,Y,
+D000000373,McDonald's Corp,Food & Beverage,,15001,50000,0,N,Y,Y
+"",Fountainhead Partners LLC,Real Estate,,15001,50000,0,N,,
+"",WinTrust Financial,Commercial Banks,,1001,15000,0,N,,
+D000000881,Time Warner Cable,TV/Movies/Music,,1001,15000,0,N,Y,
+D000022274,TD Ameritrade,Securities/Invest,,1001,15000,0,N,Y,Y
+D000026978,Kellogg Co,Food Process/Sales,,1001,15000,0,N,Y,
+"",Keeley Small Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Janus Orion Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,N,Y,
+"",Insured Deposit Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Growth Fund of America,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Fundamental Investors Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Entergy Ark,Unknown,,1001,15000,0,N,,
+"",Dodge & Cox International Fund,Misc Finance,Mutual Fund,1001,15000,0,N,,
+"",Dell Inc,Electronics Mfg/Eqp,,1001,15000,0,N,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,N,Y,
+D000000091,BP,Oil & Gas,,1001,15000,0,N,Y,
+D000000123,American International Group,Insurance,,1001,15000,0,N,Y,Y

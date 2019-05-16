@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Residence,Real Estate,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",600002,1250000,0,Y,,
+"",Lakeside Bancshares,Commercial Banks,,500001,1000000,0,Y,,
+"",North & East Trading Co,Unknown,,250001,500000,0,Y,,
+"",Crowley Holding Co,Unknown,,250001,500000,0,Y,,
+"",Residence 4 Acres/Sunset Hill/Rockwall,Real Estate,,100001,250000,0,Y,,
+"","Farm/152 acres/Hunt County, TX",Crop Production,,100001,250000,0,Y,,
+"",Rural Land 22 Acres/Kaufman-Henderson,Real Estate,,15001,50000,0,Y,,
+"",Lakeside National Bank,Commercial Banks,,15001,50000,0,Y,,
+"",Oil Interests,Oil & Gas,,1001,15000,0,Y,,
+"",HT Development LP,Real Estate,,2,2000,0,Y,,

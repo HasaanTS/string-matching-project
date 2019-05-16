@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Washington Townhouse Apartment,Real Estate,,250001,500000,0,Y,,
+"",US Senate Federal Credit Union IRA,Unknown,Cash/Money Market/Savings/Checking,200002,500000,0,Y,,
+"",US Senate Federal Credit Union Roth IRA,Unknown,"Brokerage, IRA, 401k",30002,100000,0,Y,,
+"",Senate Credit Union Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Colorado Community Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Wayne Allard Credit Union member Account,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+"",Joan Allard Credit Union member Account,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+"",Colorado Community Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,

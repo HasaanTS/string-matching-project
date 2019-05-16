@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",BB&T Bank,Commercial Banks,Unknown,1002,16000,0,Y,,
+"",Lockheed Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Andrews Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank Deposit Sweep,Unknown,Cash/Money Market/Savings/Checking,14280,14280,0,Y,,
+"",Maryland College Investment Plans,Unknown,"Brokerage, IRA, 401k",1027,1027,0,Y,,
+"","Bank of New York, NJ",Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000026171,Gaylord Entertainment,Lodging/Tourism,,98,98,0,Y,,Y

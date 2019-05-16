@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental House,Real Estate,,500001,1000000,0,Y,,
+"",Van Kampen Growth & Income Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000032702,Coach Inc,Misc Mfg/Distrib,,50001,100000,0,Y,,
+"",Regions Stable Principal,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Eaton Vance Income Fund Boston,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",DWS Dreman Small Cap Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Columbia Acorn Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American Funds Washington,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American Funds Europacific Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American Funds EuroPacific Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Wells Fargo Advantage,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Columbia Marsico Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Investment,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Funds Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Amcap,Unknown,Mutual Fund,1001,15000,0,Y,,

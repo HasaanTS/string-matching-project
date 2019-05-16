@@ -1,0 +1,45 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",First Eagle Global Fund,Unknown,Mutual Fund,51002,115000,0,Y,,
+"",Permanent Portfolio Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,30002,100000,0,Y,Y,Y
+D000000129,Exxon Mobil,Oil & Gas,,50001,100000,0,Y,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,50001,100000,0,Y,Y,Y
+"",Citibank/Cash,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000000015,Chevron Corp,Oil & Gas,,50001,100000,0,Y,Y,Y
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",SunTrust/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Royce Special Equity Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Oppenheimer Developing Markets Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",MFS Emerging Markets Debt,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",MFS Diversified Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000040346,Kinder Morgan Energy Partners,Oil & Gas,,15001,50000,0,Y,,
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+"",Duke Energy Corp,Unknown,,15001,50000,0,Y,,
+"",Delaware Diversified,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,15001,50000,0,Y,Y,
+"",Blackrock Inflation Protection Bond,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000076,AT&T Inc,Telephone Utilities,,15001,50000,0,Y,Y,Y
+"",Sentinel VPT,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Templeton Global Bond Fund,Unknown,Mutual Fund,1001,16000,0,Y,,
+"",Van Eck VIP Unconstrained Emerging Markets Bond Fd,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Van Eck VIP Emerging Markets,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Van Eck Global Hard Assets Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",TICC Capital,Securities/Invest,,1001,15000,0,Y,,
+D000000201,Textron Inc,Air Transport,,1001,15000,0,Y,Y,Y
+"",T Rowe Price Equity Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000029185,Staples Inc,Retail Sales,,1001,15000,0,Y,,Y
+"",Sentinel VPT Small Co,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Oakmark Equity & Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Neuberger Berman AMT Short Duration Bond,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Morgan Stanley Consultant Adviors Account,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Lous Sayles Bond Institutional,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Franklin VA TX Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Franklin Global Discovery Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Columbia Acorn International Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Century VP International,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000066608,America Movil,Telephone Utilities,,1001,15000,0,Y,Y,Y
+"",Alliance Bernstein VPS Small Mid Cap Val,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Alliance Bernstein VPS Intl Value,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Alger Large Cap Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Loomis Sayles Bond Fund,Unknown,Mutual Fund,0,1000,0,Y,,

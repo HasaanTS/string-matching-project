@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Money Market Plus SD,Unknown,Cash/Money Market/Savings/Checking,65002,150000,0,Y,,
+"",IRA Ivy Asset Strategy,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Franklin Federal Interm Tax Free Fund,Unknown,Mutual Fund,30002,100000,0,Y,,
+"",Franklin Small Cap Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Franklin Mutual Discovery Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",First Eagle Gold Fund,Mining,,15001,50000,0,Y,,
+"",Fidelity Tax Free Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Seligman Communication & Info Fund,Misc Communications,Mutual Fund,1001,15000,0,Y,,
+"",PowerShares NASDAQ 100,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",PIMCO All Asset Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000064407,Meta Financial Group,Misc Finance,,1001,15000,0,Y,Y,Y
+"",Franklin Natrl Resources,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Brokerage Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",First Southern Bank/CD,Unknown,Cash/Money Market/Savings/Checking,101002,265000,0,Y,,
+"",Medical Practice,Health Professionals,,100001,250000,0,Y,,
+"",Pacific Value Annuity,Unknown,,100002,200000,0,Y,,
+"",Commercial Lot,Real Estate,,50001,100000,0,Y,,
+"",Accounts Receivable/Medical Arts Plaza M,Unknown,Note/Note Receivable,50001,100000,0,Y,,
+"",Citizen State Bank/Checking,Unknown,,15001,50000,0,Y,,
+"",Citizen State Bank/CD,Unknown,,2002,30000,0,Y,,
+"",Reelastar Annuity IMG Savings Annuity,Unknown,,1001,15000,0,Y,,
+"",Morgan Stanley Exact Service Corp,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",HCA Lifetime 401k,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,

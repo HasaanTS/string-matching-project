@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental Property/Rogers, AR",Real Estate,,100001,250000,0,Y,,
+"",Pulaski Tech College,Unknown,,50001,100000,0,Y,,
+"",Donaghey Plaza Project,Unknown,,50001,100000,0,Y,,
+"",Sales & Use Tax,Unknown,Unknown,15001,50000,0,Y,,
+"",Goldman Sachs Cash Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Kansas City Life Insurance Universal Life,Unknown,Insurance policies & Annuities,2002,30000,0,Y,,
+"",US Savings Bond,Unknown,Government Bond,1001,15000,0,Y,,
+"",Stephens Inc Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Arvest Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

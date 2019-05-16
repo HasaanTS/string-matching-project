@@ -1,0 +1,25 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Walgreen Group,Retail Sales,,5000001,25000000,0,Y,,
+D000045801,US Bank,Commercial Banks,,5000001,25000000,0,Y,,
+"",Lloyds of London,Insurance,,1000001,5000000,0,Y,,
+D000021757,Berkshire Hathaway,Securities/Invest,,1000001,5000000,0,Y,Y,Y
+D000028179,Oshkosh Corp,Trucking,,500001,1000000,0,Y,Y,Y
+"",Nameco,Unknown,,500001,1000000,0,Y,,
+"",McGraw Hill Financial,Misc Finance,,500001,1000000,0,Y,,
+D000019828,Emerson Electric,Misc Mfg/Distrib,,500001,1000000,0,Y,Y,
+D000021970,eBay Inc,Internet,,500001,1000000,0,Y,Y,
+D000033033,Danaher Corp,Misc Mfg/Distrib,,500001,1000000,0,Y,Y,
+D000027367,Manitowoc Co,Building Materials,,250001,500000,0,Y,,Y
+"",Fidelity Nat'l Infor,Unknown,Mutual Fund,250001,500000,0,Y,,
+D000000457,Corning Inc,Misc Mfg/Distrib,,250001,500000,0,Y,Y,
+"",Wisconsin Retirement System,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Plum Creek Co,Real Estate,,100001,250000,0,Y,,
+"",Integrys ENC Co,Unknown,,100001,250000,0,Y,,
+"",Harp 2 Loss Insurance,Insurance,,100001,250000,0,Y,,
+"",US Bank/Trust Fund Corp,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Rental Propert/N5329 D-New,Real Estate,,15001,50000,0,Y,,
+"",Piper Jaffary,Unknown,,15001,50000,0,Y,,
+"",Northwest Mvt Annuity,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Morrill Lynch/Cash,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Hagan Stanley Smith Banks,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Eaton Vance Enhanced Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

@@ -1,0 +1,56 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","13.231 Acres/Weatherford,TX",Real Estate,,500001,1000000,0,Y,,
+"",Schwab Cash Account,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,250001,500000,0,Y,Y,Y
+D000000015,Chevron Corp,Oil & Gas,,250001,500000,0,Y,Y,Y
+"",JP Morgan Chase & Co/Bank Account,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",BJ Wholesale,Unknown,,100001,250000,0,Y,,
+"",Washington First Bankshares,Commercial Banks,,30002,100000,0,Y,,
+"",United Bancorp,Unknown,,50001,100000,0,Y,,
+"",Sacramento County Municipal Bond,Unknown,Government Bond,50001,100000,0,Y,,
+"",Metropolitian Water 4% 12,Unknown,Government Bond,50001,100000,0,Y,,
+"",LaserLock Technologies Inc,Unknown,,50001,100000,0,Y,,
+"",Houston Tax Revenue Bond,Unknown,Government Bond,50001,100000,0,Y,,
+"",California Bond,Unknown,Government Bond,30002,100000,0,Y,,
+"",Akbank Turk Anonim Sirketi,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Virginia Res 5125 Bond,Unknown,Government Bond,15001,50000,0,Y,,
+"",Virginia 5% Bond,Unknown,Government Bond,15001,50000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,15001,50000,0,Y,Y,Y
+"",Vanguard Prime Money Market Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",United Bank DC,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000881,Time Warner Cable,TV/Movies/Music,,15001,50000,0,Y,Y,Y
+"",SPDR Gold Trust ETF,Mining,,15001,50000,0,Y,,
+"",San Juan Basin Royalty Trust,Real Estate,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000000373,McDonald's Corp,Food & Beverage,,15001,50000,0,Y,Y,Y
+"",Lousiville & Jefferson County Bond,Unknown,Government Bond,15001,50000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+"",Hampton Roads Bankshares,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Fidelity Blue Chip Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000408,Deere & Co,Agricultural Svcs,,15001,50000,0,Y,Y,
+"",Central Fund of Canada,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000027988,Newmont Mining,Mining,,2002,30000,0,Y,Y,
+"",Yamana Gold Inc,Mining,,1001,15000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,
+"",Vanguard S&P 500 Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000030608,Unilever,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000021773,Travelers Companies,Insurance,,1001,15000,0,Y,Y,
+D000000301,Torchmark Corp,Insurance,,1001,15000,0,Y,Y,
+D000000223,Schering-Plough Corp,Pharm/Health Prod,,1001,15000,0,Y,,
+D000042525,Royal Dutch Shell,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,Y,Y,
+"",Northwestern Annuity,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+D000022110,Medtronic Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000035524,M&T Bank,Commercial Banks,,1001,15000,0,Y,,
+D000000148,CSX Corp,Railroads,,1001,15000,0,Y,Y,Y
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Canadian Natural Resources,Oil & Gas,,1001,15000,0,Y,,
+"",Campbell & Kenton County Bond,Unknown,Government Bond,1001,15000,0,Y,,
+"",Black Warrior Trust,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000024099,Applied Materials Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000066784,Anglogold Ashanti,Mining,,1001,15000,0,Y,,
+"",Agnico Eagle Mines,Mining,,1001,15000,0,Y,,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,Y,Y,Y

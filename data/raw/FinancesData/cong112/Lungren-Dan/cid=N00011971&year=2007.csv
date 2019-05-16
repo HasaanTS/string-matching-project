@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",UBS Financial Services Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Stoneyford Ranch,Real Estate,,15001,50000,0,Y,,
+"",Golden One Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000025822,First Horizon Bank,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Legg Mason Aggressive Growth Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Legg Mason Fundamental Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Congressional FCU Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",BB&T Bank accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

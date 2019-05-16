@@ -1,0 +1,35 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",UPS Savings Plan,Unknown,"Brokerage, IRA, 401k",100001,250000,0,T,,
+"",UPS Deferred Compensation Plan,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,T,,
+"",USAA Life Insurance,Insurance,,50001,100000,0,T,,
+D000068479,Wellpoint Inc,Health Services,,15001,50000,0,T,,
+"",UPS Qualified Stock Ownership Plan,Unknown,Unknown,15001,50000,0,T,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,15001,50000,0,T,Y,Y
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,15001,50000,0,T,Y,
+"",Novellus Systems,Electronics Mfg/Eqp,,15001,50000,0,T,,
+D000035934,Mks Instruments,Electronics Mfg/Eqp,,15001,50000,0,T,,
+D000022108,Medco Health Solutions,Health Services,,15001,50000,0,T,Y,
+"",Avnet Inc,Electronics Mfg/Eqp,,15001,50000,0,T,,
+D000058840,Zymogenetics Inc,Pharm/Health Prod,,1001,15000,0,T,,
+D000029942,XTO Energy,Oil & Gas,,1001,15000,0,T,,
+D000029616,USAA Federal Savings Bank,Savings & Loans,Unknown,1001,15000,0,T,Y,Y
+D000019533,US Steel,Steel Production,,1001,15000,0,T,Y,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+D000029602,US Cellular,Telecom Svcs,,1001,15000,0,T,,
+D000029280,Sun Microsystems,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+D000028484,Psychiatric Solutions,Misc Health,,1001,15000,0,T,,
+"",Oppenheimer Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Nuveen Equity Premium Advantage Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Merrill Lynch Ready Assets,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Merrill Lynch Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+D000053504,McAfee Inc,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+D000035385,Life Time Fitness,Misc Services,,1001,15000,0,T,,
+D000022068,L-3 Communications,Defense Electronics,,1001,15000,0,T,Y,Y
+"",Human Genome Sciences Inc,Pharm/Health Prod,,1001,15000,0,T,,
+D000000089,FedEx Corp,Air Transport,,1001,15000,0,T,Y,Y
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,T,Y,Y
+D000000495,DuPont Co,Chemicals,,1001,15000,0,T,Y,Y
+"",Davis New York Venture Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+D000021700,Ameriprise Financial,Securities/Invest,Unknown,1001,15000,0,T,Y,
+D000000217,American Express,Finance/Credit,,1001,15000,0,T,Y,
+D000031387,Alcoa Inc,Misc Mfg/Distrib,,1001,15000,0,T,Y,

@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Silervado Credit Union,,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+"","Ownership of 2140 Finley Road East Finleu, CA",,,500001,1000000,0,Y,,
+"",Half Ownership 1435/1439 Kearney Street,,,500001,1000000,0,Y,,
+D000044505,First Republic Bank,Commercial Banks,,100001,250000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,100001,250000,0,Y,Y,Y
+"",Vanguard Institutional Index Fund,,Mutual Fund,65002,150000,0,Y,,
+"",Harbor Mid Cap,,Mutual Fund,65002,150000,0,Y,,
+"",AHRP Cap Pres,,Mutual Fund,65002,150000,0,Y,,
+D000019566,Wells Fargo Bank,Commercial Banks,,50001,100000,0,Y,,
+"",Washington Mutual Fund,,Mutual Fund,1001,15000,0,Y,,

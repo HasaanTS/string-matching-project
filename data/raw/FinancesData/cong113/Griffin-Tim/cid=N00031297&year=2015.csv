@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000022216,Regions Financial,Commercial Banks,,2002,30000,0,T,Y,
+"",TD Ameritrade Money Market,,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",PESPX Mutual Fund,,Mutual Fund,1001,15000,0,T,,
+D000069793,Murphy USA,Unknown,,1001,15000,0,T,,
+D000027753,Murphy Oil,Oil & Gas,,1001,15000,0,T,Y,
+"",TD Ameritrade Mon Market,Unknown,,1,1000,0,T,,

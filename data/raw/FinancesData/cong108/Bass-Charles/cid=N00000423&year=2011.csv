@@ -1,0 +1,29 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Land & Buildings/Peterborough, NH",Real Estate,,1000001,5000000,0,Y,,
+"",New England Wood Pellet,Forest Products,,500001,1000000,0,Y,,
+"",LLB Revocable Trust,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+"",CFB Revocable Trust not self-directed,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+"",IRA Fund Source Core Amerian Moderate Gr,Unknown,,150002,350000,0,Y,,
+"",Pathways Moderate Growth Fund Wells Farg,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Land & Buildings,Real Estate,,100001,250000,0,Y,,
+"",Land,Real Estate,,100001,250000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,100001,250000,0,Y,Y,Y
+"",CAP Industries,Crop Production,,100001,250000,0,Y,,
+"",Ocean Bank (Peoples United) Checking Acc,Unknown,,52003,130000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,50001,100000,0,Y,Y,
+"",Bond Fund of America 529,Unknown,Mutual Fund,30002,100000,0,Y,,
+"",529 C Fund Capital Income Builder,Unknown,Mutual Fund,30002,100000,0,Y,,
+"",Ocean Bank,Commercial Banks,,16002,65000,0,Y,,
+"",US Treasury Note,Unknown,,15001,50000,0,Y,,
+"",Three Twins Organic Ice Cream,Food Process/Sales,,15001,50000,0,Y,,
+"",QM Power,Misc Mfg/Distrib,,15001,50000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+"",Loan Due CAP Ind,Unknown,Note/Note Receivable,15001,50000,0,Y,,
+D000000133,GlaxoSmithKline,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000000076,AT&T Inc,Telephone Utilities,,15001,50000,0,Y,Y,Y
+"",Growth Fund of America,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Money Market Fund 529,Unknown,,1001,15000,0,Y,,
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",529 Capital World Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Ocean Bank (Peoples United)/Savings,Unknown,,1,1000,0,Y,,

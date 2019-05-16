@@ -1,0 +1,21 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",California Legislative Retirement System,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+D000000094,Time Warner,TV/Movies/Music,,15001,50000,0,Y,Y,
+D000021148,Chevron USA,Oil & Gas,,15001,50000,0,Y,,
+D000046082,Teppco Crude Oil,Oil & Gas,,1001,15000,0,Y,Y,
+"",Scottish Power,Electric Utilities,,1001,15000,0,Y,,
+"",Schwab Cash Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Research In Motion,Retail Sales,,1001,15000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000028048,Novamed Inc,Health Professionals,,1001,15000,0,Y,,
+D000036243,Nordstrom Inc,Retail Sales,,1001,15000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",Krispy Kreme Doughnut Corp,Unknown,,1001,15000,0,Y,,
+"",Kohls Corp,Retail Sales,,1001,15000,0,Y,,
+"",Inter-Tel Inc,Unknown,,1001,15000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",Congressional FCU Account,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Atlas Growth Opportunity Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000024099,Applied Materials Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"","Oil, gas & mineral rights to Property",Misc Energy,,1,1000,0,Y,,

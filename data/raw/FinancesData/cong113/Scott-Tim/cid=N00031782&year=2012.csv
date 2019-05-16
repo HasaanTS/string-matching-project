@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Properties LLC,Real Estate,,1000001,5000000,0,Y,,
+"",Dan Martin Carolina Insurance Group,Insurance,,500002,1000000,0,Y,,
+"",Rivertown Investments,Real Estate,,100001,250000,0,Y,,
+"",Tim Scott & Assoc,Business Services,,15001,50000,0,Y,,
+"",South Carolina Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000000632,Allstate Insurance,Insurance,,15001,50000,0,Y,Y,Y
+"",Lincoln Benefit Life Co,Insurance,,2002,30000,0,Y,,
+"",Allstate Insurance Co Universal Life,Unknown,Insurance policies & Annuities,2002,30000,0,Y,,
+"",Oppenheimer Global Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Great Western Mutual Pension,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Wells Fargo/Checking & Savings,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+"",Heritage Trust FCU Checking/Savings A/C,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+"",First Citizens Bank/Checking & Savings,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,

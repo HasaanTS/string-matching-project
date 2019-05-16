@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","55 G Street/South Boston, MA",Real Estate,,500001,1000000,0,Y,,
+"","3 Jason Terrace/South Boston, MA",Real Estate,,250001,500000,0,Y,,
+"",Pioneer Mid Cap Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Pioneer Equity Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",EMC Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Bank of America/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Focus Growth Fund,Unknown,Mutual Fund,1,1000,0,Y,,

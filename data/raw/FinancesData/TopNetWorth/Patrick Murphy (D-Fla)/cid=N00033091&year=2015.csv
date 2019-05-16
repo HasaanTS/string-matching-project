@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000032704,Coastal Construction Group,,,1000001,5000000,0,Y,,Y
+"",SaM Conservative Growth Portfolio,,Mutual Fund,50001,100000,0,Y,,
+"",BB&T accounts,,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Franklin Dynatech Fund,,Mutual Fund,2002,30000,0,Y,,
+D000000487,US Bancorp,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",American Funds New Perspective Fund,,Mutual Fund,1001,15000,0,Y,,
+"",American Funds AmCap Fund,,Mutual Fund,1001,15000,0,Y,,
+"",American Balanced Fund,,Mutual Fund,1001,15000,0,Y,,

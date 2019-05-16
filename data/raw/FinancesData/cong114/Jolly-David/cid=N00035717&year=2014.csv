@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity Cash Fund,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Oakmark Equity & Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Freedom 2095,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Focus Stock Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000033563,Facebook Inc,Internet,,15001,50000,0,Y,Y,
+D000000090,Bank of America,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Mikros,Unknown,,1001,15000,0,Y,,
+"",Congressional Federal Credit Union/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",AMG Yacktman Focus Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000157,American Airlines,Air Transport,,1001,15000,0,Y,,
+"",Alps ETF Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

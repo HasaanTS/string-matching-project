@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Medical Practice,Health Professionals,,100001,250000,0,Y,,
+"",First Southern Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Pacific Life 401k Pacific Value Annunity,Unknown,"Brokerage, IRA, 401k",100002,200000,0,Y,,
+"","Commercial Lot/S Pittsburg, TN",Real Estate,,50001,100000,0,Y,,
+"",Accounts Receivable Medical Practice,Health Professionals,,50001,100000,0,Y,,
+"",Rellastar Annunity IMG Savings Annunity,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",IRA Morgan Stanley Exact Service Corp,Unknown,Unknown,1001,15000,0,Y,,
+"",HCA Lifetime 401k,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,

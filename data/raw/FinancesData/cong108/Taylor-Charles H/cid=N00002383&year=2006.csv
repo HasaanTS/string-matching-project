@@ -1,0 +1,19 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Financial Guaranty Corp,Commercial Banks,,50000001,50000001,1,T,,
+"",Monte Vista Corp,Unknown,,1000001,5000000,0,T,,
+"",Major Land & Timber Partnership,Real Estate,,1000001,5000000,0,T,,
+"","Farm/Transylvania County, NC",Crop Production,,1000001,5000000,0,T,,
+"",Blue Ridge Savings Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1000001,5000000,0,T,,
+"",Bank of Ivanovo,Commercial Banks,,1000001,5000000,0,T,,
+"",Columbus LLC Membership Shares,Unknown,,500001,1000000,0,T,,
+"",Southeastern Real Estate & Discount,Real Estate,,250001,500000,0,T,,
+D000029128,South Financial Group,Commercial Banks,,100001,250000,0,T,,Y
+"",Gaybo Co,Unknown,,100001,250000,0,T,,
+"","104 North Liberty Street/Asheville, NC",Real Estate,,100001,250000,0,T,,
+D000057277,Summit Bank,Commercial Banks,,1001,15000,0,T,,
+"",Riverside Co Estates Partnership,Unknown,,1001,15000,0,T,,
+"",North Carolina State Empl Pension Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",IRA Blue Ridge Savings Bank,Unknown,"Brokerage, IRA, 401k",1001,15000,0,T,,
+"",Cedar Creek Farms Partnership,Crop Production,Note/Note Receivable,1001,15000,0,T,,
+D000021868,BB&T Corp,Commercial Banks,,1001,15000,0,T,,Y
+"",McCrae Industries,Unknown,,1,1000,0,T,,

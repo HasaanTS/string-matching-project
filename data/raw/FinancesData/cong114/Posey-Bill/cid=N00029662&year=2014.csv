@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","806 Mystic Dr #310/Cape Canaveral, FL",Real Estate,,100001,250000,0,Y,,
+"","1824 S Fiske Blvd/Rockledge, FL",Real Estate,,100001,250000,0,Y,,
+"","1803 Hensley Dr/Rockledge, FL",Real Estate,,100001,250000,0,Y,,
+"","1004 Boston Blvd/Rockledge, FL",Real Estate,,100001,250000,0,Y,,
+D000022269,SunTrust Banks,Commercial Banks,Unknown,15001,50000,0,Y,Y,Y
+"","1820 Huntington Ln/Rockledge, FL",Real Estate,,15001,50000,0,Y,,
+D000019566,Wells Fargo Bank,Commercial Banks,Unknown,1001,15000,0,Y,,
+"",Community Educators Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Rockledge Group I,Unknown,,1,1000,0,Y,,
+"",Posey & Co Realtors,Unknown,,1,1000,0,Y,,
+"",Indian Oaks Corp,Unknown,,1,1000,0,Y,,

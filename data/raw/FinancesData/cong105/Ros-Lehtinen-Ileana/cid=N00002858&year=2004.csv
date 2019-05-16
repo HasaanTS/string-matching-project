@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Commercial Bank of,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Royal West Properties Loan,Unknown,Note/Note Receivable,15001,50000,0,Y,,
+"",Alliance Premier Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Florida State Retirement Plan,Unknown,"Brokerage, IRA, 401k",2002,30000,0,Y,,
+"",Commercial Bank of Florida,Commercial Banks,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Nokia Corp,Telecom Svcs,,1001,15000,0,Y,,
+"",Community Bank of Homestead,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Community Bank IRAs,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Mega Bank,Commercial Banks,,1,1000,0,Y,,
+"",Bank Atlantic,Commercial Banks,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

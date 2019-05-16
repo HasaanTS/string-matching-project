@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","19 Bock Avenue/Newark, NJ",Real Estate,,250001,500000,0,A,,
+"",MetLife Annuity,Unknown,Insurance policies & Annuities,100001,250000,0,A,,
+"",Smith Barney/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",Smith Barney CG Large Cap Growth,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Smith Barney CG Capital Markets Intl,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Smith Barney CG Capital Market Large Cap,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Smith Barney Bank Deposit Program,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+D000000141,Prudential,Real Estate,,15001,50000,0,A,Y,Y
+D000000275,Merck & Co,Pharm/Health Prod,,15001,50000,0,A,Y,Y
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,A,Y,
+"",Smith Barney Small Cap Value,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Smith Barney Small Cap Growth,Unknown,Mutual Fund,1001,15000,0,A,,
+D000022108,MedCo Health Solutions,Health Services,,1001,15000,0,A,Y,
+"",World Space,Unknown,,1,1000,0,A,,
+"",Laser Master International,Unknown,,1,1000,0,A,,

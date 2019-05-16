@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental Property,Real Estate,,100001,250000,0,Y,,
+D000018028,Prudential Financial Services,,,100001,250000,0,Y,,
+"",Parcel of Land,,,100001,250000,0,Y,,
+"",Los Angeles Fire & Police Pension,,Government Bond,100001,250000,0,Y,,
+"",Allianz Annuity,,Insurance policies & Annuities,100001,250000,0,Y,,
+"",Allianz Whole Life,,Insurance policies & Annuities,102004,230000,0,Y,,
+"",Federal National Mortgage Assn,,,15001,50000,0,Y,,
+"",US Savings Bond,,Government Bond,2002,30000,0,Y,,
+D000032506,Chase Group,Business Services,,2002,30000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",Los Angeles Police Federal Credit Union,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Golden One Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

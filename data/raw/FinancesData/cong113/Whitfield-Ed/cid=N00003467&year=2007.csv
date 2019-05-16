@@ -1,0 +1,41 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Jefferson Partners Commercial,Real Estate,,350002,750000,0,Y,,
+"",Jefferson Partners S-LLC,Unknown,,250001,500000,0,Y,,
+"",Vanguard S&P 500 Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Vacant Lot/Greenbrier Sporting Club/WV,Real Estate,,100001,250000,0,Y,,
+"",Rental Property/Vista Del Lido,Real Estate,,100001,250000,0,Y,,
+D000000425,May Department Stores,Retail Sales,,100001,250000,0,Y,,
+"",Fidelity IRA,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,100001,250000,0,Y,Y,Y
+"",Commercial Real Estate/Huntington Beach,Real Estate,,100001,250000,0,Y,,
+D000000015,Chevron Corp,Oil & Gas,,100001,250000,0,Y,Y,Y
+D000000804,Intel Corp,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,50001,100000,0,Y,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,16002,65000,0,Y,Y,Y
+"",Vanguard Mid Cap Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Vanguard GNMA Fund,Real Estate,,15001,50000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+"",Payless Shoes,Retail Sales,,15001,50000,0,Y,,
+D000027373,Manulife Financial,Misc Finance,,15001,50000,0,Y,Y,
+"",Flavor X,Unknown,,15001,50000,0,Y,,
+"",Fidelity Blue Chip Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000071,Citigroup Inc,Commercial Banks,,15001,50000,0,Y,Y,
+"",Williams Energy,Oil & Gas,,1001,15000,0,Y,,
+D000059660,United Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,Y,Y,Y
+"",TIAA-CREF,Securities/Invest,,1001,15000,0,Y,,
+"",Sprint Nextel,Telecom Svcs,,1001,15000,0,Y,,
+D000000223,Schering-Plough Corp,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Oak Aoc Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Northwestern Annuity,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Nokia Corp,Telecom Svcs,,1001,15000,0,Y,,
+D000027417,Marshall & Ilsley Bank,Commercial Banks,,1001,15000,0,Y,,
+"",Integrys Energy,Electric Utilities,,1001,15000,0,Y,,
+D000000477,Duke Energy,Electric Utilities,,1001,15000,0,Y,Y,Y
+D000000148,CSX Corp,Railroads,,1001,15000,0,Y,Y,Y
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000391,Amgen Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000607,Xerox Corp,Misc Mfg/Distrib,,1,1000,0,Y,Y,
+"",Schwab Account Cash,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

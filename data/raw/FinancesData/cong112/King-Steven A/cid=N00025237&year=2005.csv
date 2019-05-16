@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",King Construction,General Contractors,,250001,500000,0,A,,
+"",Retirement Fund Ipers,Unknown,Mutual Fund,30002,100000,0,Y,,
+"",Federal Thrift Savings Plan,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",50001,100000,0,Y,,
+"",New York Life Insurance Policy,Unknown,Insurance policies & Annuities,16002,65000,0,Y,,
+"",Mainstay Corp Bond Fund,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",Mainstay High Yield Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Mainstay Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Mainstay Total Return Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

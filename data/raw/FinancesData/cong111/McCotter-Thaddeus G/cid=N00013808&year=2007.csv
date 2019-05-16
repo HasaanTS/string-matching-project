@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Riversource Variable Universal Life,Unknown,Insurance policies & Annuities,100001,250000,0,Y,,
+"",Riversource Strategic Select Portfolio,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Riversource UGMA Mid Cap Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Riversource International Select Fund,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Riversource ESA Small Cap Fund,Unknown,Mutual Fund,3003,45000,0,Y,,
+"",Riversource Mid Cap Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Riversource Cash Management,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Riversource UGMA Small Cap Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Riversource UGMA Large Cap Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Riversource Small Cap Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Riversource Large Cap New Dimensions,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Riversource Euro Equity Fund,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Riversource Diverse Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000021795,LaSalle Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000021907,Chrysler LLC,Automotive,,1001,15000,0,Y,Y,Y

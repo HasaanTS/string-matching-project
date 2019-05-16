@@ -1,0 +1,27 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Farm/11468 Hwy 105,Crop Production,,1000001,5000000,0,O,,
+"",Residential House - 169 Crystal Dew,Unknown,,250001,500000,0,O,,
+"",Rental/189 Crystal Dew,Real Estate,,250001,500000,0,O,,
+"",Transamerica Annuity,Unknown,Mutual Fund,100001,250000,0,O,,
+"",Schwab One Checking Account,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,O,,
+"",Riversource Annuity,Unknown,Insurance policies & Annuities,100001,250000,0,O,,
+"",Rental - 11853 Hwy 105,Unknown,,100001,250000,0,O,,
+"",NY Life - Van Eck,Unknown,Mutual Fund,65002,150000,0,O,,
+"",Schwab International Equity ETF,Unknown,Mutual Fund,50001,100000,0,O,,
+"",Rental - 11470 Hwy 105,Unknown,,50001,100000,0,O,,
+D000000089,Fedex Corp,Air Transport,,50001,100000,0,O,Y,
+D000000067,Altria Group,Tobacco,,50001,100000,0,O,Y,Y
+"",Truliant Federal CU,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,O,,
+"",Templeton Foreign Fund,Unknown,Mutual Fund,15001,50000,0,O,,
+"",Schwab US TIPs ETF,Unknown,Mutual Fund,15001,50000,0,O,,
+D000022192,Pitney Bowes Inc,Misc Mfg/Distrib,,15001,50000,0,O,Y,
+"",Forum Energy Technologies,Oil & Gas,,15001,50000,0,O,,
+D000000182,Ford Motor Co,Automotive,,15001,50000,0,O,Y,Y
+D000000352,Caterpillar Inc,Building Materials,,15001,50000,0,O,Y,Y
+D000023131,Branch Banking & Trust,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,O,,
+"",Artisian Trust Fund,Unknown,Mutual Fund,15001,50000,0,O,,
+D000031387,Alcoa Inc,Misc Mfg/Distrib,,15001,50000,0,O,Y,
+"",6 Acres Land/11468 Hwy 105,Real Estate,,15001,50000,0,O,,
+"",3 Acres Land/11468 Hwy 105,Real Estate,,15001,50000,0,O,,
+"",Schwab US Small-Cap ETF,Unknown,Mutual Fund,1,1000,0,O,,
+"",Schwab US Large-Cap ETF,Unknown,Mutual Fund,1,1000,0,O,,

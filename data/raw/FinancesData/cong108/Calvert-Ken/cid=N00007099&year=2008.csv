@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Commercial Rental Property/Corona, CA",Real Estate,,2000005,7000000,0,Y,,
+"","Commercial Rental/Corona, CA",Real Estate,,1000002,2000000,0,Y,,
+"",Green Farms,Crop Production,Note/Note Receivable,500001,1000000,0,Y,,
+"",Vacant Land/Limonite,Real Estate,,250001,500000,0,Y,,
+"",Calvert Real Properties,Real Estate,,250001,500000,0,Y,,
+"",Citizens Business Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,

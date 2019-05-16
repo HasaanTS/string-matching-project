@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Citi Smith Barney IRA,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Wachovia Bank Account,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Goldman Sachs/CD,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Fifth Third Bank/CD,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Wachovia Bank SEP/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Citibank South Dakota Bank Deposit Prog,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Wachovia Bank IRA/CD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

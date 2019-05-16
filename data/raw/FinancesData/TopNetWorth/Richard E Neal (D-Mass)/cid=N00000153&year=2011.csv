@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Alliance Bank & Trust,Commercial Banks,Unknown,50001,100000,0,A,,
+"","City of Springfield, MA Retirement Fund",Unknown,"Brokerage, IRA, 401k",15001,50000,0,A,,
+"",Prime Fund Cash Cap Reserve,Unknown,,1001,15000,0,A,,
+"",Bank North,Savings & Loans,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",T Rowe Prime Cap Appreciation,Unknown,,1,1000,0,A,,
+"",T Rowe Price Global,Unknown,Mutual Fund,1,1000,0,A,,
+"","Springfield, MA Credit Union",Unknown,Cash/Money Market/Savings/Checking,1,1000,0,A,,
+"",Fidelity Leveraged Company Stock Fund,Unknown,Mutual Fund,1,1000,0,A,,
+"",Fidelity Balanced Fund,Unknown,Mutual Fund,1,1000,0,A,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,A,,

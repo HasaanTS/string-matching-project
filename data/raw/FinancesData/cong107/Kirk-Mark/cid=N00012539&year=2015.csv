@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Apartment/Washington, DC",,,250001,500000,0,Y,,
+"",US Community Credit Union,,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000000343,Northwestern Mutual,,,2002,30000,0,Y,Y,Y
+"",MSA-MidCap Growth Stock,,Mutual Fund,2002,30000,0,Y,,
+"",Franklin-Templeton International Equity,,Mutual Fund,2002,30000,0,Y,,
+"",MSA - Balanced,,Mutual Fund,1001,15000,0,Y,,
+D000067523,Charles Schwab & Co,Securities/Invest,,0,1000,0,Y,,

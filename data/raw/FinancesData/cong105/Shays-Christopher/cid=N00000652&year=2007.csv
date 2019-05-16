@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wells Fargo Mortgage Escrow,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000051948,HSBC,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000036602,Peoples Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1,1000,0,Y,,Y

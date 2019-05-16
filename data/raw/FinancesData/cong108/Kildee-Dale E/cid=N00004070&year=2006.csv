@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Washington Mutual Bank/CD,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",Capital One Bank/CD,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",Wachovia Bank SEP/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+D000021573,Wachovia Bank account,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,A,Y,
+"",Citibank South Dakota Bank Deposit Prog,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",SunTrust Banks/CD,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,A,,
+"",Wachovia Bank IRA/CD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,A,,

@@ -1,0 +1,19 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Nokia Corp,Telecom Svcs,,15001,50000,0,Y,,
+"",Merrill Lynch Retirement Annuity,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+D000000275,Merck & Co,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000000691,Goodyear Tire & Rubber,Chemicals,,15001,50000,0,Y,Y,
+D000000076,AT&T Inc,Telephone Utilities,,15001,50000,0,Y,Y,Y
+"",IRA Aim Weingarten,Unknown,"Brokerage, IRA, 401k",2002,30000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,
+"",Roth IRA DWS Dreman Henn,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",ROTH IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",LSI Logic,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,
+D000000171,International Paper,Forest Products,,1001,15000,0,Y,Y,
+D000000155,General Motors,Automotive,,1001,15000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000182,Ford Motor Co,Automotive,,1001,15000,0,Y,Y,Y
+D000000495,DuPont Co,Chemicals,,1001,15000,0,Y,Y,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",Ipe ARC,Unknown,,1,1000,0,Y,,

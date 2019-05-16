@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",SPDR S&P 500 ETF Trust,,Mutual Fund,100001,250000,0,Y,,
+"",USAA/Checking,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",USAA Total Return Strategy,,Mutual Fund,1001,15000,0,Y,,
+"",USAA Capital Growth Fund,,Mutual Fund,1001,15000,0,Y,,
+"",USAA Aggressive Growth Fund,,Mutual Fund,1001,15000,0,Y,,
+"",US Savings Bond,,Government Bond,1001,15000,0,Y,,
+"",PNC Checking,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",USAA First Start,,Mutual Fund,1,1000,0,Y,,

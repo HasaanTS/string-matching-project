@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",General Board/Ministerial Pension Plan,Unknown,"Brokerage, IRA, 401k",250001,500000,0,A,,
+"",Grandview Auto Wash,Misc Services,,100001,250000,0,A,,
+"",General Board/Personal Investment Plan,Unknown,"Brokerage, IRA, 401k",30002,100000,0,A,,
+"",Zenith Equity,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Small Cap Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",FI Structured Equity,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Equity Growth,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Davis Venture Value Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Star Growth Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",SSR Money Market Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",SSR Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Loomis Growth Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,A,Y,Y
+"",Cash Management Trust Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,

@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental 1/Tamuning, GU",Real Estate,,1000001,5000000,0,Y,,
+"","Rental 3/Las Vegas, NV",Real Estate,,500001,1000000,0,Y,,
+"","Rental 2/Ocala, FL",Real Estate,,500001,1000000,0,Y,,
+"",Certificates of Deposit (10) Congression,Unknown,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+"",Suntrust Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",SunTrust Bank/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Congressional FCU Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

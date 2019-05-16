@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Cantwell 2000 Campaign Loan,,Note/Note Receivable,1000001,5000000,0,Y,,
+D000036986,RealNetworks Inc,Electronics Mfg/Eqp,,100001,250000,0,Y,,
+"",US Bank Checking,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Harbor Capital Appreciation Institutional,,Mutual Fund,15001,50000,0,Y,,
+"",William Blair International Growth N,,Mutual Fund,1001,15000,0,Y,,
+"",Vanguard Windsor II Fund,,Mutual Fund,1001,15000,0,Y,,
+"",Vanguard Total Bond Market Index Fund,,Mutual Fund,1001,15000,0,Y,,
+"",RealNetworks 401k retirement,,Mutual Fund,1001,15000,0,Y,,
+"",Morgan Stanley Institutional Small Co Gr,,Mutual Fund,1001,15000,0,Y,,
+"",Dodge & Cox International Fund,Misc Finance,Mutual Fund,1001,15000,0,Y,,
+"",American Beacon Small Cap Value Fund,,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Institutional Money Market Fund,,Mutual Fund,0,1000,0,Y,,

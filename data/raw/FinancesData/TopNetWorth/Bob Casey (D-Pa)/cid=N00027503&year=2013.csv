@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Pennsylvania Employees Retirement System,Unknown,Insurance policies & Annuities,100001,250000,0,Y,,
+"",MA Moderate Growth Portfolio,Unknown,Mutual Fund,100001,250000,0,Y,,
+"","Ameriprise Insured(Minneapolis, MN) Money Market",Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Now UInstitution: Pennsylvania,Unknown,"Brokerage, IRA, 401k",16002,65000,0,Y,,
+"",MA Portfolio 2015 Institution,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",MA Aggressive Growth Portfolio,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Janus Flexible Bond,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Blue Chip Growth Fund,Unknown,Mutual Fund,3003,45000,0,Y,,
+D000000531,FirstEnergy Corp,Electric Utilities,,2002,30000,0,Y,Y,Y
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",PA State Employees Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"","First National Community Bank Dunmore, PA/Savings",Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"","First National Community Bank Dunmore, PA/Checking",Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",First National Community Bank Dunmore,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",PNC Bank/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,0,1000,0,Y,,

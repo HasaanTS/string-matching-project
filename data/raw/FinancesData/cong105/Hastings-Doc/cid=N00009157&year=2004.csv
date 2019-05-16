@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Columbia Basin Paper & Supply,Forest Products,,500001,1000000,0,Y,,
+"",Yakima Federal/Deposit,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Charles Schwab IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000022305,Vanguard Group,Securities/Invest,,1001,15000,0,Y,Y,
+"",Total Stock Market Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Total International Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Schwab Small Cap Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Schwab Select S&P,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Schwab International Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Mathews-Pacific,Unknown,,1001,15000,0,Y,,
+"",Columbia Trust Deposit,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Chevy Chase Deposit,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

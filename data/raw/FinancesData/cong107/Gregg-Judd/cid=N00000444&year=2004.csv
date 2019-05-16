@@ -1,0 +1,75 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fleet/Stock & Fleet Bank/Savings,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1000001,5000000,0,Y,,
+"",IPAC LLC,Electronics Mfg/Eqp,,250001,500000,0,Y,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,250001,500000,0,Y,Y,Y
+"",Say Pease LLC,Real Estate,,100001,250000,0,Y,,
+"",Say Pease II LLC,Real Estate,,100001,250000,0,Y,,
+"","Real Estate/Sarasota, FL",Real Estate,,100001,250000,0,Y,,
+"",GSC Recovery Fund IIA,Unknown,Mutual Fund,100001,250000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,50001,100000,0,Y,Y,Y
+"","Real Estate/unimproved land/Marlow, NH",Real Estate,,50001,100000,0,Y,,
+"",Photran LLC,Telecom Svcs,,50001,100000,0,Y,,
+"",Neville Trust,Unknown,,50001,100000,0,Y,,
+D000000805,KeyCorp,Commercial Banks,,50001,100000,0,Y,,Y
+"",Flashpoint Technology,Electronics Mfg/Eqp,,50001,100000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,50001,100000,0,Y,Y,Y
+"",Woodhaven LP,Securities/Invest,,15001,50000,0,Y,,
+"",Woodhaven III LP,Securities/Invest,,15001,50000,0,Y,,
+"",Virtual Homes LLC,Electronics Mfg/Eqp,,15001,50000,0,Y,,
+"",Triumph Investment Fund,Securities/Invest,Mutual Fund,15001,50000,0,Y,,
+"",Travelers Managed Asset Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000029185,Staples Inc,Retail Sales,,15001,50000,0,Y,Y,Y
+"",Peptix LLC,Securities/Invest,,15001,50000,0,Y,,
+D000036441,Overstock.Com,Retail Sales,,15001,50000,0,Y,,
+D000000206,Occidental Petroleum,Oil & Gas,,15001,50000,0,Y,Y,
+"",National Life Insurance/Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+"",Mantech Corp,Unknown,,15001,50000,0,Y,,
+D000026492,HJ Heinz Co,Food Process/Sales,,15001,50000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+D000064191,Fairchild Semiconductor,Electronics Mfg/Eqp,,15001,50000,0,Y,,
+D000042426,CSK Auto,Automotive,,15001,50000,0,Y,,
+D000000071,Citigroup Inc,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",Battery Venture Capital,Securities/Invest,,15001,50000,0,Y,,
+"",BankNorth,Commercial Banks,,15001,50000,0,Y,,
+"",Alderwood Group,Real Estate,,15001,50000,0,Y,,
+"",222 International Drive LP,Real Estate,,15001,50000,0,Y,,
+D000000155,General Motors,Automotive,,2002,30000,0,Y,Y,Y
+D000021773,Travelers Companies,Insurance,,1001,15000,0,Y,Y,Y
+"",Solectron Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000021677,SBC Communications,Telephone Utilities,,1001,15000,0,Y,,
+"",Riverstone Net,Unknown,,1001,15000,0,Y,,
+"",Reliant Resources,Electric Utilities,,1001,15000,0,Y,,
+"",RBC Raucher Tucker Anthony Cash Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000485,Procter & Gamble,Chemicals,,1001,15000,0,Y,Y,Y
+"",Pixami Investors,Securities/Invest,,1001,15000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Penn Mutual Pennsylvania/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",On Plan Investors,Securities/Invest,,1001,15000,0,Y,,
+"",NH ReCap LP,Real Estate,,1001,15000,0,Y,,
+"",Nashua ReCap LP,Unknown,,1001,15000,0,Y,,
+D000022887,Mony Group,Insurance,,1001,15000,0,Y,,
+"",Milford ReCap LP,Real Estate,,1001,15000,0,Y,,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000034869,JM Smucker Co,Food Process/Sales,,1001,15000,0,Y,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",Federal Credit Union NOW Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000022519,DIRECTV Group,Telecom Svcs,,1001,15000,0,Y,,
+"",Delphi Corp,Automotive,,1001,15000,0,Y,,
+D000042633,Del Monte Foods,Food Process/Sales,,1001,15000,0,Y,Y,
+"",Dean Witter/Morgan Stanley Cash Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000025111,Consolidated Edison Inc,Electric Utilities,,1001,15000,0,Y,Y,
+"",Breakaway Solutions,Unknown,,1001,15000,0,Y,,
+D000000091,BP,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000031719,Automatic Data Processing Inc,Business Services,,1001,15000,0,Y,,
+D000019838,Agilent Technologies,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000022291,Unisys Corp,Electronics Mfg/Eqp,,0,1000,0,Y,Y,Y
+"",Texas Genco Holdings,Electric Utilities,,0,1000,0,Y,,
+"","Real Estate/unimproved land/Epping, NH",Real Estate,,0,1000,0,Y,,
+"",News Corporation,TV/Movies/Music,,0,1000,0,Y,,
+D000022108,Medco Health Solutions,Health Services,,0,1000,0,Y,Y,Y
+"",Ipix Corp,Unknown,,0,1000,0,Y,,
+"",Galaxy Asset Allocation Fund,Unknown,Mutual Fund,0,1000,0,Y,,
+"",CCBT,Unknown,,0,1000,0,Y,,

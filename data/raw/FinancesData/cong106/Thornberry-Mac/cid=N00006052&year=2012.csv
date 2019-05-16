@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Thornberry Brothers Cattle Partnership,Livestock,,250001,500000,0,Y,,
+"",EMJAY Retirement Savings Plan,Unknown,"Brokerage, IRA, 401k",16002,65000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",State Farm Life Insurance Policy,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Mineral Interest,Mining,,1001,15000,0,Y,,

@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",1304 Quintard/Anniston,Real Estate,,500001,1000000,0,Y,,
+"",Capitol Development LLC,Unknown,,250001,500000,0,Y,,
+"",Noble Bank,Commercial Banks,,100001,250000,0,Y,,
+"",12 McCullars/Oxford,Real Estate,,100001,250000,0,Y,,
+"",1126 Snow St/Oxford,Real Estate,,100001,250000,0,Y,,
+"",Alabama PrePaid Tuition Plan,Unknown,"Brokerage, IRA, 401k",45003,150000,0,Y,,
+"",UBS Paine Webber 401k,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Oxford Auto Finance,Finance/Credit,,50001,100000,0,Y,,
+"",Avery Auto Sales,Automotive,,50001,100000,0,Y,,
+"",Auto Oxford,Unknown,,50001,100000,0,Y,,
+"",1310 Quintard/Anniston,Real Estate,,50001,100000,0,Y,,
+D000000168,Southern Co,Electric Utilities,,15001,50000,0,Y,Y,Y
+"",Retirement Systems of Alabama,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Putnam College Advantage Global Based,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Cheska Bank,Commercial Banks,,15001,50000,0,Y,,
+"",123 East 13th St/Anniston,Real Estate,,15001,50000,0,Y,,

@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","524 Johnstown Rd, Chesapeake VA - Office Building",Real Estate,,1000001,5000000,0,Y,,
+"",Vacant Land,Real Estate,,100001,250000,0,Y,,
+"","Lot/Duck Rd Dare County, NC",Unknown,,100001,250000,0,Y,,
+"","536 Johnstown Rd, Chesapeake, VA - Rental Home",Real Estate,,100001,250000,0,Y,,
+"",Virginia Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",BB&T bank accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Bank of America Account,Commercial Banks,"Brokerage, IRA, 401k",2002,30000,0,Y,,
+"",Virginia Consultant LLC,Unknown,,1001,15000,0,Y,,
+"",SunTrust Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",BB&T Bank Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank of Hampton Roads Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

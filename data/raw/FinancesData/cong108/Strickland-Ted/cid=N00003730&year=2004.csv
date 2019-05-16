@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Smith Educational Enterprises,Unknown,,50001,100000,0,Y,,
+"",National City Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000022431,National City Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,Y,

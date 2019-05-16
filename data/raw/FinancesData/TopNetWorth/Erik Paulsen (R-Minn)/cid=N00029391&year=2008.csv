@@ -1,0 +1,34 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wells Fargo Savings & Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",TD Ameritrade Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Minnesota Retirement International Share,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Minnesota Retirement Fixed Interest Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Minnesota Retirement Common Stock Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Minnesota College Savings Guarantee Opt,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Lutheran Church Extension Fund/Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",New Opportunities II,Unknown,Mutual Fund,1002,16000,0,Y,,
+"",Vanguard Simple IRA Growth Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Vanguard Simple IRA 500 Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",TD Ameritrade Reserve Funds Yield Plus,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",TD Ameritrade Prvt Investor Mutual Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Target Research Stock Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000619,Target Corp,Retail Sales,,1001,15000,0,Y,Y,Y
+"",Small Company Stock Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",S&P 500 Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",North Truck Funds Roth IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Minnesota College Savings Equity Option,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000022110,Medtronic Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000022105,McKesson Corp,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Lutheran Church Extension Fund/CD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",International Stock Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Div International Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Dodge & Cox Balanced Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000022329,XCEL Energy,Electric Utilities,,1,1000,0,Y,Y,Y
+"",Minnesota College Savings MM Govt,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000059889,LSI Corp,Electronics Mfg/Eqp,,1,1000,0,Y,,
+"",Gencor,Unknown,,1,1000,0,Y,,
+D000023834,Alcatel-Lucent,Telecom Svcs,,1,1000,0,Y,Y,
+"",ADC Telecommunications,Telecom Svcs,,1,1000,0,Y,,

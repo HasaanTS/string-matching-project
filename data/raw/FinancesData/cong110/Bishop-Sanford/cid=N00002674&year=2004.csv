@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000021573,Wachovia Securities,Securities/Invest,,50001,100000,0,A,Y,Y
+"","House & Lot 908 Illges Rd/Columbus, GA",Real Estate,,50001,100000,0,A,,
+D000024064,Amsouth Bancorp,Commercial Banks,Cash/Money Market/Savings/Checking,17003,80000,0,A,Y,
+"",Merrill Lynch CMA Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"","House & Lot 311 Yates St/Starkville, MS",Real Estate,,15001,50000,0,A,,
+"",SunTrust Banks Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"","Lot 24A Lakemont Heights/Hartwell, GA",Real Estate,,1001,15000,0,A,,
+"",Legislative Retirement System of Georgia,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Commonwealth Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",SouthTrust Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1,1000,0,A,,

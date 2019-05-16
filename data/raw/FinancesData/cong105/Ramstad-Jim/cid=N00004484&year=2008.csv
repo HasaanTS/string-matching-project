@@ -1,0 +1,27 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000032558,Christen Group,Commercial Banks,,5250002,25500000,0,T,,
+"",Municipal Bond Portfolio (list attached),Unknown,Mutual Fund,5000001,25000000,0,T,,
+"",CH Liquidating Trust - First Interstate,Unknown,,5000001,25000000,0,T,,
+"",S&P Depository SP 500,Unknown,Mutual Fund,1000001,5000000,0,T,,
+"",Farm Property/North Dakota,Crop Production,,1000001,5000000,0,T,,
+"",Wells Fargo Money Market,Unknown,Cash/Money Market/Savings/Checking,500001,1000000,0,T,,
+"",Wells Fargo Bank Savings Account,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,T,,
+D000025823,First Interstate Bancsystem,Commercial Banks,,250001,500000,0,T,,
+D000037293,Russell Reynolds Assoc,Business Services,,100001,250000,0,T,,Y
+"",First Western Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,T,,
+"",Fidelity Managed Inc Portfolio,Unknown,Mutual Fund,100001,250000,0,T,,
+"",Fidelity Freedom 2020,Unknown,Mutual Fund,100001,250000,0,T,,
+"",Bank of the West Keogh,Unknown,"Brokerage, IRA, 401k",100001,250000,0,T,,
+D000000200,PepsiCo Inc,Food & Beverage,,50001,100000,0,T,Y,Y
+"",Legislative Retirement Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,T,,
+D000000467,General Mills,Food Process/Sales,,15001,50000,0,T,Y,Y
+D000021754,Apple Inc,Electronics Mfg/Eqp,,15001,50000,0,T,Y,
+D000000367,Wal-Mart Stores,Retail Sales,,1001,15000,0,T,Y,
+"",Pfizer stock (IRA),Unknown,,1001,15000,0,T,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,T,Y,Y
+D000021949,Darden Restaurants,Food & Beverage,,1001,15000,0,T,Y,
+"",Centennial Money Market Account (IRA),Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Woodworth Farmers Group,Misc Agriculture,,1,1000,0,T,,
+D000000205,Fannie Mae,Real Estate,,1,1000,0,T,Y,
+"",Christen Co,Unknown,,1,1000,0,T,,

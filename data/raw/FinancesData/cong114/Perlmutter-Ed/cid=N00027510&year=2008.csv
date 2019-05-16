@@ -1,0 +1,28 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000487,US Bancorp,Commercial Banks,,150002,350000,0,Y,Y,Y
+"",Vanguard 500 Index,Securities/Invest,Mutual Fund,100001,250000,0,Y,,
+"",Sterling Partners Managed Account,Unknown,,65002,150000,0,Y,,
+"",Elk Petroleum,Oil & Gas,,30002,100000,0,Y,,
+D000042329,Stanley Works,Misc Mfg/Distrib,,17003,80000,0,Y,,
+"",New Resource Bank,Commercial Banks,,16002,65000,0,Y,,
+"",ZLDR Ventures,Unknown,,15001,50000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",First Independent Bank of Vancouver,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Colorado PERA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Tamarack Money Market,Unknown,Cash/Money Market/Savings/Checking,3003,45000,0,Y,,
+D000022400,Piper Jaffray,Securities/Invest,,2002,30000,0,Y,,
+"",Royal Bank of Canada Inflation notes,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000055403,Philip Morris International,Tobacco,,1001,15000,0,Y,Y,
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,Y,Y,
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,Y,Y,
+"",Hartford Life Insurance,Insurance,,1001,15000,0,Y,,
+D000000703,Costco Wholesale,Retail Sales,,1001,15000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000000067,Altria Group,Tobacco,,1001,15000,0,Y,Y,Y
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",Galaxo Smithkline,Unknown,,2,2000,0,Y,,
+"",Weitz Value Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Tweedy Browne Global Value Fund,Securities/Invest,Mutual Fund,1,1000,0,Y,,
+"",T Rowe Price Equity Income Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Longleaf Partners Small Cap Fund,Unknown,Mutual Fund,1,1000,0,Y,,

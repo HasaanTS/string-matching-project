@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Land/Chilmark, MA",Real Estate,,500001,1000000,0,N,,
+"",Real Estate,Real Estate,,250001,500000,0,N,,
+D000000172,MetLife Inc,Insurance,,15001,50000,0,N,Y,
+"","Land/Port Charlotte, FL",Real Estate,,1001,15000,0,N,,
+"",Citizens Whole Life Insurance account,Unknown,Insurance policies & Annuities,1001,15000,0,N,,

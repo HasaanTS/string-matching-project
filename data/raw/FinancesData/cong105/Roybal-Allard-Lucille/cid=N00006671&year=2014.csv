@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Congressional FCU/Checking & Savings,Unknown,Cash/Money Market/Savings/Checking,515002,1050000,0,O,,
+D000058892,United Way of America,Non-Profits,,115002,300000,0,O,Y,
+"",Mutual of America Roybal Foundation Retirement Fun,Unknown,"Brokerage, IRA, 401k",15001,50000,0,O,,
+"",Prudential Equity Income,Unknown,Mutual Fund,1001,15000,0,O,,
+"",Oppenheim Funds,Unknown,Mutual Fund,1001,15000,0,O,,
+D000062615,Navy Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,O,,

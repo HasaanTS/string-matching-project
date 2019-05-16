@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental House,Real Estate,,250001,500000,0,A,,
+"",House Property,Real Estate,,250001,500000,0,A,,
+"",Capital Bank,Unknown,,50001,100000,0,A,,
+"",Nokia Corp,Telecom Svcs,,1001,15000,0,A,,
+"",Community Bank of Homestead IRAs,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",Community Bank of Homestead,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",BB&T Bank,Commercial Banks,,1001,15000,0,A,,

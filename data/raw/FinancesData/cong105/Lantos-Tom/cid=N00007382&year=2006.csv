@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000100,Boeing Co,Defense Aerospace,,1015002,5050000,0,Y,Y,Y
+"",Multi-Unit Apartment Building/Vancouver,Real Estate,,1000001,5000000,0,Y,,
+D000000607,Xerox Corp,Misc Mfg/Distrib,,250001,500000,0,Y,Y,
+"",Government Reserves,Unknown,Unknown,101002,265000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,100001,250000,0,Y,Y,Y
+D000000570,Eastman Kodak,Misc Mfg/Distrib,,100001,250000,0,Y,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,50001,100000,0,Y,Y,
+"",Schwab Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000169,Northwest Airlines,Air Transport,,15001,50000,0,Y,Y,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000000632,Allstate Corp,Insurance,,1,1000,0,Y,Y,

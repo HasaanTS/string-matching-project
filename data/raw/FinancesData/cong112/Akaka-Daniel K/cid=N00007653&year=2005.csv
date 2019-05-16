@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Condominium/Alexandria, VA",Real Estate,,500001,1000000,0,Y,,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,250001,501000,0,Y,,
+"",Akaka Family Estate/Savings-Real Estate,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",250001,500000,0,Y,,
+"",T Rowe Price Prime Reserve Fund (IRA),Unknown,Mutual Fund,30002,100000,0,Y,,
+"",College Retirement Equity Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000025820,First Hawaiian Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",TIAA-CREF,Securities/Invest,Insurance policies & Annuities,0,1000,0,Y,,
+"",Honolulu Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,

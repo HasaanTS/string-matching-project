@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000103,JPMorgan Chase & Co,Commercial Banks,,15001,50000,0,Y,Y,
+D000021792,HSBC Bank,,,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

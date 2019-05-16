@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Approx 50 Acres/Lyme, NH",Real Estate,,500001,1000000,0,Y,,
+D000000328,Fidelity Investments,Securities/Invest,"Brokerage, IRA, 401k",300002,600000,0,Y,,
+D000020989,UBS Financial Services,Securities/Invest,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Merrimack County Savings Bank Account,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Citizen's Bank Account,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,

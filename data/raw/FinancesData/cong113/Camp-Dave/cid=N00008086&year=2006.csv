@@ -1,0 +1,109 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Keil Trust 3/5/98 fbo Nancy Camp,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1000001,5000000,0,Y,,
+D000000188,Dow Chemical,Chemicals,,350002,750000,0,Y,Y,Y
+"",Utah State G/O Ult Bond,Unknown,Government Bond,100001,250000,0,Y,,
+"",US Treasury Bills,Unknown,Government Bond,100001,250000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,100001,250000,0,Y,Y,Y
+"",Missouri G/O Ref Building A Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"",Illinois G/O Unltd Series A Bond,Unknown,Government Bond,100001,250000,0,Y,,
+D000000284,Wyeth,Pharm/Health Prod,,50001,100000,0,Y,Y,
+"",Wisconsin Transportation Revenue Bond,Unknown,Government Bond,50001,100000,0,Y,,
+"",Washington State G/O Ult Bonds,Unknown,Government Bond,50001,100000,0,Y,,
+"","Troy, MI City School Dist G/O Ult Bond",Unknown,Government Bond,50001,100000,0,Y,,
+"",South Carolina State G/Obond,Unknown,Government Bond,50001,100000,0,Y,,
+"",Michigan State Trunkline Bond,Unknown,Government Bond,50001,100000,0,Y,,
+"","Lansing, Ml School District Bond",Unknown,Government Bond,50001,100000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,Y
+D000026492,HJ Heinz Co,Food Process/Sales,,50001,100000,0,Y,Y,Y
+"",Georgia State G/O Bond,Unknown,Government Bond,50001,100000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,50001,100000,0,Y,Y,Y
+"",FPL Group,Electric Utilities,,50001,100000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,Y
+"",Chemical Financial,Commercial Banks,,50001,100000,0,Y,,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,50001,100000,0,Y,Y,Y
+D000000128,Walt Disney Co,TV/Movies/Music,,15001,50000,0,Y,Y,
+D000021573,Wachovia Corp,Commercial Banks,,15001,50000,0,Y,Y,
+D000030495,Toyota Motor Corp,Automotive,,15001,50000,0,Y,Y,
+D000037780,Starbucks Corp,Food & Beverage,,15001,50000,0,Y,Y,
+"",SSGA Govt Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Sector Spdr SBI Financial Fund,Misc Finance,,15001,50000,0,Y,,
+"",Sector Spdr SBI Consumer Staples,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,15001,50000,0,Y,Y,Y
+D000028179,Oshkosh Corp,Trucking,,15001,50000,0,Y,Y,
+D000036243,Nordstrom Inc,Retail Sales,,15001,50000,0,Y,,
+D000042332,Nestle SA,Food & Beverage,,15001,50000,0,Y,Y,Y
+D000027765,Mylan Laboratories,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000000055,Monsanto Co,Agricultural Svcs,,15001,50000,0,Y,Y,Y
+"",Michigan State Employee Deferred Comp,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+"",Michigan Muni Bond Auth Rev Bond,Unknown,Government Bond,15001,50000,0,Y,,
+D000022110,Medtronic Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+D000000373,McDonald's Corp,Food & Beverage,,15001,50000,0,Y,Y,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+"",iShares S&P 500 Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",iShares Iboxx Invest Grade Corp Bond Fnd,Unknown,Government Bond,15001,50000,0,Y,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000419,Home Depot,Retail Sales,,15001,50000,0,Y,Y,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000022008,Google Inc,Internet,,15001,50000,0,Y,Y,
+D000026221,Gilead Sciences,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000026188,Gentex Corp,Misc Mfg/Distrib,,15001,50000,0,Y,,
+D000000165,General Dynamics,Defense Electronics,,15001,50000,0,Y,Y,
+D000000596,Genentech Inc,Pharm/Health Prod,,15001,50000,0,Y,,
+"",Freeport-McMoRan Copper & Gold,Mining,,15001,50000,0,Y,,
+D000000089,FedEx Corp,Air Transport,,15001,50000,0,Y,Y,Y
+D000000129,Exxon Mobil,Oil & Gas,,15001,50000,0,Y,Y,Y
+"",Energy Transfer Equity LP,Oil & Gas,,15001,50000,0,Y,,
+D000025490,Diageo PLC,"Beer, Wine & Liquor",,15001,50000,0,Y,Y,Y
+D000000703,Costco Wholesale,Retail Sales,,15001,50000,0,Y,,
+D000025111,Consolidated Edison Inc,Electric Utilities,,15001,50000,0,Y,Y,
+D000000303,ConocoPhillips,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000025046,Comerica Inc,Commercial Banks,,15001,50000,0,Y,,Y
+D000000071,Citigroup Inc,Commercial Banks,,15001,50000,0,Y,Y,Y
+D000021908,Chesapeake Energy,Oil & Gas,,15001,50000,0,Y,,
+D000000352,Caterpillar Inc,Building Materials,,15001,50000,0,Y,Y,Y
+D000032060,Boston Properties,Real Estate,,15001,50000,0,Y,,
+D000031719,Automatic Data Processing Inc,Business Services,,15001,50000,0,Y,Y,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000000391,Amgen Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+D000000217,American Express,Finance/Credit,,15001,50000,0,Y,Y,
+D000000560,Alltel Corp,Telecom Svcs,,15001,50000,0,Y,Y,
+D000031323,Adobe Systems,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,
+D000029782,Weatherford International,Oil & Gas,,1001,15000,0,Y,Y,
+D000043978,VeraSun Energy,Misc Energy,,1001,15000,0,Y,Y,
+D000000209,United Technologies,Defense Aerospace,,1001,15000,0,Y,Y,Y
+"",SSGA Tax Free Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Sector Spdr SBI Technology Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Sector SPDR SBI Industrial Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Sector Spdr SBI Health Care Fund,Misc Health,,1001,15000,0,Y,,
+"",Sector SPDR SBI Energy Fund,Misc Energy,,1001,15000,0,Y,,
+"",Sector Spdr SBI Consumer Discretionary,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000215,Sanofi,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Research In Motion,Retail Sales,,1001,15000,0,Y,,
+D000028533,Rayonier Inc,Forest Products,,1001,15000,0,Y,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000206,Occidental Petroleum,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000022163,Novartis AG,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",News Corporation,TV/Movies/Music,,1001,15000,0,Y,,
+D000043203,Moody's Corp,Finance/Credit,,1001,15000,0,Y,Y,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000044019,ITC Holdings,Electric Utilities,,1001,15000,0,Y,,
+"",iShares S&P Mid Cap 400 Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares S&P Mid Cap 400 Growth Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares MSCI EAFE Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares Lehman 7-10 Year Treasury Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares Lehman 1-3 Year Treasury Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares Dow Jones US Utility Sector,Misc Energy,,1001,15000,0,Y,,
+"",iShares Dow Jones US Telecom Sector Indx,Telecom Svcs,,1001,15000,0,Y,,
+"",iShares Dow Jones US Healthcare Sector,Misc Health,,1001,15000,0,Y,,
+D000021791,HSBC Holdings,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000033765,Forward Air Corp,Misc Transport,,1001,15000,0,Y,,
+"",Dell Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,Y,Y,
+D000032736,Colgate-Palmolive Co,Pharm/Health Prod,,1001,15000,0,Y,,
+"",Centennial Tax Exempt Trust,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,
+"",Centennial Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000021892,Cardinal Health,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000067273,BHP Billiton,Mining,,1001,15000,0,Y,Y,
+D000019838,Agilent Technologies,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",AG Edwards Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Washington Dept of Retirement Systems,Unknown,"Brokerage, IRA, 401k",115002,300000,0,Y,,
+"",T Rowe Price Personal Strategy Growth,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",T Rowe Price Mid Cap Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",T Rowe Price Equity Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Prevail Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000034717,International Creative Management,TV/Movies/Music,,1001,15000,0,Y,,
+"",Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank of America account,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

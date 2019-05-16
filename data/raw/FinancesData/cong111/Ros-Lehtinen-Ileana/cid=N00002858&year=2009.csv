@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental House/Miami, FL",Real Estate,,250001,500000,0,Y,,
+"","House Property/Miami, FL",Real Estate,,250001,500000,0,Y,,
+"",Metro Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Nokia Corp,Telecom Svcs,,1001,15000,0,Y,,
+"",Community Bank of Homestead IRAs,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Community Bank of Homestead,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Commercial Bank of Florida,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank Atlantic,Commercial Banks,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

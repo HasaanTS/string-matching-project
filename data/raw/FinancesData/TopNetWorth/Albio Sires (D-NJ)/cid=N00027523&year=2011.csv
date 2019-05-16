@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Union Township Municipal Bonds,Unknown,Government Bond,50001,100000,0,Y,,
+"",Merry Lynch Bank Dep Prog,Unknown,,50001,100000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+D000000303,Conocophillips,Oil & Gas,,15001,50000,0,Y,Y,
+"",TD Bank,Commercial Banks,,1001,15000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y

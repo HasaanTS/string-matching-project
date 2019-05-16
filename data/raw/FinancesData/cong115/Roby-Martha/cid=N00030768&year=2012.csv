@@ -1,0 +1,21 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Hancey Mill Road Farm LLC,Real Estate,,250001,500000,0,Y,,
+D000000301,Torchmark Corp,Insurance,,31003,115000,0,Y,Y,
+D000029727,Waddell & Reed,Securities/Invest,,30002,100000,0,Y,,
+"",MassMutual Managed Growth Portfolio Fd,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Wells Galliard Blended Stable Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Wells Fargo/Accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",T Rowe Price Mid Cap Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Mainstay Large Cap Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Harbor International Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Columbia Large Cap Index Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American Funds Euro Pacific Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American Beacon Small Cap Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American Beacon Large Cap Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Vale SA,Mining,,1001,15000,0,Y,,
+"",Mainstay Funds Trust Growth Equity Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Columbia Small Cap Growth I Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Artisan Mid Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Palazzo & Co,Unknown,,500001,1000000,0,Y,,
+"",Interest,,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",250001,500000,0,Y,,
+"",Greene Acres LLC,,,250001,500000,0,Y,,
+"",Bancorp South/Bank Accounts Business,,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Bancorp South/Bank Accounts Personal,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",KFCU Bank Account,,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",First National Bank Account,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Muriel Siebert,,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

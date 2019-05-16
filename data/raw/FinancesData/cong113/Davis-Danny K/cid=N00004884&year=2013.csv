@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",AIG VALIC Annuity Insurance,Unknown,Insurance policies & Annuities,115002,300000,0,A,,
+"",Seaway Bank,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",My Stock Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+D000053050,Liberty Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Knight Insurance,Insurance,,1001,15000,0,A,,
+D000020730,Chase Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000000090,Bank of America,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,A,Y,
+"",United Credit,Unknown,Unknown,1,1000,0,A,,
+"",Southside Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,A,,
+D000027997,Nicor Inc,Oil & Gas,,1,1000,0,A,,
+D000043496,Austin Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1,1000,0,A,,

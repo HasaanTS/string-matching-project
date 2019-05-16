@@ -1,0 +1,20 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",First Western Bancorp,Commercial Banks,,1000001,5000000,0,Y,,
+"",Farm Property/North Dakota,Crop Production,,1000001,5000000,0,Y,,
+D000037293,Russell Reynolds Assoc,Business Services,,100001,250000,0,Y,,Y
+"",First Western Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Fidelity Managed Income Portfolio,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,A,,
+"",Fidelity Freedom 2010 Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",Bank of the West Keogh,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,50001,100000,0,Y,Y,Y
+"",Legislative Retirement Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000000467,General Mills,Food Process/Sales,,15001,50000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+D000021754,Apple Inc,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000000367,Wal-Mart Stores,Retail Sales,,1001,15000,0,Y,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000205,Fannie Mae,Real Estate,,1001,15000,0,Y,Y,
+D000021949,Darden Restaurants,Food & Beverage,,1001,15000,0,Y,Y,
+"",Centennial Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Woodworth Farmers Group,Agricultural Svcs,,1,1000,0,Y,,
+"",Christen Co,Unknown,,1,1000,0,Y,,

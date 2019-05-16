@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000056841,Sodrel Truck Lines,Trucking,,5250002,25500000,0,Y,,Y
+"",MPPP Account Standard Insurance,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+"",Mike Sodrel for US/Notes Receivable,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",500001,1000000,0,Y,,
+"",Friends of Mike Sodrel/Notes Receivable,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,
+"",Standard Insurance Stable Asset,Unknown,Mutual Fund,184958,184958,0,A,,
+"",T Rowe Price Growth Fund,Unknown,Mutual Fund,100209,100209,0,A,,
+"",William Blair International Growth Fund,Unknown,Mutual Fund,68222,68222,0,A,,
+"",Vanguard Extended Market Index,Unknown,Mutual Fund,68038,68038,0,A,,
+"",T Rowe Price Mid Cap Market Fund,Unknown,Mutual Fund,66841,66841,0,A,,
+"",Vanguard 500 Index Fund,Unknown,Mutual Fund,65836,65836,0,A,,
+"",Sodrel Investments,Unknown,,15001,50000,0,Y,,
+"",Community Bank Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",Hotchkis & Wiley Mid Cap Value Fund,Unknown,Mutual Fund,34143,34143,0,A,,
+"",Vanguard Explorer,Unknown,Mutual Fund,33466,33466,0,A,,
+"",T Rowe Price Equity Income Fund,Unknown,Mutual Fund,33075,33075,0,A,,
+"",Fifth Third Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

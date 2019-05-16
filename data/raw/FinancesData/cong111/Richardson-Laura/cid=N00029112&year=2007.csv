@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Xerox Retirement Account,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Xerox Savings Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Xerox Transitional Retirement Account,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Nationwide Retirement Solutions,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,

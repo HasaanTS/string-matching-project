@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",US Treasury Bills,Unknown,Government Bond,1000001,5000000,0,N,,
+"",Vanguard FTSE Social Index,Unknown,Mutual Fund,115003,250000,0,N,,
+"",Morgan Chase Private Client Asset Mgmt,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,N,,
+"",US Treasury Bill,Unknown,Government Bond,50001,100000,0,N,,
+"",State of Illinois General Assembly DBP,Unknown,"Brokerage, IRA, 401k",50001,100000,0,N,,
+"",Bright Directions 529 Newborn to 8 yrs,Unknown,Mutual Fund,50001,100000,0,N,,
+"",Bright Directions 529 9 to 12 yrs,Unknown,Mutual Fund,50001,100000,0,N,,
+"",Northern Trust/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,

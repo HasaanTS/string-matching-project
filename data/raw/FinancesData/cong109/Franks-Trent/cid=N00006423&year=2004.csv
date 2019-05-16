@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Providence Petroleum,Oil & Gas,,2000002,10000000,0,Y,,
+"",US Patents for LP 1000 Life Pager,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,
+"",House/Rental Property,Real Estate,,100001,250000,0,Y,,
+"",Virex Corp,Unknown,,15001,50000,0,Y,,

@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000373,McDonald's Corp,Food & Beverage,,15001,50000,0,Y,Y,Y
+"",Fidelity Puritan Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Columbia Acorn International Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",College Illinois 529 Plan,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Bank&Trust,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Cincinnati Universal Life,Unknown,Insurance policies & Annuities,2005,33000,0,Y,,
+"",Massachusetts Investors Trust,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Taylorville Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Lord Abett LGCP Core Strm,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Invesco International Growth TR,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Am United Life Ret Account/Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Allianz Roth IRA/cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Alliance Bernstein 2035,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",State of IL Retirement System,Unknown,"Brokerage, IRA, 401k",1,1000,0,Y,,
+"",Fidelity Freedom 2035 Fund,Unknown,Mutual Fund,1,1000,0,Y,,

@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wright Patman Congressional FCU,Credit Unions,Unknown,1001,15000,0,T,,
+"",Wells Fargo Escrow Mortgage,Unknown,"Brokerage, IRA, 401k",1001,15000,0,T,,
+D000036602,Peoples Bank,Commercial Banks,Unknown,1001,15000,0,T,,Y
+D000021791,HSBC Holdings,Finance/Credit,,1001,15000,0,T,Y,Y

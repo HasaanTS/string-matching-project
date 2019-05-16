@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Legg Mason IRA,Unknown,"Brokerage, IRA, 401k",16002,65000,0,Y,,
+"",Sovereign Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Fidelity IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000061152,Enterprise Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,Y

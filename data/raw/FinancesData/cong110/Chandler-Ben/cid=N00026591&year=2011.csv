@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",KY Public Employees Retirement System,Unknown,"Brokerage, IRA, 401k",150002,350000,0,Y,,
+"",Polly Place Farm,Crop Production,,100001,250000,0,Y,,
+"",Rental Unit,Real Estate,,50001,100000,0,Y,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Woodford Sun,Publishing,,15001,50000,0,Y,,
+"",US EE Bonds,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Northwestern Mutual Adjustable Comp Life,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Fidelity Growth Co,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Community Trust Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Commonwealth Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,
+D000000128,Walt Disney Co,TV/Movies/Music,,1,1000,0,Y,Y,

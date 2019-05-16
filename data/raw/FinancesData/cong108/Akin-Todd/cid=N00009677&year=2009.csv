@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Merrill Lynch Retirement Annuity,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Roth IRA DWS Dreman Hennessy,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Aim Weingarten,Unknown,Mutual Fund,2002,30000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,
+"",Nokia Corp,Telecom Svcs,,1001,15000,0,Y,,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000059889,LSI Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,
+D000000171,International Paper,Forest Products,,1001,15000,0,Y,Y,
+"",Goodyear Tire,Chemicals,,1001,15000,0,Y,,
+D000000155,General Motors,Automotive,,1001,15000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000495,DuPont Co,Chemicals,,1001,15000,0,Y,Y,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,Y,Y,Y

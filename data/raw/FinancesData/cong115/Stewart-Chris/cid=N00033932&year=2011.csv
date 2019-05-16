@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Shipley Group Consulting,Unknown,,500001,1000000,0,A,,
+"",WFG Investments,Unknown,,15001,50000,0,A,,
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Wells Fargo Personal account,Unknown,,1001,15000,0,A,,
+"",Pacific Life Portfolio Option Moderate,Unknown,Mutual Fund,1001,15000,0,A,,

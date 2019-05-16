@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Trinity Petroleum,Oil & Gas,,6000002,30000000,0,Y,,
+"",Providence Trust,Commercial Banks,,5000001,25000000,0,Y,,
+"",US Patents for LP 1000 Life Pager,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,

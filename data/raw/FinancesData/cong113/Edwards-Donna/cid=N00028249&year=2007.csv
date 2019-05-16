@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000021577,Wells Fargo Advisors,Securities/Invest,,100001,250000,0,N,,
+"",Branch Bank & Trust,Commercial Banks,Cash/Money Market/Savings/Checking,1002,16000,0,N,,
+"",MD College Investment Plan,Unknown,Government Bond,1001,15000,0,N,,
+"",Andrews Federal Credit Union,Credit Unions,,1001,15000,0,N,,
+"",Lockheed Federal Credit Union,Credit Unions,Unknown,1,1000,0,N,,
+D000021765,Bank of New York Mellon,Securities/Invest,Cash/Money Market/Savings/Checking,1,1000,0,N,Y,

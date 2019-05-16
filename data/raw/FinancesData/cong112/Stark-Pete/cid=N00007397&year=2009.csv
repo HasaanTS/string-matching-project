@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental House/Washington, DC",Real Estate,,1000001,5000000,0,Y,,
+"",Richey Oil Co,Oil & Gas,,250001,500000,0,Y,,
+"",Rengrowth Energy Trust,Unknown,,250001,500000,0,Y,,
+"",Charles Schwab Cash Management Accounts,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",Dodge & Cox Stock Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,
+"",US Savings Bonds,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000037780,Starbucks Corp,Food & Beverage,,1001,15000,0,Y,Y,
+"",Giftrust Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Federal Realty Trust,Real Estate,,1001,15000,0,Y,,

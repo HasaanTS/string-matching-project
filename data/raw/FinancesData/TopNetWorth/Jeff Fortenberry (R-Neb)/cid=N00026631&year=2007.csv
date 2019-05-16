@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Gloria Deo Inc,Unknown,,100001,250000,0,Y,,
+"",Premier Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Union Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Thornburg Mortgage Inc REIT,Real Estate,,1001,15000,0,Y,,
+"",St Claire Communications,Unknown,,1001,15000,0,Y,,
+"",CREF Stock Fund,Securities/Invest,Mutual Fund,1001,15000,0,Y,,
+"",CREF Global Equities,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Papex Biomedical,Unknown,,1,1000,0,Y,,

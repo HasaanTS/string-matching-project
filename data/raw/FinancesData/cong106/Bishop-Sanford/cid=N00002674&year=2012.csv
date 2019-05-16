@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wells Fargo/CMA,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",New York Life Insurance & Annuity Corp,Unknown,Insurance policies & Annuities,50001,100000,0,Y,,
+"",House & lot,Real Estate,,50001,100000,0,Y,,
+"",Wells Fargo/Dryden,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Sun Trust Bank/Checking & Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"","Lot 24A, Lakemont Heights, Hartwell, GA",Real Estate,,1001,15000,0,Y,,
+"",Legislative Retirement System of Georgia,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

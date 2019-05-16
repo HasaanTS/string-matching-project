@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Medium-Duration Bond,,Mutual Fund,1001,15000,0,Y,,
+"",Value Equity,,Mutual Fund,1,1000,0,Y,,
+"",Small Cap Equity Fund,,Mutual Fund,1,1000,0,Y,,
+"",MyDestination 2035,,Mutual Fund,1,1000,0,Y,,
+"",Equity Index,Unknown,,1,1000,0,Y,,
+"",Balanced Allocation,Unknown,,1,1000,0,Y,,
+"",Aggressive Allocation,Unknown,,1,1000,0,Y,,

@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",MSGDMNSM Ventures I LLC,Unknown,,500001,1000000,0,T,,
+"",Texas County & District Retirement Sys,Unknown,"Brokerage, IRA, 401k",100001,250000,0,T,,
+"",Prudential Premier X Series Annuity,Unknown,Insurance policies & Annuities,100001,250000,0,T,,
+"",Prudential Premier B Series Cust IRA,Unknown,"Brokerage, IRA, 401k",100001,250000,0,T,,
+"","532 Southview Dr/Brookings, SD",Real Estate,,100001,250000,0,T,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"",Merrill Lynch Bank,Commercial Banks,Unknown,15001,50000,0,T,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,T,,
+"",New Alternatives Fund,Misc Energy,Mutual Fund,1001,15000,0,T,,
+"",Livestock,Livestock,,1001,15000,0,T,,
+D000000182,Ford Motor Co,Automotive,,1001,15000,0,T,Y,
+"",Daktronics Inc,Business Services,,1001,15000,0,T,,

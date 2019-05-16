@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Pueo Enterprises,Trucking,,500002,1000000,0,Y,,
+"",PUEB Trucking,Trucking,,250001,500000,0,Y,,
+"",Central Pacific Bank Account,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",First Hawaiian Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",First Hawaiian Bank Account IRA MM,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",First Hawaiian Bank IRA Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Lenakona Development,Unknown,,15001,50000,0,Y,,
+"",Hanabusa LP,Unknown,,15001,50000,0,Y,,
+"",First Hawaiian Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",First Hawaiian Bank SEP/IRA Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Central Pacific Savings Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Central Pacific Checking Account,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

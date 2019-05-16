@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Windsor II Stocks,Unknown,,50001,100000,0,Y,,
+"",VanGuard High Yield Corporate Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",VMMR Prime Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Vanguard Energy Fund,Misc Energy,,15001,50000,0,Y,,
+"",Schuylkill County Empl Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",PA Tax Free Fund Insured Long Term Bond,Unknown,Government Bond,15001,50000,0,Y,,
+D000035524,M&T Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,Y
+"",Citibank Bank Deposit Program,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",UIT First Trust,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Sovereign Bank,Commercial Banks,,1001,15000,0,Y,,
+"",Schuylkill Federal Employees CU,Credit Unions,,1001,15000,0,Y,,
+"",PIMCO Commodity RealReturn Strategy Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000530,Lucent Technologies,Telecom Svcs,,1,1000,0,Y,Y,
+"",Agere Systems,Electronics Mfg/Eqp,,1,1000,0,Y,,

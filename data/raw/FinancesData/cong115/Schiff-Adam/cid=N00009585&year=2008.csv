@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000284,Wyeth,Pharm/Health Prod,,250001,500000,0,Y,Y,
+"",iShares DJ Select Dividend Index,Unknown,Mutual Fund,30002,100000,0,Y,,
+"",Fidelity Puritan Fund,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",iShares Russell 2000 Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Powershares QQQ Trust,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,Y,Y,
+"",iShares S&P 500 Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares DJ US Industrial Sector Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares DJ US Healthcare Sector Index,Misc Health,Mutual Fund,1001,15000,0,Y,,
+"",iShares DJ US Financial Sector Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares DJ Tech Sector Ind Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",Fortune Brands,Securities/Invest,,1001,15000,0,Y,,
+"",Diamonds Trust Unit Ser 1,Unknown,,1001,15000,0,Y,,
+D000025112,Constellation Brands,"Beer, Wine & Liquor",,1001,15000,0,Y,,

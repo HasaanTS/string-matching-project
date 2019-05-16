@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Real Property/90 acres,Real Estate,,1000001,5000000,0,T,,
+"",Real property/20 acres,Real Estate,,500001,1000000,0,T,,
+"","126 S Franklin Street/Wilkes-Barre, PA",Real Estate,,250001,500000,0,T,,
+"",Parents Estate/162 S Market St/Nanticoke,Real Estate,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",50001,100000,0,T,,
+"",Cross Valley Credit Union,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"",Van Kampen Government Securities Fund,Unknown,Mutual Fund,16002,65000,0,T,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"",Equi-Vest guaranteed interest account,Unknown,Cash/Money Market/Savings/Checking,1002,16000,0,T,,
+"",law office movable assets,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,T,,

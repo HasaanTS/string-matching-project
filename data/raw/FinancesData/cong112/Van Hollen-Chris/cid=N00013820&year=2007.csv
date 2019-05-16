@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Arent Fox Pension Plan,Unknown,,100001,250000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,15001,50000,0,Y,Y,
+"",Maryland General Assembly Pension Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Congressional Federal Credit Union Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000029955,YUM! Brands,Food & Beverage,,1001,15000,0,Y,Y,
+"",Merrill Lynch Ready Assets Trust,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",EIF 1st Exch Series AT&T,Unknown,,1001,15000,0,Y,,

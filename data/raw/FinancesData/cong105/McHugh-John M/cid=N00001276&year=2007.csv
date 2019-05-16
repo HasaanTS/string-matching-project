@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000062018,Key Bank,Commercial Banks,,2002,30000,0,Y,,
+"",HSBC/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Federal Credit Union Office Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Community Savings Bank,Savings & Loans,Unknown,1001,15000,0,Y,,
+"",State Employees Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

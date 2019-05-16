@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",221 Crestview Rd Manch NH,Real Estate,,500001,1000000,0,Y,,
+"",172 Youville/Manchester NH,Real Estate,,250001,500000,0,A,,
+D000000090,Bank of America,Commercial Banks,Cash/Money Market/Savings/Checking,11011,165000,0,Y,Y,Y
+"",Schwab Int Eq Reg Form,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Schwab Dom Ga Reg Form,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",TIAA-CREF,Securities/Invest,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Marsai of Beacon Ref Av,Unknown,Government Bond,15001,50000,0,Y,,
+"",Schwab Gold Shares ETF,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Schwab ADV Class Am,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Invesco Am for,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Bruvetner Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Guardian Insurance - Whole Line,Unknown,Insurance policies & Annuities,1,1000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1,1000,0,Y,Y,

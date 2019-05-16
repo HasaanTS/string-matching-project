@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Philadelphia Federal CU,Unknown,Cash/Money Market/Savings/Checking,1500004,3000000,0,O,,
+"",Carpenters Pension,Unknown,"Brokerage, IRA, 401k",500002,1000000,0,O,,
+"","City of Philadelphia, PA Pension",Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100002,200000,0,O,,
+"",Pennsylvania Turnpike,Unknown,"Brokerage, IRA, 401k",30002,100000,0,O,,
+"",Brigadoon Motel LLC,Lodging/Tourism,,30002,100000,0,O,,
+"",D&B Investment,Unknown,,1002,16000,0,O,,

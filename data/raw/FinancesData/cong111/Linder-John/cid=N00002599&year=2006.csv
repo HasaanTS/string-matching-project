@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Grayling Industries,Misc Mfg/Distrib,,5000001,25000000,0,Y,,
+"",Fairholme Funds,Securities/Invest,Mutual Fund,1600003,6250000,0,Y,,
+"",Schwab 1000 Index Fund,Unknown,Mutual Fund,1000001,5000000,0,Y,,
+"","Farmland/Marshall County, MI",Crop Production,,500001,1000000,0,Y,,
+"",Cedarwild Resort,Real Estate,,500001,1000000,0,Y,,
+"",SunTrust Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Vanguard Health Care Fund,Hospitals/Nurs Homes,,15001,50000,0,Y,,
+"",Profit Sharing Trust/Cash,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Fidelity Blue Chip Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Cash Fund,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Vanguard US Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Vanguard Growth Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

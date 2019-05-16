@@ -1,0 +1,32 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000028698,Respironics Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+D000026569,II-VI Inc,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+D000025531,Dollar Bank,Savings & Loans,Cash/Money Market/Savings/Checking,15001,50000,0,Y,Y,Y
+"",UBS Bank USA Deposit Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Pennsylvania Employee Retirement System,Civil Servants,,1001,15000,0,Y,,
+"",Oppenheimer Strategic Bond,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Oppenheimer Strategic Bond,Unknown,Government Bond,1001,15000,0,Y,,
+"",Oppenheimer Global Securities Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Oppenheimer Global Securities Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Oppenheimer Aggressive Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Oppenheimer Aggressive Growth Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",MML Equity Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",MML Equity Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000022110,Medtronic Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000530,Lucent Technologies,Telecom Svcs,,1001,15000,0,Y,Y,
+D000026492,HJ Heinz Co,Food Process/Sales,,1001,15000,0,Y,Y,Y
+"",GMAC Bonds,Unknown,,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Freemarkets Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000025490,Diageo PLC,"Beer, Wine & Liquor",,1001,15000,0,Y,Y,
+"",CPA Group Ext Market Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",CPA CRP US Tact Asset,Accountants,Unknown,1001,15000,0,Y,,
+D000032813,Concur Technologies,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Conagra Foods,Food Process/Sales,,1001,15000,0,Y,,
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,Y,Y,Y
+D000042315,Bausch & Lomb,Misc Mfg/Distrib,,1001,15000,0,Y,,
+D000021843,Ansoft Corp,Electronics Mfg/Eqp,,1001,15000,0,A,,
+"",American Funds Capital Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000042633,Del Monte Foods,Food Process/Sales,,1,1000,0,Y,Y,
+D000024209,Avaya Inc,Telecom Svcs,,1,1000,0,Y,Y,

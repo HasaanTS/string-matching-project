@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","163 D Street SE/Washington, DC",Real Estate,,500001,1000000,0,Y,,
+"",Capital World Growth & Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Range Reserve Corp,Unknown,,1001,15000,0,Y,,
+D000028414,PotashCorp,Agricultural Svcs,,1001,15000,0,Y,,
+"",Pershing Government Account Sweep,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000028194,Owens-Illinois,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000023178,Mosaic Co,Agricultural Svcs,,1001,15000,0,Y,,
+D000000408,Deere & Co,Agricultural Svcs,,1001,15000,0,Y,Y,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,

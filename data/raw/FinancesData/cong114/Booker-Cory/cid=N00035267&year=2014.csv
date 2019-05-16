@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Scottrade(St Louis, MO) Brokerage Sweep",Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"","Bank of America(Charlotte, NC)/Checking",Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",New Jersey Public Employee Retirement System,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Vanguard Balanced Index,Unknown,Mutual Fund,0,1000,0,Y,,
+D000027998,Nike Inc,Misc Mfg/Distrib,,0,1000,0,Y,Y,Y
+D000036161,Netflix Inc,Internet,,0,1000,0,Y,Y,Y
+D000052410,Iron Mountain,Electronics Mfg/Eqp,,0,1000,0,Y,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,0,1000,0,Y,Y,Y
+D000033563,Facebook Inc,Internet,,0,1000,0,Y,Y,Y
+"",Ariel Fund Investor,Unknown,Mutual Fund,0,1000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,0,1000,0,Y,Y,Y
+D000047071,American Tower Corp,Electronics Mfg/Eqp,,0,1000,0,Y,Y,
+D000023883,Amazon.com,Internet,,0,1000,0,Y,Y,Y

@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Principal Residence/Menominee Twnshp, MI",Real Estate,,500001,1000000,0,Y,,
+"","Home & Lots/Menominee, MI",Real Estate,,250001,500000,0,Y,,
+"","Office 817 Ninth Ave/Menominee, MI",Real Estate,,50001,100000,0,Y,,
+"",Stephenson National Bank,Commercial Banks,,1001,15000,0,Y,,
+"",Northern Michigan National Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bart T Stupak PC,Lawyers/Law Firms,,1001,15000,0,Y,,

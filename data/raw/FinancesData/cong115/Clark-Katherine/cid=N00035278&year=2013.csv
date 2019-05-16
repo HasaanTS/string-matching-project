@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000053236,LPL Financial,Securities/Invest,,1000001,5000000,0,C,,
+"",Judith Clark Irrevocable Trust,Unknown,Mutual Fund,1000001,5000000,0,C,,
+"",Sequoia Fund,Securities/Invest,Mutual Fund,281004,615000,0,C,,
+"",SPS Advantage IRA,Unknown,"Brokerage, IRA, 401k",100001,250000,0,C,,
+"",John Hancock Freedom 529,Unknown,Mutual Fund,80003,200000,0,C,,
+"",Colorado PERA 401k Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,C,,
+"",Colorado PERA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,C,,

@@ -1,0 +1,38 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",County Of Bucks Employee Retirement,Unknown,Insurance policies & Annuities,50001,100000,0,Y,,
+"",Janus Flexible Bond Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",iShares S&P 500 Growth Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Goldman Sachs Rising Dividend Growth Fd,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Franklin Strategic Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Blackrock Global Allocation Fund,Securities/Invest,Mutual Fund,15001,50000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+"",Utilities Select Sector SPDR,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000209,United Technologies,Defense Aerospace,,1001,15000,0,Y,Y,Y
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,Y,Y,
+D000000722,Texas Instruments,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000045190,Spectra Energy,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000055403,Philip Morris International,Tobacco,,1001,15000,0,Y,Y,
+"",Paychex Inc,Business Services,,1001,15000,0,Y,,
+D000000206,Occidental Petroleum,Oil & Gas,,1001,15000,0,Y,Y,
+D000022110,Medtronic Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,Y,Y,
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",iShares US Real Estate ETF,Securities/Invest,Mutual Fund,1001,15000,0,Y,,
+D000000467,General Mills,Food Process/Sales,,1001,15000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Franklin Floating Rate Daily Access Fund,Unknown,,1001,15000,0,Y,,
+D000000182,Ford Motor Co,Automotive,,1001,15000,0,Y,Y,
+D000025623,Eaton Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000000495,DuPont Co,Chemicals,,1001,15000,0,Y,Y,
+"",ConAgra Foods,Food Process/Sales,,1001,15000,0,Y,,
+D000000015,Chevron Corp,Oil & Gas,,1001,15000,0,Y,Y,
+"",Cash Account/BIF Money Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",CA Inc,Unknown,,1001,15000,0,Y,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",BCE Inc,Telephone Utilities,,1001,15000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000067,Altria Group,Tobacco,,1001,15000,0,Y,Y,Y
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",401k account,Unknown,,1001,15000,0,Y,,

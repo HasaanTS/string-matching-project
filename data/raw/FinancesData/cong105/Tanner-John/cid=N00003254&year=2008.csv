@@ -1,0 +1,32 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Westan Insurance Group,Insurance,,1000001,5000000,0,Y,,
+"",Tanner Farms,Crop Production,,1000001,5000000,0,Y,,
+D000000163,Freddie Mac,Real Estate,,47005,180000,0,Y,Y,
+"",Corrections Corp of America,Misc Business,,16002,65000,0,Y,,
+"",Small Cap Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",MFS Massachusetts Investors Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"","Memphis, TN Bond",Unknown,Government Bond,15001,50000,0,Y,,
+D000059111,Commercial Bank,Commercial Banks,Unknown,15001,50000,0,Y,,
+"",Citizen Gas Utility,Electric Utilities,,15001,50000,0,Y,,
+"",Cap World Growth & Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",BlackRock Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000022907,AllianceBernstein LP,Securities/Invest,,15001,50000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,Y,Y,
+"",New Perspective Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Motorola Inc,Telecom Svcs,,1001,15000,0,Y,,
+"",Memphis-Shelby Airport,Unknown,Government Bond,1001,15000,0,Y,,
+D000022110,Medtronic Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"","Marion County, TN School Bond",Unknown,Government Bond,1001,15000,0,Y,,
+D000000530,Lucent Technologies,Telecom Svcs,,1001,15000,0,Y,,
+"",Hilliard Lyons Govt Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Davis New York Venture Fund,Securities/Invest,Mutual Fund,1001,15000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",Capital Income Builder Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Blackrock Real Asset Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Blackrock Mid Cap Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Funds AMCAP Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Agere Systems,Electronics Mfg/Eqp,,2,2000,0,Y,,
+"",Munder Net Classic,Unknown,,1,1000,0,Y,,
+D000024209,Avaya Inc,Telecom Svcs,,1,1000,0,Y,Y,

@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Note Receivable for sale of Jones Street,Unknown,Note/Note Receivable,250001,500000,0,Y,,
+"","4702 Washburn/Ft Worth, TX",Real Estate,,200004,400000,0,Y,,
+"",G&R Insuranc,Unknown,Note/Note Receivable,100001,250000,0,Y,,
+"",Charles Schwab Government Money Fund,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Northwestern Mutual Persistency Fund,Unknown,Mutual Fund,100002,200000,0,Y,,
+"",Granger Real Estate Management,Real Estate,,50001,100000,0,Y,,
+D000033907,Frost Bank,Commercial Banks,,50001,100000,0,Y,,
+"",Fidelity Cash Reserves,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"","1616 Kenley/Fort Worth, Texas",Real Estate,,50001,100000,0,Y,,

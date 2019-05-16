@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Real Food Revolution, book published by Hay Ho",Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,
+"",Niles Residential personal/rental property,Unknown,,100001,250000,0,Y,,
+"",Ohio Teacher Retirement System Vested pension,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",A Mindful Nation - Book,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+"",American Funds - Capital Builder,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",American Funds New World Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Funds - Growth,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Funds - College Advantage,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",E*Trade Money Market Account,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

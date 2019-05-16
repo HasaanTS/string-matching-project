@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Qualified Blind Trust (Senate approved QBT),,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"",Wisconsin Retirement System,,,15001,50000,0,Y,,
+"",US Senate Federal Credit Union,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Summit Credit Union Checking,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

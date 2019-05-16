@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",TIAA Traditional Fund,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",TIAA Real Estate Fund,Real Estate,,1001,15000,0,Y,,
+"",CREF Stock Fund,Securities/Invest,Mutual Fund,1001,15000,0,Y,,
+"",CREF Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",CREF Global Equities Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

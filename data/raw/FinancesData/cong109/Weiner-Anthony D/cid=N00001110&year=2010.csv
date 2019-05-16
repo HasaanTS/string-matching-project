@@ -1,0 +1,19 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",NIH Credit Union,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000058827,Zimmer Holdings,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000480,Williams Companies,Oil & Gas,,1001,15000,0,Y,Y,
+D000000613,TECO Energy,Electric Utilities,,1001,15000,0,Y,Y,
+D000022261,Sony Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Rowan Companies,Oil & Gas,,1001,15000,0,Y,,
+D000027589,Micron Technology,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",McGraw-Hill Companies,Publishing,,1001,15000,0,Y,,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000188,Dow Chemical,Chemicals,,1001,15000,0,Y,Y,
+D000025170,CR Bard Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000457,Corning Inc,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000021908,CheSApeake Energy,Oil & Gas,,1001,15000,0,Y,Y,
+"",Capline Corp,Unknown,,1001,15000,0,Y,,
+"",Accredited Home Lenders Holding Co,Unknown,,1001,15000,0,Y,,
+D000021800,3M Co,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000275,Merck & Co,Pharm/Health Prod,,1,1000,0,Y,Y,

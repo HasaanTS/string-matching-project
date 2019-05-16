@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity Cash Reserves,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000033563,Facebook Inc,Internet,,15001,50000,0,Y,Y,
+"",Congressional FCU Checking,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Fidelity Freeloan 2045,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000157,American Airlines,Air Transport,,1001,15000,0,Y,,
+"",Congressional FCU Savings,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Investment Property/San Juan del Sur,Real Estate,,500001,1000000,0,Y,,
+"","1250 Andrea Court/Morris, IL",Real Estate,,250001,500000,0,Y,,
+"","Rental Condo/Mokena, IL",Real Estate,,100001,250000,0,Y,,
+"",First Community Bank of Joliet,Commercial Banks,,50001,100000,0,Y,,
+"",Prudential Small Company Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Morris Community Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

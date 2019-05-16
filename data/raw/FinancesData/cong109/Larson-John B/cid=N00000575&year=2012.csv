@@ -1,0 +1,44 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity Freedom 2025 Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Bank of America/IRA CD - Cash,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+D000029955,Yum! Brands,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000000209,United Technologies,Defense Aerospace,,1001,15000,0,Y,Y,Y
+D000000118,Union Pacific Corp,Railroads,,1001,15000,0,Y,Y,Y
+D000045190,Spectra Energy,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000028415,Potlatch Corp,Forest Products,,1001,15000,0,Y,Y,
+D000000200,Pepsico Inc,Food & Beverage,,1001,15000,0,Y,Y,Y
+"",Pembina Pipeline,Oil & Gas,,1001,15000,0,Y,,
+D000000206,Occidental Petroleum,Oil & Gas,,1001,15000,0,Y,Y,
+"",Northeast Utilities,Electric Utilities,,1001,15000,0,Y,,
+D000000321,Nextera Energy,Electric Utilities,,1001,15000,0,Y,Y,
+D000042332,Nestle Sa,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,Y,Y,Y
+"",Macquarie Infrastructure Co,General Contractors,,1001,15000,0,Y,,
+D000035105,Kinder Morgan Inc,Oil & Gas,,1001,15000,0,Y,Y,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",Hancock Holding Co,Commercial Banks,,1001,15000,0,Y,,
+D000000408,Deere & Co,Agricultural Svcs,,1001,15000,0,Y,Y,
+"",Danone,Dairy,,1001,15000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,Y
+"",Bank of America/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000090,Bank Of America,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000042510,Anheuser-Busch InBev,Business Services,,1001,15000,0,Y,Y,Y
+"",Amphenol,Misc Mfg/Distrib,,1001,15000,0,Y,,
+"",Vanguard Total Bond Market ETF,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Vanguard REIT Index,Real Estate,Mutual Fund,1,1000,0,Y,,
+"",Vanguard Institutional Index,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Vanguard Inflation Protected Securities,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Vanguard Explorer Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",JPMorgan Mid Cap Value Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Hartford Capital Appreciation HLS Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Fidelity VIP Contrafund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Fidelity US Treasury Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Fidelity Cash Reserves Fund,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Connecticut Stable Value Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",American Funds Euro Pacific Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",American Funds American Mutual R6,Unknown,Mutual Fund,1,1000,0,Y,,
+"",American Eagle Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

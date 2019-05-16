@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Lakeside Bancshares,Commercial Banks,,500001,1000000,0,Y,,
+"","Residence/1500 Sunset Hill/Rockwall, TX",Real Estate,,250001,500000,0,Y,,
+"",North & East Trading Co,Unknown,,250001,500000,0,Y,,
+"",HT Development LP,Real Estate,,250001,500000,0,Y,,
+"",Crowley Holding Co,Commercial Banks,,250001,500000,0,Y,,
+"",Residence 4 Acres/Sunset Hill/Rockwall,Real Estate,,100001,250000,0,Y,,
+"","Farm 152 Acres/Hunt County, TX",Crop Production,,100001,250000,0,Y,,
+"","310 E Capital Street NW/Washington, DC",Real Estate,,100001,250000,0,Y,,
+"","Rural Land 22 acr/Kaufman & Henderson,TX",Real Estate,,15001,50000,0,Y,,
+"",Lakeside National Bank,Commercial Banks,,15001,50000,0,Y,,
+"","Oil Interest/Caddo Parrish, LA",Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,
+"",HT Development Inc,Real Estate,,1001,15000,0,Y,,

@@ -1,0 +1,21 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental Condo,Real Estate,,250003,600000,0,Y,,
+D000000090,FIA Card Services RISP,Finance/Credit,Cash/Money Market/Savings/Checking,165003,400000,0,Y,Y,Y
+"",PIMCO RealReturn Fund,Unknown,Mutual Fund,150003,300000,0,Y,,
+D000000090,FIA Card Services RISP,Finance/Credit,"Brokerage, IRA, 401k",100001,250000,0,Y,Y,Y
+"",Ginnie Mae Securities,Real Estate,,60004,200000,0,Y,,
+"",Massachusetts State Retirement,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,50001,100000,0,Y,Y,Y
+"",T Rowe Price Growth & Income Trust,Unknown,Mutual Fund,80479,80479,0,Y,,
+"",T Rowe Price Us Treasury Money,Unknown,Cash/Money Market/Savings/Checking,59339,59339,0,Y,,
+D000000118,Union Pacific Corp,Railroads,,15001,50000,0,Y,Y,
+"",FIA Card Services UTMA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000000090,Bank of America,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",T Rowe Price Value Fund,Unknown,Mutual Fund,15309,15309,0,Y,,
+"",Law Office of Scott P Brown,Lawyers/Law Firms,,1001,15000,0,Y,,
+"",T Rowe Price Retirement 2020,Unknown,Mutual Fund,11741,11741,0,Y,,
+"",American Funds Europacific Growth Fund,Unknown,Mutual Fund,11608,11608,0,Y,,
+"",Equity Index Trust,Unknown,Mutual Fund,11045,11045,0,Y,,
+"",T Rowe Price New Horizons Fund,Unknown,Mutual Fund,9564,9564,0,Y,,
+"",FIA Card Services RASP,Finance/Credit,Cash/Money Market/Savings/Checking,0,1000,0,Y,,

@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",State of Florida Drop,Unknown,Unknown,100001,250000,0,N,,
+"",Citizen Bank of,Commercial Banks,Unknown,100001,250000,0,N,,
+"",Triple Stable Value Fund,Unknown,Mutual Fund,50001,100000,0,N,,
+"",Florida Fixed Fund,Unknown,Mutual Fund,50001,100000,0,N,,
+D000000090,Bank of America,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,N,Y,
+"",Liquid Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Orlando FCU,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,N,,
+"",Central Florida Education FCU,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,N,,

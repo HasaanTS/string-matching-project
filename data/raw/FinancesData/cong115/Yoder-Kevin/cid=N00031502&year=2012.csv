@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Residence,Real Estate,,100001,250000,0,Y,,
+"",KPERS,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000024686,Cerner Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,,Y
+"",United Community Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",TIAA-CREF T-C Lifecycle 2040 Retirement,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Spartan 500 Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Commerce Bank Account/CD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Capitol Federal Savings,Savings & Loans,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",American Century Ultra Inv,Unknown,Mutual Fund,1001,15000,0,Y,,

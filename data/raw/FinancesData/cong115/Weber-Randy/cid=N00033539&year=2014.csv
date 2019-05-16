@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Weber's Air & Heat,Unknown,,250001,500000,0,O,,
+"",Wells Fargo account,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,O,,
+"",5377 Morgan Oak,Real Estate,,100001,250000,0,O,,
+"",3221 Wheatridge,Real Estate,,50001,100000,0,O,,
+"",Texas Employees Retirement System,Unknown,"Brokerage, IRA, 401k",1001,15000,0,O,,

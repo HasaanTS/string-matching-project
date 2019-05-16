@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000029514,Trinity Industries,Railroads,,5000001,25000000,0,Y,Y,Y
+"",LFT LLC,Unknown,,1000001,5000000,0,Y,,
+"",Lea County Bancshares,Commercial Banks,,1000001,5000000,0,Y,,
+"",Lea County State Bank Money Market,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",USAA SEP/IRA FDIC Ins IRA,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"","Turtleback Lot, T or C, NM",Unknown,,100001,250000,0,Y,,
+"",Exedra LLC,Unknown,,100001,250000,0,Y,,
+"",Vehicle Lease Income,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",50001,100000,0,Y,,
+"",USAA Simple IRA FDIC Ins,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Gree LTD,Unknown,,50001,100000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",Congressional Federal Credit Union Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",USAA Federal Savings Bank Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Double Eagle Petroleum,Misc Energy,,1001,15000,0,Y,,
+D000059512,Plains Marketing LP,Business Services,,1,1000,0,Y,,

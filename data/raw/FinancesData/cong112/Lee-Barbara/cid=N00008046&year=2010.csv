@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",East West Bank Accounts,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"",Wells Fargo Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Fidelity Freedom 2020 Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Massachusetts Investors Growth Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Delaware SMID Cap Growth,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Charles Schwab & Co/Money Market,Securities/Invest,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

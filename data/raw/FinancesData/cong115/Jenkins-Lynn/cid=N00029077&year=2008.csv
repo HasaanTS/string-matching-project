@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Learning Quest Total Growth Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Learning Quest 500 Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Kansas Public Employees Retirement Sys,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Allianz NFJ Dividend Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000619,Target Corp,Retail Sales,,1001,15000,0,Y,Y,Y
+"",Premier Money Market Government Sec,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Growth Fund of America,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity VIP Contrafund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Community National Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Capital World Growth & Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Baron Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Van Kampen Capital Growth Fund,Unknown,Mutual Fund,1,1000,0,Y,,

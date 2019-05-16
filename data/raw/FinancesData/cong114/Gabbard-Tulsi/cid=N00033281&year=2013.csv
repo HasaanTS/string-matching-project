@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",USAA Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",USAA Emerging Markets,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Third Ave Real Estate,Real Estate,Mutual Fund,1001,15000,0,A,,
+"",iShares Dow Jones US Index,Unknown,Mutual Fund,1001,15000,0,A,,
+"",USAA Precious Metals,Unknown,,1,1000,0,A,,
+"",US Global Gold & Precious Metal,Mining,,1,1000,0,A,,

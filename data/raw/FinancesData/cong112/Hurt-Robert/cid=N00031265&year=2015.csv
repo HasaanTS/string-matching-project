@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",10 N Maive,Unknown,,50001,100000,0,Y,,
+"",Virginia Retirement,,"Brokerage, IRA, 401k",16002,65000,0,Y,,
+"",Westrock,,,1001,15000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",Tuson,,,1001,15000,0,Y,,
+"",Schwab Deposit,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000019639,Norfolk Southern,Railroads,,1001,15000,0,Y,Y,Y
+"",McDonalds Corp,,,1001,15000,0,Y,,
+"",Louisana Pacific,,,1001,15000,0,Y,,
+"",Collegebound Fund,,Mutual Fund,1001,15000,0,Y,,
+"",BB&T Checking,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Annex Savings,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000022724,American Funds,,Mutual Fund,1001,15000,0,Y,,
+"",1st Citizens Checking,Unknown,,1001,15000,0,Y,,

@@ -1,0 +1,58 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Turner Marketing,Unknown,,250001,500000,0,Y,,
+"",Ohio Public Employees' Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Legg Mason Value Trust Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",College Advantage,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Bank One/Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000029552,Union Central Life Insurance,Insurance,Insurance policies & Annuities,2002,30000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,2002,30000,0,Y,Y,Y
+D000025815,First Data Corp,Finance/Credit,,2002,30000,0,Y,Y,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,
+D000000470,Washington Mutual,Savings & Loans,,1001,15000,0,Y,Y,
+D000000190,Viacom Inc,TV/Movies/Music,,1001,15000,0,Y,Y,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000000487,US Bancorp,Commercial Banks,,1001,15000,0,Y,Y,
+D000000209,United Technologies,Defense Aerospace,,1001,15000,0,Y,Y,Y
+D000000118,Union Pacific Corp,Railroads,,1001,15000,0,Y,Y,
+D000030251,Sysco Corp,Food Process/Sales,,1001,15000,0,Y,Y,
+D000029185,Staples Inc,Retail Sales,,1001,15000,0,Y,Y,
+D000042525,Royal Dutch Shell,Oil & Gas,,1001,15000,0,Y,Y,
+D000000485,Procter & Gamble,Chemicals,,1001,15000,0,Y,Y,Y
+D000022192,Pitney Bowes Inc,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,Y,Y,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Nokia Corp,Telecom Svcs,,1001,15000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000022110,Medtronic Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",McGraw-Hill Companies,Publishing,,1001,15000,0,Y,,
+D000000114,MBNA Corp,Finance/Credit,,1001,15000,0,Y,Y,Y
+D000027441,Masco Corp,Misc Mfg/Distrib,,1001,15000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,
+D000022016,H&R Block,Misc Finance,,1001,15000,0,Y,Y,
+D000021654,Gillette Co,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000033753,Forest Laboratories,Pharm/Health Prod,,1001,15000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000000166,Eli Lilly & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",Electronic Arts,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Dell Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000025214,CVS Health,Retail Sales,,1001,15000,0,Y,Y,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000047781,Biomet Inc,Pharm/Health Prod,,1001,15000,0,Y,,
+"",Bank One/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,
+D000024095,Apache Corp,Oil & Gas,,1001,15000,0,Y,,
+D000000144,Anheuser-Busch,"Beer, Wine & Liquor",,1001,15000,0,Y,,
+D000000391,Amgen Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000123,American International Group,Insurance,,1001,15000,0,Y,Y,
+"",AMBAC Financial,Insurance,,1001,15000,0,Y,,
+D000000560,Alltel Corp,Telecom Svcs,,1001,15000,0,Y,Y,
+D000000632,Allstate Corp,Insurance,,1001,15000,0,Y,Y,
+D000000126,AFLAC Inc,Insurance,,1001,15000,0,Y,Y,
+"",A&P Dimensions,Unknown,,1001,15000,0,Y,,
+D000021800,3M Co,Misc Mfg/Distrib,,1001,15000,0,Y,Y,

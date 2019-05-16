@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",America Funds UTMA,Unknown,Mutual Fund,3003,45000,0,Y,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,1002,16000,0,Y,,
+"",US Federal Savings Bonds,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",College Choice 529 Investment Plan,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",American Funds Washington Mutual Invest,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Funds Fundamental Investors Fnd,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Funds Europacific Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Funds Capital Income Builder Fd,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Funds Cap World Growth/Inc Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",EuroPacific Growth Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Capital World Growth & Income Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Capital Income Builder Fund,Unknown,Mutual Fund,1,1000,0,Y,,

@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",401k Account,Unknown,"Brokerage, IRA, 401k",100001,250000,0,N,,
+"",Chase Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Vanguard 500 Index Signal,Unknown,Mutual Fund,1,1000,0,N,,

@@ -1,0 +1,33 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental Condo/Boston, MA",Real Estate,,250003,600000,0,Y,,
+D000000090,FIA Card Services RASP,Finance/Credit,Cash/Money Market/Savings/Checking,131004,366000,0,Y,Y,Y
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,150003,300000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,65002,150000,0,Y,Y,Y
+"",Ginnie Mae Securities,Real Estate,,32004,130000,0,Y,,
+"",Comm of Mass State Retirement,Unknown,,50001,100000,0,Y,,
+"",T Rowe Price Growth & Income,Unknown,Mutual Fund,76590,76590,0,Y,,
+"",T Rowe Price Us Treasury Money,Unknown,Cash/Money Market/Savings/Checking,59344,59344,0,Y,,
+"",Skybridge Multi-Adviser Hedge Fund Portf,Unknown,,15001,50000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000029782,Weatherford International,Oil & Gas,,1001,15000,0,Y,Y,
+"",Vale SA,Mining,,1001,15000,0,Y,,
+D000000118,Union Pacific Corp,Railroads,,1001,15000,0,Y,Y,Y
+"",TRS Companies,Unknown,,1001,15000,0,Y,,
+D000037414,Schlumberger Ltd,Oil & Gas,,1001,15000,0,Y,,
+"",Prudential Retirement Global Fund 2030,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,Y,Y,
+D000066713,People's United Financial,Misc Finance,,1001,15000,0,Y,,Y
+"",Lyondell Basell NV,Unknown,,1001,15000,0,Y,,
+D000000090,FIA Card Services,Finance/Credit,"Brokerage, IRA, 401k",1001,15000,0,Y,Y,Y
+"",EMC Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000021945,Cummins Inc,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000031430,Alpha Natural Resources,Mining,,1001,15000,0,Y,Y,
+D000031366,Akamai Technologies,Internet,,1001,15000,0,Y,,Y
+"",T Rowe Price Value Fund,Unknown,Mutual Fund,14023,14023,0,Y,,
+"",T Rowe Price Retirement 2020,Unknown,Mutual Fund,11101,11101,0,Y,,
+"",Trp Equity Index Trust,Unknown,Mutual Fund,10637,10637,0,Y,,
+"",American Funds EuroPacific Growth Fund,Unknown,Mutual Fund,9711,9711,0,Y,,
+"",New Horizons Trust,Unknown,Mutual Fund,9211,9211,0,Y,,
+D000057516,Tesla Motors,Automotive,,0,1000,0,Y,Y,

@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000028346,Philadelphia Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,250002,501000,0,Y,,
+"",Metro Regional Council,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Philadelphia Redevelopment Authority,Unknown,Government Bond,50001,100000,0,Y,,
+D000032615,"City of Philadelphia, PA",Civil Servants,Unknown,50001,100000,0,Y,Y,Y
+"",PA Turnpike Commission,Unknown,Unknown,15001,50000,0,Y,,
+D000021913,Citizens Bank of Pennsylvania,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,Y,
+"",Brigadoon Motel,Lodging/Tourism,,15001,50000,0,Y,,
+"",PA Monitoring,Unknown,,1,1000,0,Y,,
+"",D&B Investment,Misc Finance,,1,1000,0,Y,,

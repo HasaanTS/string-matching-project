@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Equity Income 'C' Fund,Unknown,Mutual Fund,100002,200000,0,N,,
+"",Bank of America/Savings,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,N,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,N,,
+D000035153,Knight Transportation,Trucking,,1001,15000,0,N,,Y

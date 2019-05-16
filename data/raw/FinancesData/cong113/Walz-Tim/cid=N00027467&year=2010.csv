@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental Unit,Real Estate,,250001,500000,0,Y,,
+"",Minnesota Retirement Assn,Unknown,"Brokerage, IRA, 401k",65002,150000,0,Y,,
+"",Education Minnesota not self-directed,Unknown,"Brokerage, IRA, 401k",16002,65000,0,Y,,
+"","Family Farm/boyd County, Ne",Crop Production,,28000,28000,0,A,,
+"",Northwest Mutual Life Insurance,Insurance,Insurance policies & Annuities,1001,15000,0,Y,,
+D000000198,Massachusetts Mutual Life Insurance,Insurance,Insurance policies & Annuities,1001,15000,0,Y,Y,
+"",American Balanced Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

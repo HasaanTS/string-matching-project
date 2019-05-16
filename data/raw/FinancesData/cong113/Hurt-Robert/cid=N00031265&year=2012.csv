@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","10 N Main St/Chatham, VA",Real Estate,,50001,100000,0,Y,,
+"",Virginia State Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",College Bond Fund 529 CBF Aggressive Por,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",BB&T/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",American Funds Investment Co of America,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Express/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",1st Citizens Checking Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000030825,Vfinance Inc,Securities/Invest,,1100002,5250000,0,Y,,Y
+"",Washington Mutual/Interest bearing A/C,Unknown,Cash/Money Market/Savings/Checking,1000001,5000000,0,Y,,
+"",Courtesy Circle OK LLLP,Unknown,,500001,1000000,0,Y,,
+"",Courtesy Circle Farms,Crop Production,,500001,1000000,0,Y,,
+"",Tamarack Value Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Fidelity Government Money Market,Unknown,Cash/Money Market/Savings/Checking,51002,115000,0,Y,,
+"",Wasatch Small Cap Growth Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Wasatch Northern US Govt Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",SSGA Government Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Spectrum Income Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,50001,100000,0,Y,Y,Y
+"",Wachovia Securities/Cash,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Tamarack Prime Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000303,ConocoPhillips,Oil & Gas,,15001,50000,0,Y,Y,
+"",Citi Smith Barney/Cash,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Money Centers of America,Misc Finance,,1001,15000,0,Y,,
+"",Insinger SA,Unknown,,1001,15000,0,Y,,

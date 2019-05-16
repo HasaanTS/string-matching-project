@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",American Funds 529 Educational Plan,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",American Funds UTMA,Unknown,Mutual Fund,3003,45000,0,Y,,
+"",US Federal Savings Bonds,Unknown,Government Bond,1001,15000,0,Y,,
+"",Central Indiana School Employee FCU,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

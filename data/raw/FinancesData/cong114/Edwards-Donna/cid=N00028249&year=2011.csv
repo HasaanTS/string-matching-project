@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Lockheed Federal Credit Union, CA",Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",BB&T,Commercial Banks,,1001,15000,0,Y,,
+"",Andrews Federal Credit Union MD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Flex Funds Total Return Utils Fund,Unknown,Mutual Fund,2558,2558,0,Y,,
+"",Unified Ser Tr Appleseed Fund,Unknown,Mutual Fund,2462,2462,0,Y,,
+"",Neuberger & Berman Equity Funds - Social,Unknown,,2404,2404,0,Y,,
+"",Parnassus Small Cap Fund,Unknown,Mutual Fund,2114,2114,0,Y,,
+"",Bank Deposit Sweep cash,Unknown,Cash/Money Market/Savings/Checking,1271,1271,0,Y,,
+D000000155,General Motors,Automotive,,1013,1013,0,Y,Y,
+D000000182,Ford Motor Co,Automotive,,538,538,0,Y,Y,Y
+D000026171,Gaylord Entertainment,Lodging/Tourism,,120,120,0,Y,,

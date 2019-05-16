@@ -1,0 +1,47 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Church Street Properties,Real Estate,,1000001,5000000,0,Y,,
+"","North Carolina Ave SE/Washington, DC",Real Estate,,500001,1000000,0,Y,,
+"",Courtyard Properties,Real Estate,,500001,1000000,0,Y,,
+"",GMB Properties,Real Estate,,250001,500000,0,Y,,
+"",West Cobb Properties,Real Estate,,100001,250000,0,Y,,
+"",PIMCO Renaissance Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Marietta Outpatient Surgery,Health Services,,100001,250000,0,A,,
+"",Davis New York Venture Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Calamos Growth Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",BG Properties Adrian Place,Real Estate,,100001,250000,0,Y,,
+"",Scudder Global Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Eaton Vance Worldwide Health Sciences Fd,Misc Health,,50001,100000,0,Y,,
+"",Community Bank of the South,Commercial Banks,,50001,100000,0,Y,,
+"",Columbia Strategic Growth Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,30002,100000,0,Y,Y,Y
+"",Calamos Growth & Income Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",American Balanced Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Aim Premier Equity Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",AIM Core Equity Income Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000058827,Zimmer Holdings,Pharm/Health Prod,,15001,50000,0,Y,,
+"",Vanguard Health Care Fund,Hospitals/Nurs Homes,,15001,50000,0,Y,,
+"",Scudder Flag Investors Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",MEPC International,Unknown,,15001,50000,0,Y,,
+"",Matria Healthcare,Misc Health,,15001,50000,0,Y,,
+"",Income Fund of America,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Idex Great Companies of America Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Highwoods Properties,Real Estate,,15001,50000,0,Y,,
+D000051707,Health Management Systems,Misc Health,,15001,50000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",EMC Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,,
+"",Dillards Capital Trust,Unknown,,15001,50000,0,Y,,
+"",Delaware Trend Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000071,Citigroup Inc,Commercial Banks,,15001,50000,0,Y,Y,Y
+D000000100,Boeing Co,Defense Aerospace,,15001,50000,0,Y,Y,Y
+D000000367,Wal-Mart Stores,Retail Sales,,1001,15000,0,Y,Y,Y
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,Y,Y,
+D000021650,Sprint Corp,Telephone Utilities,,1001,15000,0,Y,,
+"",Schwab Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,Y
+"",Conseco Inc,Insurance,,1001,15000,0,Y,,
+D000065473,Coca-Cola Enterprises,Food & Beverage,,1001,15000,0,Y,Y,Y
+"",Cadbury Schweppes,Food & Beverage,,1001,15000,0,Y,,
+"",Biogen Idec,Pharm/Health Prod,,1001,15000,0,Y,,
+"",WTS Conseco Inc,Unknown,,1,1000,0,Y,,
+"",Liberty Media,TV/Movies/Music,,1,1000,0,Y,,
+"",Ener I Stock,Unknown,,1,1000,0,Y,,

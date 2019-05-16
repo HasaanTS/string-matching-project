@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Piedmont Shopping Center,Real Estate,,5000001,25000000,0,Y,,
+"",Piedmont Bistro,Unknown,,500001,1000000,0,Y,,
+"",Gloria Deo Inc,Retail Sales,,100001,250000,0,Y,,
+"",Pioneer Global High Yield Fund,,Mutual Fund,15001,50000,0,Y,,
+"",John Hancock Core High Yield Fund,,Mutual Fund,15001,50000,0,Y,,
+"",Ivy High Income Fund,,Mutual Fund,15001,50000,0,Y,,
+"","VOYA Financial, Life Insurance",,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Union Bank Checking Account,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",TIAA CREF Retirement CREF Stock Fund,,Mutual Fund,1001,15000,0,Y,,
+"",TIAA CREF Retirement CREF Global Equities,,Mutual Fund,1001,15000,0,Y,,
+"",Pershing Government Account/Money Market,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",C Gregory Write Inc,Unknown,,1001,15000,0,Y,,

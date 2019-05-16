@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Vanguard 500 Index,Securities/Invest,Mutual Fund,34006,160000,0,Y,,
+"",Hartford Life & Annuity Insurance,Insurance,,50001,100000,0,Y,,
+"",Central National Bank Freedom Account,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Vanguard 500 Index Education Savings,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Wright Patman Congressional FCU/MM,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",SunTrust Banks/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Employees Retirement System of Texas,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",SunTrust Banks/Savings,Unknown,Cash/Money Market/Savings/Checking,2,2000,0,Y,,
+D000022216,Regions Financial,Commercial Banks,,1,1000,0,Y,Y,
+"",Central National Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

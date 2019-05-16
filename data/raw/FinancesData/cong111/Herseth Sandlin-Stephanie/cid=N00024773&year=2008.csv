@@ -1,0 +1,20 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","500 Miller Dr/Marshall, TX",Real Estate,,250001,500000,0,Y,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",115002,300000,0,Y,,
+"",Texas County & District Retirement Sys,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"","532 Southview Dr/Brookings, SD",Real Estate,,100001,250000,0,Y,,
+"",Wright Patman Congressional FCU,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Blackrock Global Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Blackrock Global Small Cap Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Blackrock Global Opportunities ETF,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Blackrock Global Allocation Fund,Securities/Invest,Mutual Fund,15001,50000,0,Y,,
+"",New Alternatives Fund,Misc Energy,,1001,15000,0,Y,,
+"",Merrill Lynch Bank,Commercial Banks,Unknown,1001,15000,0,Y,,
+"",Livestock,Livestock,,1001,15000,0,Y,,
+"",Daktronics Inc,Business Services,,1001,15000,0,Y,,
+"",Blackrock Pacific Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Blackrock Global Emerging Markets Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Blackrock Eurofund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000043978,VeraSun Energy,Misc Energy,,1,1000,0,Y,Y,Y
+D000000182,Ford Motor Co,Automotive,,1,1000,0,Y,Y,Y
+"",Blackrock Global Mutual Fund,Unknown,Mutual Fund,1,1000,0,Y,,

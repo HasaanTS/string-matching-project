@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Punta Cana Beach Villa/Punta Cana, DR",Real Estate,,100001,250000,0,Y,,
+"",PIMCO GNMA Fund,Real Estate,Mutual Fund,100001,250000,0,Y,,
+"",iShares Barclays TIPS Bond Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",AllianceBernstein Muni Income Fund NY,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Rochester Municipal Funds,Unknown,Government Bond,15001,50000,0,Y,,
+"",Merrill Lynch/Cash & Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",ING Index Plus Large Cap Port,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fixed Annuity Contract,Unknown,Insurance policies & Annuities,15001,50000,0,A,,
+D000029955,YUM! Brands,Food & Beverage,,1001,15000,0,Y,Y,
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,Y,Y,Y
+"","Empty Lots/Glassboro, NJ",Real Estate,,1001,15000,0,Y,,
+"",Capital One Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

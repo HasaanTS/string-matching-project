@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",MN Retirement Assn Not Self Directed Pension Plan,Unknown,"Brokerage, IRA, 401k",65002,150000,0,A,,
+"",Education Minnesota Pension Plan,Unknown,"Brokerage, IRA, 401k",16002,65000,0,A,,
+"",Mass Mutual Whole Life Policy,Unknown,Insurance policies & Annuities,15001,50000,0,A,,
+"",Life Insurance,Unknown,Insurance policies & Annuities,1001,15000,0,A,,
+"",American Balanced Fund,Unknown,Mutual Fund,1001,15000,0,A,,

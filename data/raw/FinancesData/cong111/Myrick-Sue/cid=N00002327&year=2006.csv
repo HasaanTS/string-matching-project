@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Edward Jones Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Bank of America/CD,Unknown,Cash/Money Market/Savings/Checking,30002,100000,0,Y,,
+"",HSBC Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Janney Montgomery Scott Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank of America Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

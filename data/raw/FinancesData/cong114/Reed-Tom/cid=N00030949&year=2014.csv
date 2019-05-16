@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",R&R Resource Recovery,Unknown,,100001,250000,0,A,,
+"",R&R Properties,Real Estate,,100001,250000,0,A,,
+"",M&T Bank accounts,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",Guardian Whole Life Insurance Policy,Unknown,Insurance policies & Annuities,15001,50000,0,A,,
+D000000674,Level 3 Communications,Telecom Svcs,,1001,15000,0,A,Y,
+D000000457,Corning Inc,Electronics Mfg/Eqp,,1001,15000,0,A,Y,Y
+"","Real Estate/Liverpool/Onondaga, NY",Real Estate,,1,1000,0,A,,

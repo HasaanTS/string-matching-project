@@ -1,0 +1,22 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000100,Boeing Co,Defense Aerospace,,515002,1050000,0,A,Y,Y
+"",Multi-Unit Apartment Building,Real Estate,,500001,1000000,0,A,,
+D000000607,Xerox Corp,Misc Mfg/Distrib,,250001,500000,0,A,Y,
+"",Schwab Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,A,,
+"","4596 Perry Street/Denver, CO",Real Estate,,250001,500000,0,A,,
+"",Merrill Lynch USA Govt Reserves,Unknown,Government Bond,101003,266000,0,A,,
+D000000128,Walt Disney Co,TV/Movies/Music,,100001,250000,0,A,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,100001,250000,0,A,Y,Y
+D000000570,Eastman Kodak,Misc Mfg/Distrib,,100001,250000,0,A,Y,
+D000000169,Northwest Airlines,Air Transport,,50001,100000,0,A,Y,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,50001,100000,0,A,Y,
+"",Wachovia Corp/Checking Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+D000000226,United Airlines,Air Transport,,15001,50000,0,A,,
+"",Merrill Lynch Cash Management Account,Unknown,"Brokerage, IRA, 401k",15001,50000,0,A,,
+D000021021,AMR Corp,Air Transport,,15001,50000,0,A,,
+"",Wright Patman Cong FCU/Checking/Savs/MM,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000000699,"Sears, Roebuck & Co",Retail Sales,,1001,15000,0,A,Y,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,A,Y,Y
+"",Morgan Stanley Dean Witter Discover,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Merrill Lynch IRA/Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000000632,Allstate Corp,Insurance,,1001,15000,0,A,Y,

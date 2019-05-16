@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Condominium/Burlington, VT",Real Estate,,100001,250000,0,Y,,
+"",TIAA-CREF Retirement Account,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",North County Federal Credit Union,Credit Unions,Unknown,15001,50000,0,Y,,
+"",North Country Federal Credit Union IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,

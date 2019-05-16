@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wilton Investments,Unknown,,500001,1000000,0,Y,,
+"",US Treasury Bond,Unknown,Government Bond,15001,50000,0,Y,,
+"",CB Bank of Bartlett,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",BanCorp South,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Washington Mutual Investors Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Mutual Fund Educationa IRA,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",First Bancshares Inc,Commercial Banks,,1001,15000,0,Y,,
+"",BankCorp South S&L,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

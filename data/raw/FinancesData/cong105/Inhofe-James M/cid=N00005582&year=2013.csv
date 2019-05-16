@@ -1,0 +1,52 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",GMKI LLC,Unknown,,1863644,1863644,0,Y,,
+"",IM3RD LLC,Real Estate,,500001,1000000,0,Y,,
+"",Padre Co,Unknown,,250001,500000,0,Y,,
+"",ONB Bank & Trust,Commercial Banks,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",F&M Bank & Trust Account,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",Stillwater National Bank Account,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Schwab Government Money Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Brookfield Asset Management Fund,Securities/Invest,,100001,250000,0,Y,,
+"",Arvest Bank & Trust,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,100001,250000,0,Y,Y,
+"",Apartment,Real Estate,,100001,250000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,50001,100000,0,Y,Y,Y
+D000029689,Visa Inc,Finance/Credit,,50001,100000,0,Y,Y,
+"",Valeant Pharmaceutical International,Pharm/Health Prod,,50001,100000,0,Y,,
+D000030608,Unilever,Misc Mfg/Distrib,,50001,100000,0,Y,Y,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,
+D000067072,Potash Corp of Saskatchewan,Mining,,50001,100000,0,Y,,
+D000000200,Pepsico Inc,Food & Beverage,,50001,100000,0,Y,Y,
+D000064935,National Oilwell Varco,Oil & Gas,,50001,100000,0,Y,Y,
+D000000373,McDonald's Corp,Food & Beverage,,50001,100000,0,Y,Y,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,50001,100000,0,Y,Y,
+D000022008,Google Inc,Internet,,50001,100000,0,Y,Y,Y
+D000000155,General Motors,Automotive,,50001,100000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,50001,100000,0,Y,Y,Y
+D000000089,FedEx Corp,Air Transport,,50001,100000,0,Y,Y,Y
+D000021977,Express Scripts,Health Services,,50001,100000,0,Y,Y,
+D000000148,CSX Corp,Railroads,,50001,100000,0,Y,Y,Y
+D000000703,Costco Wholesale,Retail Sales,,50001,100000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,
+D000021891,Capital One Financial,Finance/Credit,,50001,100000,0,Y,Y,
+D000021872,Blackrock Inc,Securities/Invest,,50001,100000,0,Y,Y,
+D000000391,Amgen Inc,Pharm/Health Prod,,50001,100000,0,Y,Y,Y
+"",Abbot Laboratorites,Unknown,,50001,100000,0,Y,,
+D000045915,Transocean Inc,Unknown,,15001,50000,0,Y,Y,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+D000000206,Occidental Petroleum,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000000182,Ford Motor Co,Automotive,,15001,50000,0,Y,Y,Y
+D000033563,Facebook Inc,Internet,,15001,50000,0,Y,Y,
+D000043943,Eog Resources,Oil & Gas,,15001,50000,0,Y,,Y
+D000025623,Eaton Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,,Y
+"",Covidien PLC,Pharm/Health Prod,,15001,50000,0,Y,,
+D000000071,Citigroup Inc,Commercial Banks,,15001,50000,0,Y,Y,Y
+D000000076,AT&T Inc,Telephone Utilities,,15001,50000,0,Y,Y,Y
+D000021846,Apollo Education Group,Education,,15001,50000,0,Y,Y,
+D000023883,Amazon.com,Internet,,15001,50000,0,Y,Y,
+D000029695,Visteon Corp,Automotive,,1001,15000,0,Y,,
+D000018253,Discover Financial Services,Finance/Credit,,1001,15000,0,Y,Y,
+"",Dean Witter Discover,Securities/Invest,,1001,15000,0,Y,,
+D000000106,Dean Witter,Securities/Invest,,1001,15000,0,Y,Y,Y
+"",Mallinckroot Plc,Unknown,,0,1000,0,Y,,
+"",Congressional Federal Credit Union Account,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,

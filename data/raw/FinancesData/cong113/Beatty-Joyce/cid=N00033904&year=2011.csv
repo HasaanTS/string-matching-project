@@ -1,0 +1,30 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","229-241 S High St/Col, OH",Real Estate,,500001,1000000,0,N,,
+"",Privately Held Note,Unknown,Note/Note Receivable,250001,500000,0,N,,
+"",Fifth Third Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,N,,
+"",PNC Financial Services Group,Commercial Banks,,100001,250000,0,N,,
+"",Joyce Beatty Assoc,Unknown,,100001,250000,0,N,,
+D000021983,Fifth Third Bancorp,Commercial Banks,,100001,250000,0,N,Y,Y
+D000062018,Key Bank,Commercial Banks,,50001,100000,0,N,,Y
+"",IRA - Fifth Third,Unknown,,50001,100000,0,N,,
+"","1620 E Broad St/Col, OH",Real Estate,,50001,100000,0,N,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,16002,65000,0,N,Y,Y
+"",US Saving Bonds,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,N,,
+"",Personal Loan to Beatty for Congress,Unknown,Note/Note Receivable,15001,50000,0,N,,
+"","493 Parkwood Av/Col, OH",Unknown,,15001,50000,0,N,,
+D000000168,Southern Co,Electric Utilities,,1001,15000,0,N,Y,
+"",Source Capital,Misc Finance,,1001,15000,0,N,,
+"",Ohio Credit Union,Unknown,,1001,15000,0,N,,
+"",Nuveen Quality PFD Income Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",NASDAQ Prem,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,N,Y,Y
+"",JPMorgan Chase/Savings,Unknown,,1001,15000,0,N,,
+"",Ishares Inc MSCI Single Pore Index,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Income & Growth Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Huntington Bankshares,Commercial Banks,,1001,15000,0,N,,
+"",Fifth Third Strategy Income Class,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Columbus Municipal Credit Union,Unknown,,1001,15000,0,N,,
+"",Care Fusion Corp,Unknown,,1001,15000,0,N,,
+D000021892,Cardinal Health,Pharm/Health Prod,,1001,15000,0,N,Y,Y
+"",American Express Bank FSB MTN,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000163,Freddie Mac,Real Estate,,1,1000,0,N,,

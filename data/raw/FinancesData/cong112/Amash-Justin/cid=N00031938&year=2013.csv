@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000053747,Michigan Industrial Tools,Misc Mfg/Distrib,,500001,1000000,0,Y,,Y
+"",SPDR S&P 500 ETF,Securities/Invest,Mutual Fund,165004,350000,0,Y,,
+"",Commercial Property,Real Estate,,100001,250000,0,Y,,
+"",Powershares QQQ ETF,Unknown,Mutual Fund,60004,200000,0,Y,,
+"",SPDR MidCap Trust Series,Unknown,Mutual Fund,31003,115000,0,Y,,
+"",SSgA Target Retirement 2050,Unknown,Mutual Fund,30002,100000,0,Y,,
+"",SPTN 500 Index,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",iShares MSCI Emerging Markets Index,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",iShares MSCI EAFE ETF,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",SPTN International Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",SPTN Ext Market Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fifth Third Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",SPDR MidCap Trust Series I,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",SPDR Gold Trust ETF,Mining,Mutual Fund,1001,15000,0,Y,,
+"",CVSL Inc,Unknown,,1001,15000,0,Y,,
+"",Chemical Bank Checking Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

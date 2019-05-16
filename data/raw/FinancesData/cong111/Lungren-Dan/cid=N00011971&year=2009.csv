@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Stoneyford Ranch,Real Estate,,15001,50000,0,Y,,
+"",M&T Bank account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional FCU Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Chase Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

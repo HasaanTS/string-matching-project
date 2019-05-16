@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",CitiStreet,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"","19 Bock Avenue/Newark, NJ",Real Estate,,100001,250000,0,Y,,
+D000021573,Wachovia Corp,Commercial Banks,,50001,100000,0,Y,Y,Y
+"",Smith Barney/CD,Unknown,Cash/Money Market/Savings/Checking,4004,60000,0,Y,,
+"",Smith Barney Bank Deposit Program,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000141,Prudential,Real Estate,,15001,50000,0,Y,Y,Y
+D000000275,Merck & Co,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+"",CG Large Cap Growth,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",CG Capitol Markets In,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",CG Capital Market Lar,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Small Cap Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000223,Schering-Plough Corp,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000022108,Medco Health Solutions,Health Services,,1001,15000,0,Y,Y,Y
+"",Laser Master International,Unknown,,1001,15000,0,Y,,
+"",CG Small Cap Value,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",World Space,Unknown,,1,1000,0,Y,,

@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Stutzman Family Home & Farm,Crop Production,,500001,1000000,0,A,,
+"",Stutzman Farms,Crop Production,,250001,500000,0,A,,
+"",Ava Laurenne Bridal LLC,Unknown,,100001,250000,0,A,,
+"",Northwestern Mutual - Traditional Variable Annuity,,Insurance policies & Annuities,50001,100000,0,A,,
+"",Northwestern Mutual CSV Whole Life,,Insurance policies & Annuities,2002,30000,0,A,,
+"",Wells Fargo Bank Account,,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Thrift Savings Plans Fund,,Mutual Fund,1001,15000,0,A,,
+"",Gold,,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,A,,
+"",Farmers State Bank account,,,1001,15000,0,A,,
+"",College Choice Indiana 529 Plan,,Mutual Fund,1001,15000,0,A,,

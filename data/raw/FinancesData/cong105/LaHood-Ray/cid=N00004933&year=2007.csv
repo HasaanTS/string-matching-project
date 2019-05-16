@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",TIAA-CREF Retirement Plan,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",National City Savings & Investment Plan,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+"",National City Retirement Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",CEFCU Credit Union Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Goodwill Industries,Non-Profits,,1001,15000,0,Y,,
+D000000182,Ford Motor Co,Automotive,,1001,15000,0,Y,Y,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000132,Archer Daniels Midland,Agricultural Svcs,,1001,15000,0,Y,Y,

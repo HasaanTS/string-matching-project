@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000029514,Trinity Industries,Railroads,,5000001,25000000,0,Y,,
+"",LEA County Bancshares,Commercial Banks,,1000001,5000000,0,Y,,
+"",LFT LLC,Misc Services,,500001,1000000,0,Y,,
+"",USAA Federal Accounts,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",Exedra LLC,Unknown,,250001,500000,0,Y,,
+"",Congressional FCU Accounts,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",USAA Simple IRA/NM Deposit Account,Unknown,Cash/Money Market/Savings/Checking,100002,200000,0,Y,,
+"",Lea County State Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Gree Ltd,Unknown,,50001,100000,0,Y,,
+"",College Soc 529 Plans Custom Choice Port,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000019566,Wells Fargo Bank,Commercial Banks,,1001,15000,0,Y,,

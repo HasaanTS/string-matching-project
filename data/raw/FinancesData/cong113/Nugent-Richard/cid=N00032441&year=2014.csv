@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Residential Rental Property located in Sevierville,Real Estate,,250001,500000,0,O,,
+"",Mass Mutual Deferred Comp Plan,Unknown,Insurance policies & Annuities,100001,250000,0,O,,
+"","Vacant Lot/Sevierville, TN",Real Estate,,50001,100000,0,O,,
+"",Bank of America/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,30002,100000,0,O,,
+"",Aspire Financial 403b,Unknown,Mutual Fund,79527,79527,0,O,,
+"",New England Life Insurance Whole Life,Unknown,Insurance policies & Annuities,15001,50000,0,O,,
+"",MetLife Whole Life Insurance policy,Unknown,Insurance policies & Annuities,15001,50000,0,O,,
+"",Bencor Administrative Services 401A,Unknown,"Brokerage, IRA, 401k",15001,50000,0,O,,
+"",Suncoast Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,O,,
+"",Prudential Insurance Co of America Whole Life,Unknown,Insurance policies & Annuities,1001,15000,0,O,,
+"",Bank of America/Savings,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,O,,

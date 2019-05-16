@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000022305,Vanguard Group,Securities/Invest,Mutual Fund,100001,250000,0,A,Y,Y
+"",All America,Unknown,Mutual Fund,100002,200000,0,A,,
+"",ICMA Retirement,Unknown,"Brokerage, IRA, 401k",50001,100000,0,A,,
+"",Fidelity Cash Reserves,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",INVESCO/AIM,Unknown,,15001,50000,0,A,,
+D000022724,American Funds,Securities/Invest,Mutual Fund,15001,50000,0,A,,
+D000060061,American Century Investments,Securities/Invest,Mutual Fund,15001,50000,0,A,,
+"",US Bank ESPP,Commercial Banks,,1001,15000,0,A,,
+"",US Army Assn,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,A,,
+"",Sunco Inc,Unknown,,1001,15000,0,A,,
+"",Capital Federal Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,

@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",TIAA-CREF,Securities/Invest,Unknown,50001,100000,0,Y,,
+"",National City Savings & Investment Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",National City Retirement Plan,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,

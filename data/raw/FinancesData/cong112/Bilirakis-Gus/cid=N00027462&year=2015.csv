@@ -1,0 +1,32 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",State Farm Variable Universal Life Insurance,,Insurance policies & Annuities,4004,60000,0,Y,,
+"",Rite Aid Co,,,4004,60000,0,Y,,
+D000000182,Ford Motor Co,Automotive,,4004,60000,0,Y,Y,Y
+"",Prudential Whole Life Insurance,,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Prudential Variable DFC Insurance Value Fund,,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Prudential Vairbale Life Insurance Flex Managed Fu,,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Northwestern Mutual Whole Life,,Insurance policies & Annuities,15001,50000,0,Y,,
+"","Empty lots 5 Orange Blossom Hills Ocala, FL",,,15001,50000,0,Y,,
+"",RAYMOND JAMES BANK DEPOSIT ACCOUNT,,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+D000000457,Corning Inc,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,
+"",Bank of America/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Wells Fargo/Savings Account,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Wells Fargo Savings Account,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,Y,Y,
+"",Total Systems,,,1001,15000,0,Y,,
+"",TIAA CREE Money Market Account,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000022269,SunTrust Banks,Commercial Banks,,1001,15000,0,Y,Y,
+"",State Farm Varialbe Universal Life Stock & Bond,,Insurance policies & Annuities,1001,15000,0,Y,,
+D000000341,Rite Aid Corp,Retail Sales,,1001,15000,0,Y,Y,Y
+"",PRUDENTIAL VARIABLE LIFE INSURANCE NATURAL RESOURC,,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Prudential Variable Life Insurance Faulty Fund,,Insurance policies & Annuities,1001,15000,0,Y,,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",FL Prepaid College Tuition not self directed,,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",4 Wells Fargo Savings Accoung,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",4 FL Prepaid College Tuition Not self directed,,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",3 Wells Fargo Savings Account,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",3 FL Prepaid Colelge Tuition not self directed,,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",2 Wells Fargo Savings Account,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",2 FL Prepaid College Tution not self directed,,"Brokerage, IRA, 401k",1001,15000,0,Y,,

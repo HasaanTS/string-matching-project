@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Tract of Land,Unknown,,50001,100000,0,A,,
+"",Texas Employees Retirement System,Unknown,"Brokerage, IRA, 401k",50001,100000,0,A,,
+"",UBS Bank USA Deposit Account,Unknown,Cash/Money Market/Savings/Checking,16002,65000,0,Y,,
+"",Bank of America/Checking & Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,1001,15000,0,Y,,

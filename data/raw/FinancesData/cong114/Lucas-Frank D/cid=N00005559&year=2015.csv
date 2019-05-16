@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Farmland/320 acres,Crop Production,,500002,1000000,0,Y,,
+"",Mineral Rights/103 acres,Mining,,250001,500000,0,Y,,
+"",480 acres - Farmland,Real Estate,,250001,500000,0,Y,,
+"",Mineral Rights/63.34 acres,,,100001,250000,0,Y,,
+"",Security State Bank account,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Oklahoma Public Employee Retirement,,Insurance policies & Annuities,15001,50000,0,Y,,
+"","Farm Credit of Western Oklahoma, Woodward, OK acco",,,15001,50000,0,Y,,
+"",Transamerica Universal Life Insurance Policy,,Insurance policies & Annuities,2002,30000,0,Y,,
+"",Western Farm Bureau,Crop Production,,1001,15000,0,Y,,
+"",Texas Teacher Retirement,,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Oklahoma Teacher Retirement,,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

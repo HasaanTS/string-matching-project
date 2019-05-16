@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Wells Fargo Account,Unknown,"Brokerage, IRA, 401k",1001,15000,0,N,,
+"",USAA/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+D000019533,US Steel,Steel Production,,1001,15000,0,N,Y,
+"",Scottrade Account,Unknown,"Brokerage, IRA, 401k",1001,15000,0,N,,
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,N,Y,Y
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,N,Y,Y
+D000000067,Altria Group,Tobacco,,1001,15000,0,N,Y,Y

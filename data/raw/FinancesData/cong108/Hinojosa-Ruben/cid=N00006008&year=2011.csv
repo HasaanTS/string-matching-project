@@ -1,0 +1,31 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rent Primary Residence (March 2011),Real Estate,,100001,250000,0,Y,,
+"",Hinojosa Development,Real Estate,,100001,250000,0,Y,,
+"",Firm Consultants Inc,Business Services,,100001,250000,0,Y,,
+"",Bank of America/Savings,Commercial Banks,Cash/Money Market/Savings/Checking,67004,180000,0,Y,,
+"",American Funds Money Market,Unknown,Cash/Money Market/Savings/Checking,66003,165000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,31003,115000,0,Y,Y,Y
+"",US Government Securities Fund 529a,Unknown,Mutual Fund,30002,100000,0,Y,,
+"",Ruben's Rental Building,Real Estate,,50001,100000,0,Y,,
+"",Lone Star Bank,Commercial Banks,,50001,100000,0,Y,,
+D000000076,AT&T Inc,Telephone Utilities,,30002,100000,0,Y,Y,Y
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,16002,65000,0,Y,Y,
+"",Texas Tomorrow Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Bank Of America Regular Checking,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Bank Of America Myaccess Checking,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000030495,Toyota Motor Corp,Automotive,,3003,45000,0,Y,Y,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,3003,45000,0,Y,Y,Y
+D000000090,Bank of America,Commercial Banks,,2003,31000,0,Y,Y,
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,
+D000000182,Ford Motor Co,Automotive,,2002,30000,0,Y,Y,Y
+"",First National Bank - Cash,Unknown,,2002,30000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,2002,30000,0,Y,Y,
+D000000071,Citigroup Inc,Commercial Banks,,2002,30000,0,Y,Y,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",International Bancshares,Commercial Banks,,1001,15000,0,Y,,
+"",Hinojosa Enterprises,Business Services,,1001,15000,0,Y,,
+"",First National Bank IMA,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank of America/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,2,2000,0,Y,,
+"",Wells Fargo/Savings,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",First National Bank IRA,Commercial Banks,"Brokerage, IRA, 401k",1,1000,0,Y,,

@@ -1,0 +1,53 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Hidden Valley CRM 1 sec NE 1/4 Sec Rd 26,Unknown,,1000001,5000000,0,O,,
+"",27601 Highway 160,Real Estate,,500001,1000000,0,O,,
+"",110 Whistlepig Way Site 87,Real Estate,,250001,500000,0,O,,
+"",PacWest Bancorp,Commercial Banks,,100001,250000,0,O,,
+D000000249,NEW YORK LIFE INSURANCE,Insurance,"Brokerage, IRA, 401k",100001,250000,0,O,Y,
+"",702 Arbor Street,Real Estate,,100001,250000,0,O,,
+"",701 3rd Street,Real Estate,,100001,250000,0,O,,
+D000028500,Questar Corp,Oil & Gas,,100002,200000,0,O,Y,
+D000000129,Exxon Mobil,Oil & Gas,,52003,130000,0,O,Y,Y
+D000020995,UBS AG,Securities/Invest,,51002,115000,0,O,Y,
+D000000090,Bank of America,Commercial Banks,,31003,115000,0,O,Y,
+D000000076,AT&T Inc,Telephone Utilities,,31003,115000,0,O,Y,Y
+D000029969,Zions BanCorp,Commercial Banks,,30002,100000,0,O,Y,Y
+"",Vectra Bank CCA,Unknown,"Brokerage, IRA, 401k",50001,100000,0,O,,
+"",RMA Money Market,Unknown,Cash/Money Market/Savings/Checking,30002,100000,0,O,,
+"",Pelty Building Highway 160 East,Unknown,,50001,100000,0,O,,
+D000000247,Ashland Inc,Chemicals,,30002,100000,0,O,Y,
+"",Zweig Total Return Fund,Unknown,Mutual Fund,16002,65000,0,O,,
+D000021773,Travelers Companies,Insurance,,16002,65000,0,O,Y,
+D000023866,Alliant Energy,Electric Utilities,,16002,65000,0,O,Y,
+"",UBS RMa Tax Free Fund Inc,Unknown,Mutual Fund,15001,50000,0,O,,
+"",Summit County Revenue Bond,Unknown,Government Bond,15001,50000,0,O,,
+D000042525,Royal Dutch Shell,Oil & Gas,,15001,50000,0,O,Y,
+D000028825,Royal Bank of Scotland,Commercial Banks,,15001,50000,0,O,Y,
+"",Powershares QQQ Trust,Unknown,Mutual Fund,15001,50000,0,O,,
+D000000200,Pepsico Inc,Food & Beverage,,15001,50000,0,O,Y,
+D000000206,Occidental Petroleum,Oil & Gas,,15001,50000,0,O,Y,Y
+D000027885,National Semiconductor Corp,Electronics Mfg/Eqp,,15001,50000,0,O,,
+"",Las Cruces revenue Bond,Unknown,Government Bond,15001,50000,0,O,,
+D000040346,Kinder Morgan Energy Partners,Oil & Gas,,15001,50000,0,O,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,15001,50000,0,O,Y,Y
+"",John Hancock Premium Dividend Fund,Unknown,Mutual Fund,15001,50000,0,O,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,O,Y,Y
+D000000133,GlaxoSmithKline,Pharm/Health Prod,,15001,50000,0,O,Y,
+"",Broomfield Revenue Bond,Unknown,Government Bond,15001,50000,0,O,,
+"",Broomfield Bond Co,Unknown,,15001,50000,0,O,,
+D000024683,Centurylink,Telephone Utilities,,3003,45000,0,O,Y,Y
+"",UBS AG Trust Preferred Securities,Unknown,Mutual Fund,2002,30000,0,O,,
+"",Ameritrade CEA,Unknown,"Brokerage, IRA, 401k",2002,30000,0,O,,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,O,Y,
+D000000081,United Parcel Service,Air Transport,,1001,15000,0,O,Y,
+"",Tim Hortons Inc,Food & Beverage,,1001,15000,0,O,,
+"",State of Colorado Vanguard Index Fund,Unknown,Mutual Fund,1001,15000,0,O,,
+"",Ridges Metro District,Unknown,Government Bond,1001,15000,0,O,,
+"",ProMedCo Management Co,Unknown,,1001,15000,0,O,,
+"",Morgan Stanley Capital Trust VII Cap Secs,Unknown,Mutual Fund,1001,15000,0,O,,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,O,Y,
+D000000244,Marathon Oil,Oil & Gas,,1001,15000,0,O,Y,Y
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,1001,15000,0,O,Y,
+"",Helios Advantage Income Fund Inc,Unknown,Mutual Fund,1001,15000,0,O,,
+"",Denver CO Revenue Bond,Unknown,Government Bond,1001,15000,0,O,,
+"",Denver airport Revenue Bond,Unknown,Government Bond,1001,15000,0,O,,

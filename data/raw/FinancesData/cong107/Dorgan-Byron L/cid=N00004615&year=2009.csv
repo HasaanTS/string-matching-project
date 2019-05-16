@@ -1,0 +1,38 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Capitol Credit Union,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",PIMCO Low Duration Fund,Unknown,Mutual Fund,51002,115000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",T Rowe Price Growth Fund,Unknown,Mutual Fund,17003,80000,0,Y,,
+"",Morgan Stanley Money Market,Unknown,Cash/Money Market/Savings/Checking,16002,66000,0,Y,,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",Allianz NFJ Dividend Value Fund,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",AIM International Growth Fund,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Riversource Partners Fund,Unknown,Mutual Fund,2002,31000,0,Y,,
+"",DWS RREEF Real Estate Fund,Real Estate,,2002,30000,0,Y,,
+"",Fidelity Mid Cap Fund,Unknown,Mutual Fund,1001,16000,0,Y,,
+D000029194,State Street Corp,Securities/Invest,,1001,15000,0,Y,Y,
+"",Pimco High Yield Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Nuveen Ltd Term Muni Bond,Unknown,Government Bond,1001,15000,0,Y,,
+D000000172,MetLife Inc,Insurance,,1001,15000,0,Y,Y,Y
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,Y,Y,
+"",JPMorgan Mid Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",JPMorgan Intermediate Tax Free Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",Ivy Funds Mutual Fund Cundill Global,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Henderson International Opportunities Fd,Unknown,,1001,15000,0,Y,,
+"",Hartford Mid Cap Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",EMC Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000031719,Automatic Data Processing Inc,Business Services,,1001,15000,0,Y,Y,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",American Bank Center,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",AllianceBernstein Value Fund,Unknown,,1001,15000,0,Y,,
+D000021800,3M Co,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Potomac Investment Club/Money market,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+D000033404,Electronic Arts Inc,Electronics Mfg/Eqp,,0,1000,0,Y,,
+D000032736,Colgate-Palmolive Co,Pharm/Health Prod,,0,1000,0,Y,Y,
+D000000015,Chevron Corp,Oil & Gas,,0,1000,0,Y,Y,Y
+"",Bank of ND College Save Portfolio,Unknown,Mutual Fund,0,1000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,0,1000,0,Y,Y,Y
+"",Alliance Partner Growth,Unknown,Mutual Fund,0,1000,0,Y,,

@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","530 First Street SE/Washington, DC",Real Estate,,500001,1000000,0,T,,
+"",TIAA-CREF Retirement Equities Fund,Unknown,Mutual Fund,50001,100000,0,T,,
+"",371 W Harding/San Antonio TX,Real Estate,,15001,50000,0,T,,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,T,Y,Y
+"",Wright Patman Congressional FCU,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,T,,
+"",San Antonio Teacher Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,T,,
+"",San Antonio Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,T,,

@@ -1,0 +1,22 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","12063 Gray Birch Circle/Orlando, FL",Real Estate,,250001,500000,0,A,,
+"",Beach Partners II,Real Estate,,100001,250000,0,A,,
+"",Alger Mid Cap Growth Institutional Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",American Funds Growth Fund of America,Misc Finance,Mutual Fund,50001,100000,0,A,,
+"",American Funds EuroPacific Growth Fund,Unknown,Mutual Fund,50001,100000,0,A,,
+"",AllianceBernstein Intl Value Fund,Unknown,Mutual Fund,50001,100000,0,A,,
+"",Fidelity Cash Reserves,Unknown,Cash/Money Market/Savings/Checking,16003,66000,0,A,,
+"",Ivy Small Cap Growth Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+D000000165,General Dynamics,Defense Electronics,,15001,50000,0,A,Y,Y
+"",Fidelity Worldwide Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Fidelity Select Consumer Staples Port,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Fidelity China Region Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+D000000089,FedEx Corp,Air Transport,,15001,50000,0,A,Y,
+"",US Savings Bonds,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",TriQuint Semiconductor,Electronics Mfg/Eqp,,1001,15000,0,A,,
+D000000170,Northrop Grumman,Misc Defense,,1001,15000,0,A,Y,Y
+D000029510,Triad Hospitals,Hospitals/Nurs Homes,,1,1000,0,A,,
+"",LifePoint Hospitals,Hospitals/Nurs Homes,,1,1000,0,A,,
+"",Fidelity Growth Company Fund,Unknown,Mutual Fund,1,1000,0,A,,

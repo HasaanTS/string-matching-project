@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Alliance Bank,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"","Springfield, Mass Retirement Fund",Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Cambridge Investors,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Cambridge Investors TRowe Price,Unknown,Mutual Fund,1002,16000,0,Y,,
+"",Cambridge Investors Bank Deposit,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank North,Savings & Loans,Unknown,1001,15000,0,Y,,
+"",Cambridge Investors Fidelity,Unknown,Mutual Fund,2,2000,0,Y,,
+"",Springfield MA Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

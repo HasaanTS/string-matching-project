@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Sheldon Family Farms,Crop Production,,100001,250000,0,Y,,
+"",Jackson National Annuity B,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Jackson National Annuity A,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",LPL Insured Cash Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Ameriprise Annuity,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,

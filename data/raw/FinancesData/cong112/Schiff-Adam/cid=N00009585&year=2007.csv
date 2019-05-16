@@ -1,0 +1,21 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000284,Wyeth,Pharm/Health Prod,,500001,1000000,0,Y,Y,
+"",Fidelity Puritan Fund,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",iShares DJ Select Dividend Index,Unknown,Mutual Fund,65002,150000,0,Y,,
+"",iShares S&P 500 Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",iShares Russell 2000 Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000068479,Wellpoint Inc,Health Services,,1001,15000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,Y,Y,
+"",Nasdaq 100 Shares,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares DJ US Industrial Sector Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares DJ US Healthcare Sector Index,Misc Health,,1001,15000,0,Y,,
+"",iShares DJ US Financial Sector Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares DJ Tech Sector Index,Securities/Invest,Mutual Fund,1001,15000,0,Y,,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Fortune Brands,Securities/Invest,,1001,15000,0,Y,,
+D000000188,Dow Chemical,Chemicals,,1001,15000,0,Y,Y,
+"",Diamonds Trust Series 1,Unknown,,1001,15000,0,Y,,
+D000025112,Constellation Brands,"Beer, Wine & Liquor",,1001,15000,0,Y,,
+"",Blackrock Muni Yield Insd Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Blackrock Muni Holdings Calif Insd Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

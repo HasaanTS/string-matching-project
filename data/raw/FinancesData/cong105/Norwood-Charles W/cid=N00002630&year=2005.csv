@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Walton Way West Building,Real Estate,,500001,1000000,0,Y,,
+"",SunTrust Banks account,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Smith Barney Money Funds,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Guardian Insurance,Insurance,,1,1000,0,Y,,
+"",Enamelon Inc,Unknown,,1,1000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

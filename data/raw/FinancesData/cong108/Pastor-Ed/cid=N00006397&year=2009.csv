@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"",MetLife Annuity,Unknown,Insurance policies & Annuities,51002,115000,0,Y,,
+"",Congressional FCU Account,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Aviva Life & Annuity Co Cash Value,Unknown,Insurance policies & Annuities,30002,100000,0,Y,,
+"",Nationwide Retirement Services 457 Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Desert Schools Federal Credit Union/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Desert Schools Federal Credit Union IRA,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Desert Schools FCU/Cash,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"","Residential Lot/Guadalupe, AZ",Real Estate,,1001,15000,0,Y,,
+"",Mirasol Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

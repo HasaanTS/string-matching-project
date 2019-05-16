@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000035524,M&T Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,Y
+"",Cogressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"","33 Hollywood Avenue/Buffalo, NY",Real Estate,,1001,15000,0,Y,,
+"",SEFCU,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Chase Mortgage,Real Estate,,1,1000,0,Y,,
+D000067523,Charles Schwab & Co,Securities/Invest,,1,1000,0,Y,,
+D000042792,ABN AMRO Mortgage Group,Real Estate,,1,1000,0,Y,,

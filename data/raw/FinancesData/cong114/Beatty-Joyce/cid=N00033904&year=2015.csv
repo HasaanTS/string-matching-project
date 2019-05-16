@@ -1,0 +1,29 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fifth Third Saving Accounts,,Cash/Money Market/Savings/Checking,1000001,5000000,0,A,,
+D000021983,Fifth Third Bancorp,Commercial Banks,,250001,500000,0,A,Y,Y
+"",PNC Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,A,,
+"",Joyce Beatty & Assoc,,,100001,250000,0,A,,
+"",Edward Jones/Cash,,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",US Savings Bond,,Government Bond,15001,50000,0,A,,
+"",Key Bank Accounts,,"Brokerage, IRA, 401k",15001,50000,0,A,,
+"",Joyce & Otto Beatty Scholarship Fund,,Mutual Fund,15001,50000,0,A,,
+"",803 Wager Street,Real Estate,,15001,50000,0,A,,
+"",493 Parkwood Avenue,Real Estate,,15001,50000,0,A,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,2002,30000,0,A,Y,Y
+"",Touchstone Flexible Income Fund,,Mutual Fund,1001,15000,0,A,,
+D000000168,Southern Co,Electric Utilities,,1001,15000,0,A,Y,
+"",Source Capital Inc,Securities/Invest,,1001,15000,0,A,,
+D000022988,Ohio Credit Union System,,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",Nuveen Preferred Securities Income Fund,,Mutual Fund,1001,15000,0,A,,
+"",Nuveen NASDAQ 100 Dynamic Overwrite Fund,,Mutual Fund,1001,15000,0,A,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,A,Y,Y
+"",iShares MSCI Singapore Index Fund,,Mutual Fund,1001,15000,0,A,,
+D000026556,Huntington Bancshares,Commercial Banks,,1001,15000,0,A,Y,Y
+"",Federal Home Loan Mortgage Corp,,,1001,15000,0,A,,
+D000033563,Facebook Inc,Internet,,1001,15000,0,A,Y,
+"",Corinthian Baptist Church Credit Union,,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Columbus Municipal Credit Union,,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000048309,CareFusion,,,1001,15000,0,A,,
+D000021892,Cardinal Health,Pharm/Health Prod,,1001,15000,0,A,Y,Y
+D000000217,American Express,Finance/Credit,,1001,15000,0,A,Y,Y

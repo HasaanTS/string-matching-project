@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Land PT,Real Estate,,500001,1000000,0,T,,
+"",Home,Real Estate,,100001,250000,0,T,,
+"",INB Invest 401k,Unknown,"Brokerage, IRA, 401k",15001,50000,0,T,,
+"",Hawaii Stock FCU,Unknown,,15001,50000,0,T,,
+"",Citi Stocks 401k,Unknown,"Brokerage, IRA, 401k",15001,50000,0,T,,
+"",Dryfus International,Unknown,,2002,30000,0,T,,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,T,Y,Y
+"",Vanguard S&P Index,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Vanguard International Equity Index,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Div Guarantee,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity 4-in-1,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Dryfus S&P Index,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Cent'l Pacific Bank,Commercial Banks,,1,1000,0,T,,

@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Oppenheimer Advantage Bank Deposit,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",MFS Inflation Adj Bond Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fundamental Investors Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Capital Income Builder Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Royal Gold Inc,Mining,,1001,15000,0,Y,,
+D000022431,National City Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Lord Abbett Invt Tr Bal Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Advantage Government Liquid Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000418,International Game Technology,Casinos/Gambling,,1,1000,0,Y,Y,
+D000021970,eBay Inc,Internet,,1,1000,0,Y,Y,

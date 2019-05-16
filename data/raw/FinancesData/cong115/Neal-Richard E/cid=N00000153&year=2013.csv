@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Alliance Bank,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"","City of Springfield, MA Retirement Fund",Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",T Rowe Price Cap App,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Balanced Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Bank North,Savings & Loans,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank Deposit Sweep cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",T Rowe Price Global,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Springfield MA Credit Union,Credit Unions,Unknown,1,1000,0,Y,,
+"",Fidelity Leveraged,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Cong Fed Credit U Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

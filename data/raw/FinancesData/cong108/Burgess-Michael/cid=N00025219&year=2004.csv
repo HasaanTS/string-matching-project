@@ -1,0 +1,47 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Northwest Mutual Life Insurance 65 Life,Unknown,,400005,950000,0,Y,,
+"",Security Bank/CD,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",Texas Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Lake Point Medical Realty,Real Estate,,100001,250000,0,Y,,
+"",4 Acres Timber Creek/Lewisville,Real Estate,,100001,250000,0,Y,,
+D000030157,Stryker Corp,Pharm/Health Prod,,30002,100000,0,Y,,
+"",Security Bank,Commercial Banks,,50001,100000,0,Y,,
+"","4637 Ivanhoe/Ft Worth, TX",Real Estate,,50001,100000,0,Y,,
+"",Northwest Mutual Life Insurance 90 Life,Unknown,,15001,50000,0,Y,,
+"",2.5 Acres Marlin Sc Ak,Real Estate,,15001,50000,0,Y,,
+"",Telefonos de Mexico,Telephone Utilities,,2002,30000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,2002,30000,0,Y,Y,Y
+D000066608,America Movil,Telecom Svcs,,2002,30000,0,Y,,
+D000000284,Wyeth,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,Y,Y,
+"",United Community Banks,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000785,Southwest Airlines,Air Transport,,1001,15000,0,Y,Y,
+"",Petrofund Energy,Oil & Gas,,1001,15000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",MFS Series II Emerging Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Metlife Life Insurance,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Intsl Corp,Unknown,,1001,15000,0,Y,,
+D000000445,HCA Inc,Hospitals/Nurs Homes,,1001,15000,0,Y,Y,Y
+"",Hartford Annuity,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",GE LF Anniuty,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Series Growth Equity Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Series Equity Otro Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000222,Cigna Corp,Insurance,,1001,15000,0,Y,Y,Y
+"",Centennial Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"","5 Acres/Talkeetna, AK",Real Estate,,1001,15000,0,Y,,
+"",2509 Scriptuee LP,Unknown,,1001,15000,0,Y,,
+D000000081,United Parcel Service,Air Transport,,1,1000,0,Y,Y,Y
+D000000094,Time Warner,TV/Movies/Music,,1,1000,0,Y,Y,
+D000000722,Texas Instruments,Electronics Mfg/Eqp,,1,1000,0,Y,Y,Y
+"",Nokia Corp,Telecom Svcs,,1,1000,0,Y,,
+"",MFS Series II Emerging Growth Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+D000022108,Medco Health Solutions,Health Services,,1,1000,0,Y,Y,Y
+D000000530,Lucent Technologies,Telecom Svcs,,1,1000,0,Y,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1,1000,0,Y,Y,
+D000000182,Ford Motor Co,Automotive,,1,1000,0,Y,Y,
+"",Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000024209,Avaya Inc,Telecom Svcs,,1,1000,0,Y,Y,
+"",Agere Systems Income Growth & Fund,Unknown,Mutual Fund,1,1000,0,Y,,

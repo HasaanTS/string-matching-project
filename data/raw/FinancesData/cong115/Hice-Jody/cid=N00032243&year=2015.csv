@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Gold,,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+"",BB&T Bank Accounts,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Silver,,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,
+"",Midland National Flexible Premium Deferred Annuity,,Insurance policies & Annuities,1001,15000,0,Y,,

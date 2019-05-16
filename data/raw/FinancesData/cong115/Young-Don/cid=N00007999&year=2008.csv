@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Putnam Growth Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,101003,215000,0,Y,,
+D000000249,New York Life Insurance,Insurance,Unknown,50001,100000,0,Y,Y,
+D000000659,State Farm Insurance,Insurance,Unknown,15001,50000,0,Y,Y,Y
+"",Keybank National Assn,Commercial Banks,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

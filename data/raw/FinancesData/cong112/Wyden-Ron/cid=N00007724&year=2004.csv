@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Morgan Stanley Managed Funds,Unknown,Mutual Fund,500001,1000000,0,Y,,
+"",US Senate Federal Credit Union/Money Mkt,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"","2393 SW Park Place/Portland, OR",Real Estate,,100001,250000,0,Y,,
+"",US Savings Bonds,Unknown,Government Bond,50001,100000,0,Y,,
+"",Schwab Market Track Growth Fund,Unknown,Mutual Fund,30002,100000,0,Y,,
+"",Schwab Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",US Senate Federal Credit Union/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Intellectual Property of Peter H Wyden,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,

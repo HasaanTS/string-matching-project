@@ -1,0 +1,58 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Promark Income Fund,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",Wachovia Bank Account,Unknown,Cash/Money Market/Savings/Checking,101002,265000,0,Y,,
+"",Mutual Qualified Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Ivy Asset Strategy Fund,Unknown,Mutual Fund,81004,215000,0,Y,,
+"",Davis New York Venture Fund,Securities/Invest,Mutual Fund,47005,180000,0,Y,,
+"",Evergreen Asset Allocation Fund,Unknown,Mutual Fund,46004,165000,0,Y,,
+"",Citibank South Dakota Bank Deposit Prog,Unknown,Cash/Money Market/Savings/Checking,52005,132000,0,Y,,
+"","Spring Lake, MI Public Schools Bond",Unknown,Government Bond,30002,100000,0,Y,,
+"",Mutual Ser Qualified Income Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Fidelity Diversified International Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Columbia Acorn Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Legg Mason Value Trust,Unknown,Mutual Fund,18004,95000,0,Y,,
+D000000155,General Motors,Automotive,,16002,65000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,16002,65000,0,Y,Y,Y
+"",Dodge & Cox Stock Fund,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",Dodge & Cox International Stock Fund,Unknown,Mutual Fund,16002,65000,0,Y,,
+"","Wyoming, MI Public Schools Rfdg Bond",Unknown,Government Bond,15001,50000,0,Y,,
+D000000367,Wal-Mart Stores,Retail Sales,,15001,50000,0,Y,Y,
+"",UTS Uncommon Values Trust 2007,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",SSgA LG Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",PIMCO All Asset Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Nicholas Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Mutual SER Fund Inc Beacon Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Mutual Beacon Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Michigan Trunkline Bond,Unknown,Government Bond,15001,50000,0,Y,,
+"",Michigan State Dept of Tsptn Grant Anti,Unknown,Government Bond,15001,50000,0,Y,,
+"","Livonia, MI Muni Building Auth Bond",Unknown,Government Bond,15001,50000,0,Y,,
+"",Income Fund of America Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Heartland Value Fund Inc,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Gabelli Asset Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000022519,DIRECTV Group,Telecom Svcs,,15001,50000,0,Y,,
+"","Detroit, MI Capital Improvement Bond",Unknown,Government Bond,15001,50000,0,Y,,
+"",CVS/Caremark Corp,Retail Sales,,15001,50000,0,Y,,
+D000000303,ConocoPhillips,Oil & Gas,,15001,50000,0,Y,Y,Y
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"","Columbus, OH Csd Sch Facs Constr & Impt",Unknown,Government Bond,15001,50000,0,Y,,
+D000023082,Brandywine Funds,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Bernstein Diversity Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000030157,Stryker Corp,Pharm/Health Prod,,2002,30000,0,Y,Y,Y
+"",Oppenheimer Global Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,2002,30000,0,Y,Y,
+"",Mutual Shares Fund,Unknown,,1002,16000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,
+"",Thornburg International Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Mutual SER Fund Inc SHS Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000027415,Marsh & McLennan,Insurance,,1001,15000,0,Y,Y,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Fidelity Growth Company Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000368,Exelon Corp,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",Eaton Vance Michigan Muni Income Trust,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000495,Dupont Co,Chemicals,,1001,15000,0,Y,Y,Y
+"","Detroit, MI Sew Disp Rev Rfdg-Sr Lien Bd",Unknown,Government Bond,1001,15000,0,Y,,
+D000020730,Chase Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Wachovia Securities,Securities/Invest,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000028430,Praxair Inc,Chemicals,,1,1000,0,Y,Y,Y

@@ -1,0 +1,29 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",New York State & Local Retirement Plan,,"Brokerage, IRA, 401k",50001,100000,0,A,,
+"",ING ReliaStar Life Insurance Co,Insurance,Insurance policies & Annuities,50001,100000,0,A,,
+"",Aggressive Age Based Moderate Growth,,Mutual Fund,16002,65000,0,A,,
+"",Lenox Hill Hospital Retirement Plan,,Insurance policies & Annuities,15001,50000,0,A,,
+"",Aggressive Age Based Growth Portfolio,,Mutual Fund,15001,50000,0,A,,
+D000000128,Walt Disney Co,TV/Movies/Music,,3003,45000,0,A,Y,Y
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,3003,45000,0,A,Y,Y
+D000055403,Philip Morris International,Tobacco,,3003,45000,0,A,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,3003,45000,0,A,Y,Y
+D000000373,McDonald's Corp,Food & Beverage,,3003,45000,0,A,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,3003,45000,0,A,Y,Y
+D000000067,Altria Group,Tobacco,,2003,31000,0,A,Y,Y
+"",Washington Mutual Investors Fund,,Mutual Fund,1001,15000,0,A,,
+"",Fidelity Advisor Small Cap Fund,,Mutual Fund,1001,15000,0,A,,
+"",Federated Mid Cap Index,,Mutual Fund,1001,15000,0,A,,
+"",EuroPacific Growth Fund,,Mutual Fund,1001,15000,0,A,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Congressional FCU DC#2,,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Congressional FCU DC#1,,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",American High Income Trust Fund,,Mutual Fund,1001,15000,0,A,,
+"",American Funds Growth Fund of America,,Mutual Fund,1001,15000,0,A,,
+"",AllianzGI NFJ Small-Cap Value Fund,,Mutual Fund,1001,15000,0,A,,
+"",ABALX American Balanced Fund,,Mutual Fund,1001,15000,0,A,,
+"",VHC Wells Fargo Money Purchase Pension,,"Brokerage, IRA, 401k",1,1000,0,A,,
+"",Maspeth Federal Savings & Loan,Savings & Loans,Cash/Money Market/Savings/Checking,1,1000,0,A,,
+"",Dreyfus Ins Deposit Program,,Mutual Fund,1,1000,0,A,,
+"",Congressional FCU DC#3,,Cash/Money Market/Savings/Checking,1,1000,0,A,,
+"",Citizens Bank Circle Account,,Cash/Money Market/Savings/Checking,1,1000,0,A,,

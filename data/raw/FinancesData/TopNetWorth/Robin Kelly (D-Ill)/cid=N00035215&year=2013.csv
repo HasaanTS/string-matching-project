@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",JP Morgan Chase Securities,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",General Assembly Retirement System,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",T Rowe Price Retirement 2020,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000020730,Chase Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

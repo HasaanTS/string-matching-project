@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Contra Costa County Employee Retirement Assn,Unknown,"Brokerage, IRA, 401k",100001,250000,0,A,,
+"",Contra Costa Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+D000000487,US Bancorp,Commercial Banks,,1001,15000,0,A,Y,
+"",MassMutual Money Market,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",Hat in the Ring Inc,Unknown,,1001,15000,0,A,,
+"",DBL Corp,Unknown,,1,1000,0,A,,

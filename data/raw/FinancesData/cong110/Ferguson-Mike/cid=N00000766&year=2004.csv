@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Merrill Lynch CMA Consults,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,A,,
+"",Merrill Lynch IRA/MLl Mutual Funds,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Merrill Lynch Roth IRA,Unknown,Mutual Fund,2002,30000,0,A,,
+"",Merrill Lynch CMA Money Market,Unknown,Cash/Money Market/Savings/Checking,1002,16000,0,A,,
+"",Massachusetts Investor Growth Stock Fund,Unknown,Mutual Fund,1001,15000,0,A,,

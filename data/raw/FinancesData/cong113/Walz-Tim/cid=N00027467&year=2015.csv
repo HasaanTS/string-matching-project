@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",MN Retirement Assn Not Self Directed,,"Brokerage, IRA, 401k",65002,150000,0,Y,,
+D000023236,Education Minnesota,Education,Government Bond,16002,65000,0,Y,,
+D000019642,Northwestern Mutual Life Insurance,Insurance,Insurance policies & Annuities,15001,50000,0,Y,,
+D000000198,Massachusetts Mutual Life Insurance,Insurance,Insurance policies & Annuities,15001,50000,0,Y,Y,
+"",American Balanced Fund,,Mutual Fund,1001,15000,0,Y,,

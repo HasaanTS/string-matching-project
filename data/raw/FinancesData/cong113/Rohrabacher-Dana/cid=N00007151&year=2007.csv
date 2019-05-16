@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","163 D Street SE/Washington, DC",Real Estate,,500001,1000000,0,Y,,
+"",Sovereign Bank AXA Insured Cash Account,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Oppenheimer Commodity Strategy Total Ret,Unknown,Mutual Fund,45476,45476,0,Y,,
+"",Insured Cash Account,Unknown,Cash/Money Market/Savings/Checking,37781,37781,0,Y,,
+"",Capital World Growth & Income Fund,Unknown,Mutual Fund,33561,33561,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,11288,11288,0,Y,Y,
+D000027988,Newmont Mining,Mining,,9766,9766,0,Y,Y,

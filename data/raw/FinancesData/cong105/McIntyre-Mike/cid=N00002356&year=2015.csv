@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",IRA Equity Trust Company,,"Brokerage, IRA, 401k",30002,100000,0,T,,
+D000021868,BB&T Corp,Commercial Banks,,16003,66000,0,T,Y,
+D000019743,Wells Fargo,Commercial Banks,,1,1000,0,T,Y,

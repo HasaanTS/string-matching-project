@@ -1,0 +1,130 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Land/Lake County, MN",Real Estate,,5000001,25000000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,5115009,22300000,0,Y,Y,Y
+D000021757,Berkshire Hathaway,Securities/Invest,,4830017,18850000,0,Y,Y,
+D000000067,Altria Group,Tobacco,,4250006,17500000,0,Y,Y,Y
+D000000138,Pfizer Inc,Pharm/Health Prod,,3351007,12765000,0,Y,Y,Y
+D000000129,Exxon Mobil,Oil & Gas,,3350006,12750000,0,Y,Y,Y
+D000000275,Merck & Co,Pharm/Health Prod,,3100005,12250000,0,Y,Y,Y
+D000000123,American International Group,Insurance,,2750004,11500000,0,Y,Y,Y
+D000042525,Royal Dutch Shell,Oil & Gas,,2250005,7500000,0,Y,Y,
+D000000212,Coca-Cola Co,Food & Beverage,,1850004,6750000,0,Y,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1600006,6350000,0,Y,Y,
+D000042332,Nestle Sa,Food & Beverage,,1600003,6250000,0,Y,Y,
+"",Promissory Note From LLC Owned By Robert,Unknown,Note/Note Receivable,1500002,6000000,0,Y,,
+"",Promissory Note From Robert C Hayes,Unknown,Note/Note Receivable,1000001,5000000,0,Y,,
+"",North Carolina State Bonds,Unknown,Government Bond,1000001,5000000,0,Y,,
+"","Mecklenburg County, NC Bonds",Unknown,Government Bond,1000001,5000000,0,Y,,
+"","Land/Sheldon, SC",Real Estate,,1000001,5000000,0,Y,,
+"","Land & House/Hampton, SC",Real Estate,,1000001,5000000,0,Y,,
+"",First Charter,Unknown,,1000001,5000000,0,Y,,
+"",Airplane,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1000001,5000000,0,Y,,
+D000021800,3M Co,Misc Mfg/Distrib,,1000001,5000000,0,Y,Y,
+D000001024,Kraft Foods,Food Process/Sales,,1550006,3250000,0,Y,Y,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1600005,3250000,0,Y,Y,Y
+D000000144,Anheuser-Busch,"Beer, Wine & Liquor",,1300009,2800000,0,Y,,
+"",Evergreen Municipal Money Market,Unknown,Cash/Money Market/Savings/Checking,1068009,2345000,0,Y,,
+D000000217,American Express,Finance/Credit,,1101004,2265000,0,Y,Y,
+D000000461,Comcast Corp,Telecom Svcs,,915010,2100000,0,Y,Y,Y
+D000067048,News Corp,TV/Movies/Music,,915008,2000000,0,Y,,
+"",Philips Electronics,Electronics Mfg/Eqp,,900006,1950000,0,Y,,
+D000000348,UnitedHealth Group,Health Services,,815006,1800000,0,Y,Y,
+D000000090,Bank of America,Commercial Banks,,865004,1800000,0,Y,Y,Y
+"","Orange County, NC Bond",Unknown,Government Bond,850003,1750000,0,Y,,
+D000000091,BP,Oil & Gas,,765005,1650000,0,Y,Y,
+D000000477,Duke Energy,Electric Utilities,,701008,1565000,0,Y,Y,Y
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,715004,1550000,0,Y,Y,Y
+"",Evergreen Institutional Money Market,Unknown,Cash/Money Market/Savings/Checking,765003,1550000,0,Y,,
+D000000209,United Technologies,Defense Aerospace,,750002,1500000,0,Y,Y,Y
+D000022192,Pitney Bowes Inc,Misc Mfg/Distrib,,600002,1250000,0,Y,Y,
+D000025490,Diageo Plc,"Beer, Wine & Liquor",,500004,1100000,0,Y,Y,
+D000000071,Citigroup Inc,Commercial Banks,,500004,1100000,0,Y,Y,Y
+"","Timberland/Lake County, MN",Forest Products,,500001,1000000,0,Y,,
+"","New Hanover County, NC Hospital Bond",Unknown,Government Bond,450003,1000000,0,Y,,
+"",NC Educational Faculties Bonds,Unknown,Government Bond,500001,1000000,0,Y,,
+"",Evergreen Strategic Growth Fund,Unknown,Mutual Fund,500001,1000000,0,Y,,
+"",Dodge & Cox Stock Fund,Unknown,Mutual Fund,500001,1000000,0,Y,,
+"","Buncombe County, NC Bonds",Unknown,Government Bond,500001,1000000,0,Y,,
+D000045190,Spectra Energy,Oil & Gas,,401006,965000,0,Y,Y,
+D000027296,Lowe's Companies,Retail Sales,,360008,900000,0,Y,Y,Y
+D000000103,JPMorgan Chase & Co,Commercial Banks,,350004,850000,0,Y,Y,Y
+"",Dell Inc,Electronics Mfg/Eqp,,350005,800000,0,Y,,
+D000024667,Cemex Inc,Building Materials,,350005,800000,0,Y,,
+D000022108,Medco Health Solutions,Health Services,,350002,750000,0,Y,Y,
+"",Walter Industries,Mining,,300004,700000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,230004,600000,0,Y,Y,
+D000021700,Ameriprise Financial,Securities/Invest,,215003,550000,0,Y,Y,
+"",Tyco International,Business Services,,191009,515000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,250001,500000,0,Y,Y,Y
+"","Union County, NC Bond",Unknown,Government Bond,250001,500000,0,Y,,
+"","New Hanover County, NC Bond",Unknown,Government Bond,250001,500000,0,Y,,
+"","Mortgage, MC Hayes Trust",Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",250001,500000,0,Y,,
+D000000373,McDonald's Corp,Food & Beverage,,250001,500000,0,Y,Y,Y
+D000027441,Masco Corp,Misc Mfg/Distrib,,250001,500000,0,Y,,
+D000022038,Illinois Tool Works,Misc Mfg/Distrib,,250001,500000,0,Y,Y,Y
+"","High Point, NC Pub Impt GO Bond",Unknown,Government Bond,250001,500000,0,Y,,
+"","Greenville, NC Bonds",Unknown,Government Bond,250001,500000,0,Y,,
+"",Evergreen International Equity Fund,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",Cogdell Spencer Inc,Unknown,,250001,500000,0,Y,,
+"","Charlotte, NC Storm Water Bonds",Unknown,Government Bond,250001,500000,0,Y,,
+"","Charlotte, NC Bonds",Unknown,Government Bond,250001,500000,0,Y,,
+"","Cary, NC Bonds",Unknown,Government Bond,250001,500000,0,Y,,
+D000000459,Anadarko Petroleum,Oil & Gas,,250001,500000,0,Y,Y,
+D000058827,Zimmer Holdings,Pharm/Health Prod,,165003,400000,0,Y,Y,
+"",West Union,Unknown,,145004,400000,0,Y,,
+D000000495,DuPont Co,Chemicals,,165003,400000,0,Y,Y,
+"",Tyco Electronics,Electronics Mfg/Eqp,,146006,365000,0,Y,,
+D000025166,Covidien Ltd,Pharm/Health Prod,,146006,365000,0,Y,Y,
+"","Winston Salem, NC Bond",Unknown,Government Bond,150002,350000,0,Y,,
+"",Walgreen Co,Retail Sales,,150002,350000,0,Y,,
+"",Mecklenburg County NC Bonds,Unknown,Government Bond,150002,350000,0,Y,,
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,150002,350000,0,Y,Y,
+D000000303,ConocoPhillips,Oil & Gas,,150002,350000,0,Y,Y,Y
+D000000284,Wyeth,Pharm/Health Prod,,100001,250000,0,Y,Y,
+D000031090,Willis Group Holdings,Insurance,,100001,250000,0,Y,,
+"",Westport Funds Select Cap Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,100001,250000,0,Y,Y,
+"","Wake County, NC Bond",Unknown,Government Bond,100001,250000,0,Y,,
+"",Wachovia Cap Account,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",University of NC Chapel Hill Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"","Stanley County, NC Bond",Unknown,Government Bond,100001,250000,0,Y,,
+"",Richfield Property,Real Estate,,100001,250000,0,Y,,
+"",Mount Pleasant Hosiery,Misc Mfg/Distrib,,100001,250000,0,Y,,
+"",Limited Brands,Retail Sales,,100001,250000,0,Y,,
+"",Gran Pacifica Resorts,Unknown,,100001,250000,0,Y,,
+D000000854,Expedia Inc,Internet,,95004,250000,0,Y,,
+D000021970,eBay Inc,Internet,,100001,250000,0,Y,Y,Y
+D000000015,Chevron Corp,Oil & Gas,,100001,250000,0,Y,Y,
+"","Burlington, NC Public Improvement Bond",Unknown,Government Bond,100001,250000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,100002,200000,0,Y,Y,
+"",IAC/Interactive Corp,Internet,,80003,200000,0,Y,,
+D000054010,Mueller Water Products,Building Materials,,65002,150000,0,Y,,
+"",Motorola Inc,Telecom Svcs,,51002,115000,0,Y,,
+"","Wilson County, NC Bond",Unknown,Government Bond,50001,100000,0,Y,,
+D000021573,Wachovia Corp,Commercial Banks,,50001,100000,0,Y,Y,Y
+"",University of North Carolina Bond,Unknown,Government Bond,50001,100000,0,Y,,
+"",Promissory Note From Arctic Southern Far,Unknown,Note/Note Receivable,50001,100000,0,Y,,
+D000022084,Lincoln National Corp,Insurance,,50001,100000,0,Y,Y,
+D000000674,Level 3 Communications,Telecom Svcs,,50001,100000,0,Y,Y,
+"","Forsyth County, NC Bond",Unknown,Government Bond,50001,100000,0,Y,,
+"",Dodge & Cox International Stock Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"","Charlotte, NC Bond",Unknown,Government Bond,50001,100000,0,Y,,
+"",Wisconsin Property,Real Estate,,15001,50000,0,Y,,
+D000031078,Williams Co,Real Estate,,15001,50000,0,Y,,
+D000029829,Western Union,Finance/Credit,,15001,50000,0,Y,Y,
+D000000367,Wal-Mart Stores,Retail Sales,,15001,50000,0,Y,Y,Y
+D000000345,Sunoco Inc,Oil & Gas,,15001,50000,0,Y,Y,
+"",Newdominion Bank,Commercial Banks,,15001,50000,0,Y,,
+"",Morgan Stanley Bank Deposit Program,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"","Land with two Cabins/Lake County, MN",Real Estate,,15001,50000,0,Y,,
+"",Interactive Corp,Unknown,,15001,50000,0,Y,,
+D000000408,Deere & Co,Agricultural Svcs,,15001,50000,0,Y,Y,Y
+"","Cabin/Lake County, MN",Real Estate,,15001,50000,0,Y,,
+D000021868,BB&T Corp,Commercial Banks,,15001,50000,0,Y,,Y
+D000047607,Bank of Granite,Commercial Banks,,15001,50000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",EMC Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000000457,Corning Inc,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Vignette Corp,Electronics Mfg/Eqp,,1,1000,0,Y,,
+"",JDS Uniphase,Telecom Svcs,,1,1000,0,Y,,

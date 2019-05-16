@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity Contrafund,Unknown,Mutual Fund,265002,550000,0,A,,
+"",Rental Property,Real Estate,,250001,500000,0,A,,
+"",Fidelity Equity Income Fund,Unknown,Mutual Fund,195005,500000,0,A,,
+"",Dahlkemper Landscape Architects,Subcontractors,,250001,500000,0,A,,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",Columbia Acorn Fund,Unknown,Mutual Fund,100002,200000,0,A,,
+"",Regency LP,Unknown,,15001,50000,0,A,,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,A,Y,Y
+"",Fidelity Mid Cap,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Alliance OCC Renaissance,Unknown,Mutual Fund,15001,50000,0,A,,
+"",AIM Constellation Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Erie Federal CU/Savings,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,A,,
+"",Erie Federal Credit Union/Checking,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,A,,
+"",Riversource Large Cap Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Fidelity Balanced Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Fidelity Aggressive Growth Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Aim Global Growth,Unknown,Mutual Fund,1001,15000,0,A,,

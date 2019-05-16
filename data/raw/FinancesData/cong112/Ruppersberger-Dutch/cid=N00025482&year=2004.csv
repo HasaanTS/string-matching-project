@@ -1,0 +1,24 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Summer Beach 608/Ocean City, MD",Real Estate,,250001,500000,0,A,,
+"",Legg Mason Special Investment Trust,Unknown,Mutual Fund,250001,500000,0,A,,
+"",Rupp & Assoc,Unknown,,100001,250000,0,A,,
+"",Legg Mason Value Trust Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",John J Murphy Trust,Unknown,"Brokerage, IRA, 401k",100001,250000,0,A,,
+"",MFS Sun Life Financial Annuities,Unknown,Insurance policies & Annuities,30002,100000,0,A,,
+D000000090,Bank of America,Commercial Banks,,50001,100000,0,A,Y,Y
+"",Putnam Voyager Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Oppenheimer Capital Appreciation Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+D000000114,MBNA Corp,Finance/Credit,,15001,50000,0,A,Y,Y
+"",Legg Mason Opportunity Trust,Unknown,Mutual Fund,15001,50000,0,A,,
+D000027185,Legg Mason,Securities/Invest,,15001,50000,0,A,,Y
+"",Gvitsm Cap Value,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Gartmore Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,15001,50000,0,A,,
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,A,Y,
+"",Neuberger Berman Genesis Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",MFS High Income Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Gartmore Nationwide Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",First Mariner,Unknown,,1001,15000,0,A,,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Fidelity Equity Income Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Brown Capital Management Small Co Fund,Unknown,Mutual Fund,1001,15000,0,A,,

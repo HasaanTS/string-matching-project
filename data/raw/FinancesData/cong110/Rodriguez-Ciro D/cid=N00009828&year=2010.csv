@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","530 1st Street SE/Washington, DC",Real Estate,,500001,1000000,0,T,,
+"",TIAA-CREF Ret Equity Fund,Unknown,Mutual Fund,50001,100000,0,T,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,T,,
+D000022724,American Funds,Securities/Invest,,50001,100000,0,T,,
+"","371 W Harding/San Antonio, TX",Real Estate,,50001,100000,0,T,,
+"",First Mark Credit Union,Credit Unions,,15001,50000,0,T,,
+"",SA Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,T,,

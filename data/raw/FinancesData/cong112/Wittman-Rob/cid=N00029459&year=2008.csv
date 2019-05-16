@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Peoples Bank Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",National Western Life,Unknown,,15001,50000,0,Y,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Vanguard US Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",S&P 500 Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Great Western Deferred Comp Long Term Gr,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000058995,Bank of Lancaster,Commercial Banks,,1001,15000,0,Y,,
+"",Ariel Appreciation Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000022724,American Funds,Securities/Invest,,1001,15000,0,Y,,

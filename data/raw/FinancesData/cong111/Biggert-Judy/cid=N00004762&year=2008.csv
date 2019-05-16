@@ -1,0 +1,53 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Walgreen Co,Retail Sales,,600002,1250000,0,Y,,
+"","Residence 421 First Street SE/Wash, DC",Real Estate,,500001,1000000,0,Y,,
+"",Treasury Fund Daily Money Class,Unknown,Cash/Money Market/Savings/Checking,350002,750000,0,Y,,
+"",US Treasury Notes,Unknown,Government Bond,100001,250000,0,Y,,
+"",US Treasury Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"",GK Properties,Real Estate,,100001,250000,0,Y,,
+"",Westminster Fund IV,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Westminster Fund III,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,50001,100000,0,Y,Y,
+D000019743,Wells Fargo,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",Vanguard Pacific Stock Vipers,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Vanguard Inflation Protected Securities,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000081,United Parcel Service,Air Transport,,15001,50000,0,Y,Y,Y
+"",TECHNE Corp,Pharm/Health Prod,,15001,50000,0,Y,,
+D000030157,Stryker Corp,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000068731,Petrochina Co,Oil & Gas,,15001,50000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,15001,50000,0,Y,Y,Y
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000022163,Novartis AG,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000022110,Medtronic Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,
+"",M&T Bancorp,Commercial Banks,,15001,50000,0,Y,,
+D000034909,John Wiley & Sons,Publishing,,15001,50000,0,Y,Y,
+D000022038,Illinois Tool Works,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",Factset Research Systems,Misc Finance,,15001,50000,0,Y,,
+D000021757,Berkshire Hathaway,Securities/Invest,,15001,50000,0,Y,Y,Y
+D000024095,Apache Corp,Oil & Gas,,15001,50000,0,Y,Y,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+D000058827,Zimmer Holdings,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000064241,Vodafone Group,Telecom Svcs,,1001,15000,0,Y,,
+"",Vanguard Short Term Treasury Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000057745,Transcanada Corp,Electric Utilities,,1001,15000,0,Y,Y,
+D000068756,Suncor Energy,Oil & Gas,,1001,15000,0,Y,,
+D000044317,Scansource Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Paychex Inc,Business Services,,1001,15000,0,Y,,
+D000036547,Patterson Dental,Health Professionals,,1001,15000,0,Y,,
+"",Options Express Holdings,Unknown,,1001,15000,0,Y,,
+"",Nuvasive Inc,Pharm/Health Prod,,1001,15000,0,Y,,
+D000022068,L-3 Communications,Defense Electronics,,1001,15000,0,Y,Y,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000022022,Health Net Inc,Health Services,,1001,15000,0,Y,Y,
+D000034331,Harris Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000033765,Forward Air Corp,Misc Transport,,1001,15000,0,Y,,
+D000033596,Fastenal Co,Misc Mfg/Distrib,,1001,15000,0,Y,,
+D000033463,Enterprise Products Partners,Oil & Gas,,1001,15000,0,Y,Y,
+D000000071,Citigroup Inc,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000042617,Church & Dwight,Chemicals,,1001,15000,0,Y,Y,
+"",Amphenol Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000023776,Affiliated Computer Services,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000209,United Technologies,Defense Aerospace,,1,1000,0,Y,Y,Y

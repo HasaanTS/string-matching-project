@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000470,Washington Mutual,Savings & Loans,,50001,100000,0,T,,
+D000000106,Morgan Stanley,Securities/Invest,,50001,100000,0,T,Y,
+D000050922,First United Bank,Commercial Banks,,15001,50000,0,T,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"",Old Second Bank,Unknown,,1001,15000,0,T,,

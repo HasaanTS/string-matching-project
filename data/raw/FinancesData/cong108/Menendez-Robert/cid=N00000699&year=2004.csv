@@ -1,0 +1,26 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity Growth Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"","1806 West Street/Union City, NJ",Real Estate,,100001,250000,0,Y,,
+"",Oppenheimer IRA-403,Unknown,"Brokerage, IRA, 401k",30002,100000,0,Y,,
+D000000106,Morgan Stanley,Securities/Invest,,15001,50000,0,Y,Y,Y
+"",Congressional FCU/Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Prudential Money Market,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Vitesse Semiconductor,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000037706,Spanish Broadcasting Systems,TV/Movies/Music,,1001,15000,0,Y,,Y
+"",PSE&G,Unknown,,1001,15000,0,Y,,
+"",Prudential Tech Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000036166,Network Appliance,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000027885,National Semiconductor Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Motorola Inc,Telecom Svcs,,1001,15000,0,Y,,
+D000042170,Maytag Corp,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Hamilton Savings Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Hamilton Savings Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,Y,Y,Y
+"",Bank One/JPMorgan,Commercial Banks,,1001,15000,0,Y,,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000023765,Advanced Micro Devices,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000216,Global Crossing,Telecom Svcs,,2,2000,0,Y,,
+"",Xetel,Unknown,,1,1000,0,Y,,

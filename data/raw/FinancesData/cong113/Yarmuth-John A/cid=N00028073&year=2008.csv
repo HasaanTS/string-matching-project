@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000037670,Sonny's Barbeque,Food & Beverage,,1000001,5000000,0,Y,,Y
+"","Rental Property/Doonbeg, Ireland",Real Estate,,1000001,5000000,0,Y,,
+D000031427,Almost Family Inc,Health Services,,1000001,5000000,0,Y,,Y
+"",Fith Third Bank/checking,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",BBT Corp,Unknown,,250001,500000,0,Y,,
+"",Republic Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000000343,Northwestern Mutual,Insurance,Unknown,50001,100000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,50001,100000,0,Y,Y,Y
+D000000182,Ford Motor Co,Automotive,,50001,100000,0,Y,Y,

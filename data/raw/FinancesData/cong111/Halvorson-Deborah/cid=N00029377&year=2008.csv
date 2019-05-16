@@ -1,0 +1,20 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Morgan Stanley Cash/MM/Bank Deposits,Unknown,Cash/Money Market/Savings/Checking,88645,88645,0,Y,,
+"",Washington Mutual Investors Fund,Unknown,Mutual Fund,78589,78589,0,Y,,
+D000021985,First National Bank,Commercial Banks,,15001,50000,0,Y,,Y
+D000034433,Heritage Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Total Bank Deposit,Unknown,Cash/Money Market/Savings/Checking,8621,8621,0,Y,,
+"",Ivy Asset Strategy Fund,Unknown,Mutual Fund,7802,7802,0,Y,,
+D000029725,Vulcan Materials,Building Materials,,6958,6958,0,Y,Y,Y
+D000000182,Ford Motor Co,Automotive,,2878,2878,0,Y,Y,Y
+"",MS Emerging Markets Domestic Debt,Unknown,Mutual Fund,2622,2622,0,Y,,
+"",Van Kampen Insider Buy Strategy 2008,Unknown,Mutual Fund,2573,2573,0,Y,,
+D000034842,JetBlue Airways,Air Transport,,1420,1420,0,Y,Y,
+D000000155,General Motors,Automotive,,992,992,0,Y,Y,
+"",Gamco Westwood Mighty Mites Fund,Unknown,Mutual Fund,942,942,0,Y,,
+"",Motorola Inc,Telecom Svcs,,727,727,0,Y,,
+"",Oms Dreman Value Inc Eoge Fund,Unknown,Mutual Fund,604,604,0,Y,,
+D000037610,Sirius XM Radio,TV/Movies/Music,,165,165,0,Y,Y,
+"",Cons Amer Inds Corp,Unknown,,113,113,0,Y,,
+"",Kowabungai Inc,Unknown,,102,102,0,Y,,
+"",Nationwide Safe T Prorane,Unknown,,4,4,0,Y,,

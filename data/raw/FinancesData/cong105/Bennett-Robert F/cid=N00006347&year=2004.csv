@@ -1,0 +1,36 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Watermark Properties,Real Estate,,5000001,25000000,0,Y,,
+"",Watermark Corp,Misc Energy,,1000001,5000000,0,Y,,
+"",Anniversary Inn Salt City Jail LLC,Lodging/Tourism,,1000001,5000000,0,Y,,
+"","Real Estate/Salt Lake City, UT",Real Estate,,500001,1000000,0,Y,,
+"",Anniversary Inn South Temple LLC,Lodging/Tourism,,500001,1000000,0,Y,,
+"",New England Insurance Policy,Unknown,Insurance policies & Annuities,250001,500000,0,Y,,
+"",D Street Investments,Unknown,,250001,500000,0,Y,,
+"",Zions Bancorp Money Market,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",New England Growth Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Piper Jaffray Prime Obligations MM,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Franklin High Yield Tax Free Inc,Unknown,,50001,100000,0,Y,,
+"",EuroPacific Growth Fund,Unknown,,50001,100000,0,Y,,
+"",Zion's First National Bank Account,Unknown,Cash/Money Market/Savings/Checking,16002,65000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,15001,50000,0,Y,Y,Y
+D000000079,Verizon Communications,Telephone Utilities,,15001,50000,0,Y,Y,Y
+"",Mity Enterprises,Unknown,,15001,50000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000188,Dow Chemical,Chemicals,,15001,50000,0,Y,Y,
+D000000391,Amgen Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,
+"",US Senate Credit Union Share Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Tyco International,Pharm/Health Prod,,1001,15000,0,Y,,
+D000029510,Triad Hospitals,Hospitals/Nurs Homes,,1001,15000,0,Y,,
+"",Skywest Inc,Air Transport,,1001,15000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Compex Technologies,Unknown,,1001,15000,0,Y,,
+"",Watermark Hospitality Management,Lodging/Tourism,,0,1000,0,Y,,
+"",Watermark Holdings,Lodging/Tourism,,0,1000,0,Y,,
+"",Watermark Development,Lodging/Tourism,,0,1000,0,Y,,
+D000019533,US Steel,Steel Production,,0,1000,0,Y,Y,
+"",Paychex Inc,Business Services,,0,1000,0,Y,,
+D000040346,Kinder Morgan Energy Partners,Oil & Gas,,0,1000,0,Y,,
+"",International Steele Group,Steel Production,,0,1000,0,Y,,
+D000024328,Best Buy,Retail Sales,,0,1000,0,Y,Y,
+"",Anniversary Inns,Lodging/Tourism,,0,1000,0,Y,,

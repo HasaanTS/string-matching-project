@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Building/Walton Way West,Real Estate,,500001,1000000,0,Y,,
+"",Belair Rd/Wrightsboro Rd,Real Estate,,250001,500000,0,Y,,
+"",SunTrust Banks account,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Guardian Insurance Annuity,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Smith Barney Money Funds,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Enamelon Inc,Unknown,,1,1000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

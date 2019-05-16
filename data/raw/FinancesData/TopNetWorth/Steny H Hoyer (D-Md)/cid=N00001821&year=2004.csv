@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Legg Mason Keogh Mutual Fund,Unknown,Mutual Fund,250001,500000,0,Y,,
+D000030322,Tellabs Inc,Telecom Svcs,,100001,250000,0,Y,Y,
+D000039505,Digital Angel Corp,Telecom Svcs,,15001,50000,0,Y,Y,
+"",Legg Mason Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Berkshire Income Realty,Real Estate,,1001,15000,0,Y,,
+"",Money Market Account,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Massachusetts Cash Management,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

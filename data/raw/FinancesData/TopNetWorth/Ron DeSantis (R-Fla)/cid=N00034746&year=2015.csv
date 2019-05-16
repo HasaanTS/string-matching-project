@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",USAA Bank Account,,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+D000019533,US Steel,Steel Production,,1001,15000,0,A,Y,
+"",Sirius XM Holdings,TV/Movies/Music,,1001,15000,0,A,,
+"",Scottrade Inc,Unknown,,1001,15000,0,A,,

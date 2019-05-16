@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental Property/Cherryville, NC",Real Estate,,100001,250000,0,Y,,
+"",McHenry-McHenry Partnership,Unknown,,100001,250000,0,Y,,
+"",ING Direct/Savings,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"","215 Robinson Rd/Gastonia, NC",Real Estate,,100001,250000,0,Y,,
+"","621 W Garrison Blvd/Gastonia, NC",Real Estate,,50001,100000,0,Y,,
+D000028916,SCANA Corp,Electric Utilities,,15001,50000,0,Y,Y,
+"",McHenry-Putman Partnership,Unknown,,15001,50000,0,Y,,
+"",Locust-Highway 200 LLC,Real Estate,,15001,50000,0,Y,,
+"","5524 Union Rd/Gastonia, NC",Real Estate,,15001,50000,0,Y,,
+"","109 W 8th Ave/Gastonia, NC",Real Estate,,15001,50000,0,Y,,
+"",Alliance Bank & Trust/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Alliance Bank & Trust,Commercial Banks,,1001,15000,0,Y,,

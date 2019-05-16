@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Nationwide 457,Unknown,"Brokerage, IRA, 401k",50001,100000,0,N,,
+"",Fidelity 401k,Unknown,"Brokerage, IRA, 401k",50001,100000,0,N,,
+"",Transamerica 401K,Unknown,,15001,50000,0,N,,
+"",Sun America Life Insurance Pol,Unknown,,15001,50000,0,N,,
+"",Hartford Life Insurance Policy,Unknown,Insurance policies & Annuities,1001,15000,0,N,,

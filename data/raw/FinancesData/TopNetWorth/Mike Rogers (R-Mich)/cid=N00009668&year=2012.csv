@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000019743,Wells Fargo,Commercial Banks,,50001,100000,0,Y,Y,Y
+"",Ameritrade Mutual,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Michigan Education Savings Prgm 529 Plan,Unknown,Mutual Fund,17003,80000,0,Y,,
+"",USAA/Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",US Contrarian Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",International Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Diamond Hill Large Cap,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Bank of America/Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Artisan Mid Cap Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Wells Fargo Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",USAA Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Century Ultra & Visa Stock Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Bi-Petro,Oil & Gas,,1,1000,0,Y,,

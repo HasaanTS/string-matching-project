@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",SW Securities Money Market,Unknown,Cash/Money Market/Savings/Checking,101002,265000,0,Y,,
+D000027337,Magellan Midstream Partners,Oil & Gas,Mutual Fund,100001,250000,0,Y,Y,
+"",Industrial Income Trust REIT,Real Estate,,100001,250000,0,Y,,
+D000032588,Citizens Bank,Commercial Banks,,100001,250000,0,Y,,
+"",Bremer Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000064520,Annaly Capital Management,Securities/Invest,,100001,250000,0,Y,Y,
+D000025689,Energy Transfer Partners,Oil & Gas,,50001,100000,0,Y,,
+D000021757,Burlington Northern Santa Fe Corp,Railroads,"Brokerage, IRA, 401k",50001,100000,0,Y,Y,Y
+"",USAA Annuity,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",TX Private Surface Transportation,Unknown,,1001,15000,0,Y,,
+"",Lincoln Life IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",American Century,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Frontier/Verizon,Unknown,,1,1000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,1,1000,0,Y,Y,Y
+D000000076,AT&T Inc,Telephone Utilities,,1,1000,0,Y,Y,Y

@@ -1,0 +1,30 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Hancey Mill Road Farm LLC, 25% Interest",,,250001,500000,0,Y,,
+D000000301,Torchmark Corp,Insurance,,66003,165000,0,Y,Y,Y
+"",Mass Mutual Managed Growth Portolio Fund,,Mutual Fund,50001,100000,0,Y,,
+"",Mainstay Funds Large Cap Growth Fund,,Mutual Fund,50001,100000,0,Y,,
+"",Columbia Large Cap Index Fund,,Mutual Fund,50001,100000,0,Y,,
+"",American Beacon Large Cap Value Fund,,Mutual Fund,50001,100000,0,Y,,
+"",AmerFunds EuroPacific Growth Fund,,Mutual Fund,50001,100000,0,Y,,
+"",Wells Galliard Blended Stable Value Fund,,Mutual Fund,15001,50000,0,Y,,
+D000019566,Wells Fargo Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Rowe T Price Mid Cap Growth Fund,,Mutual Fund,15001,50000,0,Y,,
+"",Harbor Fund International,,Mutual Fund,15001,50000,0,Y,,
+"",Franklin Small Cap Growth Fund,,Mutual Fund,15001,50000,0,Y,,
+"",American Beacon Small Cap Value Fund,,Mutual Fund,15001,50000,0,Y,,
+D000059618,Stifel Bank & Trust,Commercial Banks,Cash/Money Market/Savings/Checking,3003,45000,0,Y,,
+D000029727,Waddell & Reed,Securities/Invest,,2002,30000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,Y
+D000000804,Intel Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,
+D000000182,Ford Motor Co,Automotive,,2002,30000,0,Y,Y,
+D000000391,Amgen Inc,Pharm/Health Prod,,2002,30000,0,Y,Y,
+D000064488,Alibaba Group,Internet,,2002,30000,0,Y,Y,
+"",O IRA/Columbia Balanced Fund,,Mutual Fund,1001,15000,0,Y,,
+"",MFS Mid Cap Value Fund,,Mutual Fund,1001,15000,0,Y,,
+"",Mass Mutual Managed Conservative Portfolio,,Mutual Fund,1001,15000,0,Y,,
+"",Mainstay Cornerstone Growth Fund,,Mutual Fund,1001,15000,0,Y,,
+"",Invesco Energy Fund,Misc Energy,Mutual Fund,1001,15000,0,Y,,
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Vale SA,Mining,,1,1000,0,Y,,
+"",O IRA/Stifel Bank & Trust,,,1,1000,0,Y,,

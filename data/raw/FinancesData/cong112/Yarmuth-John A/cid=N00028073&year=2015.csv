@@ -1,0 +1,60 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000037670,Sonny's Barbeque,Food & Beverage,,5000001,25000000,0,A,,
+D000031427,Almost Family Inc,Health Services,,1000001,5000000,0,A,Y,Y
+"",Doonbeg Property,Real Estate,,250001,500000,0,A,,
+"",Federated Treasury Obligation Fund,,Mutual Fund,101002,265000,0,A,,
+"",Penn Mutual whole life insurance policy,,Insurance policies & Annuities,100001,250000,0,A,,
+"",Northwestern Mutual Life Insurance Annuity,,Insurance policies & Annuities,100001,250000,0,A,,
+"",Touchstone Small Cap Core Fund,,Mutual Fund,50001,100000,0,A,,
+"",Europacific Growth Fund,,Mutual Fund,50001,100000,0,A,,
+"",Wisdomtree Europe Hedged Equity Fund,,Mutual Fund,15001,50000,0,A,,
+"",William Blair Funds Alloc I,,Mutual Fund,15001,50000,0,A,,
+"",Vanguard REIT ETF,Real Estate,,15001,50000,0,A,,
+"",Seafarer Overseas GR & Income Institutional Shares,,Mutual Fund,15001,50000,0,A,,
+"",Oppenheimer Developing Markets Fund,,Mutual Fund,15001,50000,0,A,,
+"",Dana Large Cap Equity,,Mutual Fund,15001,50000,0,A,,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,A,Y,Y
+D000029689,Visa Inc,Finance/Credit,,1001,15000,0,A,Y,
+D000000487,US Bancorp,Commercial Banks,,1001,15000,0,A,Y,
+D000000348,Unitedhealth Group,Health Services,,1001,15000,0,A,Y,
+D000000118,Union Pacific Corp,Railroads,,1001,15000,0,A,Y,
+D000000619,Target Corp,Retail Sales,,1001,15000,0,A,Y,
+"",T Rowe Price High Yield Fund,,Mutual Fund,1001,15000,0,A,,
+D000037780,Starbucks Corp,Food & Beverage,,1001,15000,0,A,Y,
+D000037414,Schlumberger Ltd,Oil & Gas,,1001,15000,0,A,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,A,Y,
+"",PNC Bank/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000067190,Packaging Corp of America,Misc Mfg/Distrib,,1001,15000,0,A,Y,
+D000000321,NextEra Energy,Electric Utilities,,1001,15000,0,A,Y,
+D000000106,Morgan Stanley,Securities/Invest,,1001,15000,0,A,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,A,Y,
+D000022105,McKesson Corp,Pharm/Health Prod,,1001,15000,0,A,Y,Y
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,A,Y,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,A,Y,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+D000000334,Honeywell International,Misc Mfg/Distrib,,1001,15000,0,A,Y,Y
+D000000419,Home Depot,Retail Sales,,1001,15000,0,A,Y,
+D000026221,Gilead Sciences,Pharm/Health Prod,,1001,15000,0,A,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,A,Y,Y
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,A,Y,
+"",Estee Lauder Cos,Misc Mfg/Distrib,,1001,15000,0,A,,
+D000025625,Ecolab Inc,Chemicals,,1001,15000,0,A,Y,
+D000025615,E*TRADE Financial,Securities/Invest,,1001,15000,0,A,,
+D000025214,CVS Health,Retail Sales,,1001,15000,0,A,Y,
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,A,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,A,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+D000000015,Chevron Corp,Oil & Gas,,1001,15000,0,A,Y,
+D000000100,Boeing Co,Defense Aerospace,,1001,15000,0,A,Y,
+D000021757,Berkshire Hathaway,Securities/Invest,,1001,15000,0,A,Y,Y
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,A,Y,
+D000031719,Automatic Data Processing Inc,Business Services,,1001,15000,0,A,Y,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,A,Y,Y
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+D000000123,American International Group,Insurance,,1001,15000,0,A,Y,
+D000000067,Altria Group,Tobacco,,1001,15000,0,A,Y,Y
+D000067823,Alphabet Inc,Internet,,1001,15000,0,A,Y,Y
+D000029765,Allergan plc,Pharm/Health Prod,,1001,15000,0,A,Y,
+"",Accenture PLC,Business Services,,1001,15000,0,A,,
+D000021800,3M Co,Misc Mfg/Distrib,,1001,15000,0,A,Y,

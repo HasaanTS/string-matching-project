@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000021757,Berkshire Hathaway,Securities/Invest,,50001,100000,0,Y,Y,Y
+"",M Fund-Income Fund of America,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",Money Market,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Income Fund of America,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Growth Fund of America,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Fund 60 Age Based,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Pension based on 7 years of employment with City o,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Nolan Terry CSP College Savings Plan of Nebraska-F,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Bank Deposit Sweep cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank of the West 401K,Unknown,"Brokerage, IRA, 401k",1,1000,0,Y,,

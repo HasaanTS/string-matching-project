@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Windsor II,Unknown,,50001,100000,0,Y,,
+"",Vanguard High Yield Corporate Bond Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Vanguard Energy Fund,Misc Energy,,50001,100000,0,Y,,
+"",VMMR Prime Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Schuylkill County Empl Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Pennsylvania Tax Free Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000035524,M&T Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,Y
+"",Vanguard Small Cap Vipers,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Vanguard Intl Equity Index FD Vanguard E,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Vanguard Energy Vipers,Misc Energy,,1001,15000,0,Y,,
+"",Sovereign Bank,Commercial Banks,,1001,15000,0,Y,,
+"",Schuylkill Federal Employees CU,Credit Unions,,1001,15000,0,Y,,
+"",PIMCO Commodity RealReturn Strategy Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000071,Citibank Bank Deposit Program,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,Y,
+D000023834,Alcatel-Lucent,Telecom Svcs,,1,1000,0,Y,,
+"",Agere Systems,Electronics Mfg/Eqp,,1,1000,0,Y,,

@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+"",State Retired Teachers System,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000023987,American National Insurance,Insurance,Unknown,1001,15000,0,Y,,
+"",Public Employees' Retirement System,Unknown,"Brokerage, IRA, 401k",1,1000,0,Y,,

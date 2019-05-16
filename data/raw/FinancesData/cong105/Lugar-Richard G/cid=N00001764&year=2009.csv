@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000019642,Northwestern Mutual Life Insurance,Insurance,Insurance policies & Annuities,100001,250000,0,Y,,
+"",Lugar Stock Farm,Livestock,,100002,200000,0,Y,,
+"",Fidelity Cash Reserves,Unknown,Cash/Money Market/Savings/Checking,68005,196000,0,Y,,
+"",Fidelity Muncipal Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Fairholme Funds,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Vanguard Total Stock Market Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",T Rowe Price New Era Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Short-Inter Mediate Muni Income,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Select Energy Service,Misc Energy,Mutual Fund,15001,50000,0,Y,,
+"",Continental Assurance Co Policy,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Suntrust Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

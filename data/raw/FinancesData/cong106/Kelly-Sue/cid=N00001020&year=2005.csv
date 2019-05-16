@@ -1,0 +1,43 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Croter River Office Park,Real Estate,,1000001,5000000,0,Y,,
+"",WA Kelly & Co,Unknown,,750002,1500000,0,Y,,
+"",North Salem Center Co,Unknown,,500001,1000000,0,Y,,
+"",Kentosah,Real Estate,,500001,1000000,0,Y,,
+"",90 Maple Ave/Mt Kisco,Real Estate,,500001,1000000,0,Y,,
+"",87 Bedford Rd/Katonah,Real Estate,,500001,1000000,0,Y,,
+"",8 Waterview Court/South Salem,Real Estate,,500001,1000000,0,Y,,
+"",105 Bedford Road/Katonah,Real Estate,,500001,1000000,0,Y,,
+"",101 N Morgan/Mt Kisco,Real Estate,,500001,1000000,0,Y,,
+"",IRA RBC,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"",Harris Road,Unknown,Unknown,250001,500000,0,Y,,
+"",36 Anderson Road/Katonah,Real Estate,,250001,500000,0,Y,,
+"",10 Winterview Court/South Salem,Real Estate,,250001,500000,0,Y,,
+D000000470,Washington Mutual,Savings & Loans,,51002,115000,0,Y,Y,Y
+D000000123,American International Group,Insurance,,51002,115000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,
+D000000391,Amgen Inc,Pharm/Health Prod,,30002,100000,0,Y,Y,
+D000000284,Wyeth,Pharm/Health Prod,,16002,65000,0,Y,Y,
+D000000703,Costco Wholesale,Retail Sales,,16002,65000,0,Y,,
+D000031877,Bed Bath & Beyond,Retail Sales,,16002,65000,0,Y,,
+D000031494,American Power Conversion,Electronics Mfg/Eqp,,16002,65000,0,Y,,
+D000000217,American Express,Finance/Credit,,16002,65000,0,Y,Y,
+D000023867,Allied Capital,Securities/Invest,,16002,65000,0,Y,Y,Y
+D000057913,Union State Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,15001,50000,0,Y,Y,Y
+"",Nuveen Ingo Mutual,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000373,McDonald's Corp,Food & Beverage,,15001,50000,0,Y,Y,
+"",MassMutual & US Government,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+D000000205,Fannie Mae,Real Estate,,15001,50000,0,Y,Y,
+D000000129,Exxon Mobil,Oil & Gas,,15001,50000,0,Y,Y,Y
+"",Merrill Lynch Cash Management Account,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Kidder Morgan,Unknown,,2002,30000,0,Y,,
+"",American Financial,Misc Finance,,1002,16000,0,Y,,
+"",USAA Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",TIBCO,Unknown,,1001,15000,0,Y,,
+"",Mahopac Novt Bank,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Freedom CMA,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank of New York,Securities/Invest,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000022907,AllianceBernstein LP,Securities/Invest,Mutual Fund,1,1000,0,Y,,

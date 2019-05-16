@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity CA Muni Money Market,Unknown,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+"",Fidelity Tax Free,Unknown,Government Bond,250001,500000,0,Y,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"",Hartford Group/San Mateo Deffered Comp,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",First Republic Bank/checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

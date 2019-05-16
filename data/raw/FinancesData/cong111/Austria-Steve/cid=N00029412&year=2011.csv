@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Ohio Public Employees Retirement System,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Riverside Life Whole Life Policy,Unknown,Insurance policies & Annuities,2002,30000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000045471,Huntington National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000022674,Fifth Third Bank,Commercial Banks,,1001,15000,0,Y,,
+"",Columbia Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Columbia Large Core Quantitative Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

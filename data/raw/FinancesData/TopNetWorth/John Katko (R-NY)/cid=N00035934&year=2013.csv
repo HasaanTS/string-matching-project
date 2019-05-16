@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",UBS Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Mobile Home Rent mobile home to a tenant,Real Estate,,1001,15000,0,N,,
+"",JPMorgan Account,Unknown,"Brokerage, IRA, 401k",1001,15000,0,N,,

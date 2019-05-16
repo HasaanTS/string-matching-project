@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000021868,BB&T Corp,Commercial Banks,"Brokerage, IRA, 401k",65002,150000,0,Y,,Y
+"",BB&T Bank,Commercial Banks,,1002,16000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",BB&T Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

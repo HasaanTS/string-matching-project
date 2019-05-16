@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","3 Country Place/Pearl, MS",Real Estate,,250001,500000,0,N,,
+"",State of Mississippi Deferred Comp Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,N,,
+"","Property/400 acre tract/Bentonia, MS",Real Estate,,50001,100000,0,N,,
+"",State of Mississippi Retirement System,Unknown,"Brokerage, IRA, 401k",1001,15000,0,N,,

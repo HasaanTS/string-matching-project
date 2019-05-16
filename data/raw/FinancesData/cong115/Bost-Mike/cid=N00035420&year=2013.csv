@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Business & Rental Home,Real Estate,,100001,250000,0,N,,
+D000030253,T Rowe Price,Securities/Invest,,50001,100000,0,N,,
+D000033672,First Bank & Trust,Commercial Banks,Cash/Money Market/Savings/Checking,18004,95000,0,N,,
+"",Putman Fiduciary IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,N,,
+D000019639,Norfolk Southern,Railroads,,15001,50000,0,N,Y,
+"",Murphy Wall,Unknown,,1001,15000,0,N,,
+"",Clolox,Unknown,,1001,15000,0,N,,
+D000023888,Ameren Corp,Electric Utilities,,1001,15000,0,N,Y,Y

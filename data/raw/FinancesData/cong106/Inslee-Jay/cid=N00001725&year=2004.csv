@@ -1,0 +1,20 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000722,Texas Instruments,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000037780,Starbucks Corp,Food & Beverage,,15001,50000,0,Y,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+D000000071,Citigroup Inc,Commercial Banks,,15001,50000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+"",Time Wamer,Unknown,,1001,15000,0,Y,,
+"",Solomon Smith Barney Simple IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000036986,RealNetworks Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000022110,Medtronic Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+D000052003,I-Flow Corp,Unknown,,1001,15000,0,Y,,
+"",EMC Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000530,Lucent Technologies,Telecom Svcs,,1,1000,0,Y,Y,
+D000020325,Citibank,Commercial Banks,,1,1000,0,Y,,

@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Home/Michigan City, IN",Real Estate,,500001,1000000,0,Y,,
+"",TIAA-CREF IRA Growth & Income Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Fidelity IRA Dividend Growth Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Stewart Superior Corp,Unknown,,15001,50000,0,Y,,
+"",Notre Dame Credit Union IRA Money Market,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Old National Bank Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Notre Dame Credit Union/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Notre Dame Credit Union/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000027373,Manulife Financial,Misc Finance,,1001,15000,0,Y,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Fidelity Money Market,Unknown,Mutual Fund,0,1000,0,Y,,

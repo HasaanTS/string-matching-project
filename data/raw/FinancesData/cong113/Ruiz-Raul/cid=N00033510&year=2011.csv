@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity Freedom 2035,Unknown,Mutual Fund,100001,250000,0,C,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,50001,100000,0,C,Y,
+D000029689,Visa Inc,Finance/Credit,,15001,50000,0,C,Y,
+D000055647,Precision Castparts,Misc Mfg/Distrib,,15001,50000,0,C,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,C,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,15001,50000,0,C,Y,Y
+"",Cash,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,C,,
+D000021757,Berkshire Hathaway,Securities/Invest,,15001,50000,0,C,Y,
+"",Bank of America Account,Commercial Banks,,15001,50000,0,C,,
+D000031719,Automatic Data Processing Inc,Business Services,,15001,50000,0,C,Y,
+"",SPDR Gold Trust ETF,Mining,,1001,15000,0,C,,
+"",Raul Ruiz Md & Assoc,Unknown,,1001,15000,0,C,,
+"",iShares Silver Trust Index,Unknown,Mutual Fund,1001,15000,0,C,,

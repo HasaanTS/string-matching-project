@@ -1,0 +1,49 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Residential rental property,Real Estate,,200002,500000,0,Y,,
+"",Hidden Hollow Farms,Crop Production,,250001,500000,0,Y,,
+"",Ohio Public Employee Retirement System,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",PNC Bank/Account,Unknown,,50001,100000,0,Y,,
+"",Julia A Gibbs Family Trust/real esate,Real Estate,,50001,100000,0,Y,,
+D000000076,AT&T Inc,Telephone Utilities,,16002,65000,0,Y,Y,Y
+"",Ohio Service Employees Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000019639,Norfolk Southern,Railroads,,15001,50000,0,Y,Y,Y
+"",Merrill Lynch Account - Cash,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Fidelity VIP Growth SVC,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000019828,Emerson Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+"",Discover Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000352,Caterpillar Inc,Building Materials,,15001,50000,0,Y,Y,
+D000000079,Verizon Communications,Telephone Utilities,,2002,30000,0,Y,Y,Y
+D000021757,Berkshire Hathaway,Securities/Invest,,2002,30000,0,Y,Y,Y
+D000064241,Vodafone Group,Telecom Svcs,,1001,15000,0,Y,,
+"",VanEck WW Emg Markets,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Spectra Energy Corp,Oil & Gas,,1001,15000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",Paychex Inc,Business Services,,1001,15000,0,Y,,
+"",Nvit Multi-Manager Mid Cap Gr,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Nvit Multi-Manager,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Nvit Growth 1,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Nationwide Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000067057,Mondelez International,Food Process/Sales,,1001,15000,0,Y,Y,
+"",MFS Research Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000244,Marathon Oil,Oil & Gas,,1001,15000,0,Y,Y,
+D000066678,Kraft Foods Group,Food Process/Sales,,1001,15000,0,Y,Y,
+"",Julia A Gibbs Family Trust-Pro-Rated All,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",JPMorgan Chase Accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000034869,JM Smucker Co,Food Process/Sales,,1001,15000,0,Y,Y,Y
+D000026631,Integrys Energy Group,Electric Utilities,,1001,15000,0,Y,Y,
+D000052162,Ingersoll-Rand,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000026298,Great Plains Energy,Electric Utilities,,1001,15000,0,Y,Y,
+D000000182,Ford Motor Co,Automotive,,1001,15000,0,Y,Y,Y
+D000000368,Exelon Corp,Electric Utilities,,1001,15000,0,Y,Y,
+D000025689,Energy Transfer Partners,Oil & Gas,,1001,15000,0,Y,,
+D000000166,Eli Lilly & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000495,DuPont Co,Chemicals,,1001,15000,0,Y,Y,
+D000000091,BP,Oil & Gas,,1001,15000,0,Y,Y,
+"",Blackrock Global Allocation Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000090,Bank Of America,Commercial Banks,,1001,15000,0,Y,Y,
+"",Ariel Appreciation Fund,Unknown,,1001,15000,0,Y,,
+D000064520,Annaly Capital Management,Securities/Invest,,1001,15000,0,Y,Y,
+D000000573,American Electric Power,Electric Utilities,,1001,15000,0,Y,Y,Y
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,Y,Y,

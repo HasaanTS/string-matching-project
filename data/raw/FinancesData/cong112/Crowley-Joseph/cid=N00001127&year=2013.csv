@@ -1,0 +1,27 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",New York State & Local Retirement Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Lenox Hill Hospital Retirement Plan,Unknown,Insurance policies & Annuities,50001,100000,0,Y,,
+"",ING ReliaStar Life Insurance Co,Insurance,,15001,50000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,3004,46000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,3003,45000,0,Y,Y,Y
+D000055403,Philip Morris International,Tobacco,,3003,45000,0,Y,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,3003,45000,0,Y,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,3003,45000,0,Y,Y,Y
+"",Aggressive Age Based Moderate Growth,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Washington Mutual Investors Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Gold Coins,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Fidelity Advisor Small Cap Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Federated Mid Cap Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",EuroPacific Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Hight Income Trust,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Alliance NFI Small Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Aggressive Age Based Growth Portfolio,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",ABALX American Balanced Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000128,Walt Disney Co,TV/Movies/Music,,3,3000,0,Y,Y,Y
+D000000067,Altria Group,Tobacco,,3,3000,0,Y,Y,Y
+D000000373,McDonald's Corp,Food & Beverage,,2,2000,0,Y,Y,Y
+"",VHC Wells Fargo Money Purchase Pension,Unknown,"Brokerage, IRA, 401k",1,1000,0,Y,,
+"",Maspeth Federal Savings & Loan,Savings & Loans,,1,1000,0,Y,,
+"",Dreyfus Ins Deposit Program,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Citizens Bank Circle Account,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

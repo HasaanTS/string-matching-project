@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","215 Robinson Rd/Gastonia, NC",Real Estate,,100001,250000,0,A,,
+"","4211 Pete Brown Road/Charlotte, NC",Real Estate,,50001,100000,0,A,,
+D000028916,SCANA Corp,Electric Utilities,,15001,50000,0,A,Y,
+D000035734,McHenry for Congress,Candidate Cmtes,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,A,,
+"","621 W Garrison Road/Gastonia, NC",Real Estate,,15001,50000,0,A,,
+"","5524 Union Road/Gastonia, NC",Real Estate,,15001,50000,0,A,,
+"","109 W 8th Ave/Gastonia, NC",Real Estate,,15001,50000,0,A,,
+"",ING Direct/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Alliance Bank & Trust Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Alliance Bank & Trust,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Citizen's South Bank Account,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,A,,

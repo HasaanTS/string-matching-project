@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Mortgage Loan Services TX deeds of Trust,Unknown,Unknown,500001,1000000,0,A,,
+"",Paine Webber,Unknown,,100001,250000,0,A,,
+"",Paine Webber IRA,Unknown,"Brokerage, IRA, 401k",65002,150000,0,A,,
+D000062615,Navy Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,50001,100000,0,A,Y,

@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Undeveloped Land/Lafeyette, LA",Real Estate,,15001,50000,0,T,,
+"",Smith Barney Municipal Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"","Property/Grant Parish, LA",Real Estate,,15001,50000,0,T,,
+"",Templeton Growth Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Tax Exempt Fund Capital Reserves,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Meager Means Investment Club,Unknown,Unknown,1001,15000,0,T,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,A,Y,Y
+"",Extended Stay,Unknown,,1001,15000,0,A,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+"",Alliance Premier Growth Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Alliance Growth & Income Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Aim Premier Equity Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Alliance Technology Fund,Unknown,,0,1000,0,T,,

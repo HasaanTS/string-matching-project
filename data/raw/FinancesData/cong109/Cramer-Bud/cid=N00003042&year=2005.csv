@@ -1,0 +1,34 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","524 Skyline Shores/Scottsboro, AL",Real Estate,,250001,500000,0,Y,,
+"","3209 Cove Lake Road/Hampton Cove, AL",Real Estate,,250001,500000,0,Y,,
+"",Calamos Money Manager,Unknown,Cash/Money Market/Savings/Checking,274686,274686,0,Y,,
+"",Davis Selected Large Cap,Unknown,Mutual Fund,251600,251600,0,Y,,
+D000019731,UnitedHealthcare Corp,Insurance,,99340,99340,0,Y,,
+"",Maxim Integrated Products,Electronics Mfg/Eqp,,72580,72580,0,Y,,
+D000000209,United Technologies,Defense Aerospace,,50900,50900,0,Y,Y,Y
+"",Nationwide Mass Fixed Annt,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,49284,49284,0,Y,Y,
+D000025822,First Horizon National,Commercial Banks,,41740,41740,0,Y,,
+D000021814,Alliant Techsystems,Misc Defense,,41512,41512,0,Y,Y,Y
+D000000414,Charles Schwab Corp,Securities/Invest,,35080,35080,0,Y,Y,
+D000000129,Exxon Mobil,Oil & Gas,,33549,33549,0,Y,Y,Y
+D000000085,Goldman Sachs,Securities/Invest,,32110,32110,0,Y,Y,
+D000022084,Lincoln National Corp,Insurance,,28200,28200,0,Y,Y,
+"",Costar Group,Real Estate,,25590,25590,0,Y,,
+D000000669,Principal Financial Group,Misc Finance,,25055,25055,0,Y,Y,
+"",Adtran Inc,Telecom Svcs,,25000,25000,0,Y,,
+"",Sprint Nextel,Telecom Svcs,,23669,23669,0,Y,,
+D000037751,St Joe Co,Real Estate,,20436,20436,0,Y,Y,
+D000027296,Lowe's Companies,Retail Sales,,19239,19239,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,17424,17424,0,Y,Y,Y
+"",Emegeon Inc,Unknown,,17110,17110,0,Y,,
+"",Cardiac Science Corp,Pharm/Health Prod,,16600,16600,0,Y,,
+"",Calamos Strategic Total Return Fund,Unknown,Mutual Fund,15636,15636,0,Y,,
+D000057363,Syntroleum Corp,Oil & Gas,,15050,15050,0,Y,Y,
+"",CyberSource Corp,Unknown,,10430,10430,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,8588,8588,0,Y,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,7479,7479,0,Y,Y,Y
+"",UTStarCom Inc,Telecom Svcs,,6830,6830,0,Y,,
+"",Icos Corp,Unknown,,5840,5840,0,Y,,
+D000000156,Qwest Communications,Telecom Svcs,,4712,4712,0,Y,Y,
+"",Sannmina Corp,Electronics Mfg/Eqp,,4070,4070,0,Y,,

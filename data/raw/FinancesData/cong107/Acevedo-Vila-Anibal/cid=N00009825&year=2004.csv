@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,T,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,T,Y,
+"",Banco Popular,Commercial Banks,,15001,50000,0,T,,
+"",Oriental Trust,Unknown,,1001,15000,0,T,,
+"",Oriental Bank,Commercial Banks,,1001,15000,0,T,,
+D000023103,Jefferson-Pilot Corp,Insurance,Unknown,1001,15000,0,T,Y,
+"",Cosvi,Unknown,Unknown,1001,15000,0,T,,
+D000046233,Commonwealth of Puerto Rico,Other,,1001,15000,0,T,Y,Y

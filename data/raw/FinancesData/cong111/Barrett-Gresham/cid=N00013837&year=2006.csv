@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Condo/Arlington, VA",Real Estate,,250001,500000,0,Y,,
+"","House & lot/Westminster, SC",Real Estate,,181005,465000,0,Y,,
+"","Building/Westminster, SC",Real Estate,,65002,150000,0,Y,,
+"","Rental House/Westminster, SC",Real Estate,,50001,100000,0,Y,,
+"",Rental Family Property/Westminster,Real Estate,,50001,100000,0,Y,,
+"",South Carolina State Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"","Building on 15 Acres/Westminster, SC",Real Estate,,15001,50000,0,Y,,
+"",Oppenheimer Equity Funds,Unknown,Mutual Fund,1001,15000,0,Y,,
+"","Land Map 298-00-01-018/Westminster, SC",Real Estate,,1001,15000,0,Y,,
+"","Trailer Space/Westminster, SC",Real Estate,,1,1000,0,Y,,

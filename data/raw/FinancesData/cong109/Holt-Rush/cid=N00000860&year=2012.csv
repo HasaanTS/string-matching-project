@@ -1,0 +1,19 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Transamerica Retirement 403b,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+"",TIAA-CREF 403(b) Traditional 30-70,Unknown,"Brokerage, IRA, 401k",350002,750000,0,Y,,
+"",2025 Freedom Fund,Unknown,Mutual Fund,300002,600000,0,Y,,
+"",TIAA-CREF 403(b) Traditional 45-55,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,100001,250000,0,Y,Y,Y
+"",Vanguard Windsor Retirement Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Rental House,Real Estate,,100001,250000,0,Y,,
+"",Rental Cabins,Real Estate,,100001,250000,0,Y,,
+"",Lancefield Farm Income,Misc Agriculture,,100001,250000,0,Y,,
+"",Froelich Land Trust,Unknown,Mutual Fund,100001,250000,0,Y,,
+D000000487,US Bancorp,Commercial Banks,,50001,100000,0,Y,Y,
+"",TC Equity Index Retirement Fund,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Prudential 403(b) Medley Flex Management,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Fidelity Government Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+D000058827,Zimmer Holdings,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Community Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

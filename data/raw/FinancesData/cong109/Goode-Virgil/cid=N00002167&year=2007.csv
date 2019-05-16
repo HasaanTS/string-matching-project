@@ -1,0 +1,42 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000022269,SunTrust Banks,Commercial Banks,,500001,1000000,0,Y,,Y
+"","House/Rocky Mount, VA",Real Estate,,250001,500000,0,Y,,
+"",Carter Bank,Commercial Banks,,200002,500000,0,Y,,
+D000021573,Wachovia Corp,Commercial Banks,,116003,315000,0,Y,Y,
+D000000092,Reynolds American,Tobacco,,101002,265000,0,Y,Y,Y
+D000000206,Occidental Petroleum,Oil & Gas,,100001,250000,0,Y,Y,Y
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,100001,250000,0,Y,Y,
+D000000573,American Electric Power,Electric Utilities,,100001,250000,0,Y,Y,Y
+D000023850,Allegheny Energy,Electric Utilities,,100001,250000,0,Y,Y,Y
+D000000076,AT&T Inc,Telephone Utilities,,65002,150000,0,Y,Y,Y
+D000000067,Altria Group,Tobacco,,65002,150000,0,Y,Y,Y
+D000021868,BB&T Corp,Commercial Banks,,51002,115000,0,Y,,Y
+"",SunTrust Banks/Checking & Savings,Unknown,Cash/Money Market/Savings/Checking,30002,100000,0,Y,,
+"",NFS Classic Prime,Unknown,,50001,100000,0,Y,,
+"","Lot & Office/Rocky Mount, VA",Real Estate,,50001,100000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,50001,100000,0,Y,Y,
+D000000129,Exxon Mobil,Oil & Gas,,50001,100000,0,Y,Y,Y
+"","2 Acres with office/Rocky Mount, VA",Real Estate,,50001,100000,0,Y,,
+"",Main Street Bank,Commercial Banks,,16002,65000,0,Y,,
+D000001024,Kraft Foods,Food Process/Sales,,16002,65000,0,Y,Y,
+"",Powhatan County Bond,Unknown,Government Bond,15001,50000,0,Y,,
+"",Franklin Com Bank/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000020679,Ford Motor Credit Co,Finance/Credit,,15001,50000,0,Y,,
+"",El Paso preferred,Unknown,,15001,50000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Charter Comm,Unknown,,15001,50000,0,Y,,
+D000021892,Cardinal Health,Pharm/Health Prod,,15001,50000,0,Y,Y,
+"",Virginia Public School Auth Bond,Unknown,Government Bond,1001,15000,0,Y,,
+"",SunTrust Banks/CD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",SunTrust Banks IRA/Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Scott & String fellow IRA/Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000036520,Parker Drilling,Oil & Gas,,1001,15000,0,Y,Y,
+"",Hometown Bank,Commercial Banks,,1001,15000,0,Y,,
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,Y,Y,Y
+D000023834,Alcatel-Lucent,Telecom Svcs,,1001,15000,0,Y,Y,
+"",Agere Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"","3 lots Koehler Rt 1/Fieldale, VA",Real Estate,,1001,15000,0,Y,,
+"","2 acres/Henry, VA",Real Estate,,1001,15000,0,Y,,
+"",First National Power,Electric Utilities,,1,1000,0,Y,,
+"",DCH-Medra Com St,Unknown,,1,1000,0,Y,,

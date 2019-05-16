@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Pacific Life Annuity,Unknown,Insurance policies & Annuities,250001,500000,0,Y,,
+"",Western Asset Money Market,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Southwood Properties,Real Estate,,100001,250000,0,Y,,
+"",Smith Barney IRA,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+D000037015,Regions Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15002,51000,0,Y,,
+D000000328,Fidelity Investments,Securities/Invest,Mutual Fund,2,2000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000020325,Citibank,Commercial Banks,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

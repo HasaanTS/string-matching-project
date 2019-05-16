@@ -1,0 +1,23 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Growth Income Tier I,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",JP Morgan Chase Retirement Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Putnam Growth & Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+"",Putnam Fidelity TR CO TTEE BFO IRA,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Pacific Life/Variable Universal Life Ins,Unknown,Insurance policies & Annuities,2002,30000,0,Y,,
+"",Blackrock 529 College Advantage Plan OH,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",State of Texas Retirement System,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Putnam Small Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Putnam Money Market,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Personal Checking Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Oppenheimer Global SECS,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",NW American Century Multi Cap,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Lehman BRAMT Short Duration Bond,Unknown,Government Bond,1001,15000,0,Y,,
+"",JPMorgan Chase Bank Super Savings Acct,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",Dreyfus VIF APP Port,Unknown,Unknown,1001,15000,0,Y,,
+"",Woodforest National Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,2,2000,0,Y,,
+"",Woodforest National Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Wells Fargo/Savings,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",JPMorgan Chase IRA MMAT,Unknown,"Brokerage, IRA, 401k",1,1000,0,Y,,

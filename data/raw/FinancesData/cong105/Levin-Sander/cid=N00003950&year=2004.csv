@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","House/West Tisbury, MA",Real Estate,,500001,1000000,0,Y,,
+"",Merrill Lynch Cash Management Account,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",Levinson-Levin,Real Estate,,250001,500000,0,Y,,
+"","78 acres/Tyrone Township, MI",Real Estate,,100001,250000,0,Y,,
+"",American Funds Mutual Funds/Various,Unknown,Mutual Fund,65002,150000,0,Y,,
+"",Michigan Mineral Rights,Unknown,,15001,50000,0,Y,,
+"","18 acres/Tyrone County, MI",Real Estate,,15001,50000,0,Y,,
+"",Wright Patman Congressional FCU,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000021573,Wachovia Bank account,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,Y,
+"",Martha's Vineyard Cooperative Bank,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",LRS Co,Real Estate,,1001,15000,0,Y,,
+"",Clark & Bonnie Barnes/Loan,Unknown,Note/Note Receivable,1001,15000,0,Y,,

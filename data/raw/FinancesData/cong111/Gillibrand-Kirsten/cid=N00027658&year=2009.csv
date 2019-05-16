@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Citibank Accounts/Checking & Savings,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",TrustCo/Checking,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Fidelity Retirement Money Market 401k,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Coutts Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",E*TRADE Accounts/Cash,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Windcrest LLC,Pharm/Health Prod,,15001,50000,0,Y,,
+"",Citibank SEP Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Proshares Real Estate Short ETF,Unknown,Mutual Fund,0,1000,0,Y,,
+D000031877,Bed Bath & Beyond,Retail Sales,,0,1000,0,Y,,

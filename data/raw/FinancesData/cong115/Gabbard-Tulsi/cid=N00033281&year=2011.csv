@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","3331 Valley Drive/Alexandria, VA",Real Estate,,250001,500000,0,N,,
+"","1510 NW Ferris Avenue/Lawton, OK",Real Estate,,100001,250000,0,N,,
+"",USAA Precious Metals Fund,Mining,,1001,15000,0,N,,
+"",USAA Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",USAA Emerging Markets,Unknown,Mutual Fund,1001,15000,0,N,,
+"",US Global Gold & Precious Metals,Mining,,1001,15000,0,N,,
+"",Third Avenue Real Estate Value Fund,Real Estate,,1001,15000,0,N,,
+"",S&P Latin America,Unknown,Mutual Fund,1001,15000,0,N,,
+"",MSCI Brazil,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,N,Y,
+"",iShares S&P Latin America 40 Index,Unknown,Mutual Fund,1001,15000,0,N,,
+"",iShares MSCI Brazil Index,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Dow Jones US Index Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,N,Y,Y
+"",Emerging Market Fund,Unknown,Mutual Fund,1,1000,0,N,,

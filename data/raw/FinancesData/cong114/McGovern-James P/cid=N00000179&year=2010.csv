@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","1225 Massachusetts Ave SE/Washington, DC",Real Estate,,1000001,5000000,0,Y,,
+"",Congressional FCU Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Thornburg Value Portfolio retirement,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",ING VP Growth Portfolio,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",ING Fidelity VIP Contrafund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Eaton Vance Tax Managed Growth Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+D000000190,Viacom Inc,TV/Movies/Music,,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Eaton Vance Global Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000457,Corning Inc,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000019792,CBS Corp,TV/Movies/Music,,1001,15000,0,Y,,

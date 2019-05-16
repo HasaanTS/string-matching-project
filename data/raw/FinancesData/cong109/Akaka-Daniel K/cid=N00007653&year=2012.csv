@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Condominium,Real Estate,,250001,500000,0,T,,
+"",Akaka Family savings A/C & real estate,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,T,,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,T,,
+"",Eaton Vance Growth Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",TIAA-CREF,Securities/Invest,Insurance policies & Annuities,1001,16000,0,T,,
+D000025820,First Hawaiian Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",T Rowe Price Prime Reserve Money Market,Unknown,Mutual Fund,0,2000,0,T,,
+"",Honolulu Federal Credit Union,Unknown,Unknown,0,1000,0,T,,

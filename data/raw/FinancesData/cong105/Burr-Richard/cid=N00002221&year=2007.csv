@@ -1,0 +1,33 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Residence/New Jersey Ave SE/Wash, DC",Real Estate,,500001,1000000,0,Y,,
+"",Piedmont Federal Savings,Unknown,Cash/Money Market/Savings/Checking,30002,100000,0,Y,,
+"",Smith Barney Money Fund,Unknown,Mutual Fund,16002,65000,0,Y,,
+D000029955,YUM! Brands,Food & Beverage,,28510,28510,0,Y,Y,
+"",Dell Inc,Electronics Mfg/Eqp,,27769,27769,0,Y,,
+D000021908,Chesapeake Energy,Oil & Gas,,24539,24539,0,Y,Y,
+"",Philips Electronics,Electronics Mfg/Eqp,,24538,24538,0,Y,,
+"",Dreyfus Liquid Assets Money Market,Unknown,Cash/Money Market/Savings/Checking,23702,23702,0,Y,,
+"",Cemex Sa,Building Materials,,22230,22230,0,Y,,
+D000022519,DIRECTV Group,Telecom Svcs,,22102,22102,0,Y,,
+D000059510,Pioneer Natural Resources,Oil & Gas,,21635,21635,0,Y,,
+D000021844,AON Corp,Insurance,,21268,21268,0,Y,Y,Y
+D000024208,Autozone Inc,Automotive,,21223,21223,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,21077,21077,0,Y,Y,Y
+D000000128,Walt Disney Co,TV/Movies/Music,,20949,20949,0,Y,Y,Y
+D000000703,Costco Wholesale,Retail Sales,,20857,20857,0,Y,,
+D000052162,Ingersoll-Rand,Misc Mfg/Distrib,,20631,20631,0,Y,Y,
+D000027185,Legg Mason,Securities/Invest,,19823,19823,0,Y,,
+D000037533,Sherwin-Williams Co,Chemicals,,18455,18455,0,Y,Y,
+D000023838,Alexander & Baldwin,Sea Transport,,17977,17977,0,Y,Y,
+D000000089,FedEx Corp,Air Transport,,17298,17298,0,Y,Y,
+D000029594,Unum Group,Insurance,,17199,17199,0,Y,Y,
+D000035628,Markel Corp,Insurance,,16697,16697,0,Y,,
+"",Southern Community Bank Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",House of Representative Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000021970,eBay Inc,Internet,,14669,14669,0,Y,Y,
+"",Sealed Air Corp,Chemicals,,14346,14346,0,Y,,
+D000021892,Cardinal Health,Pharm/Health Prod,,12993,12993,0,Y,Y,Y
+"",AMBAC Financial,Insurance,,10255,10255,0,Y,,
+D000029309,Symantec Corp,Electronics Mfg/Eqp,,10200,10200,0,Y,Y,
+"","Fair, Isaac & Co",Unknown,,9612,9612,0,Y,,
+D000000461,Comcast Corp,Telecom Svcs,,8806,8806,0,Y,Y,

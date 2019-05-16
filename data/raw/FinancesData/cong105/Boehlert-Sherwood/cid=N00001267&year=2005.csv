@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Putnam International Growth Fund,Unknown,Mutual Fund,30002,100000,0,Y,,
+"",New Economy,Unknown,"Brokerage, IRA, 401k",30002,100000,0,Y,,
+"",NBT,Unknown,,50001,100000,0,Y,,
+D000029280,Sun Microsystems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",Putnam Voyager Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Putnam Capital Appreciation Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Partners Trust Financial Group,Commercial Banks,,1001,15000,0,Y,,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",Metronic Inc,Unknown,,1001,15000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y

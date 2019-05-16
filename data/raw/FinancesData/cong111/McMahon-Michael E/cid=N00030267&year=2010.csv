@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Merrill Lynch IRA,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,T,,
+"","Real Estate held for rental/S I, NY",Real Estate,,250001,500000,0,T,,
+"",Merrill Lynch Investment,Unknown,"Brokerage, IRA, 401k",250001,500000,0,T,,
+"",Merrill Lynch of MA for son Joseph,Unknown,"Brokerage, IRA, 401k",50001,100000,0,T,,
+"",Citibank/Cash,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"",Prudential Financial Life Insurance,Unknown,Insurance policies & Annuities,15001,50000,0,T,,
+D000000222,Cigna Corp,Insurance,,1001,15000,0,T,Y,

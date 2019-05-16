@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Residential Property Ennis, TX",Real Estate,,250001,500000,0,O,,
+"",Loan to Lindsey Barber,,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",50001,100000,0,O,,
+D000043943,EOG Resources,Oil & Gas,,50001,100000,0,O,,Y
+"",Ennis Business Forum,,Mutual Fund,15001,50000,0,O,,
+"",Walmart,,,1001,15000,0,O,,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,O,Y,Y

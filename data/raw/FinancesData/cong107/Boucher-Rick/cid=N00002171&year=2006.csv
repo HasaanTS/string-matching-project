@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Vanguard S&P 500 Index Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Nations Securities Savings Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Individual Retirement Account Nations S,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Fidelity 4-in-1 Index Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000021868,BB&T Corp,Commercial Banks,,15001,50000,0,Y,,Y
+D000029128,South Financial Group,Commercial Banks,,1001,15000,0,Y,,
+"",Rydex Over the Counter Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",New River Funds,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Lot/Washington County,Real Estate,,1001,15000,0,Y,,
+"","Lot/Town of Damascus, VA",Real Estate,,1001,15000,0,Y,,
+"",Harbor International Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Bank of America/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

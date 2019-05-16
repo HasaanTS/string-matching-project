@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Nebo Lodge Inc Inn & Restaurant,Lodging/Tourism,,1000001,5000000,0,Y,,
+D000059040,Camden National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,50001,100000,0,Y,Y,

@@ -1,0 +1,53 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",PIMCO All Asset Fund,Unknown,Mutual Fund,102003,280000,0,N,,
+"",Loomis Sayles Bond Fund,Unknown,Mutual Fund,101002,265000,0,N,,
+"",North Salem Acquisition Devel,Unknown,,100001,250000,0,N,,
+"",Gateway Trust Fund,Unknown,Mutual Fund,100001,250000,0,N,,
+"",Columbia Marsico Fund,Unknown,Mutual Fund,100001,250000,0,N,,
+"",College Bound Fund,Unknown,Mutual Fund,48006,195000,0,N,,
+"",Columbia International Value Fund,Unknown,Mutual Fund,52003,130000,0,N,,
+"",Thornburg International Value Fund,Unknown,Mutual Fund,51002,115000,0,N,,
+"",Janus Long Short Fund,Unknown,Mutual Fund,51002,115000,0,N,,
+"",Federated Market Opportunity Fund,Unknown,Mutual Fund,51002,115000,0,N,,
+"",Nuveen NWQ Value Fund,Unknown,Mutual Fund,50001,100000,0,N,,
+"",Janus Overseas Fund,Unknown,Mutual Fund,16002,65000,0,N,,
+"",Allianz NFJ Dividend Value Fund,Unknown,Mutual Fund,16002,65000,0,N,,
+"",Mellon Private Asset Mgmt Profit Sharing,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Evergreen Equity Trust,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Vanguard 500 Index Fund,Unknown,Mutual Fund,2002,30000,0,N,,
+"",Advantage Primary Liquidity Fund,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,N,,
+"",Money Market Oblig Trust,Unknown,Cash/Money Market/Savings/Checking,1002,16000,0,N,,
+D000021573,Wachovia Corp,Commercial Banks,,1001,15000,0,N,Y,
+D000064241,Vodafone Group,Telecom Svcs,,1001,15000,0,N,,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,N,Y,Y
+D000030608,Unilever,Misc Mfg/Distrib,,1001,15000,0,N,Y,
+"",Pioneer Cullen Value Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,N,Y,Y
+D000068731,Petrochina Co,Oil & Gas,,1001,15000,0,N,,
+"",Nuveen Value Opportunity Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000035098,Kimberly-Clark de Mexico,Misc Mfg/Distrib,,1001,15000,0,N,Y,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,N,Y,Y
+"",Janus Contrarian Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000026492,HJ Heinz Co,Food Process/Sales,,1001,15000,0,N,Y,
+D000066632,Healthcare Realty Trust,Real Estate,,1001,15000,0,N,,
+"",HCP Reit,Unknown,,1001,15000,0,N,,
+"",Genuine Parts Co,Automotive,,1001,15000,0,N,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,N,Y,Y
+"",Gateway Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000182,Ford Motor Co,Automotive,,1001,15000,0,N,Y,Y
+"",Dreyfus S&P 500 Index,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Dreyfus Emerging Leaders Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000188,Dow Chemical,Chemicals,,1001,15000,0,N,Y,Y
+D000025490,Diageo Plc,"Beer, Wine & Liquor",,1001,15000,0,N,Y,
+"",Columbia Marsico 21st Century Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000015,Chevron Corp,Oil & Gas,,1001,15000,0,N,Y,
+D000024667,Cemex Inc,Building Materials,,1001,15000,0,N,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,N,Y,
+D000000091,BP,Oil & Gas,,1001,15000,0,N,Y,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,N,Y,Y
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,N,Y,Y
+D000000067,Altria Group,Tobacco,,1001,15000,0,N,Y,
+D000023867,Allied Capital,Securities/Invest,,1001,15000,0,N,Y,
+"",Alger Small Cap Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000000128,Walt Disney Co,TV/Movies/Music,,1,1000,0,N,Y,Y

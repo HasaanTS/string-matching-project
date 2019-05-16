@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental Property/Burlington, VT",Real Estate,,100001,250000,0,Y,,
+"",VALIC Fixed Income,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",TIAA Guaranteed Traditional,Unknown,Mutual Fund,15001,50000,0,Y,,
+"","TIAA Global Equities, Stocks, Growth",Unknown,Mutual Fund,15001,50000,0,Y,,
+"",CREF Fixed Income Bonds,Unknown,Government Bond,15001,50000,0,Y,,
+"",Chittenden Bank IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",VALIC Large Mid Small Cap Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",VALIC Hybrid,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",TIAA Real Estate Fund,Real Estate,,1001,15000,0,Y,,
+"",TIAA Personal Annuity Fixed Account,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",CREF Social Choice Multi Asset,Unknown,Mutual Fund,1001,15000,0,Y,,

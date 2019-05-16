@@ -1,0 +1,21 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Investment Entrepreneurs LLC,Real Estate,,100001,250000,0,Y,,
+D000000090,Bank Of America,Commercial Banks,,31003,115000,0,Y,Y,Y
+"","645-47 W Liberty St/Sumter, SC",Real Estate,,50001,100000,0,Y,,
+D000028916,SCANA Corp,Electric Utilities,,15001,50000,0,Y,Y,Y
+"",Wells Fargo Advanced Small Cap Value Fd,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Thornburg International Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Oppenheimer Rising Dividends Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Oppenheimer Gold & Special Minerals Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",MFS Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",MFS New Discovery Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Mainstay Large Cap Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Ivy Asset Strategy Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Hartford Growth Opportunities Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Harbor International Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Cullen High Dividend Equity Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Cambiar Opportunity Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000031719,Automatic Data Processing Inc,Business Services,,1001,15000,0,Y,Y,
+"",Allianz NFJ International Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Wright Patman Congressional FCU,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",South Carolina State Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

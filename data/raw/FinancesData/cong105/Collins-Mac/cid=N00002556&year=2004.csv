@@ -1,0 +1,35 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Collins Trucking,Trucking,,500001,1000000,0,T,,
+"",The Farm,Misc Agriculture,Unknown,250001,500000,0,T,,
+"",Western Reserve,Unknown,,100001,250000,0,T,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,T,,
+D000000419,Home Depot,Retail Sales,,58700,72699,0,T,Y,
+D000000350,Delta Air Lines,Air Transport,,17245,52244,0,T,Y,Y
+"",Putnam Growth Opportunities Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",McIntosh State Bank Accounts,Unknown,"Brokerage, IRA, 401k",15001,50000,0,T,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,42752,42752,0,T,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,25550,25550,0,T,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,9405,23404,0,T,Y,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,23390,23390,0,T,Y,
+D000000129,Exxon Mobil,Oil & Gas,,21785,21785,0,T,Y,
+D000000367,Wal-Mart Stores,Retail Sales,,1001,15000,0,T,Y,
+D000031465,American Axle & Manufacturing,Automotive,,13490,13490,0,T,,
+D000019533,US Steel,Steel Production,,10250,10250,0,T,Y,
+D000000081,United Parcel Service,Air Transport,,10169,10169,0,T,Y,Y
+D000022269,SunTrust Banks,Commercial Banks,,7388,7388,0,T,,Y
+D000000449,Nortel Networks,Telecom Svcs,,6940,6940,0,T,Y,
+"",Nokia Corp,Telecom Svcs,,6581,6581,0,T,,
+D000045945,Avery Dennison Corp,Chemicals,,5997,5997,0,T,,
+D000021573,Wachovia Corp,Commercial Banks,,5996,5996,0,T,Y,
+D000021757,Berkshire Hathaway,Securities/Invest,,5872,5872,0,T,Y,
+D000000091,BP,Oil & Gas,,5840,5840,0,T,Y,
+D000029314,Synovus Financial Corp,Commercial Banks,,5716,5716,0,T,,Y
+D000000619,Target Corp,Retail Sales,,5193,5193,0,T,Y,
+"",Videsh Sanchar Nigam,Telephone Utilities,,3443,3443,0,T,,
+D000000596,Genentech Inc,Pharm/Health Prod,,2177,2177,0,T,,
+D000000530,Lucent Technologies,Telecom Svcs,,1880,1880,0,T,Y,
+D000023733,ABIOMED Inc,Pharm/Health Prod,,1,1000,0,T,Y,
+"",Biogen Idec,Pharm/Health Prod,,732,732,0,T,,
+D000000391,Amgen Inc,Pharm/Health Prod,,641,641,0,T,Y,
+"",CopyTele Inc,Electronics Mfg/Eqp,,255,255,0,T,,
+"",Active Assets Money Trust,Unknown,Cash/Money Market/Savings/Checking,98,98,0,T,,

@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",US Bank Accounts,Unknown,"Brokerage, IRA, 401k",100001,250000,0,N,,
+"",ING AU IRA,Unknown,"Brokerage, IRA, 401k",65002,150000,0,N,,
+"",Roth IRA,Unknown,"Brokerage, IRA, 401k",50001,100000,0,N,,
+"",ING NWA 401K Bond,Unknown,"Brokerage, IRA, 401k",50001,100000,0,N,,
+D000000350,Delta Air Lines,Air Transport,,50001,100000,0,N,Y,Y
+"",401k Small Cap,Unknown,Mutual Fund,50001,100000,0,N,,
+"",Fidelity Destiny,Unknown,Mutual Fund,15001,50000,0,N,,
+"",401k Large Cap,Unknown,Mutual Fund,15001,50000,0,N,,
+"",401k International Equity,Unknown,Mutual Fund,15001,50000,0,N,,
+"",America Funds 529A,Unknown,"Brokerage, IRA, 401k",2002,30000,0,N,,
+"",NWA MMP,Unknown,,1001,15000,0,N,,

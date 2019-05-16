@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",North Carolina Deferred Comp Plan 401k,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"","1108 Summerville-Mamers Road/Lillington, NC",Real Estate,,15001,50000,0,Y,,
+"",Dean Witter Money Market,Unknown,Cash/Money Market/Savings/Checking,3003,45000,0,Y,,
+"",RBC Centura Bank,Commercial Banks,,1001,15000,0,Y,,
+D000000398,Progress Energy,Electric Utilities,,1001,15000,0,Y,Y,Y
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Oppenheimer Equity Income,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000022153,NYSE Euronext,Securities/Invest,,1001,15000,0,Y,Y,
+"",iShares S&P Europe,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares Lehman,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000334,Honeywell International,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Cornerstone Bank,Commercial Banks,Unknown,1001,15000,0,Y,,
+D000021868,BB&T Corp,Commercial Banks,,1001,15000,0,Y,,
+D000021765,Bank of New York Mellon,Securities/Invest,,1001,15000,0,Y,Y,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,
+D000045190,Spectra Energy,Oil & Gas,,1,1000,0,Y,Y,
+D000018253,Discover Financial Services,Finance/Credit,,1,1000,0,Y,Y,

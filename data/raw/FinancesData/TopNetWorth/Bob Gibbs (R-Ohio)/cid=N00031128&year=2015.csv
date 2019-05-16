@@ -1,0 +1,64 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Hidden Hollow Farms,Crop Production,,500001,1000000,0,A,,
+"",Residential Rental Property,Real Estate,,100001,250000,0,A,,
+"",Ohio Public Employees Retirment System,,"Brokerage, IRA, 401k",100001,250000,0,A,,
+"",Discover Bank Accounts,,Cash/Money Market/Savings/Checking,100001,250000,0,A,,
+D000000079,Verizon Communications,Telephone Utilities,,17003,80000,0,A,Y,Y
+D000000076,AT&T Inc,Telephone Utilities,,16002,65000,0,A,Y,Y
+D000000128,Walt Disney Co,TV/Movies/Music,,15001,50000,0,A,Y,
+"",Vaneck VIP Emrgmkt Initial,,Mutual Fund,15001,50000,0,A,,
+"",Ohio Service Employees Retirement System,,"Brokerage, IRA, 401k",15001,50000,0,A,,
+D000019639,Norfolk Southern,Railroads,,15001,50000,0,A,Y,Y
+"",Nationwide Fidvip Gr Svc,,Mutual Fund,15001,50000,0,A,,
+"",JPMorgan Chase Accounts,,"Brokerage, IRA, 401k",15001,50000,0,A,,
+D000034869,JM Smucker Co,Food Process/Sales,,15001,50000,0,A,Y,Y
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,A,Y,
+D000052162,Ingersoll-Rand,Misc Mfg/Distrib,,15001,50000,0,A,Y,
+D000000129,Exxon Mobil,Oil & Gas,,15001,50000,0,A,Y,Y
+"",Emerson Electric Co,Unknown,,15001,50000,0,A,,
+D000000352,Caterpillar Inc,Building Materials,,15001,50000,0,A,Y,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,15001,50000,0,A,Y,
+D000000426,Timken Co,Misc Mfg/Distrib,,2002,30000,0,A,Y,Y
+D000021757,Berkshire Hathaway,Securities/Invest,,2002,30000,0,A,Y,Y
+D000029689,Visa Inc,Finance/Credit,,1001,15000,0,A,Y,
+D000030824,VF Corp,Misc Mfg/Distrib,,1001,15000,0,A,Y,
+D000045190,Spectra Energy,Oil & Gas,,1001,15000,0,A,Y,Y
+D000056265,RPM Inc,Chemicals,,1001,15000,0,A,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,A,Y,
+D000042443,Priceline.com,Internet,,1001,15000,0,A,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,A,Y,
+D000069826,Paychex Inc,Business Services,,1001,15000,0,A,,
+D000028149,Oneok Inc,Oil & Gas,,1001,15000,0,A,Y,
+D000067294,ONE Gas,Oil & Gas,,1001,15000,0,A,,
+"",Nationwide NVIT Mult Mgr SM Co 1,,Mutual Fund,1001,15000,0,A,,
+"",Nationwide NVIT Mult Mgr MdCapGr 1,,Mutual Fund,1001,15000,0,A,,
+"",Nationwide Fund,,Mutual Fund,1001,15000,0,A,,
+"",Nationwide Amcent NVIT Gr 1,,Mutual Fund,1001,15000,0,A,,
+D000067057,Mondelez International,Food Process/Sales,,1001,15000,0,A,Y,
+"",MFS Research Bond Fund,,Mutual Fund,1001,15000,0,A,,
+"",Merrill Lynch Cash Account,,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000022099,MasterCard Inc,Finance/Credit,,1001,15000,0,A,Y,
+D000000244,Marathon Oil,Oil & Gas,,1001,15000,0,A,Y,
+"",Kratos Defense & Security Solutions,Defense Aerospace,,1001,15000,0,A,,
+D000001024,Kraft Foods,Food Process/Sales,,1001,15000,0,A,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,A,Y,
+D000026470,Hershey Co,Food & Beverage,,1001,15000,0,A,Y,
+D000026298,Great Plains Energy,Electric Utilities,,1001,15000,0,A,Y,
+D000000182,Ford Motor Co,Automotive,,1001,15000,0,A,Y,
+D000025689,Energy Transfer Partners,Oil & Gas,,1001,15000,0,A,,
+D000000166,Eli Lilly & Co,Pharm/Health Prod,,1001,15000,0,A,Y,
+D000000495,Dupont Co,Chemicals,,1001,15000,0,A,,
+D000024731,Cheniere Energy,Oil & Gas,,1001,15000,0,A,Y,
+"",Charles Swabb Account,,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000021892,Cardinal Health,Pharm/Health Prod,,1001,15000,0,A,Y,Y
+D000000091,BP,Oil & Gas,,1001,15000,0,A,Y,
+"",Blackrock S&P Quality Rankings Global Fund,,Mutual Fund,1001,15000,0,A,,
+"",BlackRock Global Allocation Fund,Securities/Invest,Mutual Fund,1001,15000,0,A,,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,A,Y,
+D000042510,Anheuser-Busch InBev,"Beer, Wine & Liquor",,1001,15000,0,A,Y,
+D000000573,American Electric Power,Electric Utilities,,1001,15000,0,A,Y,Y
+D000023883,Amazon.com,Internet,,1001,15000,0,A,Y,
+D000067823,Alphabet Inc,Internet,,1001,15000,0,A,Y,Y
+"",Allegion plc,,Mutual Fund,1001,15000,0,A,,
+D000066804,AbbVie Inc,Pharm/Health Prod,,1001,15000,0,A,Y,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,A,Y,

@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000029514,Trinity Industries,Railroads,,5000001,25000000,0,Y,,
+"",LFT LLC,Misc Services,,500001,1000000,0,Y,,
+"",LEA County Bancshares,Commercial Banks,,500001,1000000,0,Y,,
+"",CPCU Accounts,Unknown,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+"",USAA Federal Accounts,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",250001,500000,0,Y,,
+"",Exedra LLC,Unknown,,250001,500000,0,Y,,
+"",USAA Simple Ira Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",USAA Sbp Ira Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",LEA County State Bank Account,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",50001,100000,0,Y,,
+"",Greg LLC,Unknown,,15001,50000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",College Section 629 Plans Custom Choice,Unknown,Mutual Fund,1001,15000,0,Y,,

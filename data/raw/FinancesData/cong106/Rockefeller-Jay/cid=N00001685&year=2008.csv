@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",JPMorgan Chase Bank Trust 12/18/1934,Unknown,"Brokerage, IRA, 401k",50000001,50000001,1,Y,,
+"",Wachovia Bank Trust dtd 2/11/52,Unknown,"Brokerage, IRA, 401k",25000001,50000000,0,Y,,
+"",United National Bank,Commercial Banks,"Brokerage, IRA, 401k",5000001,25000000,0,Y,,
+D000037180,Rockefeller Financial Services,Business Services,,1500002,2000001,1,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,1000001,1000001,1,Y,Y,Y
+D000022465,Lincoln Financial Group,Misc Finance,Insurance policies & Annuities,1000001,1000001,1,Y,,
+"",Rockefeller Global Equity Fund III,Securities/Invest,,500001,1000000,0,Y,,
+"",John Hancock Variable Insurance Policy,Unknown,Insurance policies & Annuities,500001,1000000,0,Y,,
+"",Diversified Investment Advisors,Securities/Invest,,500001,1000000,0,Y,,
+"",Pocantico Fund,Unknown,,250001,500000,0,Y,,
+"",PNC Bank NOW Account,Unknown,Cash/Money Market/Savings/Checking,115002,300000,0,Y,,
+"",JPMorgan Chase Bank Custody Account,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",115002,300000,0,Y,,
+D000063910,Venrock Assoc,Securities/Invest,,100001,250000,0,Y,,
+"",TIAA-CREF,Securities/Invest,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",AXA Equitable Life Insurance Policy,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",US Savings Bonds,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000031679,Athenahealth Inc,Business Services,,0,1000,0,Y,,

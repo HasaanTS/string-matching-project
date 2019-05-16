@@ -1,0 +1,37 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Old Town Condo/Rental Property,Real Estate,,250001,500000,0,A,,
+"",Condo Rental Property/National Harbor,Real Estate,,250001,500000,0,A,,
+"",Capital One Savings,,Cash/Money Market/Savings/Checking,250001,500000,0,A,,
+"",Wells Fargo Savings,,Cash/Money Market/Savings/Checking,100001,250000,0,A,,
+"",TDAmeritrade IRA Cash Account,,Cash/Money Market/Savings/Checking,100001,250000,0,A,,
+"",Residence/Rental Property Dodge City,Real Estate,,100001,250000,0,A,,
+"",Capitol One Money Market Accoumt,,Cash/Money Market/Savings/Checking,100001,250000,0,A,,
+"",American Express Savings,,Cash/Money Market/Savings/Checking,100001,250000,0,A,,
+"",1/2 interest in two lots,Real Estate,,100001,250000,0,A,,
+"",MTT Savings,,Cash/Money Market/Savings/Checking,100002,200000,0,A,,
+"",PNC Savings,,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+D000036161,Netflix Inc,Internet,,50001,100000,0,A,Y,
+D000031226,Zynga Inc,Internet,,15001,50000,0,A,,
+"",Wells Fargo Checking,,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",Torray Institutional Fund,,Mutual Fund,15001,50000,0,A,,
+"",Eaton Vance Tax-Managed Global Diversified Equity,,Mutual Fund,15001,50000,0,A,,
+D000000015,Chevron Corp,Oil & Gas,,15001,50000,0,A,Y,Y
+D000021754,Apple Inc,Electronics Mfg/Eqp,,15001,50000,0,A,Y,
+D000023883,Amazon.com,Internet,,15001,50000,0,A,Y,
+"",1/3 interest in unimproved land,Real Estate,,15001,50000,0,A,,
+D000067113,Twitter,Internet,,1001,15000,0,A,Y,
+"",The Michaels Companies,,,1001,15000,0,A,,
+D000030361,The Container Store,Misc Mfg/Distrib,,1001,15000,0,A,,
+"",Senate Federal Credit Union Checking,,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Container Store Group,,,1001,15000,0,A,,
+D000000100,Boeing Co,Defense Aerospace,,1001,15000,0,A,Y,Y
+D000026944,Kansas City Southern,Railroads,,0,2000,0,A,Y,Y
+D000029514,Trinity Industries,Railroads,,0,1000,0,A,Y,
+D000037780,Starbucks Corp,Food & Beverage,,0,1000,0,A,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,0,1000,0,A,Y,
+D000033563,Facebook Inc,Internet,,0,1000,0,A,Y,Y
+D000000129,Exxon Mobil,Oil & Gas,,0,1000,0,A,Y,Y
+D000000703,Costco Wholesale,Retail Sales,,0,1000,0,A,,
+"",China Eastern Airlines,,,0,1000,0,A,,
+D000000090,Bank of America,Commercial Banks,,0,1000,0,A,Y,Y
+"",Baidu Inc,Internet,,0,1000,0,A,,

@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Residential Rental Property,Real Estate,,50001,100000,0,Y,,
+"","Land/78 acres/Jeff Davis, MS",Real Estate,,1001,15000,0,Y,,
+D000022274,TD Ameritrade,Securities/Invest,Unknown,1,1000,0,Y,Y,
+"",Chase IRA,Unknown,"Brokerage, IRA, 401k",1,1000,0,Y,,

@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Prudential 401K Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"","606 Walnut Street/Howard, PA",Real Estate,,50001,100000,0,Y,,
+"","107 Serge Street/Milesburg, PA",Real Estate,,15001,50000,0,Y,,
+"",Sovereign Bank Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

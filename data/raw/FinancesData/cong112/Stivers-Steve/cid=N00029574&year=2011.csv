@@ -1,0 +1,39 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,101002,265000,0,Y,Y,Y
+"",Farmland,Crop Production,,100001,250000,0,Y,,
+"",S&P 500 Index,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Ohio PERS Pension Account,Unknown,,50001,100000,0,Y,,
+"",JP Morgan Chase Retirement (Pension) Acc,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Wells Fargo Mutual Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",OPERS Large Cap Index Fund,Unknown,,15001,50000,0,Y,,
+"",Nuveen Intermed Tax Free,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",JPMorgan Chase Common Stock Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Franklin Mutual Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Real Estate,Real Estate,,2002,30000,0,Y,,
+"",Huntington Bank - Savings,Unknown,,2002,30000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+"",PNC - Savings,Unknown,,1001,15000,0,Y,,
+"",OPERS Stock Index Fund,Unknown,,1001,15000,0,Y,,
+"",OPERS Small Cap Index Fund,Unknown,,1001,15000,0,Y,,
+"",OPERS Non-US Stock Index Fund,Unknown,,1001,15000,0,Y,,
+"",OPERS Bond Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Ohio PERS Defined Benefit,Unknown,,1001,15000,0,Y,,
+"",Northwestern Mutual whole life policy,Insurance,Insurance policies & Annuities,1001,15000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000034869,JM Smucker Co,Food Process/Sales,,1001,15000,0,Y,Y,
+"",Huntington Bank Checking,Unknown,,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000531,Firstenergy Corp,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",First Amer Treasury,Unknown,,1001,15000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000033211,Dodge & Cox,Securities/Invest,Mutual Fund,1001,15000,0,Y,,
+"",Credit Suisse Comm Ret,Unknown,,1001,15000,0,Y,,
+"",Chase Bank - Checking,Unknown,,1001,15000,0,Y,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",Blackrock Total Return Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Arlington Bank/Savings,Unknown,,1001,15000,0,Y,,
+"",Americ Equity Inv Whole Life Cash Value,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Palomar Medical Technologies,Unknown,,1,1000,0,Y,,
+"",JP Morgan US Treasury,Unknown,,1,1000,0,Y,,
+"",Citigroup Morgan Stanley Smith Barney,Unknown,,1,1000,0,Y,,
+"",Blackrock Liquidity Fund,Unknown,Mutual Fund,1,1000,0,Y,,

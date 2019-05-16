@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Liquid Assets Fund Money Market,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000000367,Wal-Mart Stores,Retail Sales,,1001,15000,0,Y,Y,Y
+"",Morgan Stanley DW Brokerage Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Intrust Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Intrust Bank Maximizer Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000100,Boeing Co,Defense Aerospace,,1001,15000,0,Y,Y,Y

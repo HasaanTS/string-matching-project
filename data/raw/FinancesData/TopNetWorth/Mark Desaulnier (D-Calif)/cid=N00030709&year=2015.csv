@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Contra Costa County Employee Retirement Assn,Insurance,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",USB,Electronics Mfg/Eqp,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Contra Costa Federal Credit Union,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Contra Costa County Deferred Compensation Plan,Unknown,,1001,15000,0,Y,,

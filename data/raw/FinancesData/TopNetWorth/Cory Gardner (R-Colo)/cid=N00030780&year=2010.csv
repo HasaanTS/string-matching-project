@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Edward Jones IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Colo Public Employee Retirement Assoc,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Yuma County Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Putnam Global Health Care Fund,Misc Health,Mutual Fund,1001,15000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Lord Abbett Affiliated Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",John Hanesch Regional Bank Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Goldman Sachs Growth Opportunities Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Goldman Sachs Cap Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Franklin Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Colo Community Bank/CD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Edward Jones Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Bank of Colorado/CD,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

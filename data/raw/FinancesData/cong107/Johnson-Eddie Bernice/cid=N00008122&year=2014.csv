@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Eddie Bernice Johnson Qualified Revocabl,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,O,,
+"",Texas Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,O,,
+"",Legislative Pension State of Texas,Unknown,"Brokerage, IRA, 401k",15001,50000,0,O,,
+"",US Savings Bond,Unknown,Government Bond,1001,15000,0,O,,

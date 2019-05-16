@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",CREF Stock Accounts,,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",500001,1000000,0,T,,
+"",TIAA Traditional Fund,,Mutual Fund,250001,500000,0,T,,
+"",TIAA Real Estate Fund,Real Estate,,16002,65000,0,T,,
+D000029443,TIAA,,Unknown,15001,50000,0,T,Y,
+"",Cref,,Unknown,15001,50000,0,T,,
+"",TFCU Savings Account,,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+D000019414,Metropolitan Life Insurance,Insurance,Insurance policies & Annuities,1001,15000,0,T,,
+"",Cref Bonds Markets,,Mutual Fund,1,1000,0,T,,

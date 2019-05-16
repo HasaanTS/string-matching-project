@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Cottage/County Galway, Ireland",Real Estate,,100001,250000,0,Y,,
+D000060446,Brookdale Senior Living,Hospitals/Nurs Homes,,100001,250000,0,Y,,
+"",American Funds Money Market,Unknown,Cash/Money Market/Savings/Checking,51002,115000,0,Y,,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,30002,100000,0,Y,,
+D000000273,Chicago Board of Trade,Securities/Invest,,50001,100000,0,Y,Y,Y
+"","Timberlakes Community Lot/Wasatch, UT",Real Estate,,15001,50000,0,Y,,
+"",Smith Barney Growth Trust,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000022524,Blockbuster Inc,Misc Services,,15001,50000,0,Y,,
+"",GC Entrepreneurs Fund II LP,Unknown,,1001,15000,0,Y,,
+"",Smith Barney Value Trust,Unknown,Mutual Fund,0,1000,0,Y,,
+D000042939,Altiris Inc,Unknown,,0,1000,0,Y,,

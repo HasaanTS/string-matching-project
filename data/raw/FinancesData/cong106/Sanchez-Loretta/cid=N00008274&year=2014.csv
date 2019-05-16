@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Home/Palos Verdes Estates, CA",Real Estate,,1000001,5000000,0,Y,,
+"","Home/Santa Ana, CA",Real Estate,,500001,1000000,0,Y,,
+"",Schools First FCU-Savings/Checking,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000062615,Navy Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional Federal Credit Union Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

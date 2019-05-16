@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental Property 2/St Cloud, FL",Real Estate,,100001,250000,0,Y,,
+"","Rental Property 1/St Cloud, FL",Real Estate,,100001,250000,0,Y,,
+"",MDM Properties,Real Estate,,100001,250000,0,Y,,
+D000023126,AXA Equitable Life Insurance,Insurance,Insurance policies & Annuities,50001,100000,0,Y,,
+D000022709,AXA Advisors,Securities/Invest,,15001,50000,0,Y,,
+"",Reef at Marathon Condo Assn,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,
+D000028396,PNC Bank Corp,Commercial Banks,,1001,15000,0,Y,,
+"",Chloe & Co,Food Process/Sales,,1001,15000,0,Y,,

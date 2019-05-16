@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",John N John Truckline,Unknown,,500001,1000000,0,T,,
+"",BG Drake Properties,Real Estate,,250001,500000,0,T,,
+"",Peacefield Estate,Unknown,,50001,100000,0,T,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,T,,
+"","1224 Hwy 90/Crowley, LA",Real Estate,,50001,100000,0,T,,
+"",Kemper BNE Baton Rouge,Unknown,Unknown,15001,50000,0,T,,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,T,Y,Y
+"","819 Northern/Crowley, LA",Real Estate,,15001,50000,0,T,,
+"","1220 Hwy 90/Crowley, LA",Real Estate,,15001,50000,0,T,,
+"",Sabine Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+D000000249,New York Life Insurance,Insurance,,1001,15000,0,T,Y,Y
+"",Evangeline Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",E*Trade Account,Unknown,"Brokerage, IRA, 401k",1001,15000,0,T,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"","1108 11th Street/Crowley, LA",Real Estate,,1001,15000,0,T,,

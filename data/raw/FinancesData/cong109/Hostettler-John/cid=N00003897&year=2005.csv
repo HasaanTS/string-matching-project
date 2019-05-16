@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Kay Corp,Unknown,,1001,15000,0,Y,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,Y,Y,
+D000000239,Edison International,Electric Utilities,,1001,15000,0,Y,Y,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000100,Boeing Co,Defense Aerospace,,1001,15000,0,Y,Y,Y
+"",RAI,Unknown,,1,1000,0,Y,,

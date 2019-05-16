@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",R&R Properties,Real Estate,,100001,250000,0,A,,
+"",Family Owned Business,Unknown,,100001,250000,0,A,,
+"",Law Office of Thomas W Reed II,Lawyers/Law Firms,,50001,100000,0,A,,
+"","Baty St Elmira, NY Real Estate",Real Estate,,50001,100000,0,Y,,
+"",M&T Bank accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",Northwestern Mutual Life/Insur Policy,Unknown,Insurance policies & Annuities,1001,15000,0,A,,
+"","Long Branch Road Liverpool, NY Real Es",Unknown,,1001,15000,0,Y,,
+"",Guardian Life Insurance Whole Life,Unknown,Insurance policies & Annuities,1001,15000,0,A,,
+"",First Heritage FCU Accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Cadaret Grant,Unknown,,1001,15000,0,A,,

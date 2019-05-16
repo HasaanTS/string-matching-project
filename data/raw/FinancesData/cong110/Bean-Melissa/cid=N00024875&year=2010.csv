@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Walgreen Co,Retail Sales,,2002,30000,0,T,,
+D000000079,Verizon Communications,Telephone Utilities,,2002,30000,0,T,Y,Y
+D000029389,Teva Pharmaceutical Industries,Pharm/Health Prod,,2002,30000,0,T,Y,
+"",Nokia Corp,Telecom Svcs,,2002,30000,0,T,,
+D000027765,Mylan Inc,Pharm/Health Prod,,2002,30000,0,T,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,2002,30000,0,T,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,2002,30000,0,T,Y,Y
+"",Carefusion Corp,Pharm/Health Prod,,2002,30000,0,T,,
+D000021892,Cardinal Health,Pharm/Health Prod,,2002,30000,0,T,Y,Y
+D000021754,Apple Inc,Electronics Mfg/Eqp,,2002,30000,0,T,Y,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,T,Y,Y
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,T,Y,Y
+"",Income Fund of America,Unknown,Mutual Fund,1001,15000,0,T,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,T,Y,Y
+"",Aliance Bernstein Funds Large Cap,Unknown,Mutual Fund,1001,15000,0,T,,

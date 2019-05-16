@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Thrift Savings Plan,,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Janus Global Technology Fund,,Mutual Fund,15001,50000,0,Y,,
+"",Checking Account,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

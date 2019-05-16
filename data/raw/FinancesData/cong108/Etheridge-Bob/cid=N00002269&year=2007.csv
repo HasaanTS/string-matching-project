@@ -1,0 +1,35 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Farm/Broadway, NC",Crop Production,,250001,500000,0,Y,,
+"",NC State deferred compensation (401K),Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",New Century Bank,Commercial Banks,,30002,100000,0,Y,,
+"",1108 Mamers-Summerville Rd/Lillington NC,Real Estate,,15001,50000,0,Y,,
+"",Scotiabank de Puerto Rico/CD,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",iShares MSCI EAFE Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",iShares Lehman,Unknown,Mutual Fund,2002,30000,0,Y,,
+D000000071,Citigroup Inc,Commercial Banks,,2002,30000,0,Y,Y,Y
+D000021868,BB&T Corp,Commercial Banks,,2002,30000,0,Y,,
+"",Tendris,Unknown,,1001,15000,0,Y,,
+"",Scotiabank de Puerto Rico,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000022665,RBC Centura Banks,Commercial Banks,,1001,15000,0,Y,,
+"",RBC Centura,Unknown,,1001,15000,0,Y,,
+D000000398,Progress Energy,Electric Utilities,,1001,15000,0,Y,Y,Y
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Oppenheimer Equity Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000022153,NYSE Euronext,Securities/Invest,Mutual Fund,1001,15000,0,Y,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",iShares S&P Europe,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares MSCI EAPE Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares D&P Europe Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000334,Honeywell International,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000477,Duke Energy,Electric Utilities,,1001,15000,0,Y,Y,Y
+D000000188,Dow Chemical,Chemicals,,1001,15000,0,Y,Y,
+"",Dean Witter Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Cornerstone Bank,Commercial Banks,,1001,15000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,
+"",Citizens Commonwealth,Unknown,,1001,15000,0,Y,,
+"",Cameron International,Oil & Gas,,1001,15000,0,Y,,
+D000021765,Bank of New York Mellon,Securities/Invest,,1001,15000,0,Y,Y,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,
+"",Coho Energy,Misc Energy,,1,1000,0,Y,,

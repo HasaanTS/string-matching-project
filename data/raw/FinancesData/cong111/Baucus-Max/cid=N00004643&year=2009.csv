@@ -1,0 +1,21 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wells Fargo Bank/Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",US Senate Federal Credit Union/Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",UBS Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000065292,Toronto-Dominion Bank,Commercial Banks,,1001,15000,0,Y,Y,
+D000000206,Occidental Petroleum,Oil & Gas,,1001,15000,0,Y,Y,
+D000000129,Imperial Oil,Oil & Gas,,1001,15000,0,Y,Y,
+D000064776,Goldcorp Inc,Mining,,1001,15000,0,Y,,
+"",Freeport-McMoRan Copper & Gold,Mining,,1001,15000,0,Y,,
+D000000277,Fluor Corp,General Contractors,,1001,15000,0,Y,Y,
+"",Dreyfus Liquid Assets Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000408,Deere & Co,Agricultural Svcs,,1001,15000,0,Y,Y,
+D000047071,American Tower Corp,Telecom Svcs,,1001,15000,0,Y,Y,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000064447,Syngenta AG,Agricultural Svcs,,0,2000,0,Y,Y,Y
+"",Quimica Y Minera,Mining,,0,2000,0,Y,,
+"",US Treasury Zero Coupon Bond,Unknown,Government Bond,0,1000,0,Y,,
+"",US Treasury Bond,Unknown,Government Bond,0,1000,0,Y,,
+"",Research In Motion,Retail Sales,,0,1000,0,Y,,
+D000022102,McDermott International,Oil & Gas,,0,1000,0,Y,Y,
+D000026221,Gilead Sciences,Pharm/Health Prod,,0,1000,0,Y,Y,

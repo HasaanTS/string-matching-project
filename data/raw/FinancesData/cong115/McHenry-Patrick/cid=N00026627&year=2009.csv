@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental Duplex/Requa Rd/Cherryville, NC",Real Estate,,100001,250000,0,A,,
+"","215 Robinson Rd/Gastonia, NC",Real Estate,,100001,250000,0,A,,
+"",Personal loan/McHenry for Congress,Unknown,Note/Note Receivable,50001,100000,0,A,,
+D000028916,SCANA Corp,Electric Utilities,,15001,50000,0,A,Y,
+"",Locust-Highway 200 LLC,Real Estate,,15001,50000,0,A,,
+"",Alliance Bank & Trust/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"","5524 Union Rd/Gastonia, NC",Real Estate,,15001,50000,0,A,,
+"","109 W 8th Ave/Gastonia, NC",Real Estate,,15001,50000,0,A,,
+"",ING Direct/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Alliance Bank & Trust,Commercial Banks,,1001,15000,0,A,,

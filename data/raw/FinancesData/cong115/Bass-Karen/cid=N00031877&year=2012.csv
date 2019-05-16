@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",TIAA Traditional Account,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,30002,100000,0,Y,,
+"",CREF,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Fidelity Cash Reserves Fund,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",One West Bank,Commercial Banks,,1,1000,0,Y,,

@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Farmland,Crop Production,,100001,250000,0,Y,,
+"","Condominium/116 Treehouse/Branson, MO",Real Estate,,100001,250000,0,Y,,
+"",Churchill Coffee,Food & Beverage,,50001,100000,0,Y,,
+D000000104,Lockheed Martin,Defense Aerospace,,15001,50000,0,Y,Y,Y
+"",Hartford Capital Appreciation Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000067,Altria Group,Tobacco,,1001,15000,0,Y,Y,Y

@@ -1,0 +1,61 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000027337,Magellan Midstream Partners,Oil & Gas,,100001,250000,0,Y,Y,
+"",Industrial Income Trust,Unknown,Mutual Fund,100001,250000,0,Y,,
+D000025689,Energy Transfer Partners,Oil & Gas,,100001,250000,0,Y,,
+D000032588,Citizens Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Bremer Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000064520,Annaly Capital Management,Securities/Invest,,100001,250000,0,Y,Y,
+"",Burlington Northern Sante Fe,Railroads,,50001,100000,0,Y,,
+"",New Jersey Educational Fac Auth Bond,Unknown,Unknown,15001,50000,0,Y,,
+D000034744,Iowa State University,Education,Government Bond,15001,50000,0,Y,Y,
+"",Illinois Housing Development,Unknown,Government Bond,15001,50000,0,Y,,
+"",Fulton County GA Dev Bond,Unknown,,15001,50000,0,Y,,
+"",Florida  State Brd,Unknown,,15001,50000,0,Y,,
+D000000091,BP,Oil & Gas,,15001,50000,0,Y,Y,
+D000029782,Weatherford International,Oil & Gas,,1001,15000,0,Y,Y,
+"",USAA Annuity,Unknown,,1001,15000,0,Y,,
+D000000348,UnitedHealth Group,Health Services,,1001,15000,0,Y,Y,
+D000000209,United Technologies,Defense Aerospace,,1001,15000,0,Y,Y,
+D000000081,United Parcel Service,Air Transport,,1001,15000,0,Y,Y,Y
+"",TJX Cos Inc,Retail Sales,,1001,15000,0,Y,,
+"",Texas Private Surface Trans,Unknown,Unknown,1001,15000,0,Y,,
+D000029309,Symantec Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",SW Securities Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Susquehanna Bank,Commercial Banks,,1001,15000,0,Y,,
+"",Schwab Govt Money Market Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Sapient Corp,Business Services,,1001,15000,0,Y,,
+D000022195,PPL Corp,Electric Utilities,,1001,15000,0,Y,Y,Y
+D000028398,PNC Financial Services,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000000200,PepsiCo Inc,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000022170,Omnicom Group,Business Services,,1001,15000,0,Y,Y,
+"",Newfield Exploration,Misc Energy,,1001,15000,0,Y,,
+D000042332,Nestle Sa,Food & Beverage,,1001,15000,0,Y,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000022105,McKesson Corp,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Lincoln Life Insurance,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Liberty Trust,Unknown,,1001,15000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000066710,Frontier Communications,Telephone Utilities,,1001,15000,0,Y,Y,
+D000021983,Fifth Third Bancorp,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000021977,Express Scripts,Health Services,,1001,15000,0,Y,Y,Y
+D000000368,Exelon Corp,Electric Utilities,,1001,15000,0,Y,Y,Y
+D000019828,Emerson Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",ConAgra Foods,Food Process/Sales,,1001,15000,0,Y,,
+D000000015,Chevron Corp,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000000478,Brinker International,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000000100,Boeing Co,Defense Aerospace,,1001,15000,0,Y,Y,
+"",BHP Billiton Ltd,Mining,,1001,15000,0,Y,,
+D000024300,"Becton, Dickinson & Co",Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000031719,Automatic Data Processing Inc,Business Services,,1001,15000,0,Y,Y,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000060061,American Century Investments,Securities/Invest,Mutual Fund,1001,15000,0,Y,,
+D000019838,Agilent Technologies,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000021808,Affiliated Managers Group,Securities/Invest,,1001,15000,0,Y,Y,
+D000031323,Adobe Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000066804,Abbvie Inc,Pharm/Health Prod,,1001,15000,0,Y,,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000129,Exxon Mobil,Oil & Gas,,1,1000,0,Y,Y,Y
+D000000076,AT&T Inc,Telephone Utilities,,1,1000,0,Y,Y,Y

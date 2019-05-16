@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Preferred Income Strategies Fund,Unknown,Mutual Fund,250001,500000,0,A,,
+"",PIMCO Corporate Opportunity,Unknown,Mutual Fund,250001,500000,0,A,,
+"",Nuveen Quality Preferred Income Fund,Unknown,Mutual Fund,250001,500000,0,A,,
+"",Nuveen Preferred & Convertible Incm Fund,Unknown,Mutual Fund,250001,500000,0,A,,
+"",John Hancock Preferred Income Fund,Unknown,Mutual Fund,250001,500000,0,A,,
+"",Hartford Deferred Compensation,Unknown,"Brokerage, IRA, 401k",100001,250000,0,A,,
+"",Wells Fargo Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",First Republic Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",Templeton Dragon Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",San Mateo County Retirement Fund,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",Pace International Equity Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,A,,

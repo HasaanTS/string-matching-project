@@ -1,0 +1,23 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Treasury Zero Coupon Bonds,Unknown,Government Bond,50001,100000,0,Y,,
+"",UBS Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000064447,Syngenta AG,Agricultural Svcs,,1001,15000,0,Y,Y,Y
+D000022102,McDermott International,Oil & Gas,,1001,15000,0,Y,Y,Y
+"",Freeport-McMoRan Copper & Gold,Mining,,1001,15000,0,Y,,
+"",Dreyfus Liquid Assets Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000408,Deere & Co,Agricultural Svcs,,1001,15000,0,Y,Y,Y
+D000055647,Precision Castparts,Defense Aerospace,,0,2000,0,Y,Y,
+D000028414,PotashCorp,Agricultural Svcs,,0,2000,0,Y,,
+D000000174,Lehman Brothers,Securities/Invest,,0,2000,0,Y,Y,Y
+D000000103,JPMorgan Chase & Co,Commercial Banks,,0,2000,0,Y,Y,Y
+D000032736,Colgate-Palmolive Co,Pharm/Health Prod,,0,2000,0,Y,Y,
+D000022303,Valero Energy,Oil & Gas,,0,1000,0,Y,Y,Y
+"",US Treasury Tiger,Unknown,Government Bond,0,1000,0,Y,,
+D000045915,Transocean Inc,Oil & Gas,,0,1000,0,Y,Y,
+"",Telus Corp,Unknown,,0,1000,0,Y,,
+"",Rightnow Technologies,Electronics Mfg/Eqp,,0,1000,0,Y,,
+"",Research In Motion,Retail Sales,,0,1000,0,Y,,
+D000000055,Monsanto Co,Agricultural Svcs,,0,1000,0,Y,Y,Y
+D000051191,Garmin Co,Unknown,,0,1000,0,Y,,
+D000042617,Church & Dwight,Chemicals,,0,1000,0,Y,Y,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,0,1000,0,Y,Y,

@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Xenonics,Unknown,,200002,500000,0,A,,
+"",Tribco LLC,Unknown,,250001,500000,0,Y,,
+"",Nationwide Annuity: IRA Best of America,Unknown,"Brokerage, IRA, 401k",30002,100000,0,Y,,
+"",Merger Fund,Unknown,Mutual Fund,30002,100000,0,A,,
+"",Pershing/Alliance Cash/Money Market,Unknown,Cash/Money Market/Savings/Checking,16003,66000,0,A,,
+"",PIMCO RealReturn Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",PIMCO Real Return Bond Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Family Management Corp IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000044418,Sonus Networks,Electronics Mfg/Eqp,,1001,15000,0,A,,
+"",Melrose Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000021987,Magellen Fund,Securities/Invest,,1001,15000,0,Y,Y,Y
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,A,,
+D000020325,Citibank,Commercial Banks,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

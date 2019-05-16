@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental/1602 SE Flavel St/Portland, OR",Real Estate,,100001,250000,0,Y,,
+"",Vanguard Healthcare Fund,Misc Health,,15001,50000,0,Y,,
+D000022164,NVR Inc,Home Builders,,15001,50000,0,Y,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",First Solar Inc,Misc Energy,,1001,15000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Ameritrade Money Market IRA,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Merrill Lynch Cash Account,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Agere Systems,Electronics Mfg/Eqp,,1,1000,0,Y,,

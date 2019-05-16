@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Residential Property,Real Estate,,250001,500000,0,Y,,
+"","4 Plex Rental Unit/San Antonio, TX",Real Estate,,250001,500000,0,Y,,
+"",LA Financial Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",The Girls,Unknown,,1001,15000,0,Y,,
+"",Ford Retirement Plan,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",CA Public Employee Retirement System,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,

@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Farmland/320 acres,Crop Production,,500002,1000000,0,O,,
+"",Mineral Rights/103 acres,Mining,,250001,500000,0,O,,
+"","480 acres - Farmland/Cheyenne/Roger Mills, OK",Real Estate,,250001,500000,0,O,,
+"","63 acres Mineral Rights/Roger Mills, OK",Mining,,100001,250000,0,O,,
+"",Security State Bank account,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,O,,
+"",Oklahoma Public Employee Retirement,Unknown,Insurance policies & Annuities,15001,50000,0,O,,
+"",Farm Credit of Western Oklahoma accont,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,O,,
+"",Congressional Federal Credit Union Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,O,,
+"",Transamerica Universal Life Insurance Policy,Unknown,Insurance policies & Annuities,2002,30000,0,O,,
+"",Western Farm Bureau,Unknown,,1001,15000,0,O,,
+"",Texas Teachers Retirement System,Unknown,"Brokerage, IRA, 401k",1001,15000,0,O,,
+"",Oklahoma Teacher Retirement,Unknown,"Brokerage, IRA, 401k",1001,15000,0,O,,

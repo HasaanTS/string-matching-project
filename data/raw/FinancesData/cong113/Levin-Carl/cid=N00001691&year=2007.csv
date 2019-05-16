@@ -1,0 +1,20 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Residence & Rental/Washington, DC",Real Estate,,774120,774120,0,Y,,
+"","Commercial Real Estate/Birmingham, MI",Real Estate,,250001,500000,0,Y,,
+"","79 acres/Livingston County, MI",Real Estate,,284000,284000,0,Y,,
+"","Land/10 acres/Livingston County, MI",Real Estate,,120000,120000,0,Y,,
+"","18 acres/Livingston County, MI",Real Estate,,102000,102000,0,Y,,
+"",Fidelity Cash Reserves,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,16002,65000,0,Y,Y,Y
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",US Savings Bond,Unknown,Government Bond,15001,50000,0,Y,,
+"",American Funds Investment Co of America,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American Funds Bond Fund of America,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American Funds AMCAP Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",National Capital Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",LRS Co,Unknown,,1001,15000,0,Y,,
+"",Fidelity Municipal Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000023733,Abiomed Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",Loan to Clark Barnes,Unknown,Note/Note Receivable,12754,12754,0,Y,,
+D000021573,Wachovia Corp,Commercial Banks,Cash/Money Market/Savings/Checking,0,1000,0,Y,Y,Y

@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Graham Companies,Real Estate,,5100002,25250000,0,N,,
+"",SunTrust Accounts,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,N,,
+"",Rental Property,Real Estate,,50001,100000,0,N,,
+"",US Stock Market Index Fund,Unknown,Mutual Fund,15001,50000,0,N,,
+"",Select Foreign Stock Index Fund,Unknown,Mutual Fund,15001,50000,0,N,,
+"",US Bond Index Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",T Rowe Price Small Cap Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Select Large Value Active Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000037015,Regions Bank,Commercial Banks,,1001,15000,0,N,,
+"",Prudential Mid Cap Quan Eq Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Fla Prepaid College Prog 4 Yr Tuition,Unknown,"Brokerage, IRA, 401k",1001,15000,0,N,,
+"",Blackrock Global Allocation Fund,Securities/Invest,Mutual Fund,1001,15000,0,N,,

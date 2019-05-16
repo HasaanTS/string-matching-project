@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Vanguard Prime Money Market Fund,Unknown,Mutual Fund,500001,1000000,0,A,,
+"",Vanguard Life Strategy Growth Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",Rental Property,Real Estate,,100001,250000,0,A,,
+"",Mineral interest,Unknown,,50001,100000,0,A,,
+"",Cache Bank Savings & Checking Account,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",Vanguard Windsor II Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Vanguard Healthcare Fund,Misc Health,,15001,50000,0,A,,
+"",Vanguard Emerging Markets Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Vanguard Capital Opportunity Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+D000045915,Transocean Inc,Unknown,,1,1000,0,A,,
+D000019642,Northwestern Mutual Life Insurance,Insurance,Insurance policies & Annuities,1,1000,0,A,,

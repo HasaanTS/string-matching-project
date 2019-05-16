@@ -1,0 +1,19 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Vanguard 500 Index,Securities/Invest,Mutual Fund,250001,500000,0,Y,,
+D000000487,US Bancorp,Commercial Banks,,100002,200000,0,Y,Y,Y
+"",Elk Petroleum,Oil & Gas,,30002,100000,0,Y,,
+"",ZLDR Ventures,Real Estate,,15001,50000,0,Y,,
+D000042329,Stanley Works,Misc Mfg/Distrib,,3003,45000,0,Y,,
+"",Presidential Brokerage Permanent Port,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",New Resource Bank,Commercial Banks,,1001,15000,0,Y,,
+"",NEA Annuity,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+D000000067,Altria Group,Tobacco,,1001,15000,0,Y,Y,Y
+"",RBC Dain Rauscher Money Market,Unknown,Cash/Money Market/Savings/Checking,3,3000,0,Y,,
+"",US Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,2,2000,0,Y,,
+"",Piper Jaffray Co,Securities/Invest,,2,2000,0,Y,,
+D000000133,GlaxoSmithKline,Pharm/Health Prod,,2,2000,0,Y,Y,
+"",Tweedy Browne Global Value Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+D000030091,Sterling Capital,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Presidential Brokerage Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Perkins Mid Cap Value Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Longleaf Partners Small Cap Fund,Unknown,Mutual Fund,1,1000,0,Y,,

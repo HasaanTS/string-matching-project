@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",KPERS,Unknown,"Brokerage, IRA, 401k",15001,50000,0,N,,
+"",United Community Banks,Commercial Banks,Unknown,1001,15000,0,N,,
+"",Spartan US Equity Index,Unknown,Mutual Fund,1001,15000,0,N,,
+D000045416,Commerce Bank,Commercial Banks,Unknown,1001,15000,0,N,,
+D000024686,Cerner Corp,Electronics Mfg/Eqp,,1001,15000,0,N,Y,Y
+"",Capitol Federal Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,1001,15000,0,N,,

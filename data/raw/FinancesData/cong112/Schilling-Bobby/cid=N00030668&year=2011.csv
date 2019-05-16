@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Personal Residence/Goembel Court,Real Estate,,100001,250000,0,A,,
+"",Commercial Real Estate/Hignight Building,Real Estate,,100001,250000,0,A,,
+"",St Giuseppe Inc,Unknown,,50001,100000,0,A,,
+"","Land/Stockton, MO",Real Estate,,50001,100000,0,A,,
+"",Edward Jones money market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Edward Jones IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",Edward Jones accounts,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,

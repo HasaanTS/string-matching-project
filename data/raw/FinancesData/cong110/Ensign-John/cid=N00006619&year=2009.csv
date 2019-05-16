@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",E&P Partnership Building & Land,Real Estate,,1000001,5000000,0,Y,,
+"",RBC US Govt Money Market,Unknown,Cash/Money Market/Savings/Checking,1038700,1038700,0,Y,,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",J Ensign & G Pribyl DVM,Agricultural Svcs,,100001,250000,0,Y,,
+D000000090,Bank of America,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,Y,
+"",Note Receivable/Newberry Home,Unknown,Note/Note Receivable,15001,50000,0,Y,,
+D000019566,Wells Fargo Bank,Commercial Banks,Unknown,1001,15000,0,Y,,

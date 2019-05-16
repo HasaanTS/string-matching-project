@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000249,New York Life Insurance,Insurance,,30002,100000,0,Y,Y,
+"",Essence Marketing,Unknown,,50001,100000,0,Y,,
+"",Wells Fargo Bank Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",City of LA Deferred Compensation Plan Van Total Bo,Unknown,Government Bond,15001,50000,0,Y,,
+"",City of LA Deferred Compensation Plan Van Ins Ind,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Mainstay VP Mod Gr Allocation,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",MainStay VP Balanced Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Janus Aspen Balanced Portfolio,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Calvert VP SRI Balanced Portfolio,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Growth Fund of America,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Franklin Money Fund,Unknown,Mutual Fund,1,1000,0,Y,,

@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000023131,Branch Banking & Trust,Commercial Banks,,1001,15000,0,Y,,
+"",Andrews Federal Credit Union MD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000019743,Wells Fargo Bank account,Commercial Banks,Cash/Money Market/Savings/Checking,14241,14241,0,Y,Y,
+"","Lockheed Federal Credit Union, MD",Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000026171,Gaylord Entertainment,Lodging/Tourism,,179,179,0,Y,,Y

@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","10 North Main Street/Chatham, VA",Real Estate,,50001,100000,0,Y,,
+"",Virginia Retirement System Common Actual,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",First Citizens Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",College Bond Fund 529 CBF Aggressive,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",BB&T Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",American Funds Investment Co of America,Unknown,Mutual Fund,1001,15000,0,Y,,

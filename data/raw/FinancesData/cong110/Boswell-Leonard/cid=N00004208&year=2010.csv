@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Agriculture Land/New Buda, IA",Real Estate,,500001,1000000,0,Y,,
+"",Farm Equipment,Agricultural Svcs,,100001,250000,0,Y,,
+"",Breeding Stock/Cattle,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,

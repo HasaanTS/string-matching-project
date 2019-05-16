@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Equity Trust Co,Misc Finance,,30002,100000,0,A,,
+D000021868,BB&T Corp,Commercial Banks,,16003,66000,0,A,Y,Y
+D000019743,Wells Fargo,Commercial Banks,,1,1000,0,A,Y,Y

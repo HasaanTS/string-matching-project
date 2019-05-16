@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",New York State Retirement Account,Unknown,"Brokerage, IRA, 401k",30002,100000,0,Y,,
+D000000108,Merrill Lynch,Securities/Invest,,50001,100000,0,Y,Y,Y
+"",Oppenheimer Funds Limited Term NY Muni,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American Funds Keogh Account,Unknown,Mutual Fund,15001,50000,0,Y,,

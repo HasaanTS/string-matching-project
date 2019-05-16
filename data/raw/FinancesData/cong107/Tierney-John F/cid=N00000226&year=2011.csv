@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","21 Settlers Way/Salem, MA",Real Estate,,500001,1000000,0,Y,,
+"","1025 First St SE/Washington, DC",Real Estate,,250001,500000,0,Y,,
+"",Talk Realty Trust,Real Estate,,100001,250000,0,Y,,
+"",Western Asset Govt Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Schwab One Account,Unknown,,50001,100000,0,Y,,
+"",Wright Patman Congressional FCU,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,15001,50000,0,Y,Y,Y
+D000027998,Nike Inc,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+"",Eastern Savings Bank,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Citibank Bank Deposit Program,Unknown,,15001,50000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,

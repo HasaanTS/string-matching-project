@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Congressional Federal Credit Union Account,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000021868,BB&T Corp,Commercial Banks,,50001,100000,0,Y,Y,
+"",Hilliard Lyons-MAF IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Fidelity Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Fund Inc,,Mutual Fund,15001,50000,0,Y,,
+"",American Funds Income Fund of America,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",State of Tennessee Pension Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",Perm Basin Royal Tr,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Lowe's Co,Unknown,,1001,15000,0,Y,,

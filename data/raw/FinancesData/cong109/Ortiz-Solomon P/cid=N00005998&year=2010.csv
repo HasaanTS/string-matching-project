@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",AXA Equitable Deferred Annuity NQ IRA,Unknown,Insurance policies & Annuities,265002,550000,0,T,,
+"",Note receivable for sale of AmTex Securi,Unknown,Note/Note Receivable,250001,500000,0,T,,
+"",Congressional FCU Money Market,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,T,,
+D000023126,AXA Equitable Life Insurance,Insurance,,100001,250000,0,T,,
+"",Congressional FCU/Savings,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"","4601 Carmen Unit 2104/Rancho Viejo, TX",Real Estate,,50001,100000,0,T,,
+"","1011 Ennis Joslin/Corpus Christi, TX",Real Estate,,15001,50000,0,T,,
+"",Bank of America/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,

@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Permanent Portfolio,,Mutual Fund,100001,250000,0,O,,
+"",Oakmark Equity & Income Fund I,,Mutual Fund,100001,250000,0,O,,
+"",FPR Crescent Fund,,Mutual Fund,100001,250000,0,O,,
+"",First Eagle Global Class I,,Mutual Fund,100001,250000,0,O,,
+"",Fidelity Tax Free Bonds,,Mutual Fund,100001,250000,0,O,,
+"",Berwyn Income Fund,,Mutual Fund,100001,250000,0,O,,
+"",Fidelity CA Muni Money Market,,Mutual Fund,1001,15000,0,O,,
+"",Cash/Fidelity Investment Acct,,Cash/Money Market/Savings/Checking,1001,15000,0,O,,

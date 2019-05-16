@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","717 East Vernon St/Long Beach, CA",Real Estate,,250001,500000,0,T,,
+"","1300-1302 W 94th St/Long Angeles, CA",Real Estate,,250001,500000,0,T,,
+"",California Public Empl Retirement System,Unknown,,15001,50000,0,T,,
+D000000607,Xerox Corp,Misc Mfg/Distrib,,1002,16000,0,T,Y,Y
+"",Vanguard Target Retirement 2020 Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Small Cap,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Nationwide Retirement Solutions,Unknown,"Brokerage, IRA, 401k",1001,15000,0,T,,
+"",Large Cap,Unknown,Mutual Fund,1001,15000,0,T,,
+"",International,Unknown,Unknown,1001,15000,0,T,,
+"",Money Market Income Fund,Unknown,Mutual Fund,1,1000,0,T,,

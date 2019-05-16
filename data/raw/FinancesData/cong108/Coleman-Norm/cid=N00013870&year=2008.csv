@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",First American Funds,Unknown,Mutual Fund,250001,500000,0,T,,
+"",Holster Inc,Unknown,,100001,250000,0,T,,
+"",Federal Thrift Savings Plan,Unknown,Mutual Fund,50001,100000,0,T,,
+"",US Bank Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,

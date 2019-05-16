@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",House,Real Estate,,500001,1000000,0,Y,,
+"",Family Farm,Crop Production,,500001,1000000,0,Y,,
+"",Airport Farms Aviation LLC,Air Transport,,100001,250000,0,Y,,
+"",Graves Brothers Farm,Unknown,,50001,100000,0,Y,,
+"",Checking account & savings account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Farm Equipment & Machinery,Agricultural Svcs,,1001,15000,0,Y,,
+"",Archer Aviation,Unknown,,1001,15000,0,Y,,
+"",Rockin Hord LLC,Unknown,,1,1000,0,Y,,

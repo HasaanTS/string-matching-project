@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Residential Rental Property/Washington, DC",Real Estate,,500001,1000000,0,N,,
+"",Wells Fargo Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",US Senate FCU/checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Vanguard Money Market,Unknown,Mutual Fund,1,1000,0,N,,
+"",US Senate FCU/savings,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,N,,
+D000000090,Bank of America,Commercial Banks,,1,1000,0,N,Y,Y

@@ -1,0 +1,46 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",First Cit Bank SL,Unknown,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+"",Cape Fear LLP,Real Estate,,500001,1000000,0,Y,,
+"",Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"",Residential Real Estate,Real Estate,,250001,500000,0,Y,,
+"",Money Market BB&T,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",Loan to George Holding for Congress,Unknown,Note/Note Receivable,250001,500000,0,Y,,
+D000021868,BB&T Corp,Commercial Banks,,250001,500000,0,Y,Y,Y
+"",UNC Bond,Unknown,Government Bond,100001,250000,0,Y,,
+"",Haywood Bond,Unknown,,100001,250000,0,Y,,
+"",Goldman Sachs Growth,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Durham Co Bond,Unknown,Government Bond,100001,250000,0,Y,,
+D000000015,Chevron Corp,Oil & Gas,,100001,250000,0,Y,Y,
+"",Chapel Hill Bond,Unknown,Government Bond,100001,250000,0,Y,,
+"",Artisan Funds Mid Cap,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Travelers Cash,Unknown,,50001,100000,0,Y,,
+D000037414,Schlumberger Ltd,Oil & Gas,,50001,100000,0,Y,,
+D000042525,Royal Dutch Shell,Oil & Gas,,50001,100000,0,Y,Y,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,50001,100000,0,Y,Y,Y
+D000055403,Philip Morris International,Tobacco,,50001,100000,0,Y,Y,Y
+"",Johnson Bond,Unknown,,50001,100000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,50001,100000,0,Y,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,Y
+"",Harbor Fund International,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,50001,100000,0,Y,Y,Y
+"",Forsyth Bond,Unknown,Government Bond,50001,100000,0,Y,,
+D000000461,Comcast Corp,Telecom Svcs,,50001,100000,0,Y,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,50001,100000,0,Y,Y,Y
+"",Chatham Bond,Unknown,,50001,100000,0,Y,,
+"",Buncambe Bond,Unknown,,50001,100000,0,Y,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,50001,100000,0,Y,Y,
+D000000619,Target Corp,Retail Sales,,15001,50000,0,Y,Y,Y
+"",Sterling Mut'l Tax Free,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,
+"",Mt Olive Pickle Co,Food Process/Sales,,15001,50000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+"",Harding Loevner Funds,Securities/Invest,Mutual Fund,15001,50000,0,Y,,
+"",First Cit Bank NL,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Du Pont,Unknown,,15001,50000,0,Y,,
+"",Boyle Investment Group,Food & Beverage,,15001,50000,0,Y,,
+D000000076,AT&T Inc,Telephone Utilities,,15001,50000,0,Y,Y,Y
+D000000217,American Express,Finance/Credit,,15001,50000,0,Y,Y,
+D000031323,Adobe Systems,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,15001,50000,0,Y,Y,
+"",Huntington Ingalls,Unknown,,1,1000,0,Y,,

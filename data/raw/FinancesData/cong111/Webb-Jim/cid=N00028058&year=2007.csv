@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Citigroup SmithBarney Cash Stocks, Funds",Unknown,"Brokerage, IRA, 401k",1500002,6000000,0,Y,,
+"",Citigroup SmithBarney IRA Pension,Unknown,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+"",Citigroup SmithBarney Supplementary Reti,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Citigroup SmithBarney Mutual Funds,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000024738,Chevy Chase Bank,Savings & Loans,Cash/Money Market/Savings/Checking,1001,15000,0,Y,Y,

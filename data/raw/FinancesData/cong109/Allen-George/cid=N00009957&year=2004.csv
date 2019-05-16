@@ -1,0 +1,69 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Commercial Rental Ppty/Charlottesville,Real Estate,,250001,500000,0,Y,,
+"",Buck Mountain/98.52 acres Undeveloped,Real Estate,,250001,500000,0,Y,,
+"",Virginia Credit Union/Checking & Savings,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",American Washington Mutual Investors,Unknown,Mutual Fund,34006,161000,0,Y,,
+"",VA College Building Authority Bond,Unknown,Government Bond,50001,100000,0,Y,,
+"",University of Virginia Bond,Unknown,Government Bond,50001,100000,0,Y,,
+"",Navy Federal Savings Account,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Merrill Lynch Ready Assets/Cash,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"","Loudoun County, Virginia Bond",Unknown,Government Bond,50001,100000,0,Y,,
+"","Fairfax County, VA Bond",Unknown,Government Bond,50001,100000,0,Y,,
+D000000335,Dominion Resources,Electric Utilities,,50001,100000,0,Y,Y,Y
+"",American New Perspective Fund,Unknown,Mutual Fund,4004,60000,0,Y,,
+"",Virginia Prepaid Education Program/Sav,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",US Treasury Strips,Unknown,Government Bond,15001,50000,0,Y,,
+"",Undeveloped Lots/Massanutten,Real Estate,,15001,50000,0,Y,,
+"",T Rowe Price RST Balanced Retire Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",T Rowe Price Retirement Stable Value MM,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Municipal Bond,Unknown,Government Bond,15001,50000,0,Y,,
+D000000114,MBNA Corp,Finance/Credit,,15001,50000,0,Y,Y,Y
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",Coherent Inc,Misc Mfg/Distrib,,15001,50000,0,Y,,
+"",Merrill Lynch Money Market,Unknown,Cash/Money Market/Savings/Checking,3003,45000,0,Y,,
+D000022317,Wendy's International,Food & Beverage,,1001,15000,0,Y,,
+D000021573,Wachovia Corp,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000022307,VeriSign Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",USAA Federal Savings Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000348,UnitedHealth Group,Health Services,,1001,15000,0,Y,Y,
+D000000081,United Parcel Service,Air Transport,,1001,15000,0,Y,Y,Y
+"",Tyco International,Pharm/Health Prod,,1001,15000,0,Y,,
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,Y,Y,Y
+D000000751,Tenet Healthcare,Hospitals/Nurs Homes,,1001,15000,0,Y,Y,
+D000000619,Target Corp,Retail Sales,,1001,15000,0,Y,Y,
+D000028946,Scientific Atlanta,Telecom Svcs,,1001,15000,0,Y,,
+D000064294,Reliant Energy,Electric Utilities,,1001,15000,0,Y,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000019639,Norfolk Southern,Railroads,,1001,15000,0,Y,Y,Y
+"",Motorola Inc,Telecom Svcs,,1001,15000,0,Y,,
+D000000106,Morgan Stanley,Securities/Invest,,1001,15000,0,Y,Y,
+D000026889,Johnson Controls,Automotive,,1001,15000,0,Y,Y,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000034842,JetBlue Airways,Air Transport,,1001,15000,0,Y,,
+D000000155,General Motors,Automotive,,1001,15000,0,Y,Y,Y
+D000000362,Gateway Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",FPL Group,Electric Utilities,,1001,15000,0,Y,,
+"",Fording Canadian Coal Trust,Mining,,1001,15000,0,Y,,
+"",Federated Department Stores,Retail Sales,,1001,15000,0,Y,,
+D000025681,Encana Corp,Oil & Gas,,1001,15000,0,Y,,
+"",Delphi Corp,Automotive,,1001,15000,0,Y,,
+"",CSG Systems International,Unknown,,1001,15000,0,Y,,
+D000025131,Convergys Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000071,Citigroup Inc,Commercial Banks,,1001,15000,0,Y,Y,
+D000000015,Chevron Corp,Oil & Gas,,1001,15000,0,Y,Y,
+D000024672,Centerpoint Energy,Electric Utilities,,1001,15000,0,Y,Y,
+D000021891,Capital One Financial,Finance/Credit,,1001,15000,0,Y,Y,Y
+D000046126,Canadian Pacific Railway,Railroads,,1001,15000,0,Y,Y,
+"",BB&T Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Barr Pharmaceuticals,Pharm/Health Prod,,1001,15000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000019838,Agilent Technologies,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Xybernaut Corp,Electronics Mfg/Eqp,,0,1000,0,Y,,
+D000021773,Travelers Companies,Insurance,,0,1000,0,Y,Y,
+D000022234,Safeway Inc,Food Process/Sales,,0,1000,0,Y,Y,
+D000033813,Freescale Semiconductor,Electronics Mfg/Eqp,,0,1000,0,Y,,
+D000042082,Fairmont Hotels & Resorts,Lodging/Tourism,,0,1000,0,Y,,
+"",CP Ships,Unknown,,0,1000,0,Y,,

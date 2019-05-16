@@ -1,0 +1,101 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Keil Trust U/A 03/05/98 FBO Nancy Camp,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+"",Federated Govt Obligations Fund,Unknown,Mutual Fund,500001,1000000,0,Y,,
+"",Ohio G/O ULT Higher Education Bond,Unknown,Government Bond,100001,250000,0,Y,,
+D000000188,Dow Chemical,Chemicals,,100001,250000,0,Y,Y,Y
+"",AGE Bank Deposit Program,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Wisconsin Transportation Revenue Bond,Unknown,Government Bond,50001,100000,0,Y,,
+"",Washington G/O Ult,Unknown,Government Bond,50001,100000,0,Y,,
+"",Vermont Ref Bond,Unknown,Government Bond,50001,100000,0,Y,,
+"",South Carolina School Facilities Bond,Unknown,Government Bond,50001,100000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,50001,100000,0,Y,Y,Y
+"",North Carolina Pub IMPT-SER Bond,Unknown,Government Bond,50001,100000,0,Y,,
+"",Minnesota G/O ULT,Unknown,Government Bond,50001,100000,0,Y,,
+"",Maryland G/O Ult State & Local Bond,Unknown,Government Bond,50001,100000,0,Y,,
+"",Chemical Financial,Commercial Banks,,50001,100000,0,Y,,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,50001,100000,0,Y,Y,Y
+D000000284,Wyeth,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+"",Vanguard REIT Index,Real Estate,Mutual Fund,15001,50000,0,Y,,
+"",Utah G/O ULT bond,Unknown,Government Bond,15001,50000,0,Y,,
+D000037414,Schlumberger Ltd,Oil & Gas,,15001,50000,0,Y,Y,
+D000036624,Perrigo Co,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000000200,PepsiCo Inc,Food & Beverage,,15001,50000,0,Y,Y,Y
+D000022110,Medtronic Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+D000000373,McDonald's Corp,Food & Beverage,,15001,50000,0,Y,Y,
+D000026978,Kellogg Co,Food Process/Sales,,15001,50000,0,Y,Y,
+"",iShares TR-Midcap 400 Value Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",iShares TR-Midcap 400 Growth Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",iShares S&P 500 Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",iShares Msci Eafe Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",iShares Iboxx High Yield Corp Bond Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",iShares Barclays (Lehman) 1-3 Yr Trea,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000026492,HJ Heinz Co,Food Process/Sales,,15001,50000,0,Y,Y,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000026221,Gilead Sciences,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000026188,Gentex Corp,Misc Mfg/Distrib,,15001,50000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",FPL Group,Electric Utilities,,15001,50000,0,Y,,
+D000000089,Fedex Corp,Air Transport,,15001,50000,0,Y,Y,
+D000000129,Exxon Mobil,Oil & Gas,,15001,50000,0,Y,Y,Y
+"",Energy Transfer Equity LP,Oil & Gas,,15001,50000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000195,BNSF Railway,Railroads,,15001,50000,0,Y,Y,Y
+D000024300,"Becton, Dickinson & Co",Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000031719,Automatic Data Processing Inc,Business Services,,15001,50000,0,Y,Y,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000000296,Aetna Inc,Health Services,,15001,50000,0,Y,Y,Y
+D000000430,Weyerhaeuser Co,Forest Products,,1001,15000,0,Y,Y,Y
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,Y,Y,
+D000021573,Wachovia Corp,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000029389,Teva Pharmaceutical Industries,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000619,Target Corp,Retail Sales,,1001,15000,0,Y,Y,
+D000037533,Sherwin-Williams Co,Chemicals,,1001,15000,0,Y,Y,
+"",Select Sec SPDR Health Care,Misc Health,,1001,15000,0,Y,,
+"",Select Sec SPDR Consumer Discretion,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Sector SPDR SBI Technology,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Sector SPDR SBI Industrial Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Sector Spdr SBI Financial Fund,Misc Finance,,1001,15000,0,Y,,
+"",Sector SPDR SBI Energy Fund,Misc Energy,,1001,15000,0,Y,,
+"",Sector SPDR Consumer Staples,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Ralcorp Holdings,Unknown,,1001,15000,0,Y,,
+D000020856,Peabody Energy,Mining,,1001,15000,0,Y,Y,
+"",Paychex Inc,Business Services,,1001,15000,0,Y,,
+"",Oshkosh Truck Corp,Trucking,,1001,15000,0,Y,,
+D000027998,Nike Inc,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+"",News Corporation,TV/Movies/Music,,1001,15000,0,Y,,
+D000042332,Nestle SA,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000000055,Monsanto Co,Agricultural Svcs,,1001,15000,0,Y,Y,Y
+"",Money Mkt Obligations Trust Cash Balance,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000035646,Martin Marietta Materials,Building Materials,,1001,15000,0,Y,,
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000371,Jacobs Engineering Group,Construction Svcs,,1001,15000,0,Y,Y,
+D000044019,ITC Holdings,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",iShares S&P Small Cap 600 Value Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares S&P Small Cap 600 Growth Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares DJ US Telecom,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares Barclays (Lehman) 1-3 Yr Cred,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000022008,Google Inc,Internet,,1001,15000,0,Y,Y,
+D000000165,General Dynamics,Defense Electronics,,1001,15000,0,Y,Y,
+D000000596,Genentech Inc,Pharm/Health Prod,,1001,15000,0,Y,,
+D000000182,Ford Motor Co,Automotive,,1001,15000,0,Y,Y,Y
+D000025483,Devon Energy,Oil & Gas,,1001,15000,0,Y,Y,
+D000000408,Deere & Co,Agricultural Svcs,,1001,15000,0,Y,Y,Y
+D000000703,Costco Wholesale,Retail Sales,,1001,15000,0,Y,,
+D000025046,Comerica Inc,Commercial Banks,,1001,15000,0,Y,,Y
+D000032736,Colgate-Palmolive Co,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000352,Caterpillar Inc,Building Materials,,1001,15000,0,Y,Y,Y
+D000021892,Cardinal Health,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000100,Boeing Co,Defense Aerospace,,1001,15000,0,Y,Y,Y
+D000067273,BHP Billiton,Mining,,1001,15000,0,Y,,
+"",Barclays Cap High Yield Bond,Unknown,Government Bond,1001,15000,0,Y,,
+D000000459,Anadarko Petroleum,Oil & Gas,,1001,15000,0,Y,Y,
+D000000217,American Express,Finance/Credit,,1001,15000,0,Y,Y,Y
+D000023883,Amazon.com,Internet,,1001,15000,0,Y,Y,
+D000021809,Air Products & Chemicals Inc,Chemicals,,1001,15000,0,Y,Y,
+D000031323,Adobe Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000021800,3M Co,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",iShares DJ US Utilities Sector Index,Unknown,Mutual Fund,1,1000,0,Y,,

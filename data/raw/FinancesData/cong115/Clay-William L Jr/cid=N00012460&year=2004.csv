@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",St Louis Develop Corp Employ Retire Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",State of Missouri Deferred Comp Plan,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,
+"",First Community Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

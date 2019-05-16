@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Emmer Law,Lawyers/Law Firms,,250001,500000,0,N,,
+"","Rental Property/Delano, MN",Real Estate,,100001,250000,0,N,,
+"",Principal Mutual IRA,Unknown,"Brokerage, IRA, 401k",50001,100000,0,N,,
+"",State of Minnesota Pension Deferred Comp,Unknown,"Brokerage, IRA, 401k",15001,50000,0,N,,
+"",Citibank IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,N,,

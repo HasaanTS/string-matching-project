@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Stephenson National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,115002,300000,0,T,,
+"",Northern Michigan National Bank/CDs,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,T,,
+"",Bay Bank,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"",Upper Peninsula State Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"",Office,Misc Business,,15001,50000,0,T,,
+"",Nicolet Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"",Forward Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Northern Michigan National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Bart T Stupak PC,Lawyers/Law Firms,,1001,15000,0,T,,

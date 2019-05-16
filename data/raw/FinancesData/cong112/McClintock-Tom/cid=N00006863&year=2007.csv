@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wells Fargo Bank CA Accounts,Unknown,"Brokerage, IRA, 401k",100001,250000,0,N,,
+"",Security Benefits,Securities/Invest,Unknown,1001,15000,0,N,,
+D000020844,OppenheimerFunds,Securities/Invest,,1001,15000,0,N,,
+D000021765,Bank of New York Mellon,Securities/Invest,,1001,15000,0,N,Y,

@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Cash Reserves,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Fidelity Small Cap Fund,Unknown,Mutual Fund,1002,16000,0,Y,,
+"",Fidelity New Insights Fund,Unknown,Mutual Fund,1002,16000,0,Y,,
+"",Scholars Edge 6-8 years portfolio,Unknown,,1001,15000,0,Y,,
+"",Fidelity Strategic Income,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Consumer Staples,Unknown,Mutual Fund,2,2000,0,Y,,
+"",VALIC Fixed Income,Unknown,Mutual Fund,1,1000,0,Y,,
+"",JPMorgan Equity Index Select,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Fidelity Strategic Income Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Dreyfus Small Cap Index,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Dreyfus Mid Cap Index,Unknown,Mutual Fund,1,1000,0,Y,,
+"",American Funds Europacific Growth Fund,Unknown,Mutual Fund,1,1000,0,Y,,

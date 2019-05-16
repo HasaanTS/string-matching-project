@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","524 Johnstown Rd/Chesapeake, VA",Real Estate,,872000,872000,0,Y,,
+"",Residential Home/1391 Duck Rd/Dare Co NC,Real Estate,,454900,454900,0,Y,,
+"",Boat,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,
+"",Kaufman & Canoles Retirement Account,Unknown,"Brokerage, IRA, 401k",2002,30000,0,Y,,
+"",Towne Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank of America IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Bank of America Accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

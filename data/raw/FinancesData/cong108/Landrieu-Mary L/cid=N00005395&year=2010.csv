@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Residence with rental unit/Wshngtn, DC",Real Estate,,1000001,1000001,1,Y,,
+"","Undeveloped land/Slidell, LA",Real Estate,,250001,500000,0,Y,,
+"",Nineland Partnership,Real Estate,,250001,500000,0,Y,,
+"",Undeveloped land,Real Estate,,100001,250000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,100001,250000,0,Y,Y,Y
+"",Janus Fund,Unknown,,65002,150000,0,Y,,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,51002,115000,0,Y,,
+"",Neuberger Berman/Cash,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Louisiana State Employees Retirement Sys,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Dodge & Cox Mutual Fund IRA,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Wm B Riley & Co,Securities/Invest,,15001,50000,0,Y,,
+"",Whitney Holding Corp,Unknown,,15001,50000,0,Y,,
+"","Undeveloped land/1 acre/Monroe, LA",Real Estate,,15001,50000,0,Y,,
+"",FleetCor Technologies,Unknown,,15001,50000,0,Y,,
+"",National Capital Bank of Washington,Commercial Banks,Cash/Money Market/Savings/Checking,3003,45000,0,Y,,
+"",National Capital Bank of Washington/Chkg,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000021891,Capital One Financial,Finance/Credit,Cash/Money Market/Savings/Checking,1001,15000,0,Y,Y,Y

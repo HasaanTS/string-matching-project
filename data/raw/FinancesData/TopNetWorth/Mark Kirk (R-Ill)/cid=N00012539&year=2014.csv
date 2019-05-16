@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Apartment/Washington, DC",Real Estate,,250001,500000,0,Y,,
+"",USCCU,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000000343,Northwestern Mutual,Insurance,Cash/Money Market/Savings/Checking,2002,30000,0,Y,Y,
+"",MSA-MidCap Growth Stock,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",MSA - Balanced,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Franklin-Templeton International Equity,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Franklin Templeton Int Equity,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000067523,Charles Schwab & Co,Securities/Invest,,0,1000,0,Y,,

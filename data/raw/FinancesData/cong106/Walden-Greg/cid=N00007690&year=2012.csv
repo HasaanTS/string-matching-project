@@ -1,0 +1,23 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",MSW Communications,Other,,500001,1000000,0,Y,,
+"",Tower Property,Real Estate,,250001,500000,0,Y,,
+"",Columbia Gorge Broadcasters,TV/Movies/Music,Unknown,250001,500000,0,Y,,
+"",Cascade Central CU money market,Unknown,Cash/Money Market/Savings/Checking,150002,350000,0,Y,,
+"",Gregory Paul Walden Revocable Living Tr,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Columbia State Bank-various accounts,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,100002,200000,0,Y,,
+"",Fidelity Tax Free Money Market,Unknown,Cash/Money Market/Savings/Checking,30002,100000,0,Y,,
+"",American Funds New Perspective Fund,Unknown,Mutual Fund,30002,100000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+"",Oregon Public Employee Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Home Lot,Real Estate,,15001,50000,0,Y,,
+"",Columbia Gorge Community College Bond,Unknown,Government Bond,15001,50000,0,Y,,
+"",American Funds Investment Co of America,Unknown,Mutual Fund,3003,45000,0,Y,,
+"","Portland, OR Sewer Sys Bond",Unknown,Government Bond,2002,30000,0,Y,,
+"",Cascade Central Credit Union IRA/CD,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000487,US Bancorp,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000090,Bank Of America,Commercial Banks,,1001,15000,0,Y,Y,Y

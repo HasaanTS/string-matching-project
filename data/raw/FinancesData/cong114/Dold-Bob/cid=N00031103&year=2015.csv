@@ -1,0 +1,25 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rose Exterminator,Misc Services,,1000001,5000000,0,Y,,
+"",414 Frontage Road,Real Estate,,500001,1000000,0,Y,,
+"",Rose Pest Solutions LLC,Unknown,,100001,250000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,100001,250000,0,Y,Y,Y
+D000000094,Time Warner,TV/Movies/Music,,65002,150000,0,Y,Y,
+"",2711 Douglas Ave,Real Estate,,50001,100000,0,Y,,
+"",T Rowe Price Strategy Fund,,Mutual Fund,15001,50000,0,Y,,
+"",Keeley Funds Small Cap Value Fund,,Mutual Fund,15001,50000,0,Y,,
+"",American Funds The Growth Fund of America,,Mutual Fund,15001,50000,0,Y,,
+"",20% of the outstanding units of Foundtainhead Part,Real Estate,,15001,50000,0,Y,,
+"",Wintrust Financial Corp,Securities/Invest,,1001,15000,0,Y,,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,Y,Y,
+D000000878,Time Inc,Publishing,,1001,15000,0,Y,Y,
+D000022274,TD Ameritrade,Securities/Invest,,1001,15000,0,Y,Y,
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000026978,Kellogg Co,Food Process/Sales,,1001,15000,0,Y,Y,
+D000034869,JM Smucker Co,Food Process/Sales,,1001,15000,0,Y,Y,
+"",Janus Global Select Fund,,Mutual Fund,1001,15000,0,Y,,
+"",Growth Fund of America,,Mutual Fund,1001,15000,0,Y,,
+"",Fundamental Investors Fund,,Mutual Fund,1001,15000,0,Y,,
+"",Dodge & Cox International Fund,Misc Finance,Mutual Fund,1001,15000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000091,BP,Oil & Gas,,1001,15000,0,Y,Y,
+"",Money Market,,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Key Colony Beach House Rental Property,Real Estate,,500001,1000000,0,Y,,
+"",Publix Supermarket,,,250001,500000,0,Y,,
+"","Gainesville, FL Vacant Lot",,,250001,500000,0,Y,,
+"","Gainesville, FL Home",,,100001,250000,0,Y,,
+"","Gainesville, FL Condo",,,100001,250000,0,Y,,
+"",Morgan Stanley IRA,,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",LPL Financial IRA,,"Brokerage, IRA, 401k",71596,71596,0,Y,,
+"",Morgan Stanley SEP IRA,,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Suntrust Advantage Money Market Account,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",SunTrust Bank Money Market,,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

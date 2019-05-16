@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental Property/Rogers, AR",Real Estate,,100001,250000,0,Y,,
+"",Arvest Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",State Farm Insurance Term Policy,Unknown,Insurance policies & Annuities,2002,30000,0,Y,,
+"",Kansas City Life Policy,Unknown,Insurance policies & Annuities,2002,30000,0,Y,,
+D000037610,Sirius XM Radio,TV/Movies/Music,,1001,15000,0,Y,Y,
+"",Savings Bonds,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Merrill Lynch/Cash Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Morgan Stanley(New York, NY) Money Market",Unknown,Cash/Money Market/Savings/Checking,165003,400000,0,Y,,
+"",New York City Deferred Compensation Plan,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",TIAA CREF Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Teachers Retirement System Deferred Comp,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Congressional Federal Credit Union Account,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",TIAA Acc Lifecycle 2015 T1,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Pensco Trust IRA Cash,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Catskill NY Central School District Bonds,Unknown,Government Bond,2002,30000,0,Y,,
+"",Value Line Funds Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",T-C Lifecycle 2020 Rtmt,Unknown,Mutual Fund,1001,15000,0,Y,,
+"","Pleasantville, NY G/O Bonds",Unknown,Government Bond,1001,15000,0,Y,,
+"","Municipal Credit Union(New York, NY)/Checking",Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","601 Pennsylvania Ave NW/Washington, DC",Real Estate,,100001,250000,0,Y,,
+"",Charing Road Assoc,Unknown,,50001,100000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,99163,99163,0,Y,Y,Y
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Steel Technologies,Steel Production,,1001,15000,0,Y,,
+D000036363,Ohio Savings Bank,Savings & Loans,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000019642,Northwestern Mutual Life Insurance,Insurance,,1001,15000,0,Y,,
+D000000198,Massachusetts Mutual Life Insurance,Insurance,Unknown,1001,15000,0,Y,Y,Y
+"",College Advantage Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",MFS Emerging Growth Fund,Unknown,Mutual Fund,13729,13729,0,Y,,
+"",Merrill Lynch Global Allocation Fund,Unknown,Mutual Fund,8776,8776,0,Y,,
+"",Fifth Third Quality Growth Fund,Unknown,Mutual Fund,7863,7863,0,Y,,
+"",Merrill Lynch Bank USA RASP,Unknown,"Brokerage, IRA, 401k",2300,2300,0,Y,,
+"",Retirement Reserves Fund,Unknown,Cash/Money Market/Savings/Checking,417,417,0,Y,,

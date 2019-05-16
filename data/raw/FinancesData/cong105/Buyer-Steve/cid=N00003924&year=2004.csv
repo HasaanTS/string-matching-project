@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Charles Schwab IRA,Unknown,"Brokerage, IRA, 401k",101002,265000,0,Y,,
+"",Law Office,Lawyers/Law Firms,,100001,250000,0,Y,,
+"",Dell Inc,Electronics Mfg/Eqp,,100001,250000,0,Y,,
+"",Charles Schwab Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Wright Patman Congressional FCU/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Wright Patman Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Wells Fargo/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

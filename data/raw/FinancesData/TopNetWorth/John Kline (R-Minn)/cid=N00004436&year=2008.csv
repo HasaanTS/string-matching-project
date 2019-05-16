@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Sheldon Family Farm,Crop Production,,100001,250000,0,Y,,
+"",Jackson National Annuity,Unknown,Insurance policies & Annuities,65002,150000,0,Y,,
+"",Equitable Advantage Annuity,Unknown,Insurance policies & Annuities,50001,100000,0,Y,,
+"",Third Avenue Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Standard & Poors 500 Depository Receipts,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",LPL Insured Cash Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Lincoln Annuity,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Growth Fund of America,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Franklin Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Dodge & Cox International Fund,Misc Finance,Mutual Fund,1001,15000,0,Y,,
+"",American Express Annuity,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",ING Russia,Unknown,Mutual Fund,1,1000,0,Y,,

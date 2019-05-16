@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Huizenga Gravel Co Inc,Building Materials,,250001,500000,0,Y,,
+"",Lakeridge LLC,Real Estate,,100001,250000,0,Y,,
+"",Investment real estate:441 William Court,Real Estate,,100001,250000,0,Y,,
+"",State of MI 401K Target Retirement 203,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000026889,Johnson Controls,Automotive,,15001,50000,0,Y,Y,Y
+"",Yield Enhanced Short Term Investment Fd,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Small Cap World Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Riverbond LLC,Pharm/Health Prod,,1001,15000,0,Y,,
+"",JPMorgan Growth & Income,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Huntington Check Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000026188,Gentex Corp,Misc Mfg/Distrib,,1001,15000,0,Y,,Y
+"",Chase Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Chase IRA Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Allianz Mid Cap Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Allianz Focused Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",441 William Court Rental Real Estate,Real Estate,,1001,15000,0,Y,,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,1,1000,0,Y,,

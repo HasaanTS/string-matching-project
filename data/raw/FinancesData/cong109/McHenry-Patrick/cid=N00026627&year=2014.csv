@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",806 Requa Rd,Real Estate,,100001,250000,0,O,,
+"",215 Robinson Rd,Real Estate,,100001,250000,0,O,,
+"",Vanguard Target Retirement 2045 Fund,Unknown,Mutual Fund,50001,100000,0,O,,
+"",Congressional FCU Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,O,,
+"",Vanguard Total Bond,Unknown,Mutual Fund,15001,50000,0,O,,
+D000028916,SCANA Corp,Electric Utilities,,15001,50000,0,O,Y,
+"",Locust-Hwy 200 LLC,Unknown,,15001,50000,0,O,,
+"",Congressional Federal Credit Union/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,O,,
+"",5224 Union Rd,Real Estate,,15001,50000,0,O,,
+"",109 W 8th ave,Real Estate,,15001,50000,0,O,,
+"",Vanguard Prime Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,O,,
+"",Vanguard 529 College Savings Plan,Unknown,"Brokerage, IRA, 401k",1001,15000,0,O,,
+"",Prime Fund Daily Money,Unknown,Mutual Fund,1001,15000,0,O,,
+D000027415,Marsh & McLennan,Insurance,,1001,15000,0,O,Y,Y
+"",Alliance Bank & Trust,Commercial Banks,,1,1000,0,O,,

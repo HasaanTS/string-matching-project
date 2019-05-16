@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Arvest Asset Management,Securities/Invest,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+"",ABG Equity Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",ABG Muni Bond Fund/Other,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",ABG Muni Bond Fund/AR,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000019642,Northwestern Mutual Life Insurance,Insurance,,1001,15000,0,Y,,
+"",Arvest Bank & Trust,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",AR National Bank,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",AIM Short Term Treasury Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",ABG Government Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Ameritrade,Securities/Invest,,1,1000,0,Y,,
+D000000483,AG Edwards & Sons,Securities/Invest,,1,1000,0,Y,,

@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000036986,RealNetworks Inc,Electronics Mfg/Eqp,,1000001,5000000,0,Y,,Y
+"",Cantwell 2000 Receivable,Unknown,Cash/Money Market/Savings/Checking,1000001,5000000,0,Y,,
+"",Ron Dotzauer Receivable,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+"",American Funds Growth Fund of America,Misc Finance,Mutual Fund,15001,50000,0,Y,,
+"",William Blair International Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Vanguard Windsor Il Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Vanguard Total Bond Market Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Vanguard Retirement Savings Trust,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",US Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Templeton Foreign Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Piper Jaffray Prime Obligalions Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Morgan Stanley IF Small,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Beacon Small Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",First American Tax Free Bond Fund,Unknown,Mutual Fund,0,1000,0,Y,,

@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental Housing,,,100001,250000,0,Y,,
+"",Northwest Mutual Financial Services Advisory Fund,,Mutual Fund,100001,250000,0,Y,,
+"",Target Fund 2045,,Mutual Fund,15001,50000,0,Y,,
+"",USAA/Checking,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Networking Concepts LLC,Unknown,,50001,100000,0,Y,,
+"",Fidelity Investments SEP IRA,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Fleet Bank/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Fleet Bank IRA,Unknown,"Brokerage, IRA, 401k",2002,30000,0,Y,,
+"",Galaxy Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fleet Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

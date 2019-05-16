@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Kentucky Pub Employees Retirement System,Unknown,"Brokerage, IRA, 401k",150002,350000,0,T,,
+"",Polly Place Farm,Crop Production,,100001,250000,0,T,,
+"",Kentucky Public Employees Deferred Comp,Unknown,"Brokerage, IRA, 401k",80004,201000,0,T,,
+"",Rental Unit,Real Estate,,50001,100000,0,T,,
+"",Woodford Sun Inc,Publishing,,15001,50000,0,T,,
+"",US EE Savings bonds,Unknown,Government Bond,15001,50000,0,T,,
+"",Northwestern Mutual/Adjustable Comp Life,Unknown,Insurance policies & Annuities,15001,50000,0,T,,
+D000032790,Community Bank & Trust,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"",Commonwealth Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,T,Y,
+D000000128,Walt Disney Co,TV/Movies/Music,,1,1000,0,T,Y,

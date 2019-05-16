@@ -1,0 +1,133 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Undeveloped Farm Land & Farm House,Misc Agriculture,,500001,1000000,0,Y,,
+"",Unimproved Lot/Bethany West,Real Estate,,250001,500000,0,Y,,
+"",Rental Property,Real Estate,,250001,500000,0,Y,,
+D000022084,Lincoln National Corp,Insurance,,115002,300000,0,Y,Y,Y
+"",Morgan Stanley Liquid Asset Fund,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Citibank NA South Dakota Deposit Account,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000000495,Dupont Co,Chemicals,,51002,115000,0,Y,Y,Y
+"",Citibank Bank Deposit Program,Unknown,Cash/Money Market/Savings/Checking,30002,101000,0,Y,,
+"",TIAA-CREF Annuity,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",SPDR S&P 500 ETF Trust,Unknown,Mutual Fund,30002,100000,0,Y,,
+D000000106,Morgan Stanley,Securities/Invest,Mutual Fund,30002,100000,0,Y,Y,Y
+D000021754,Apple Inc,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,
+"",Prospect Capital Corp,Securities/Invest,,16002,65000,0,Y,,
+"",Duke Energy Corp,Unknown,,16002,65000,0,Y,,
+"",Virtus Premium Alpha Sector Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",SPDR S&P Mid Cap 400 ETF,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Senior Housing Bond,Unknown,Government Bond,15001,50000,0,Y,,
+D000037414,Schlumberger Ltd,Oil & Gas,,15001,50000,0,Y,,
+"",Nationwide Health Properties,Real Estate,,15001,50000,0,Y,,
+"",Morgan Stanley Range Accrual Notes,Unknown,Note/Note Receivable,15001,50000,0,Y,,
+"",Morgan Stanley Global Infrastructure Fd,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Morgan Stanley Cont Income AutoCall Secs,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Metropolitan Edison Co,Unknown,Government Bond,15001,50000,0,Y,,
+"",M&T Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000042046,Lexmark International,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+"",iLease Inc,Real Estate,,15001,50000,0,Y,,
+"",Healthcare Reality Trust Bond,Misc Health,Mutual Fund,15001,50000,0,Y,,
+D000000281,Halliburton Co,Oil & Gas,,15001,50000,0,Y,Y,
+D000022008,Google Inc,Internet,,15001,50000,0,Y,Y,Y
+"",Fidelity New Insights Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Leveraged Company Stock Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Diversified International Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",DE Health Faciltities Authority Bond,Unknown,Government Bond,15001,50000,0,Y,,
+D000064645,Cobalt International Energy,Oil & Gas,Mutual Fund,15001,50000,0,Y,Y,
+"",Citizens Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000071,Citigroup Inc,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",Citigroup Funding 3% based on Gold,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",CFI Trigger Jump Based on Gold,Unknown,Unknown,15001,50000,0,Y,,
+"",Broadcom Single Observation ELKS,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Block Financial Corp,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000024255,Barclays,Commercial Banks,,15001,50000,0,Y,Y,Y
+D000000459,Anadarko Petroleum,Oil & Gas,,15001,50000,0,Y,Y,
+D000000090,Bank Of America,Commercial Banks,,3003,45000,0,Y,Y,Y
+D000064241,Vodafone Group,Telecom Svcs,,2002,30000,0,Y,,
+"",Invesco Pacific Growth Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Blackrock Real Assets Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Avenex Energy Corp,Oil & Gas,,2002,30000,0,Y,,
+"",Western Asset Claymore Inflation Protect,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000030824,VF Corp,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000021744,Veolia Environnement,Misc Energy,,1001,15000,0,Y,Y,
+"",US Steel Corp,Steel Production,,1001,15000,0,Y,,
+"",Universal Health Realty,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Tyco International,Business Services,,1001,15000,0,Y,,
+"",TJX Cos Inc,Retail Sales,,1001,15000,0,Y,,
+D000045190,Spectra Energy,Oil & Gas,,1001,15000,0,Y,Y,
+"",Southern Copper,Mining,,1001,15000,0,Y,,
+D000000168,Southern Co,Electric Utilities,,1001,15000,0,Y,Y,
+D000042525,Royal Dutch Petroleum,Oil & Gas,,1001,15000,0,Y,Y,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000028398,PNC Financial Services,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000000067,Phillip Morris,Tobacco,,1001,15000,0,Y,Y,Y
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Peyto Energy Trust,Misc Energy,,1001,15000,0,Y,,
+D000067605,Pentair Ltd,Misc Mfg/Distrib,,1001,15000,0,Y,,
+D000059464,Omega Healthcare Investors,Real Estate,,1001,15000,0,Y,,
+"",Nuveen Tradewinds Global All Cap Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Nuveen Intermediate Muni Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Northland Power Income,Electric Utilities,,1001,15000,0,Y,,
+"",NGP Capital Resources,Misc Energy,,1001,15000,0,Y,,
+"",NFJ Dividend Int & Prem Strategy Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Nexpoint Credit Strategies,Unknown,,1001,15000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000022110,Medtronic Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",M&T Bank Regular Time Deposits Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Leggett & Platt Inc,Misc Mfg/Distrib,,1001,15000,0,Y,,
+D000062132,Legacy Reserves,Oil & Gas,,1001,15000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",iShares S&P Mid Cap 400 Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares S&P 500 Growth ETF,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares Russell 2000 Value Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares Russell 1000 Value Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares MSCI Emerging Markets Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",iShares MSCI EAFE Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",Innergex Renewable Energy,Misc Energy,Mutual Fund,1001,15000,0,Y,,
+D000022038,Illinois Tool Works,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000334,Honeywell International,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,Y
+D000043541,HealthCare REIT,Real Estate,,1001,15000,0,Y,,
+"",Harmony Gold Mining Co,Mining,,1001,15000,0,Y,,
+D000000085,Goldman Sachs,Securities/Invest,,1001,15000,0,Y,Y,Y
+"",Gladstone Capital,Securities/Invest,,1001,15000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",First Trust Energy Infrastructure Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity 529 Plan DE Portfolio 2018,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,Y,Y,
+"",Enervest Diversified Income Trust,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Enersis SA,Electric Utilities,,1001,15000,0,Y,,
+D000068751,Ecopetrol SA,Oil & Gas,,1001,15000,0,Y,,
+"",Duff & Phelps Global Utilities,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Conagra Foods,Food Process/Sales,,1001,15000,0,Y,,
+"",Comtech Telecommunications,Telecom Svcs,,1001,15000,0,Y,,
+"",Compass Diversified Holdings,Misc Finance,,1001,15000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Chimera Investment Group,Real Estate,,1001,15000,0,Y,,
+D000000015,Chevron Corp,Oil & Gas,,1001,15000,0,Y,Y,
+"",Carefusion Corp,Pharm/Health Prod,,1001,15000,0,Y,,
+D000021892,Cardinal Health,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000064575,Cameco Corp,Electric Utilities,,1001,15000,0,Y,Y,
+"",Blackrock Kelso,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Blackrock Global Opportunities Equity,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Blackrock Ecosolutions Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000031773,Baker Hughes Inc,Oil & Gas,,1001,15000,0,Y,,
+D000047259,Ares Capital Corp,Securities/Invest,,1001,15000,0,Y,,
+"",Aqua America Inc,Misc Energy,,1001,15000,0,Y,,
+D000000067,Altria Group,Tobacco,,1001,15000,0,Y,Y,Y
+"",Allstate Corp,Insurance,,1001,15000,0,Y,,
+"",Algonquin Power,Electric Utilities,,1001,15000,0,Y,,
+"",AGL Resources,Oil & Gas,,1001,15000,0,Y,,
+"",ADT Corp,Business Services,,1001,15000,0,Y,,
+"",Aberdeen Asia Pacific Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",ABB Ltd,Misc Energy,,1001,15000,0,Y,,
+D000021800,3M Co,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Portugal Telecom,Telecom Svcs,,0,1000,0,Y,,
+D000019668,Phillips 66,Oil & Gas,,0,1000,0,Y,Y,
+D000066710,Frontier Communications,Telephone Utilities,,0,1000,0,Y,Y,
+"",Banco Latinoamericano Comerc Exterior,Commercial Banks,,0,1000,0,Y,,
+"",Atlantic Power Corp,Electric Utilities,,0,1000,0,Y,,

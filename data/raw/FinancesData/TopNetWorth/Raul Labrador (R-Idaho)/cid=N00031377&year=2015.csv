@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",American Funds Money Market,,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",US Bank Accounts,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",American Funds Large Cap Index,,Mutual Fund,1001,15000,0,Y,,
+"",American Funds 2030 Target Date,,Mutual Fund,1001,15000,0,Y,,
+"",American Balanced Fund,,Mutual Fund,1001,15000,0,Y,,

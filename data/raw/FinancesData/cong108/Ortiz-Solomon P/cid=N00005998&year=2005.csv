@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Equitable Non-qualified Annunity,Unknown,Insurance policies & Annuities,100001,250000,0,Y,,
+"",Amtex Security,Business Services,,100001,250000,0,A,,
+"","800 Balboa Road/Rancho Viejo, TX",Real Estate,,100001,250000,0,Y,,
+"",Equitable Deferred Annunity,Unknown,Insurance policies & Annuities,50001,100000,0,Y,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",China Optical,Unknown,,15001,50000,0,Y,,
+"","2104 Lago Viejo South/Rancho Viejo, TX",Real Estate,,15001,50000,0,Y,,
+"","1011 Ennis Joslin/Corpus Christi, TX",Real Estate,,15001,50000,0,Y,,
+"",Bank of America/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

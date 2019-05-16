@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Real Food Revolution Book,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,
+"",Niles Residential Rental Property,Real Estate,,100001,250000,0,Y,,
+"",A Mindful Nation - Book A Mindful Nation,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+"",Wright Patnam Congressional FCU,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000045471,Huntington National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Chase Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",E*Trade Money Market Account,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

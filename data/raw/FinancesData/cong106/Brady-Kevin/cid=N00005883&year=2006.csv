@@ -1,0 +1,27 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Common Stock Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+D000000103,JPMorgan Chase Retirement Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,Y,Y
+"",Texas Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",JPMorgan Fleming Small Cap Core Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+"",Causeway Capital Mgmt Large Cap Core Fd,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Pacific Life VUL,Unknown,Insurance policies & Annuities,2002,30000,0,Y,,
+"",Putnam Small Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Putnam Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Putnam Mid Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Putnam Growth & Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Putnam Capital Opportunities,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Oppenheimer Global Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Neuberger Berman AMT LMTMAT,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",JPMorgan Mutual Funds 564/Growth Advant,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",JPMorgan Chase Manhattan Employee,Unknown,Unknown,1001,15000,0,Y,,
+"",JPMorgan Chase IRA MMAT,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000103,JPMorgan Chase Employ Stock Option Plan,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,Y,Y
+"",JPMorgan Chase Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",JPMorgan Chase Bank/Personal Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Fidelity FVP Equit,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Farmers New World Life Insurance,Insurance,,1001,15000,0,Y,,
+"",Dreyfus VIP APP Port,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Dreyfus GVIT Mid Cap Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Century VP Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Putnam College Advantage Aggressive 1998,Unknown,Mutual Fund,2,2000,0,Y,,

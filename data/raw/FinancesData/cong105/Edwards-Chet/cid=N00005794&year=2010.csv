@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Duplex property/Waco, TX",Real Estate,,100001,250000,0,T,,
+"",Vanguard 500 Index,Securities/Invest,Mutual Fund,21007,140000,0,T,,
+"",Hartford Life & Annuity Insurance,Insurance,,50001,100000,0,T,,
+"",Central National Bank Freedom Account,Unknown,"Brokerage, IRA, 401k",15001,50000,0,T,,
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,T,,
+"",Central National Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,T,,
+"",Wright Patman Congressional FCU/MM,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Suntrust Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Employees Retirement System of Texas,Unknown,"Brokerage, IRA, 401k",1001,15000,0,T,,
+"",SunTrust Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,2,2000,0,T,,
+D000022216,Regions Financial,Commercial Banks,,1,1000,0,T,Y,

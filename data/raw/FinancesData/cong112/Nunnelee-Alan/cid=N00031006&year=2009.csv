@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Allied Funeral,Misc Services,,300002,600000,0,N,,
+"",Mississippi PERS,Unknown,"Brokerage, IRA, 401k",50001,100000,0,N,,
+"",Allied Funeral Agency,Misc Services,,50001,100000,0,N,,
+"",Mississippi SCRP,Unknown,Unknown,15001,50000,0,N,,
+"",Fidelity Diversified International Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Fayee Sarofirm,Unknown,,1001,15000,0,N,,
+"",Boston Co Mid Cap Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",BlackRock Equity Index,Unknown,Mutual Fund,1001,15000,0,N,,

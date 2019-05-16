@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental Property,Real Estate,,250001,500000,0,Y,,
+"",TIAA-CREF,Securities/Invest,,100001,250000,0,Y,,
+"",Great West Stable Value Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",PERA Defined Benefit Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,A,,
+"",Hotchkis & Wiley Large Cap Value Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Franklin Mutual Beacon Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Capital World Growth & Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",AIM Chester Fund,Unknown,Mutual Fund,15001,50000,0,Y,,

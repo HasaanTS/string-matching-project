@@ -1,0 +1,51 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",House & 200 acres,Real Estate,,250001,500000,0,T,,
+"",Carter Bank,Commercial Banks,,150002,350000,0,T,,
+"",Sun Trust,Unknown,,100001,250000,0,T,,
+D000000206,Occidental Petroleum,Oil & Gas,,100001,250000,0,T,Y,Y
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",100001,250000,0,T,,
+D000000212,Coca-Cola Co,Food & Beverage,,100001,250000,0,T,Y,
+"",American Elect,Unknown,,100001,250000,0,T,,
+D000000076,AT&T Inc,Telephone Utilities,,65002,150000,0,T,Y,Y
+D000000092,Reynolds American,Tobacco,,51002,115000,0,T,Y,Y
+D000021573,Wachovia Corp,Commercial Banks,,30003,101000,0,T,Y,
+"",SunTrust/Checking & Savings,Unknown,Cash/Money Market/Savings/Checking,30002,100000,0,T,,
+"","Lot & Office/Rocky Mount, VA",Real Estate,,50001,100000,0,T,,
+D000000129,Exxon Mobil,Oil & Gas,,50001,100000,0,T,Y,Y
+D000023850,Allegheny Energy,Electric Utilities,,50001,100000,0,T,Y,Y
+"",2 Acres with office,Real Estate,,50001,100000,0,T,,
+D000055403,Philip Morris International,Tobacco,,16002,65000,0,T,Y,Y
+"",Main Street Bank,Commercial Banks,,16002,65000,0,T,,
+D000001024,Kraft Foods,Food Process/Sales,,16002,65000,0,T,Y,
+D000000182,Ford Motor Co,Automotive,,16002,65000,0,T,Y,
+"",BB&T Bank,Commercial Banks,,16002,65000,0,T,,
+D000000067,Altria Group,Tobacco,,16002,65000,0,T,Y,Y
+"",SunTrust,Unknown,,15001,50000,0,T,,
+"",Powhatan County Bond,Unknown,Government Bond,15001,50000,0,T,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,15001,50000,0,T,Y,
+"",Hometown Bank,Commercial Banks,,15001,50000,0,T,,
+"",Franklin Com Bank/CD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"",El Paso,Unknown,,15001,50000,0,T,,
+"",Cardinal,Unknown,,15001,50000,0,T,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,2002,30000,0,T,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,2002,30000,0,T,Y,Y
+"",Virginia Public School Authority Bond,Unknown,Government Bond,1001,15000,0,T,,
+"",Sun Trust/CD,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Sun Trust IRA cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+D000029080,Smith & Wesson,Misc Mfg/Distrib,,1001,15000,0,T,Y,
+"",Scott & String fellow IRA cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Qwest Communication,Unknown,,1001,15000,0,T,,
+D000036520,Parker Drilling,Oil & Gas,,1001,15000,0,T,Y,
+"",NFS Classic Prime,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Krispy Kreme Donut Corp,Unknown,,1001,15000,0,T,,
+D000000155,General Motors,Automotive,,1001,15000,0,T,Y,
+"",Congressional FCU Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,T,Y,Y
+D000000672,Charter Communications,Telecom Svcs,,1001,15000,0,T,Y,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,T,Y,Y
+"",Alcatel Lucent,Unknown,,1001,15000,0,T,,
+"",Agere Systems,Electronics Mfg/Eqp,,1001,15000,0,T,,
+"","3 lots Koehler Rt 1/Fieldale, VA",Real Estate,,1001,15000,0,T,,
+"",2 Acres,Real Estate,,1001,15000,0,T,,
+"",First Nat Pw,Unknown,,1,1000,0,T,,
+"",DCH - Medra,Unknown,,1,1000,0,T,,

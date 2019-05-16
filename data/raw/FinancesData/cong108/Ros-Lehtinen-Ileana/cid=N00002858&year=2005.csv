@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","House/Miami, FL",Real Estate,,250001,500000,0,Y,,
+"",Commercial Bank of Florida,Unknown,Cash/Money Market/Savings/Checking,51002,115000,0,Y,,
+"",Royal West Properties,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Alliance Premier Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Community Bank of Homestead,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Nokia Corp,Telecom Svcs,,1001,15000,0,Y,,
+"",Florida State Retirement Plan,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Mega Bank,Commercial Banks,,1,1000,0,Y,,

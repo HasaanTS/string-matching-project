@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Gainesville Salvage & Disposal,Automotive,,1000001,5000000,0,A,,
+"","Commercial Building/3.2 ac/Baldwin, GA",Real Estate,,1000001,5000000,0,A,,
+"","5 acres on Log Cabin Road/Demorest, GA",Real Estate,,1000001,5000000,0,A,,
+"",Wilder Outdoors,Misc Mfg/Distrib,,250001,500000,0,A,,
+"",IRA Stearnes Agee Leach,Unknown,"Brokerage, IRA, 401k",150002,350000,0,A,,
+"",Mans Securities Inc,Securities/Invest,,50001,100000,0,A,,
+"",Community Bank & Trust IRA,Unknown,"Brokerage, IRA, 401k",50001,100000,0,A,,

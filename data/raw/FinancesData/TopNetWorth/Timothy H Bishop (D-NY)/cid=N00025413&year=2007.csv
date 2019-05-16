@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",CREF Stock Account,Unknown,Mutual Fund,300002,600000,0,Y,,
+"",TIAA Traditional Account,Unknown,Mutual Fund,150002,350000,0,Y,,
+"",Metropolitan Life Insurance Policy,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,

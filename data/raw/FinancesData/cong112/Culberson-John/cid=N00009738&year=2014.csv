@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",State of Texas Retirement System,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Houston Home,Unknown,,100001,250000,0,Y,,
+"",Savings Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,

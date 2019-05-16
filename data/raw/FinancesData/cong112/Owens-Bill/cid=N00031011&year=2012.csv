@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000027919,NBT Bank,Commercial Banks,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,Y
+"","Stafford, Piller et al",Lawyers/Law Firms,Mutual Fund,250001,500000,0,Y,,
+"","Stafford, Piller et al",Lawyers/Law Firms,,250001,500000,0,Y,,
+"",NBT Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",NBT Bancorp Inc,Commercial Banks,,50001,100000,0,Y,,
+"",Mountain Lake PBS,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Hydroionic Technologies,Misc Mfg/Distrib,,15001,50000,0,Y,,
+"",NBT Bank IRA,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Champlain National Bank,Commercial Banks,,1001,15000,0,Y,,

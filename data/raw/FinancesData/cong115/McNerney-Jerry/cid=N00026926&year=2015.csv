@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Family Home,Real Estate,,500001,1000000,0,A,,
+"",Bank of America checking & savings,,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000022303,Valero Marketing,Oil & Gas,Mutual Fund,1,1000,0,A,Y,
+"",Duke Midsteam,,,1,1000,0,A,,

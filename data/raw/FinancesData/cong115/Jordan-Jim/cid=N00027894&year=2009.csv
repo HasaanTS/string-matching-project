@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Ohio Public Employee Retirement System,Unknown,"Brokerage, IRA, 401k",100001,250000,0,A,,
+"",Universal Guaranty Life,Insurance,Unknown,2002,30000,0,A,,
+"",Ohio State Teachers Retirement System,Unknown,"Brokerage, IRA, 401k",1002,16000,0,A,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Dodge & Cox Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+D000063321,Security National Bank,Commercial Banks,Unknown,1,1000,0,A,,

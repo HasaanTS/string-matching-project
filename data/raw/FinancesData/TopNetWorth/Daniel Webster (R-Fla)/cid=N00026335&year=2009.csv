@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Stock Webster Air Conditioning & Heating,Subcontractors,,100001,250000,0,N,,
+"","3400 Old Winter Garden Rd/Orlando, FL",Real Estate,,100001,250000,0,N,,
+"",Webster A/C & Heating,Unknown,Note/Note Receivable,50001,100000,0,N,,
+"",Mobile Home,Real Estate,,15001,50000,0,N,,
+"",BB&T/Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,N,,
+"",Bank of America/CD & Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,N,,
+D000021576,Wachovia Bank,Commercial Banks,Unknown,1001,15000,0,N,,
+"",Vanguard Group Mutual Funds,Unknown,Mutual Fund,1001,15000,0,N,,
+"",SEP AIG Sun America,Unknown,"Brokerage, IRA, 401k",1001,15000,0,N,,
+"",Central Florida Credit Union/Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Annuity Southern Farm Bureau Insurance,Unknown,Insurance policies & Annuities,1001,15000,0,N,,

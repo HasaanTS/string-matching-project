@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Promissary note for payments over time,Unknown,Note/Note Receivable,5000001,25000000,0,Y,,
+"",Harris Bank Batavia/Savings & Checking,Unknown,Cash/Money Market/Savings/Checking,1000001,5000000,0,Y,,
+"",ETC Holdings,Unknown,,1000001,5000000,0,Y,,
+"",Cref,Unknown,,250001,500000,0,Y,,
+"",TIAA Traditional Retirement Annuity,Unknown,Insurance policies & Annuities,100001,250000,0,Y,,
+"",Russell Select Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Russell Select Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Russell Real Estate Securities Fund,Real Estate,,1001,15000,0,Y,,
+"",Russell Multistrategy Bond,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Russell International Securities,Securities/Invest,,1001,15000,0,Y,,
+"",Russell Emerging Markets Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",HSBC Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

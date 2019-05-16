@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Valic Annuity Plan,Unknown,Insurance policies & Annuities,100002,200000,0,A,,
+"",Pegasus Fund,Unknown,Mutual Fund,50001,100000,0,A,,
+"",Equitable IRA Variable Annuity,Unknown,Insurance policies & Annuities,50001,100000,0,A,,
+"",Knight Insurance,Insurance,,15001,50000,0,A,,
+"",Community Bank of Lawndale,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",Bank One,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000043496,Austin Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",United Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,A,,

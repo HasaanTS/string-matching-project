@@ -1,0 +1,24 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","2,469 acres Timberland/Wilcox County, AL",Forest Products,,1000001,5000000,0,Y,,
+"","76 Acres Timberland/Wilcox County, AL",Forest Products,,100001,250000,0,Y,,
+"",Oppenheimer Main Street Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Pioneer Growth Shares,Unknown,Mutual Fund,17003,80000,0,Y,,
+"",Town & Country Bankshares,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",MFS Emerging Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",John Hancock Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",First Camden Bankshares,Commercial Banks,Unknown,15001,50000,0,Y,,
+"","2-11 acre lots/Baldwin County, AL",Real Estate,,15001,50000,0,Y,,
+D000000205,Fannie Mae,Real Estate,,2002,30000,0,Y,Y,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1002,16000,0,Y,Y,
+"",Whitney National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000168,Southern Co,Electric Utilities,,1001,15000,0,Y,Y,Y
+"",RMA Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Oppenheimer Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000059040,Camden National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,Y
+"",Alabama Pre-Paid Tuition Plan/Josiah,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Alabama Pre-Paid Tuition Plan/Jennifer,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000000430,Weyerhaeuser Co,Forest Products,,1,1000,0,Y,Y,Y
+D000027660,Mirant Corp,Electric Utilities,,1,1000,0,Y,Y,
+D000000471,HealthSouth Corp,Health Services,,1,1000,0,Y,Y,Y
+"",First Gulf Bank,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

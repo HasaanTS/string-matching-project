@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Charles Schwab Money Market,Unknown,Cash/Money Market/Savings/Checking,101003,215000,0,T,,
+"",Wachovia Bank Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"",Wright Patman Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Wells Fargo/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Wells Fargo/Checking,Commercial Banks,,1001,15000,0,T,,
+"",Chico's,Unknown,,1001,15000,0,T,,

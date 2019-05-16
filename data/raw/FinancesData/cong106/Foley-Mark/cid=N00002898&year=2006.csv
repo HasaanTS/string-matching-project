@@ -1,0 +1,54 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Life Insurance,Insurance,Insurance policies & Annuities,50001,100000,0,T,,
+"",Wright Patman,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+D000028035,Northern Trust,Commercial Banks,,15001,50000,0,T,,Y
+D000000103,JPMorgan Chase & Co,Commercial Banks,,15001,50000,0,T,Y,
+D000066632,Healthcare Realty Trust,Real Estate,,15001,50000,0,T,,
+D000065590,B/E Aerospace,Air Transport,,15001,50000,0,T,,Y
+"",Steak N Shake,Food & Beverage,,2002,30000,0,T,,
+D000026403,Hartmarx Corp,Misc Mfg/Distrib,,2002,30000,0,T,,
+"",Dycom Industries,Telecom Svcs,,2002,30000,0,T,,
+"",Vangaurd Wellington Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,T,Y,Y
+D000000613,TECO Energy,Electric Utilities,,1001,15000,0,T,Y,Y
+"",Seacoast Bank,Commercial Banks,,1001,15000,0,T,,
+"",Royce Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Red Back Networks,Unknown,,1001,15000,0,T,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,T,Y,
+"",PIMCO PEA Renassiance Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,T,Y,Y
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+"",Motorola Inc,Telecom Svcs,,1001,15000,0,T,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,T,Y,Y
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,T,Y,Y
+"",Krispy Kreme Donuts,Food & Beverage,,1001,15000,0,T,,
+"",Honey Well,Unknown,,1001,15000,0,T,,
+D000000419,Home Depot,Retail Sales,,1001,15000,0,T,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,T,Y,Y
+"",Fidelity Biotechnology Fund,Pharm/Health Prod,Mutual Fund,1001,15000,0,T,,
+"",Family Dollar Stores,Retail Sales,,1001,15000,0,T,,
+"",EMC Corp,Electronics Mfg/Eqp,,1001,15000,0,T,,
+D000000477,Duke Energy,Electric Utilities,,1001,15000,0,T,Y,
+"",Dodge & Cox Balanced,Unknown,Mutual Fund,1001,15000,0,T,,
+D000025214,CVS Health,Retail Sales,,1001,15000,0,T,Y,
+"",Conagra Foods,Food Process/Sales,,1001,15000,0,T,,
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,T,Y,Y
+"",Columbia Labs,Unknown,,1001,15000,0,T,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,T,Y,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+D000000414,Charles Schwab Corp,Securities/Invest,,1001,15000,0,T,Y,Y
+"",Cendant Corp,Lodging/Tourism,,1001,15000,0,T,,
+D000021878,Boston Scientific Corp,Pharm/Health Prod,,1001,15000,0,T,Y,
+D000000099,BellSouth Corp,Telephone Utilities,,1001,15000,0,T,,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,T,Y,Y
+"",Bank Atlantic,Commercial Banks,,1001,15000,0,T,,
+"",Tele Video,Unknown,,1,1000,0,T,,
+D000043036,Phh Corp,Real Estate,,1,1000,0,T,,
+"",Oklahoma Energy,Misc Energy,,1,1000,0,T,,
+D000044927,Internet Capital Group,Securities/Invest,,1,1000,0,T,,
+"",Ice Web,Unknown,,1,1000,0,T,,
+"",Health Trac Inc,Health Services,,1,1000,0,T,,
+"",Eneri,Unknown,,1,1000,0,T,,
+"",Bruyan Hotel,Lodging/Tourism,,1,1000,0,T,,
+D000024209,Avaya Inc,Telecom Svcs,,1,1000,0,T,Y,
+"",Agere,Unknown,,1,1000,0,T,,

@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Garfield Peak Land,Real Estate,,100001,250000,0,Y,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Caspol Mountain Land,Real Estate,,50001,100000,0,Y,,
+D000029194,State Street Corp,Securities/Invest,,15001,50000,0,Y,Y,
+"",Lincoln Legacy Annuity,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+D000057962,Universal Display Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",SB Money Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Identix,Unknown,,1001,15000,0,Y,,
+"",Grey Wolf Inc,Unknown,,1001,15000,0,Y,,
+D000000133,GlaxoSmithKline,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Congressional FCU/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",American Funds Investment Co of America,Unknown,,1001,15000,0,Y,,
+"",Medco Corp,Health Services,,1,1000,0,Y,,

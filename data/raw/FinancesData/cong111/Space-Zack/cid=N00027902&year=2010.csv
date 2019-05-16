@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Ohio Public Employees Ret System,Unknown,"Brokerage, IRA, 401k",250001,500000,0,T,,
+"",Ohio Deferred Compensation Plan,Unknown,"Brokerage, IRA, 401k",250001,500000,0,T,,
+"",Snoozer LTD,Unknown,,100001,250000,0,T,,
+"","714 North Wooster Ave/Dover, OH",Real Estate,,100001,250000,0,T,,
+"","123-127 W High Ave/New Philadelphia, OH",Real Estate,,100001,250000,0,T,,
+"",Quaker Inn LLC,Lodging/Tourism,,15001,50000,0,T,,
+"",2nd Mortgage Receivable Ere & Tammy Diet,Unknown,Note/Note Receivable,15001,50000,0,T,,
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,T,Y,Y
+"",Putnam US Government Income Trust,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Huntington Bank Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",First Eagle Global Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",AIM Real Estate Fund,Real Estate,Mutual Fund,1001,15000,0,T,,
+D000000881,Time Warner Cable,TV/Movies/Music,,1,1000,0,T,Y,Y
+"",AOL Inc,Unknown,,1,1000,0,T,,

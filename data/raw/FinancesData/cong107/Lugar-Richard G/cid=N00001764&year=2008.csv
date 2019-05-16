@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity Cash Reserves,Unknown,Cash/Money Market/Savings/Checking,118006,295000,0,Y,,
+D000019642,Northwestern Mutual Life Insurance,Insurance,Insurance policies & Annuities,100001,250000,0,Y,,
+"",Fidelity Muncipal Money Market,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Lugar Stock Farm,Livestock,,100002,200000,0,Y,,
+"",Fidelity Vanguard Total Stock Market,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Continental Assuarance Co,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Vanguard Prime Money Market,Securities/Invest,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",SunTrust Banks/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Columbia Acorn Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

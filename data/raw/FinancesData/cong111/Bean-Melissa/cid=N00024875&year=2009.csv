@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Bank Deposit Sweep Money Market,Unknown,Cash/Money Market/Savings/Checking,16002,65000,0,Y,,
+"",Walgreen Co,Retail Sales,,2002,30000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,2002,30000,0,Y,Y,Y
+D000029389,Teva Pharmaceutical Industries,Pharm/Health Prod,,2002,30000,0,Y,Y,
+"",Nokia Corp,Telecom Svcs,,2002,30000,0,Y,,
+D000027765,Mylan Inc,Pharm/Health Prod,,2002,30000,0,Y,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,Y
+"",Carefusion Corp,Pharm/Health Prod,,2002,30000,0,Y,,
+D000021892,Cardinal Health,Pharm/Health Prod,,2002,30000,0,Y,Y,Y
+D000000106,Morgan Stanley,Securities/Invest,,1001,15000,0,Y,Y,Y
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",American Funds Income Fund of America,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000022907,AllianceBernstein LP,Securities/Invest,,1001,15000,0,Y,,

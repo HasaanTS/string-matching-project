@@ -1,0 +1,41 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000209,United Technologies,Defense Aerospace,,15001,50000,0,Y,Y,Y
+D000022855,Zoetis Inc,Agricultural Svcs,,1001,15000,0,Y,Y,
+"",Yum Brand Inc,Unknown,,1001,15000,0,Y,,
+D000000819,WP Carey & Co,Real Estate,,1001,15000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,
+"",St of CT 457 Retirement Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000045190,Spectra Energy,Oil & Gas,,1001,15000,0,Y,Y,Y
+"",Sirona Dental Systems,Unknown,,1001,15000,0,Y,,
+"",SAP AG,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Potash Corp,Mining,,1001,15000,0,Y,,
+"",Pimco Total Return Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Pembria Pipeline,Unknown,,1001,15000,0,Y,,
+D000000206,Occidental Petroleum,Oil & Gas,,1001,15000,0,Y,Y,
+"",Northeast Utilities,Electric Utilities,,1001,15000,0,Y,,
+"",Nielsen Holdings,Misc Finance,Mutual Fund,1001,15000,0,Y,,
+D000042332,Nestle SA,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,Y,Y,Y
+"",MacQuire Infra,Unknown,,1001,15000,0,Y,,
+D000035524,M&T Bank,Commercial Banks,,1001,15000,0,Y,,
+"",LVMH Moet Hennessy,Misc Mfg/Distrib,,1001,15000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000021791,HSBC Holdings,Finance/Credit,,1001,15000,0,Y,Y,
+"",Fidelity Freedom 2025 Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Danone ADR-EA,Unknown,,1001,15000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,Y
+"",Bank of America/IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000144,Anheuser-Busch,"Beer, Wine & Liquor",,1001,15000,0,Y,,
+"",Amphenol Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Vanguard Total Bond,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Vanguard REIT Index,Real Estate,Mutual Fund,1,1000,0,Y,,
+"",Vanguard Institutional IND,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Vanguard INFL - PRT,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Vanguard EX PLR,Unknown,Mutual Fund,1,1000,0,Y,,
+"",JP Morgan Mid-CAP,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Hartford CAP APP,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Fidelity VIP Contra,Unknown,Mutual Fund,1,1000,0,Y,,
+"",American Funds Euro,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Am Funds Mutual RG,Unknown,Mutual Fund,1,1000,0,Y,,

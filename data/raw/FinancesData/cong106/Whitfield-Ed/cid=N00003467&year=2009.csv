@@ -1,0 +1,52 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Old National Bank Building,Real Estate,,500001,1000000,0,A,,
+"",Schwab Account/Cash,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,A,,
+"",Vacant Lot/Greenbrier Sporting Club,Real Estate,,100001,250000,0,A,,
+D000000129,Exxon Mobil,Oil & Gas,,100001,250000,0,A,Y,Y
+D000000015,Chevron Corp,Oil & Gas,,100001,250000,0,A,Y,Y
+"",Vanguard Tax Exempt Money Market,Unknown,Mutual Fund,50001,100000,0,A,,
+D000059660,United Bank,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",Sacramento County Municipal,Unknown,Government Bond,50001,100000,0,A,,
+"",Metropolitan Water Dist Bond,Unknown,Government Bond,50001,100000,0,A,,
+"","Los Angeles County, CA Bond",Unknown,Government Bond,50001,100000,0,A,,
+"",California Bond,Unknown,Government Bond,30002,100000,0,A,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,50001,100000,0,A,Y,
+"",Washington First,Unknown,,15001,50000,0,A,,
+"",United Bank DC,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",SPDR Gold Trust ETF,Mining,,15001,50000,0,A,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,15001,50000,0,A,Y,
+D000000200,PepsiCo Inc,Food & Beverage,,15001,50000,0,A,Y,Y
+D000000373,McDonald's Corp,Food & Beverage,,15001,50000,0,A,Y,Y
+D000000425,May Department Stores,Retail Sales,,15001,50000,0,A,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,A,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,A,Y,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,15001,50000,0,A,Y,
+D000022008,Google Inc,Internet,,15001,50000,0,A,Y,
+"",Fidelity Blue Chip Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",DMC Green,Unknown,,15001,50000,0,A,,
+"",CVS/Caremark Corp,Retail Sales,,15001,50000,0,A,,
+D000000212,Coca-Cola Co,Food & Beverage,,15001,50000,0,A,Y,Y
+D000021757,Berkshire Hathaway,Securities/Invest,,15001,50000,0,A,Y,Y
+D000031323,Adobe Systems,Electronics Mfg/Eqp,,15001,50000,0,A,Y,
+"",William Blair Growth Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",White Oak Aoc Growth Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,A,Y,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,A,Y,Y
+"",Vanguard S&P 500 Index,Unknown,Mutual Fund,1001,15000,0,A,,
+D000057172,Statoil ASA,Oil & Gas,,1001,15000,0,A,Y,
+D000000223,Schering-Plough Corp,Pharm/Health Prod,,1001,15000,0,A,,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,A,Y,Y
+"",Northwestern Annuity,Unknown,Insurance policies & Annuities,1001,15000,0,A,,
+"",Nokia Corp,Telecom Svcs,,1001,15000,0,A,,
+D000000055,Monsanto Co,Agricultural Svcs,,1001,15000,0,A,Y,
+D000027417,Marshall & Ilsley Bank,Commercial Banks,,1001,15000,0,A,,
+D000027373,Manulife Financial,Misc Finance,Mutual Fund,1001,15000,0,A,Y,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,A,Y,Y
+D000021970,eBay Inc,Internet,,1001,15000,0,A,Y,Y
+D000000477,Duke Energy,Electric Utilities,,1001,15000,0,A,Y,Y
+D000000148,CSX Corp,Railroads,,1001,15000,0,A,Y,Y
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,A,Y,Y
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,A,Y,Y

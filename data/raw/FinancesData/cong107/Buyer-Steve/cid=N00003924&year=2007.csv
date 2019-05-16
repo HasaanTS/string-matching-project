@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Law Office/Monticello, IN",Lawyers/Law Firms,,100001,250000,0,Y,,
+"",Charles Schwab Money Market,Unknown,Cash/Money Market/Savings/Checking,101003,215000,0,Y,,
+"",Chico's,Unknown,,15001,50000,0,Y,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Wells Fargo/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

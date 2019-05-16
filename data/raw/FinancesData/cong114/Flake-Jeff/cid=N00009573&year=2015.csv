@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental Unit - Provo, UT",Real Estate,,250001,500000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,
+"",Bank of America Checking,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000023883,Amazon.com,Internet,,0,1000,0,Y,Y,Y
+D000067823,Alphabet Inc,Internet,,0,1000,0,Y,Y,Y

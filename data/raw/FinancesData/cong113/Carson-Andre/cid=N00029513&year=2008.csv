@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Public Employee Retirement Fund,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",ING Savings Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Hoosier Start,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Hartford Group Investment,Misc Finance,,1001,15000,0,Y,,
+"",Chase Bank Savings Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

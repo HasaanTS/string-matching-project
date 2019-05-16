@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Sam Graves Farms/Clark & Tarkio Twnships,Crop Production,,500001,1000000,0,Y,,
+"",Graves Brothers Farm,Crop Production,,250001,500000,0,Y,,
+"",US Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Farm Equipment & Machinery,Agricultural Svcs,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+"",E*Trade/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Biofuels Llc,Misc Energy,,15001,50000,0,Y,,
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,Y,Y,
+"",Golden Triangle Energy Cooperative,Misc Energy,,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Centenial Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

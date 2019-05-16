@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Emily Forest Products Mortgage,Unknown,,250001,500000,0,N,,
+"",Condominium,Real Estate,,250001,500000,0,N,,
+"",Schwab Value Adv,Unknown,,100001,250000,0,N,,
+"",Riverwood Bank/Checking,Unknown,,50002,101000,0,N,,
+"",House,Real Estate,,50001,100000,0,N,,
+"",Contract For Deed,Unknown,,15001,50000,0,N,,
+"",Roth-IRA Schwab Investor Money Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",American Europacific Growth Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Riverwood Bank Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,N,,

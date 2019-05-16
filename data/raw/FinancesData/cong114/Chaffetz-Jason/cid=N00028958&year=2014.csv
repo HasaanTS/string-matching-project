@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Personal Residence/Alpine, UT",Real Estate,,500001,1000000,0,O,,
+"",American Funds Investment Co of America,Unknown,"Brokerage, IRA, 401k",31003,115000,0,O,,
+"",Central Bank Account,Unknown,Cash/Money Market/Savings/Checking,16002,65000,0,O,,
+"",Mountain America Credit Union Saving Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,O,,
+D000062551,Mountain America Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,3003,45000,0,O,,
+"",Utah State Retirement Systems (Long-Horizon Fund),Unknown,Insurance policies & Annuities,1001,15000,0,O,,
+"",Four Raw Hides LC,Unknown,,1001,15000,0,O,,
+"",AlpineUSA LLC,Unknown,,1001,15000,0,O,,

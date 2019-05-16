@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity Investments SEP,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Networking Concepts LLC,Unknown,,50001,100000,0,Y,,
+"",Fleet Bank,Commercial Banks,Cash/Money Market/Savings/Checking,18004,95000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

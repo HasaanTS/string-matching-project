@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Personal Residence/Alpine, UT",Real Estate,,500001,1000000,0,Y,,
+"",Wells Fargo Bank NA,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Wells Fargo Advantage Assest Allocation,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Marriott Vacation Club,Lodging/Tourism,,15001,50000,0,Y,,
+"",American Funds Investment Co of America,Unknown,"Brokerage, IRA, 401k",3003,45000,0,Y,,
+D000029969,Zions Bancorp,Commercial Banks,Cash/Money Market/Savings/Checking,2003,31000,0,Y,Y,Y
+"",Federated Equity FDS Capital Appreciatio,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",401k Utah State Retirement Systems,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Wells Fargo Bank/Cash,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000033116,Delta Petroleum,Oil & Gas,,1,1000,0,Y,,

@@ -1,0 +1,39 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",County of Bucks Employee Retirement,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Riversource Low Duration Bond Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000064241,Vodafone Group,Telecom Svcs,,1001,15000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+"",Ventas Inc Reit,Unknown,,1001,15000,0,Y,,
+D000000081,United Parcel Service,Air Transport,,1001,15000,0,Y,Y,
+D000065292,Toronto-Dominion Bank,Commercial Banks,,1001,15000,0,Y,Y,
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,Y,Y,
+D000045190,Spectra Energy,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000000168,Southern Co,Electric Utilities,,1001,15000,0,Y,Y,
+D000042525,Royal Dutch Shell,Oil & Gas,,1001,15000,0,Y,Y,
+D000000175,Raytheon Co,Defense Electronics,,1001,15000,0,Y,Y,
+D000055403,Philip Morris International,Tobacco,,1001,15000,0,Y,Y,
+"",Perkins Mid Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Paychex Inc,Business Services,,1001,15000,0,Y,,
+D000000321,Nextera Energy,Electric Utilities,,1001,15000,0,Y,Y,
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,Y,Y,
+"",Lord Abbett Fundamental Equity Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000001024,Kraft Foods,Food Process/Sales,,1001,15000,0,Y,Y,
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+"",JP Morgan Strategic Income Opp Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000026492,HJ Heinz Co,Food Process/Sales,,1001,15000,0,Y,Y,
+D000000085,Goldman Sachs,Securities/Invest,,1001,15000,0,Y,Y,Y
+D000000133,GlaxoSmithKline,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Franklin Templeton Global Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Franklin Floating Rate Daily Access Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000019828,Emerson Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+"",Digital Realty Trust,Real Estate,,1001,15000,0,Y,,
+D000000015,Chevron Corp,Oil & Gas,,1001,15000,0,Y,Y,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Blackrock Global Allocation Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",BCE Inc,Telephone Utilities,,1001,15000,0,Y,,
+D000000573,American Electric Power,Electric Utilities,,1001,15000,0,Y,Y,
+D000000067,Altria Group,Tobacco,,1001,15000,0,Y,Y,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,Y,Y,

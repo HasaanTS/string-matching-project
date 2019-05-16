@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Medical Arts Plaza,Real Estate,,100001,250000,0,Y,,
+"",Pacific Value Annonity,Unknown,Insurance policies & Annuities,100002,200000,0,Y,,
+"",First Southern Bank/CD,Unknown,Cash/Money Market/Savings/Checking,51002,115000,0,Y,,
+"","Commercial Lot S Pittsburg, TN",Real Estate,,50001,100000,0,Y,,
+"",Checking Account Citizen State Bank,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Accounts Receivables Medical Arts Plaza,Unknown,Note/Note Receivable,50001,100000,0,Y,,
+"",First Southern Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Citizen State Bank/CD,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",IRA Morgan Stanley Exact Service Corp,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",IMG Savings Annonity,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",HCA Lifetime 401-K,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,

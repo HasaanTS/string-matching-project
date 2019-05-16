@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Family Home,Real Estate,,500001,1000000,0,A,,
+D000000090,Bank of America,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,A,Y,
+"",Valero Marketing,Unknown,Mutual Fund,1,1000,0,A,,
+"",Duke/Midstream,Unknown,,1,1000,0,A,,

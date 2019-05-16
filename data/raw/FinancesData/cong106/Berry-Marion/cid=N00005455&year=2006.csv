@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Pecan Post Inc,Real Estate,,1000001,5000000,0,Y,,
+"",COD-DeWitt Bank,Unknown,Cash/Money Market/Savings/Checking,251002,515000,0,Y,,
+"",Merchants Bank,Commercial Banks,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",Marion Berry Inc,Unknown,,250001,500000,0,Y,,
+D000059188,Farmers & Merchants Bank,Commercial Banks,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,Y
+"",COD-Planters & Merchants Bank,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",408 E 3rd St SE/Washington DC,Real Estate,,250001,500000,0,Y,,
+"",Carmar Lowe Inc,Unknown,,100001,250000,0,Y,,
+"",Planters & Merchants Bank,Commercial Banks,,15001,50000,0,Y,,
+"",Money Group,Unknown,Unknown,15001,50000,0,Y,,
+"",Farm Bureau Life Insurance,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+D000028716,Riceland Foods,Crop Production,,1,1000,0,Y,Y,Y
+"","140 Main Street/Gillett, AR",Crop Production,,1,1000,0,Y,,

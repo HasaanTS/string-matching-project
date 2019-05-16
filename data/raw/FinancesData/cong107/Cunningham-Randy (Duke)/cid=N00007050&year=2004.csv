@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Top Gun Enterprises,Retail Sales,,500001,1000000,0,Y,,
+"",Union Bank Miramar IRA,Unknown,"Brokerage, IRA, 401k",30002,100000,0,Y,,
+"",Mission Valley FCU,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Congressional FCU/Savings,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Union Bank Miramar/Checking,Unknown,Cash/Money Market/Savings/Checking,16002,65000,0,Y,,
+"",Union Bank Miramar,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Monarch Bay Securities,Securities/Invest,,100001,250000,0,H,,
+"",Monarch Bay Capital Group,Unknown,,100001,250000,0,H,,
+"",Cardiff Partners,Unknown,,100001,250000,0,H,,
+"",America Funds,Unknown,Mutual Fund,100001,250000,0,H,,
+"","Building/1141 Hermes Avenue/Encinitas, CA",Real Estate,,50001,100000,0,H,,
+"",Madrona Partners VC Fund,Unknown,Mutual Fund,15001,50000,0,H,,
+"",Digital Map,Unknown,,15001,50000,0,H,,
+"",Camino Partners Consulting,Unknown,,1001,15000,0,H,,

@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Montana Home & Property,Real Estate,,1000001,5000000,0,Y,,
+D000030600,Ultra Petroleum,Oil & Gas,,500001,1000000,0,Y,,
+"",Fidelity 401k,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+"",Michigan Home,Real Estate,,100001,250000,0,Y,,
+D000026978,Kellogg Co,Food Process/Sales,,100001,250000,0,Y,Y,Y
+D000030157,Stryker Corp,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+"",Plum Creek,Unknown,,15001,50000,0,Y,,
+D000000459,Anadarko Petroleum,Oil & Gas,,15001,50000,0,Y,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000054680,Nexen Inc,Unknown,,1001,15000,0,Y,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,

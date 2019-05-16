@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Mobius Corp,Unknown,,15001,50000,0,A,,
+D000027988,Newmont Mining,Mining,,8882,8882,0,A,Y,
+"",Temecula Valley Bancorp,Commercial Banks,,8875,8875,0,A,,
+"",Dell Inc,Electronics Mfg/Eqp,,8428,8428,0,A,,
+D000064241,Vodafone Group,Telecom Svcs,,8210,8210,0,A,Y,
+D000021677,SBC Communications,Telephone Utilities,,7731,7731,0,A,,
+D000000067,Altria Group,Tobacco,,6110,6110,0,A,Y,
+"",GMAC Bonds,Unknown,,5790,5790,0,A,,
+D000000170,Northrop Grumman,Misc Defense,,5436,5436,0,A,Y,Y
+D000000094,Time Warner,TV/Movies/Music,,3890,3890,0,A,Y,
+D000000144,Anheuser-Busch,"Beer, Wine & Liquor",,3804,3804,0,A,,
+"",LM Ericsson Telephone,Telecom Svcs,,3149,3149,0,A,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,2689,2689,0,A,Y,
+"",Petroleum & Resources Corp,Securities/Invest,,2655,2655,0,A,,
+D000000477,Duke Energy,Electric Utilities,,2355,2355,0,A,Y,
+"",Liquid Asset Fund,Unknown,Cash/Money Market/Savings/Checking,1718,1718,0,A,,

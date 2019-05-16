@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Merrill Lynch Bank USA,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Dodge & Cox Stock Fund,Unknown,Mutual Fund,65002,150000,0,Y,,
+"",Mutual Qualified Fund,Unknown,Mutual Fund,30002,100000,0,Y,,
+D000043204,Northwest Indiana Bancorp,Commercial Banks,,15001,50000,0,Y,,Y
+"",People's Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,

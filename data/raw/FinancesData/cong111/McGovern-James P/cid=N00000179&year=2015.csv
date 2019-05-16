@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Basement Rental Unit,Real Estate,,1000001,5000000,0,Y,,
+"",FA Freedom 2025 Fund,,Mutual Fund,100001,250000,0,Y,,
+"",Congressional Federal Credit Union Money Market,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",American Funds 529 Plan Preservation Portfolio,,Mutual Fund,15001,50000,0,Y,,
+D000000190,Viacom Inc,TV/Movies/Music,,1001,15000,0,Y,,
+D000000510,Owens Corning,Building Materials,,1001,15000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000019792,CBS Corp,TV/Movies/Music,,1001,15000,0,Y,,
+"",American Funds 529 Plan Balanced Portfolio,,Mutual Fund,1,1000,0,Y,,

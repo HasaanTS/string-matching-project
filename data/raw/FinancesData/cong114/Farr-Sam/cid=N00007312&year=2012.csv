@@ -1,0 +1,34 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Point 16 Big Sur, CA LLC",Real Estate,,500001,1000000,0,Y,,
+"","Lots 7, 9, 10/Santa Lucia at Camino Real",Real Estate,,500001,1000000,0,Y,,
+"",Vista Lobos Apartments,Real Estate,,250001,500000,0,Y,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,
+D000032736,Colgate-Palmolive Co,Pharm/Health Prod,,50001,100000,0,Y,Y,
+"",Vanguard 500 Index Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Tahoe Cabin,Real Estate,,15001,50000,0,Y,,
+"",Sorensen's Resort Partnership,Lodging/Tourism,,15001,50000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",Devil's Flat Assn,Unknown,Unknown,15001,50000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Chevy Chase Land Co,Real Estate,,15001,50000,0,Y,,
+"",California Public Empl Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,15001,50000,0,Y,Y,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,
+D000000367,Wal-Mart Stores,Retail Sales,,1001,15000,0,Y,Y,
+"",Vanguard Total Stock Market Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Vanguard Intermediate Term Invest Grade,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000118,Union Pacific Corp,Railroads,,1001,15000,0,Y,Y,Y
+"",Sharlands Investment Co,Unknown,,1001,15000,0,Y,,
+"",Morgan Stanley Global Strategist Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Money Market Funds,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000334,Honeywell International,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Genuine Parts Co,Automotive,,1001,15000,0,Y,,
+D000025625,Ecolab Inc,Chemicals,,1001,15000,0,Y,Y,
+"",Congressional FCU/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Charles Schwab/Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Celgne Corp,Unknown,,1001,15000,0,Y,,
+D000000352,Caterpillar Inc,Building Materials,,1001,15000,0,Y,Y,Y
+D000000100,Boeing Co,Defense Aerospace,,1001,15000,0,Y,Y,Y
+D000000391,Amgen Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000046542,Airgas Inc,Chemicals,,1001,15000,0,Y,Y,
+D000000126,AFLAC Inc,Insurance,,1001,15000,0,Y,Y,

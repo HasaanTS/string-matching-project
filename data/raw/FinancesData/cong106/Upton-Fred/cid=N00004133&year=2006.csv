@@ -1,0 +1,108 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000029842,Whirlpool Corp,Misc Mfg/Distrib,,2000002,10000000,0,Y,Y,Y
+D000058630,William Wrigley Jr Co,Food Process/Sales,,1600003,6250000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,550002,1100000,0,Y,Y,Y
+D000030157,Stryker Corp,Pharm/Health Prod,,350002,750000,0,Y,Y,Y
+"",Chemical Financial,Commercial Banks,,251002,515000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,150002,350000,0,Y,Y,Y
+D000000129,Exxon Mobil,Oil & Gas,,150002,350000,0,Y,Y,
+D000021908,Chesapeake Energy,Oil & Gas,,101002,265000,0,Y,,Y
+D000029955,YUM! Brands,Food & Beverage,,100001,250000,0,Y,Y,
+D000000128,Walt Disney Co,TV/Movies/Music,,100001,250000,0,Y,Y,Y
+"",MFB N Trust small cap,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",MFB N Trust Multi International Eq,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",MFB N Trust Funds Mid-cap,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Masters Select Money Market,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",JPMorgan Michigan Bond Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Cash,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Bank One,Commercial Banks,Unknown,100001,250000,0,Y,,
+"",5th 3rd Bank Money Market,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,65002,150000,0,Y,Y,Y
+"",W Putman Credit Union Accounts,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",JPMorgan International Equity Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Hilliard Lyons Government Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000000091,BP,Oil & Gas,,30002,100000,0,Y,Y,Y
+D000000076,AT&T Inc,Telephone Utilities,,30002,100000,0,Y,Y,Y
+D000000079,Verizon Communications,Telephone Utilities,,16002,65000,0,Y,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,16002,65000,0,Y,Y,
+"",Vanguard Bond Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Soligman Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000223,Schering AG,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+"",RBB Fund Senbanc,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Mass Inv Growth,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+"",JPMorgan Diversified Mid Cap Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",JPMorgan Diversified Mid Cap Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000326,JC Penney,Retail Sales,,15001,50000,0,Y,Y,
+D000022674,Fifth Third Bank,Commercial Banks,,15001,50000,0,Y,,
+D000000328,Fidelity Investments,Securities/Invest,,15001,50000,0,Y,,
+D000000205,Fannie Mae,Real Estate,,15001,50000,0,Y,Y,
+D000000071,Citigroup Inc,Commercial Banks,,15001,50000,0,Y,Y,
+D000000015,Chevron Corp,Oil & Gas,,15001,50000,0,Y,Y,
+D000000099,BellSouth Corp,Telephone Utilities,,15001,50000,0,Y,,
+D000000067,Altria Group,Tobacco,,2002,30000,0,Y,Y,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,
+D000000367,Wal-Mart Stores,Retail Sales,,1001,15000,0,Y,Y,Y
+D000021573,Wachovia Corp,Commercial Banks,,1001,15000,0,Y,Y,
+D000064241,Vodafone Group,Telecom Svcs,,1001,15000,0,Y,,
+"",Upton Asset Management Corp,Unknown,,1001,15000,0,A,,
+D000000209,United Technologies,Defense Aerospace,,1001,15000,0,Y,Y,Y
+D000000619,Target Corp,Retail Sales,,1001,15000,0,Y,Y,
+"",Regeneration Tech,Unknown,,1001,15000,0,Y,,
+D000000175,Raytheon Co,Defense Electronics,,1001,15000,0,Y,Y,
+D000028494,Putnam Investments,Securities/Invest,,1001,15000,0,Y,,
+D000036842,Progressive Corp,Insurance,,1001,15000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000028430,Praxair Inc,Chemicals,,1001,15000,0,Y,Y,
+"",PDL Biopharma,Pharm/Health Prod,,1001,15000,0,Y,,
+D000022170,Omnicom Group,Business Services,,1001,15000,0,Y,Y,
+D000067048,News Corp,TV/Movies/Music,,1001,15000,0,Y,,
+D000045551,Nationwide Financial,Insurance,,1001,15000,0,Y,,
+D000000055,Monsanto Co,Agricultural Svcs,,1001,15000,0,Y,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",MFB N Trust US Govt,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",MFB N Trust Fixed,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",MFB N Trust Emory Markets,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000108,Merrill Lynch,Securities/Invest,,1001,15000,0,Y,Y,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000022110,Medtronic Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",McKessen Group,Unknown,,1001,15000,0,Y,,
+D000027296,Lowe's Companies,Retail Sales,,1001,15000,0,Y,,
+"",JPMorgan Small Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",JPMorgan Small Cap Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",JPMorgan Muni Money Market,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",JPMorgan Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",JPMorgan Chase Bank/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,Y
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000467,General Mills,Food Process/Sales,,1001,15000,0,Y,Y,
+D000000165,General Dynamics,Defense Electronics,,1001,15000,0,Y,Y,
+D000051182,Gannett Co,Publishing,,1001,15000,0,Y,Y,
+"",Gallaher Group,Securities/Invest,,1001,15000,0,Y,,
+D000000163,Freddie Mac,Real Estate,,1001,15000,0,Y,Y,
+"",Fortune Brands,Securities/Invest,,1001,15000,0,Y,,
+D000000166,Eli Lilly & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000188,Dow Chemical,Chemicals,,1001,15000,0,Y,Y,Y
+D000022519,DIRECTV Group,Telecom Svcs,,1001,15000,0,Y,,
+"",Dell Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000000457,Corning Inc,Telecom Svcs,,1001,15000,0,Y,Y,Y
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,Y,Y,Y
+"",College & University-Emory,Education,Unknown,1001,15000,0,Y,,
+D000032736,Colgate-Palmolive Co,Pharm/Health Prod,,1001,15000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000643,Baxter International,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,
+D000031719,Automatic Data Processing Inc,Business Services,,1001,15000,0,Y,Y,
+D000024099,Applied Materials Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000021700,Ameriprise Financial,Securities/Invest,,1001,15000,0,Y,Y,
+D000000123,American International Group,Insurance,,1001,15000,0,Y,Y,
+D000000217,American Express,Finance/Credit,,1001,15000,0,Y,Y,
+D000045867,Aegon NV,Insurance,,1001,15000,0,Y,Y,
+"",5th 3rd Savings Bank Accounts,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000021800,3M Co,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+"",US-UPS Family Partnership,Unknown,,1,1000,0,Y,,
+"",Petroleum Revenue Service,Oil & Gas,,1,1000,0,Y,,

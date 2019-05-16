@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",BB&T Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,A,,
+"",Putnam New Growth Opportunities,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Investers Title Co,Real Estate,,15001,50000,0,A,,
+D000022724,American Funds,Securities/Invest,Mutual Fund,15001,50000,0,A,,
+D000028057,Nucor Corp,Steel Production,,1001,15000,0,A,Y,
+"",HydroFlo Inc,Misc Mfg/Distrib,,1001,15000,0,A,,
+"",BIO-key International,Electronics Mfg/Eqp,,1001,15000,0,A,,
+D000029695,Visteon Corp,Automotive,,1,1000,0,A,Y,
+D000022108,Medco Health Solutions,Health Services,,1,1000,0,A,Y,

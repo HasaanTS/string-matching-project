@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Morgan Stanley-All Money Market Cash Account,,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",New Jersey Public Employee Retirement System,,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+D000018028,Prudential Financial Services,,,15001,50000,0,Y,,
+D000019414,Metropolitan Life Insurance,Insurance,Insurance policies & Annuities,1001,15000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,
+D000032506,Chase Group,Business Services,,1,1000,0,Y,,

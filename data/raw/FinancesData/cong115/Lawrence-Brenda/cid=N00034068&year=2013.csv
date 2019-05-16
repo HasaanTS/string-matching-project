@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000019743,Wells Fargo,Commercial Banks,,100001,250000,0,N,Y,
+"",401k Account,Unknown,"Brokerage, IRA, 401k",100001,250000,0,N,,
+"",DFCU,Unknown,Cash/Money Market/Savings/Checking,65002,150000,0,N,,
+"",23668 Lasher,Real Estate,,50001,100000,0,N,,

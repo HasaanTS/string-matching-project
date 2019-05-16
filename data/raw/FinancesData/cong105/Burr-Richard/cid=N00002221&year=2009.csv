@@ -1,0 +1,39 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Residence/New Jersey SE/Washington, DC",Real Estate,,500001,1000000,0,Y,,
+"",LRP Real Estate,Real Estate,,100001,250000,0,Y,,
+"",Smith Barney Money Fund,Unknown,Mutual Fund,65002,150000,0,Y,,
+"",Piedmont Federal Savings,Savings & Loans,Unknown,51002,115000,0,Y,,
+"",Dreyfus Institutional Reserves Treasury,Unknown,Mutual Fund,70859,70859,0,Y,,
+"",Evergreen Asset Allocation Fund,Unknown,Mutual Fund,36981,36981,0,Y,,
+D000022519,DIRECTV Group,Telecom Svcs,,30681,30681,0,Y,,
+"",Hartford Capital Appreciation Fund,Unknown,Mutual Fund,29544,29544,0,Y,,
+D000000128,Walt Disney Co,TV/Movies/Music,,25993,25993,0,Y,Y,Y
+D000000089,Fedex Corp,Air Transport,,25452,25452,0,Y,Y,Y
+"",Koninklijke Philips Electronics,Unknown,,25229,25229,0,Y,,
+D000021908,Chesapeake Energy,Oil & Gas,,23421,23421,0,Y,Y,Y
+"",Dell Inc,Electronics Mfg/Eqp,,23420,23420,0,Y,,
+D000000272,Marriott International,Lodging/Tourism,,22399,22399,0,Y,Y,Y
+D000000217,American Express,Finance/Credit,,21717,21717,0,Y,Y,Y
+D000037533,Sherwin-Williams Co,Chemicals,,20528,20528,0,Y,Y,
+D000025490,Diageo Plc,"Beer, Wine & Liquor",,20266,20266,0,Y,Y,Y
+D000000419,Home Depot,Retail Sales,,19526,19526,0,Y,Y,Y
+D000035628,Markel Corp,Insurance,,19040,19040,0,Y,,
+D000029955,YUM! Brands,Food & Beverage,,18987,18987,0,Y,Y,Y
+"",Thornburg Investment Income Builder Fund,Unknown,Mutual Fund,18502,18502,0,Y,,
+D000029410,Texas Industries,Building Materials,,18474,18474,0,Y,,
+D000027185,Legg Mason,Securities/Invest,,17764,17764,0,Y,Y,
+D000000161,Waste Management Inc,Waste Management,,17614,17614,0,Y,Y,Y
+"",Mid-America Apartment Communities,Real Estate,,15787,15787,0,Y,,
+"",Fidelity Leveraged Co Stock Fund,Unknown,Mutual Fund,15601,15601,0,Y,,
+"",Mohawk Industries,Misc Mfg/Distrib,,15374,15374,0,Y,,
+D000000667,Mack-Cali Realty,Real Estate,,15313,15313,0,Y,,
+"",Wachovia Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Southern Community Bank Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Cemex,Unknown,,14337,14337,0,Y,,
+D000021844,AON Corp,Insurance,,10543,10543,0,Y,Y,Y
+"",Ingersoll Rand,Misc Mfg/Distrib,,6647,6647,0,Y,,
+D000022110,Medtronic Inc,Pharm/Health Prod,,6025,6025,0,Y,Y,Y
+D000025681,Encana Corp,Oil & Gas,,2494,2494,0,Y,Y,
+"",Cenovus Energy,Unknown,,1940,1940,0,Y,,
+"",Citibank South Dakota Bank Deposit Prog,Unknown,Cash/Money Market/Savings/Checking,926,926,0,Y,,

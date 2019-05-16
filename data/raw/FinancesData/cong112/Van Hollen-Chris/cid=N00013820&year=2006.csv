@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Arent Fox Pension Plan,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+D000000200,PepsiCo Inc,Food & Beverage,,15001,50000,0,Y,Y,
+"",Maryland General Assembly Pension Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Congressional Federal Credit Union Account,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000029955,YUM! Brands,Food & Beverage,,1001,15000,0,Y,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Merrill Lynch Ready Assets Trust,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000188,Dow Chemical,Chemicals,,1001,15000,0,Y,Y,
+"",EIF Equity Income Fund 2nd Exchange/AT&T,Unknown,Mutual Fund,1,1000,0,Y,,
+"",EIF Equity Income Fund 1st Exchange/AT&T,Unknown,Mutual Fund,1,1000,0,Y,,

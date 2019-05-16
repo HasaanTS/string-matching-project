@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Prudential Guaranteed Investment Fund,Unknown,Mutual Fund,50001,100000,0,T,,
+"",Michigan Legislative Retirement System,Unknown,Insurance policies & Annuities,50001,100000,0,T,,
+"",Lake Trust Credit Union/Checking & Svgs,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"",TIAA Traditional Annuity,Unknown,Insurance policies & Annuities,15001,50000,0,T,,
+"",Tax Deferred Davis NY Venture Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Tax Deferred  CREF Composite Index,Unknown,Mutual Fund,15001,50000,0,T,,
+"",TIAA Real Estate Account,Real Estate,,1001,15000,0,T,,
+"",American Funds American Balanced Fund,Unknown,Mutual Fund,1001,15000,0,T,,

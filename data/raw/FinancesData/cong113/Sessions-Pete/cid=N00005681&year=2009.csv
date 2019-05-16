@@ -1,0 +1,33 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",FMS Bonds,Unknown,Government Bond,600002,1250000,0,Y,,
+"",AT&T Qualified Pension Benefit,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+"",Stable Value Fund,Unknown,Mutual Fund,250001,500000,0,Y,,
+D000000076,AT&T Inc,Telephone Utilities,,132006,381000,0,Y,Y,Y
+"",Fidelity International,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Citizens Bank/CD,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Bremer Bank/CD,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Southwest Securities Money Market,Unknown,Cash/Money Market/Savings/Checking,32004,130000,0,Y,,
+D000001065,GE Capital,Finance/Credit,,50001,100000,0,Y,,
+D000000195,BNSF Railway,Railroads,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",AT&T 401k PaySop Pension Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Bank of America/Savings,Unknown,Cash/Money Market/Savings/Checking,18004,95000,0,Y,,
+"",USAA Annuity,Unknown,Insurance policies & Annuities,16002,65000,0,Y,,
+"",USAA Tax Exempt Long Term,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",US Treasury Bond,Unknown,Government Bond,15001,50000,0,Y,,
+D000027337,Magellan Midstream Partners,Oil & Gas,,15001,50000,0,Y,Y,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",ATT Cash Deferral Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000022303,Valero Energy,Oil & Gas,,1001,15000,0,Y,Y,Y
+"",USAA Tax Exempt Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Southwest Securities Money Market IRA,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Oppenheimer Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Lincoln Life IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Lighting Science,Misc Mfg/Distrib,,1001,15000,0,Y,,
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,Y
+"",Dreyfus Intermediate,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",AT&T 401k Total Return Bond,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",AT&T 401k Asset Allocation,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",American Century Select Stock Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Century Non-Retire Sel Stock Fd,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,2,2000,0,Y,Y,Y
+"",USAA Money Market Tax Exempt,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

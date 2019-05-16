@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Northwestern Mutual whole life insurance,Unknown,Insurance policies & Annuities,65002,150000,0,N,,
+"",New York State Pension,Unknown,"Brokerage, IRA, 401k",15001,50000,0,N,,
+"",Bayridge Federal Credit Union Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,N,,
+"",SEFCU Savings Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Russell Lifepoint Balanced Strategy Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",GTS Fixed account,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Eaton Vance Large-Cap Value,Unknown,Mutual Fund,1001,15000,0,N,,
+"",DFA Small Cap Portfolio,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Blackrock Life path 2020 tunel,Unknown,Mutual Fund,1001,15000,0,N,,
+"",TAP Money Market Account,Unknown,Cash/Money Market/Savings/Checking,1828,1828,0,A,,

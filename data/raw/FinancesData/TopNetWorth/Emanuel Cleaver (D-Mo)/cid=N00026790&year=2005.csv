@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",General Board Multiple Asset Fund,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",115002,300000,0,A,,
+"",Grandview Auto Wash,Misc Services,,100001,250000,0,A,,
+"",Allianz Life Powerdex Elite Annuity,Unknown,"Brokerage, IRA, 401k",100001,250000,0,A,,
+"",General Board Stable Value Fund,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",65002,150000,0,A,,
+"",Allianz Life Insurance Simple Retirement,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,

@@ -1,0 +1,21 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Ownership,Unknown,Unknown,500001,1000000,0,Y,,
+"","1435/1439 Kearny St, St Helena",Real Estate,Unknown,500001,1000000,0,Y,,
+"",Travis Webb General Partnership,Unknown,,100001,250000,0,Y,,
+"",Silverado Credit Union,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Nationwide Retirement Solutions,Unknown,Unknown,50001,100000,0,Y,,
+"",Bank of America account,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Wells Fargo Bank account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",American Funds Investment Co of America,Unknown,,15001,50000,0,Y,,
+"",Adventist Health Care Retirement Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Washington Mutual Investors Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Putnam Health Sciences Trust,Misc Health,,1001,15000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000133,GlaxoSmithKline,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Federated American Leaders Fund,Unknown,,1001,15000,0,Y,,
+"",Edward Jones Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,Y
+D000000352,Caterpillar Inc,Building Materials,,1001,15000,0,Y,Y,
+"",Walgreen Co,Retail Sales,,1,1000,0,Y,,

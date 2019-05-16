@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Commercial Rental/1065 E 3rd/Corona, CA",Real Estate,,1000001,5000000,0,Y,,
+"","Commercial Rental Property/Corona, CA",Real Estate,,2000006,4000000,0,Y,,
+"",Green Farms,Crop Production,Note/Note Receivable,500001,1000000,0,Y,,
+"","Vacant land/Mira Loma, CA",Real Estate,,250001,500000,0,Y,,
+"",Calvert Real Properties,Real Estate,,250001,500000,0,Y,,
+"",Citizens Business Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,

@@ -1,0 +1,22 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Trinity Fund Ltd,Unknown,,1000001,5000000,0,Y,,
+"",Resolution Trust FDG,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Evergreen Money Market,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Direct Mail Systems Inc,Unknown,,100001,250000,0,Y,,
+"",401k Retirement,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+D000021757,Berkshire Hathaway,Securities/Invest,,100002,200000,0,Y,Y,
+D000019743,Wells Fargo,Commercial Banks,,50001,100000,0,Y,Y,
+D000000200,PepsiCo Inc,Food & Beverage,,50001,100000,0,Y,Y,
+"",Deferred Compensation Retirement,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",50001,100000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,50001,100000,0,Y,Y,Y
+D000000168,Southern Co,Electric Utilities,,15001,50000,0,Y,Y,
+D000037414,Schlumberger Ltd,Oil & Gas,,15001,50000,0,Y,Y,
+D000000108,Merrill Lynch,Securities/Invest,,15001,50000,0,Y,Y,Y
+"",IMPAC Meeting Holdings,Unknown,,15001,50000,0,Y,,
+"",Bankshares Florida,Commercial Banks,,15001,50000,0,Y,,
+"",Alamo Storage Partners,Unknown,,15001,50000,0,Y,,
+D000045915,Transocean Inc,Oil & Gas,,1001,15000,0,Y,Y,
+D000000751,Tenet Healthcare,Hospitals/Nurs Homes,,1001,15000,0,Y,Y,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Riverside Group,Unknown,,1,1000,0,Y,,

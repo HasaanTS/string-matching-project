@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000019414,Metropolitan Life Insurance,Insurance,,250001,500000,0,Y,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Bank One,Commercial Banks,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Wood Forest Bank Account,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Unity Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",First Investors Fund for Income,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Brannon Stock,Unknown,,1001,15000,0,Y,,
+"",Bellfort SDA Church Bond,Unknown,Government Bond,2,2000,0,Y,,
+"",United Energy Resources Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Resources Capital Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000000206,Occidental Petroleum,Oil & Gas,,1,1000,0,Y,Y,

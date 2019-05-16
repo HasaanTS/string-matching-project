@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",FID Freedom K 2035 Fund,,Mutual Fund,100001,250000,0,Y,,
+D000029689,Visa Inc,Finance/Credit,,50001,100000,0,Y,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,Y
+D000055647,Precision Castparts,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+D000000212,Coca-Cola Co,Food & Beverage,,15001,50000,0,Y,Y,Y
+D000021757,Berkshire Hathaway,Securities/Invest,,15001,50000,0,Y,Y,Y
+D000031719,Automatic Data Processing Inc,Business Services,,15001,50000,0,Y,Y,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+"",UC Savings Fund,,Mutual Fund,1001,15000,0,Y,,
+"",SPDR Gold Trust,,Mutual Fund,1001,15000,0,Y,,
+"",Personal Bank of America Accounts,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",iShares Silver Trust,,Mutual Fund,1001,15000,0,Y,,
+"",Edward Jones/Cash,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",CDK Global,Unknown,,1001,15000,0,Y,,

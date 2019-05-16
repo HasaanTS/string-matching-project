@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Real Food Revolution Book,,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,
+"",Niles Residential Rental Property,Real Estate,,100001,250000,0,Y,,
+"",Ohio State Teacher Retirement System,,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",A Mindful Nation - Book,,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+"",American Funds - Capital Builder,,Mutual Fund,1002,16000,0,Y,,
+"",American Funds New World F2 Fund,,Mutual Fund,1001,15000,0,Y,,
+"",American Funds - Growth,,Mutual Fund,1001,15000,0,Y,,
+"",American Funds - College Advantage,,Mutual Fund,1001,15000,0,Y,,
+"",E*Trade Money Market Account,,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

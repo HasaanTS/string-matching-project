@@ -1,0 +1,19 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Real Estate/1500 Acres Farmland/Berkeley,Crop Production,,1000001,5000000,0,Y,,
+"",Wachovia Corp/Cash,Unknown,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+"",IJK Properties/Note Receivable,Unknown,Note/Note Receivable,250001,500000,0,Y,,
+"",First Federal/CDs,Unknown,Mutual Fund,115002,300000,0,Y,,
+"","Real Estate/Harbor Square Apt/Wash, DC",Real Estate,,100001,250000,0,Y,,
+"",Lots/1050 & 1052 Dominion Drive,Real Estate,,100001,250000,0,Y,,
+"",Rental Real Estate/5815 Hume Avenue,Real Estate,,50001,100000,0,Y,,
+"",Rental Real Estate/1212 Pine Ct,Real Estate,,50001,100000,0,Y,,
+"",Purvis Corner LLC/Note Receivable,Unknown,Note/Note Receivable,50001,100000,0,Y,,
+"",Federal Thrift Savings Plan/Cash,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000021573,Wachovia Corp,Commercial Banks,,15001,50000,0,Y,Y,Y
+D000022091,Lyondell Chemical,Chemicals,,15001,50000,0,Y,Y,
+"",Greenbax Enterprises,Unknown,,15001,50000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+"",Bank of America/Cash,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",NBSC Money Market/Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Morgan Stanley/Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional Federal Credit Union/Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

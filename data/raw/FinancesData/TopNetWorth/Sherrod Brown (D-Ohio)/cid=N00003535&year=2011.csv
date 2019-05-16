@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Brownies Farm LLC,Crop Production,,250001,500000,0,Y,,
+"",Ohio Public Employees Retirement System,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Huntington National Bank (checking),Unknown,,50001,100000,0,Y,,
+"",Muhlenkamp Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Plain Dealer Credit Union/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Lorain National Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Fidelity Magellan (mf),Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,0,1000,0,Y,Y,Y

@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",State of Ohio Public Employee Retirees System,Unknown,"Brokerage, IRA, 401k",250001,500000,0,O,,
+"",Third Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,O,,
+"","Primary Residence/Warrensville Heights, OH",Real Estate,,100001,250000,0,O,,
+"",Cuyahoga County Deferred Compensation,Unknown,"Brokerage, IRA, 401k",100001,250000,0,O,,
+"","3436 Chelton Road/Shaker Heights, Ohio",Real Estate,,50001,100000,0,O,,
+"",Pacific Life/Annuity Short Duration Bond,Unknown,Mutual Fund,1001,15000,0,O,,
+"",Pacific Life/Annuity Managed Bond,Unknown,Mutual Fund,1001,15000,0,O,,
+"",Pacific Life/Annuity Large Cap Value,Unknown,Mutual Fund,1001,15000,0,O,,
+"",Pacific Life/Annuity Floating Rate Loan,Unknown,Mutual Fund,1001,15000,0,O,,
+"",Pacific Life Annuity High Yeild Bond,Unknown,Mutual Fund,1001,15000,0,O,,
+"",Pacific Life Annuity Bond,Unknown,Mutual Fund,1001,15000,0,O,,

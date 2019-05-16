@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental Property/Bklyn, NY",Real Estate,,250001,500000,0,Y,,
+D000029279,Sun Life Financial,Misc Finance,Unknown,50001,100000,0,Y,,
+"",New York Community Bank account,Unknown,,50001,100000,0,Y,,
+"",LPL Financial NY Tax Free Muni Bond,Unknown,Government Bond,50001,100000,0,Y,,
+"",LPL Financial 119,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Bank of America -8155,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000062576,Mutual of America,Insurance,,1001,15000,0,Y,,
+"",Congressional FCU/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank of America/Escrow Rental Prop,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Bank of America/Escrow 8658,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Bank of America/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"","Bank of America-3916,9805",Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000000123,American International Group,Insurance,,1001,15000,0,Y,,

@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wells Fargo Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,A,,
+"",Weber's Air & Heat LLC,Subcontractors,,250001,500000,0,A,,
+"",Residential Rental Property,Real Estate,,150002,350000,0,A,,
+"",Employees Retirement System of Texas,Unknown,Insurance policies & Annuities,1001,15000,0,A,,

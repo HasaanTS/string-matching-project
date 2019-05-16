@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",BB&T,Unknown,,50001,100000,0,Y,,
+"",Lowes,Unknown,,15001,50000,0,Y,,
+"",Hillard Lyons Money Market,,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Value Fund,,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Income Fund,,Mutual Fund,15001,50000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",American Funds Income Fund of America,,Mutual Fund,15001,50000,0,Y,,
+"",State of Tennessee Pension Fund,,Mutual Fund,1001,15000,0,Y,,
+D000042525,Royal Dutch Shell,Oil & Gas,,1001,15000,0,Y,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,

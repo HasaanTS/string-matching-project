@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",TIAA-CREF Annuity,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+"","Rental House/Edisto Island, SC",Real Estate,,250001,500000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",PERA Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,

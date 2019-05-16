@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Residential Rental Property located in Sevierville,Real Estate,,500001,1000000,0,Y,,
+"","Vacant Lot located in Sevierville, TN",,,50001,100000,0,Y,,
+"",Bank of America/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,30002,100000,0,Y,,
+"",New England Life Insurance Whole Life,,Insurance policies & Annuities,15001,50000,0,Y,,
+"",MetLife Insurance - Variable Ordinary Life,,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Bencor Administrative Services 401A,,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Am Funds-Income Fund of America,,Mutual Fund,39061,39061,0,Y,,
+"",Am Funds - Capital Income Builder,,Mutual Fund,38272,38272,0,Y,,
+"",Suncoast Federal Credit Union,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Prudential Insurance Co/Whole Life,,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Bank of America/Savings,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank of America - Rewards Money Market,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

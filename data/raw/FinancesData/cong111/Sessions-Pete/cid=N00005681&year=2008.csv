@@ -1,0 +1,29 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",AT&T Qualified Pension Benefit,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+"",US Treasury Bond,Unknown,Government Bond,265002,550000,0,Y,,
+"",Stable Value Fund,Unknown,Mutual Fund,250001,500000,0,Y,,
+D000000076,AT&T Inc,Telephone Utilities,,117004,330000,0,Y,Y,Y
+"",Fidelity International,Unknown,Mutual Fund,100001,250000,0,Y,,
+D000000205,Fannie Mae,Real Estate,,50001,100000,0,Y,Y,Y
+"",AT&T PaySop Pension Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Southwest Securities Money Market,Unknown,Cash/Money Market/Savings/Checking,17003,80000,0,Y,,
+"",USAA Annuity,Unknown,Insurance policies & Annuities,16002,65000,0,Y,,
+"",USAA Tax Exempt Long Term,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Magellan Midstream,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000195,BNSF Railway,Railroads,,15001,50000,0,Y,Y,Y
+"",ATT Cash Deferral Plan,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000022303,Valero Energy,Oil & Gas,,3003,45000,0,Y,Y,Y
+D000000200,PepsiCo Inc,Food & Beverage,,2002,30000,0,Y,Y,
+"",USAA Tax Exempt,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Oppenheimer Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Lincoln Life IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Lighting Science,Misc Mfg/Distrib,,1001,15000,0,Y,,
+"",Dreyfus Intermediate,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Countrywide SavingsLink,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",American Century Select Stock Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Century Non-Retire Select Stock,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,2,2000,0,Y,Y,Y
+"",USAA Money Market Tax Exempt,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Fidelity Mid & Small Cap Stock,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Fidelity Large Cap Stock Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

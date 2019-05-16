@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",A Morell/AM Title,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",500001,1000000,0,Y,,
+D000045416,Commerce Bank,Commercial Banks,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+"",Municipal Bond,Unknown,Government Bond,15001,50000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+D000000303,ConocoPhillips,Oil & Gas,,15001,50000,0,Y,Y,
+"",Vanguard Windsor Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Valic Employment Plan Large Cap Growth,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Valic American Century,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Stock Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

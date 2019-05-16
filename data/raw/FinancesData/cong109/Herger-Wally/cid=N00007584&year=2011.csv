@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Ranch Land/4th Avenue/Rio Oso, CA",Real Estate,,1000001,5000000,0,Y,,
+"",Herger Gas,Oil & Gas,,1000001,5000000,0,Y,,
+"","Rental House/4th Avenue/Rio Oso, CA",Real Estate,,500002,1000000,0,Y,,
+"",Vanguard GNMA Fund,Real Estate,Mutual Fund,100001,250000,0,Y,,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Doubleline Total Return Bond Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Congressional FCU Account,Unknown,,15001,50000,0,Y,,
+"",Umpqua Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Dreyfus Cash Management,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

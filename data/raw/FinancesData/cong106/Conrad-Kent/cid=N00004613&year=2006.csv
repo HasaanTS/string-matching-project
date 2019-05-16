@@ -1,0 +1,45 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Personal Residence Rental Unit/Wash, DC",Real Estate,,500001,1000000,0,Y,,
+"",GKC Apartment Building,Real Estate,,250001,500000,0,Y,,
+"",US Senate Federal Credit Union/Checking,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",North Dakota Public Empl Retirement Sys,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Fidelity Municipal Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Fidelity Capital Appreciation Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,16002,65000,0,Y,Y,
+"",Spartan US Equity Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Seligman Communication & Info Fund,Misc Communications,,15001,50000,0,Y,,
+"",Oakmark Select Fund,Unknown,,15001,50000,0,Y,,
+"",Oakmark Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Hartford Capital Appreciation Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000085,Goldman Sachs,Securities/Invest,,15001,50000,0,Y,Y,Y
+"",Fidelity Select Electronics Fund,Electronics Mfg/Eqp,,15001,50000,0,Y,,
+"",Fidelity Retirement Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Fidelity Growth Company Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity College Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Calamos Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",UBS Bank USA Deposit Account,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+D000031719,Automatic Data Processing Inc,Business Services,,2002,30000,0,Y,Y,
+D000000480,Williams Companies,Oil & Gas,,1001,15000,0,Y,Y,
+D000000470,Washington Mutual,Savings & Loans,,1001,15000,0,Y,Y,Y
+D000064241,Vodafone Group,Telecom Svcs,,1001,15000,0,Y,,
+D000000722,Texas Instruments,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000029194,State Street Corp,Securities/Invest,,1001,15000,0,Y,Y,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",Ivy Global Natural Resources Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Ivy Cundill Global Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000205,Fannie Mae,Real Estate,,1001,15000,0,Y,Y,Y
+"",EMC Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000047781,Biomet Inc,Pharm/Health Prod,,1001,15000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,1001,15000,0,Y,Y,Y
+"",Bank Center First/Checking & Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000024209,Avaya Inc,Telecom Svcs,,1001,15000,0,Y,Y,
+D000000144,Anheuser-Busch,"Beer, Wine & Liquor",,1001,15000,0,Y,,
+D000019838,Agilent Technologies,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000021800,3M Co,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+"",Verigy Ltd,Unknown,,0,1000,0,Y,,
+D000022108,Medco Health Solutions,Health Services,,0,1000,0,Y,Y,Y
+D000021987,McData Corp,Securities/Invest,,0,1000,0,Y,Y,Y

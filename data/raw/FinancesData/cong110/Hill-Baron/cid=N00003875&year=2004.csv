@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Teacher Retirement Fund,Unknown,"Brokerage, IRA, 401k",50001,100000,0,T,,
+"",Indiana Public Employees Retirement Fund,Unknown,"Brokerage, IRA, 401k",50001,100000,0,T,,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+"",Merrill Lynch Growth Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Merrill Lynch Capital Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Merrill Lynch Basic Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+D000000108,Merrill Lynch,Securities/Invest,,1001,15000,0,T,Y,Y
+D000029280,Sun Microsystems,Electronics Mfg/Eqp,,1,1000,0,T,Y,
+D000000449,Nortel Networks,Telecom Svcs,,1,1000,0,T,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1,1000,0,T,Y,

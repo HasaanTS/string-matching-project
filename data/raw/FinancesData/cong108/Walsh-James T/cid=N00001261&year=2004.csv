@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Jennison Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Van Kampen Government Securities Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+"",Dow Jones Select Dividend Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000275,Merck & Co,Pharm/Health Prod,,1,1000,0,Y,Y,
+D000022108,Medco Health Solutions,Health Services,,1,1000,0,Y,Y,
+"",Evergreen Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

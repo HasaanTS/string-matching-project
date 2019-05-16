@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Condominium/Washington, DC",Real Estate,,250001,500000,0,Y,,
+"","802 Meadowlark/Howell, MI",Real Estate,,50001,100000,0,Y,,
+"",Star One Credit Account,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Standard Federal Accounts,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Fidelity Mutual Funds,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Interactual Software,Electronics Mfg/Eqp,,1001,15000,0,Y,,

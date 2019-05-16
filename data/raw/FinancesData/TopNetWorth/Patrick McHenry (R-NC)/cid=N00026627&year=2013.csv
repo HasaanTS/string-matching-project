@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",McHenry-McHenry Partnership,Real Estate,,100001,250000,0,A,,
+"",806 Requa Rd,Real Estate,,100001,250000,0,A,,
+"",McHenry-Putman Partnership,Unknown,,30002,100000,0,A,,
+"",Congressional FCU Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",Vanguard Total Bond,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Vanguard Target Retirement 2045 Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Vanguard Prime Money Market Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+D000028916,SCANA Corp,Electric Utilities,,15001,50000,0,A,Y,
+"",Locust-Hwy 200 LLC,Unknown,,15001,50000,0,A,,
+"",Congressional FCU - Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+D000027415,Marsh & McLennan,Insurance,,1001,15000,0,A,Y,Y
+"",GW & Wade Asset Managment Prime Fund Daily Money,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Alliance Bank & Trust,Commercial Banks,,1,1000,0,A,,

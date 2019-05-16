@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wachovia Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,N,,
+"",Note Receivable,Unknown,Note/Note Receivable,15001,50000,0,N,,
+D000052370,Investment Corp of Palm Beach,Misc Finance,Unknown,15001,50000,0,N,,Y
+"",Cash,Unknown,Cash/Money Market/Savings/Checking,1002,16000,0,N,,
+"",Rooney Development Co,Unknown,,1001,15000,0,N,,
+"",Oppenheimer Quest Balanced Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Merrill Lynch Bank Deposit Program,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,N,,
+"",Westchester Mercantile Market,Retail Sales,,1,1000,0,N,,
+"",USAA Federal Savings Bank,Savings & Loans,Cash/Money Market/Savings/Checking,1,1000,0,N,,
+"",RDC General LLC,Unknown,,1,1000,0,N,,

@@ -1,0 +1,49 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Lower Level Rental/Washington, DC",Real Estate,,500001,1000000,0,T,,
+"",UBS Account Cash & Equivalents,Unknown,Cash/Money Market/Savings/Checking,265848,265848,0,T,,
+"",Fidelity Cash Reserves,Unknown,Cash/Money Market/Savings/Checking,265848,265848,0,T,,
+"",Research-Electro Optics,Unknown,,100001,250000,0,T,,
+"",PrivateBank,Savings & Loans,Unknown,100001,250000,0,T,,
+D000000703,Costco Wholesale,Retail Sales,,73500,73500,0,T,,
+D000019828,Emerson Electric,Misc Mfg/Distrib,,73220,73220,0,T,Y,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,71796,71796,0,T,Y,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,67328,67328,0,T,Y,
+D000000200,PepsiCo Inc,Food & Beverage,,65724,65724,0,T,Y,
+D000000244,Marathon Oil,Oil & Gas,,65664,65664,0,T,Y,Y
+D000000335,Dominion Resources,Electric Utilities,,64512,64512,0,T,Y,Y
+D000056216,Rockwell Automation,Misc Mfg/Distrib,,64480,64480,0,T,Y,
+D000037414,Schlumberger Ltd,Oil & Gas,,59262,59262,0,T,Y,
+"",Paychex Inc,Business Services,,59130,59130,0,T,,
+"",Helen K Knollberg Trust/Farm,Crop Production,,15001,50000,0,T,,
+"",Congressional FCU Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+D000035098,Kimberly-Clark Corp,Misc Mfg/Distrib,,47466,47466,0,T,Y,
+"",Fidelity Fund,Unknown,Mutual Fund,46416,46416,0,T,,
+D000000128,Walt Disney Co,TV/Movies/Music,,45380,45380,0,T,Y,
+D000000168,Southern Co,Electric Utilities,,44400,44400,0,T,Y,Y
+D000000275,Merck & Co,Pharm/Health Prod,,42560,42560,0,T,Y,
+D000000419,Home Depot,Retail Sales,,41436,41436,0,T,Y,Y
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,40240,40240,0,T,Y,
+D000000477,Duke Energy,Electric Utilities,,39026,39026,0,T,Y,Y
+D000001024,Kraft Foods,Food Process/Sales,,34904,34904,0,T,Y,
+"",Fidelity Equity Income II Fund,Unknown,Mutual Fund,32935,32935,0,T,,
+D000000274,Cintas Corp,Misc Mfg/Distrib,,32522,32522,0,T,Y,
+D000022110,Medtronic Inc,Pharm/Health Prod,,31420,31420,0,T,Y,
+"",Vanguard Windsor II Fund,Unknown,Mutual Fund,29960,29960,0,T,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,29320,29320,0,T,Y,
+D000064241,Vodafone Group,Telecom Svcs,,28616,28616,0,T,,
+"",Fidelity Michigan Municipal Income,Unknown,Mutual Fund,22092,22092,0,T,,
+D000045190,Spectra Energy,Oil & Gas,,21721,21721,0,T,Y,
+D000045915,Transocean Inc,Oil & Gas,,19798,19798,0,T,Y,
+"",Transocean Ltd,Oil & Gas,,19797,19797,0,T,,
+"",Gabelli Value Fund,Unknown,Mutual Fund,14096,14096,0,T,,
+"",Fidelity VII Health Care Fund,Unknown,,13283,13283,0,T,,
+"",Jhancock Regional Bank Fund,Unknown,Mutual Fund,12478,12478,0,T,,
+"",Morgan Stanley Group,Unknown,,11228,11228,0,T,,
+D000000106,Morgan Stanley,Securities/Invest,,11228,11228,0,T,Y,Y
+"",Discover Financial,Misc Finance,,6670,6670,0,T,,
+D000000367,Wal-Mart Stores,Retail Sales,,3643,3643,0,T,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1564,1564,0,T,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1360,1360,0,T,Y,Y
+D000000495,Dupont Co,Chemicals,,1037,1037,0,T,Y,Y
+D000029280,Sun Microsystems,Electronics Mfg/Eqp,,68,68,0,T,Y,
+"",Fidelity Michigan Muni Money Market,Unknown,Cash/Money Market/Savings/Checking,3,3,0,T,,

@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",TIAA Traditional Fund,Unknown,Mutual Fund,50001,100000,0,T,,
+"",Real Property,Real Estate,,50001,100000,0,T,,
+D000028396,PNC Bank Corp,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"",Defined Contribution Plan,Unknown,,30002,100000,0,T,,
+"",CREF Stock Fund,Securities/Invest,Mutual Fund,15001,50000,0,T,,
+"",CREF Bond Market Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",TIAA Real Estate Fund,Real Estate,,1001,15000,0,T,,
+"",Cref Inst Linked Bond,Unknown,Mutual Fund,1,1000,0,T,,

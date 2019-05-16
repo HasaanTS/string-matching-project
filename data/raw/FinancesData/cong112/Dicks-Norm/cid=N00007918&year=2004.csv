@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Lincoln Life Multi Fund,Unknown,Insurance policies & Annuities,50001,100000,0,Y,,
+"",IRA,Unknown,"Brokerage, IRA, 401k",30002,100000,0,Y,,
+"",Lincoln Life Small Cap Value,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Lincoln Life AFIS International,Unknown,,15001,50000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000021573,Wachovia Bank account,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,Y,
+"",Lincoln Life AMT Mid Cap Growth,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Lincoln Life AFIS Growth,Unknown,Mutual Fund,1001,15000,0,Y,,

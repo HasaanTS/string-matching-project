@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",St Elizabeth Bancshares,Commercial Banks,,1000001,5000000,0,Y,,
+"",Carmen Luetkemeyer Living Trust,Unknown,"Brokerage, IRA, 401k",1000001,5000000,0,Y,,
+"",Cedar Ridge Acres LLC,Unknown,,250001,500000,0,Y,,
+"",IRA - Savings Account Bank,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Savings Account Bank,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,

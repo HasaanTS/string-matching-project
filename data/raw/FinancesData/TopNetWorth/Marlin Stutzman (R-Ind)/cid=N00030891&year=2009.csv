@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Indiana State PERF,Unknown,"Brokerage, IRA, 401k",50001,100000,0,N,,
+"",Northeastern Mutual,Unknown,,15001,50000,0,N,,
+D000000182,Ford Motor Co,Automotive,,1001,15000,0,N,Y,
+"",Steel Dynamics Inc,Steel Production,,1,1000,0,N,,

@@ -1,0 +1,57 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Smith Barney Large Cap Value Fund,Unknown,Mutual Fund,265002,550000,0,Y,,
+D000021773,Travelers Companies,Insurance,,115002,300000,0,Y,Y,Y
+"",Smith Barney Pension,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Smith Barney Aggressive Growth Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,100001,250000,0,Y,Y,Y
+"",Citicorp Stock Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+D000000071,Citigroup Inc,Commercial Banks,,82005,230000,0,Y,Y,Y
+"",Templeton Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Smith Barney Money Funds,Unknown,Mutual Fund,16002,65000,0,Y,,
+"",Middleburg Financial,Commercial Banks,,16002,65000,0,Y,,
+"",American Funds Investment Co of America,Unknown,Mutual Fund,16002,65000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15002,51000,0,Y,Y,
+D000042525,Royal Dutch Petroleum,Oil & Gas,,15001,50000,0,Y,Y,
+"",RH Capital Partners,Unknown,,15001,50000,0,Y,,
+D000000485,Procter & Gamble,Chemicals,,15001,50000,0,Y,Y,
+"",New Perspective Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000000129,Exxon Mobil,Oil & Gas,,15001,50000,0,Y,Y,Y
+"",Citigroup Nonquel,Unknown,,15001,50000,0,Y,,
+"",Citigroup Employee Fund of Funds,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",West VA Water Develop Auth Rev Bond,Unknown,Government Bond,2002,30000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,2002,30000,0,Y,Y,Y
+D000026556,Huntington Bancshares,Commercial Banks,,2002,30000,0,Y,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,2002,30000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,Y
+"",BB&T Bank,Commercial Banks,,2002,30000,0,Y,,
+D000000094,Time Warner,TV/Movies/Music,,1002,16000,0,Y,Y,Y
+"",West Virginia State Infrastructure G/O,Unknown,Government Bond,1001,15000,0,Y,,
+"",West Virginia Pub Employ Retirement Sys,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",West Virginia G/O State Road Bond,Unknown,Government Bond,1001,15000,0,Y,,
+"",Washington Mutual Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,Y,Y,
+"",Vista Resources,Oil & Gas,,1001,15000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000000081,United Parcel Service,Air Transport,,1001,15000,0,Y,Y,Y
+"",Tyco International,Pharm/Health Prod,,1001,15000,0,Y,,
+"",TRV Employees Fund,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Tri-Star Resources,Unknown,,1001,15000,0,Y,,
+"",SSB Capital Partners,Unknown,,1001,15000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000019639,Norfolk Southern,Railroads,,1001,15000,0,Y,Y,Y
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,
+D000021654,Gillette Co,Misc Mfg/Distrib,,1001,15000,0,Y,Y,
+D000000155,General Motors,Automotive,,1001,15000,0,Y,Y,Y
+"",EuroPacific Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Edgewood Country Club,Recreation,,1001,15000,0,Y,,
+D000000477,Duke Energy,Electric Utilities,,1001,15000,0,Y,Y,
+D000000015,Chevron Corp,Oil & Gas,,1001,15000,0,Y,Y,
+"","Charleston, Wv Bond",Unknown,Government Bond,1001,15000,0,Y,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000000391,Amgen Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Alliance Petroleum,Oil & Gas,,1001,15000,0,Y,,
+"",Smith Barney Money Fund Retirement Port,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Income Fund of America,Unknown,Mutual Fund,1,1000,0,Y,,

@@ -1,0 +1,75 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","13.231 Acres/Weatherford,TX",Real Estate,,500001,1000000,0,A,,
+"",Schwab Account/Cash,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,A,,
+"",Palm Desert Real Property,Real Estate,,250001,500000,0,A,,
+D000000129,Exxon Mobil,Oil & Gas,,250001,500000,0,A,Y,Y
+D000000015,Chevron Corp,Oil & Gas,,250001,500000,0,A,Y,Y
+"",JP Morgan Chase & Co/Bank Account,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,A,,
+"",Interest in Student Lofts at St Louis University,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,A,,
+"",BJ's Wholesale Club,Food Process/Sales,,100001,250000,0,A,,
+"",Washington First Bankshares,Commercial Banks,,30002,100000,0,A,,
+"",United Bancorp,Unknown,,50001,100000,0,A,,
+"",Sacramento County Municipal Bond,Unknown,Government Bond,50001,100000,0,A,,
+"",Metropolitian Water 4% 12,Unknown,Government Bond,50001,100000,0,A,,
+"",Houston Tax Revenue Bond,Unknown,Government Bond,50001,100000,0,A,,
+"",Harbor Bond Fund,Unknown,Mutual Fund,50001,100000,0,A,,
+"",California Bond,Unknown,Government Bond,30002,100000,0,A,,
+"",Akbank Turk Anonim Sirketi,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",Virginia Res 5125 Bond,Unknown,Government Bond,15001,50000,0,A,,
+"",Virginia 5% Bond,Unknown,Government Bond,15001,50000,0,A,,
+"",Vanguard Prime Money Market Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",United Bank DC,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",SPDR Gold Trust ETF,Mining,,15001,50000,0,A,,
+D000000373,McDonald's Corp,Food & Beverage,,15001,50000,0,A,Y,Y
+"",Lousiville & Jefferson County Bond,Unknown,Government Bond,15001,50000,0,A,,
+D000034869,JM Smucker Co,Food Process/Sales,,15001,50000,0,A,Y,
+D000000171,International Paper,Forest Products,,15001,50000,0,A,Y,Y
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,A,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,A,Y,
+"",Hampton Roads Bankshares,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",Fidelity Blue Chip Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+D000000408,Deere & Co,Agricultural Svcs,,15001,50000,0,A,Y,
+"",Central Fund of Canada,Unknown,Mutual Fund,15001,50000,0,A,,
+D000000090,Bank of America,Commercial Banks,,15001,50000,0,A,Y,
+D000021841,Amerisourcebergen Corp,Pharm/Health Prod,,15001,50000,0,A,Y,Y
+D000027988,Newmont Mining,Mining,,2002,30000,0,A,Y,
+"",Yamana Gold,Mining,,1001,15000,0,A,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,A,Y,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,A,Y,
+D000064241,Vodafone Group,Telecom Svcs,,1001,15000,0,A,Y,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,A,Y,Y
+"",Vanguard Total International Stock ETF,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Vanguard Growth ETF,Unknown,Mutual Fund,1001,15000,0,A,,
+"",US Bancorp Medium Term Notes,Unknown,Government Bond,1001,15000,0,A,,
+"",Unilever PLC,Food Process/Sales,,1001,15000,0,A,,
+D000021773,Travelers Companies,Insurance,,1001,15000,0,A,Y,
+D000000301,Torchmark Corp,Insurance,,1001,15000,0,A,Y,
+D000037414,Schlumberger Ltd,Oil & Gas,,1001,15000,0,A,,
+D000042525,Royal Dutch Shell,Oil & Gas,,1001,15000,0,A,Y,Y
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,A,Y,
+D000055403,Philip Morris International,Tobacco,,1001,15000,0,A,Y,Y
+D000042744,Petsmart Inc,Retail Sales,,1001,15000,0,A,,
+D000000200,Pepsico Inc,Food & Beverage,,1001,15000,0,A,Y,
+"",Northwestern Annuity,Unknown,Insurance policies & Annuities,1001,15000,0,A,,
+D000027589,Micron Technology,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+D000022110,Medtronic Inc,Pharm/Health Prod,,1001,15000,0,A,Y,Y
+D000041979,Madison Square Garden,Recreation,,1001,15000,0,A,Y,
+D000035524,M&T Bank,Commercial Banks,,1001,15000,0,A,,
+D000019376,Lorillard Inc,Tobacco,,1001,15000,0,A,Y,
+D000035372,Liberty Global,Telecom Svcs,,1001,15000,0,A,,
+"",iShares US,Unknown,Mutual Fund,1001,15000,0,A,,
+"",ISHARES CoRE MSCI EMERGING MARKETS ETF,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Ingredion Inc,Food Process/Sales,,1001,15000,0,A,,
+"",Incyte Corp,Pharm/Health Prod,,1001,15000,0,A,,
+"",Dominion Resources Black Warrior Trust,Unknown,Mutual Fund,1001,15000,0,A,,
+D000033184,Discovery Communications,TV/Movies/Music,,1001,15000,0,A,Y,
+D000025490,Diageo Plc,"Beer, Wine & Liquor",,1001,15000,0,A,Y,Y
+D000000148,CSX Corp,Railroads,,1001,15000,0,A,Y,Y
+"",Congressional Federal Credit Union Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000032528,Chicago Bridge & Iron,General Contractors,,1001,15000,0,A,Y,Y
+"",Canadian Natural Resources,Oil & Gas,,1001,15000,0,A,,
+"",Campbell & Kenton County Bond,Unknown,Government Bond,1001,15000,0,A,,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,A,Y,Y
+D000024099,Applied Materials Inc,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+D000066784,Anglogold Ashanti,Mining,,1001,15000,0,A,,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,1001,15000,0,A,Y,Y

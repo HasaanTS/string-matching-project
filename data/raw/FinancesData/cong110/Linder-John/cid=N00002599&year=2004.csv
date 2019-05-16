@@ -1,0 +1,28 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Grayling Industries,,,5000001,25000000,0,Y,,
+"",Linder Financial,Misc Finance,,1000001,5000000,0,Y,,
+"",Schwab 1000 Index Fund,Unknown,Mutual Fund,550002,1100000,0,Y,,
+"",Cedarwild Resort,Real Estate,,500001,1000000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,100001,250000,0,Y,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,100001,250000,0,Y,Y,
+D000021573,Wachovia Corp,Commercial Banks,,50001,100000,0,Y,Y,Y
+"",SunTrust Money Market,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,50001,100000,0,Y,Y,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,
+D000000419,Home Depot,Retail Sales,,50001,100000,0,Y,Y,Y
+"",Cash Fund,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",WebMD Corp,Internet,,16002,65000,0,Y,,
+"",Vanguard Health Care Fund,Hospitals/Nurs Homes,Mutual Fund,15001,50000,0,Y,,
+D000000094,Time Warner,TV/Movies/Music,,15001,50000,0,Y,Y,Y
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+"",Fidelity Blue Chip Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000461,Comcast Corp,Telecom Svcs,,15001,50000,0,Y,Y,
+D000000212,Coca-Cola Co,Food & Beverage,,15001,50000,0,Y,Y,Y
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+"",Cash,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",ARCCOM Commercial Lending/Note,Unknown,Note/Note Receivable,15001,50000,0,Y,,
+"",Profit Sharing Trust/Cash,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Vanguard US Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Vanguard Growth Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,Y,Y,Y

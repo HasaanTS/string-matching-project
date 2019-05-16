@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Legg Mason Value Trust,Unknown,Mutual Fund,250001,500000,0,Y,,
+"",Income Fund of America,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Telkonet Inc,Internet,,15001,50000,0,Y,,
+"",American Funds Investment Co of America,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Western Asset Government Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000039505,Digital Angel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Berkshire Income Realty,Real Estate,,1001,15000,0,Y,,

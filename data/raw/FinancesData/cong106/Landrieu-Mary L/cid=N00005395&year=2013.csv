@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",WDC Residence with rental unitDescription: WDC Res,Real Estate,,1000001,1000001,1,Y,,
+"",Undeveloped Land,Real Estate,,350002,750000,0,Y,,
+"",Nineland Partnership,Real Estate,,250001,500000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,100001,250000,0,Y,Y,Y
+"",Fidelity Magellan Mutual Fund IRA,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Dodge & Cox Mutual Fund IRA,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Janus Fund,Unknown,Mutual Fund,51002,115000,0,Y,,
+"",Louisiana State Employees Retirement System,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Wm B Reilly & Co,Unknown,,15001,50000,0,Y,,
+"",FleetCor Technologies,Electronics Mfg/Eqp,,15001,50000,0,Y,,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",1.048 Acres Undeveloped Land,Real Estate,,15001,50000,0,Y,,
+"",National Capital Bank of Washington,Commercial Banks,Cash/Money Market/Savings/Checking,2002,31000,0,Y,,
+"",Capitol One,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Neuberger BermanFiler comment: Cash,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+D000059259,Hancock Holding,Unknown,,0,1000,0,Y,,

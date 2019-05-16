@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","6207 30th St/North Arlington, VA",Real Estate,,1000001,5000000,0,Y,,
+"",Commercial Building,Real Estate,,250001,500000,0,Y,,
+"",Greenbrier Enterprises,Real Estate,,100001,250000,0,Y,,
+"",65 Acres Land Greenbrier Farms/McDonald,Crop Production,,100001,250000,0,Y,,
+"",Traders & Farmers Bank,Commercial Banks,Cash/Money Market/Savings/Checking,18004,95000,0,Y,,
+"",NY Life Securities LLC,Securities/Invest,,15001,50000,0,Y,,
+"",60 Acres Land/Hoggleridge,Real Estate,,15001,50000,0,Y,,
+"",Telefonos de Mexico Sab,Telephone Utilities,,1001,15000,0,Y,,
+D000019437,Oppenheimer & Co,Securities/Invest,,1001,15000,0,Y,,
+D000027918,Navistar International,Trucking,,1001,15000,0,Y,Y,
+"",ING Classic Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",H&Q Healthcare,Misc Health,,1001,15000,0,Y,,
+D000000133,GlaxoSmithKline,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Beaver Dam Farm,Crop Production,,1001,15000,0,Y,,
+D000066608,America Movil,Telephone Utilities,,1001,15000,0,Y,Y,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

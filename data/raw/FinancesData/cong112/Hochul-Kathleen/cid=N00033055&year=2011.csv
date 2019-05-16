@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000035524,M&T Bank,Commercial Banks,Unknown,500001,1000000,0,Y,Y,Y
+D000021792,HSBC Bank,Commercial Banks,Unknown,500001,1000000,0,Y,,
+"",NYS College 529 - Vanguard 75% Total Bon,Unknown,,30002,100000,0,Y,,
+"",Oppenheimer Street Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Oppenheimer International Diversified Fu,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Oppenheimer Discovery Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Total International Equity,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Total Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Strategic Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity New Insights Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Midcap II,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity International Small Cap Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Consumer Staples,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Canada Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

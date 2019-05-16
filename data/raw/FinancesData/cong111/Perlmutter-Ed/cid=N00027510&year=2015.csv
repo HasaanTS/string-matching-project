@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Vanguard 500 Index,,Mutual Fund,100001,250000,0,A,,
+D000000487,US Bancorp,Commercial Banks,,50001,100000,0,A,Y,Y
+"",ZLDR LLC,,,15001,50000,0,A,,
+"",Wells Fargo Money Market,,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+D000057143,Stanley Black & Decker,Misc Mfg/Distrib,,15001,50000,0,A,Y,
+"",Working Interest in 7 oil & gas wells,Oil & Gas,,1001,15000,0,A,,
+"",RBC Dain Rauscher Money Market,,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Piper Jaffray Companies,Unknown,,1001,15000,0,A,,
+"",NEA Valuebuilder Annuity,,Insurance policies & Annuities,1001,15000,0,A,,
+"",Westerra Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,A,,
+"",Tweedy Browne Global Fund,,Mutual Fund,1,1000,0,A,,
+"",Sterling Capital Equity,,Mutual Fund,1,1000,0,A,,
+"",Longleaf Partners Fund,,Mutual Fund,1,1000,0,A,,
+D000000133,GlaxoSmithKline,Pharm/Health Prod,,1,1000,0,A,Y,

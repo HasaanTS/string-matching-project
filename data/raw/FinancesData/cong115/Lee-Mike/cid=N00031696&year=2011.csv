@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity Freedom 2035,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Utah Community Credit Union Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Utah Retirement Sys Long Horizon Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Federal Employees Retirement fund,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,

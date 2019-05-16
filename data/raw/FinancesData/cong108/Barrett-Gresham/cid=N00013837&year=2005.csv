@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Unit 1397/Arlington, VA",Real Estate,,250001,500000,0,Y,,
+"","Honlic Map 288/Westminster, SC",Real Estate,,100001,250000,0,Y,,
+"","Building/Westminster, SC",Real Estate,,65002,150000,0,Y,,
+"",Rowlat House,Real Estate,,50001,100000,0,Y,,
+"",South Carolina Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"","MAP #262-00-01-057/Westminster, SC",Real Estate,,15001,50000,0,Y,,
+"",House-Lot Map #530-12-01-033/Westminster,Real Estate,,15001,50000,0,Y,,
+"",Oppenheimer Equity Funds,Unknown,Mutual Fund,1001,15000,0,Y,,
+"","Land/Westminster, SC",Real Estate,,1001,15000,0,Y,,
+"","House/Westminster, SC",Real Estate,,1001,15000,0,Y,,
+"",Trailer Space,Real Estate,,1,1000,0,Y,,

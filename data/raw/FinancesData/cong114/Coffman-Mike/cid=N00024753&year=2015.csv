@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",TSE Government Securities Investment Fund,,Mutual Fund,100001,250000,0,Y,,
+"",Federal Thrift Savings Plan/C Fund,,Mutual Fund,100001,250000,0,Y,,
+"",CREF Stock Fund,Securities/Invest,Mutual Fund,100001,250000,0,Y,,
+"",TIAA Traditional Fund,,Mutual Fund,50001,100000,0,Y,,
+"",PERA Advantage US Large Cap,,Mutual Fund,50001,100000,0,Y,,
+"",PERA,,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Federal Thrift Savings Plan/S Fund,,Mutual Fund,15001,50000,0,Y,,
+"",Federal Thrift Savings Plan/I Fund,,Mutual Fund,15001,50000,0,Y,,
+"",Invesco Chapter A Fund,,Mutual Fund,1001,15000,0,Y,,
+"",Franklin Mutual Beacon Fund,,Mutual Fund,1001,15000,0,Y,,
+"",American Funds Capital World Growth & Income Fund,,Mutual Fund,1001,15000,0,Y,,

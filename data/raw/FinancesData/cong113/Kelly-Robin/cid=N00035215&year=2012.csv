@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",iState Employee Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,A,,
+"",ICMA,Unknown,Unknown,15001,50000,0,A,,
+"",State Employees Retirement System of IL,Unknown,"Brokerage, IRA, 401k",18553,18553,0,Y,,
+"",US Stock,Unknown,,17046,17046,0,Y,,
+"",General Assembly,Civil Servants,Unknown,1001,15000,0,A,,
+"",Cook County Nationwide Retirement,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",Stable Value/Cash Management Fund,Unknown,Cash/Money Market/Savings/Checking,13962,13962,0,Y,,
+"",Cook County Nationwide Retirement,Unknown,"Brokerage, IRA, 401k",9929,9929,0,Y,,
+"",State University Retirement,Unknown,"Brokerage, IRA, 401k",1,1000,0,A,,

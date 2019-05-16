@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000138,Pfizer Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+D000000303,ConocoPhillips,Oil & Gas,,15001,50000,0,Y,Y,
+"",TD Bank/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000019668,Phillips 66,Oil & Gas,,1001,15000,0,Y,Y,
+"",Merrill Lynch Checking,Securities/Invest,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

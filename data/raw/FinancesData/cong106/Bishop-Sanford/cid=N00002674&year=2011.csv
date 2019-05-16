@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Sun Trust Bank, NA Certificate",Unknown,,50001,100000,0,Y,,
+"",House & lot,Real Estate,,50001,100000,0,Y,,
+"",Black Rock Govt Fund Prudential Invt,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Dryden Municipal Bonds,Unknown,Government Bond,15001,50000,0,Y,,
+"","Sun Trust Bank, NA Checking",Unknown,,1001,15000,0,Y,,
+"",Lot 24A,Real Estate,,1001,15000,0,Y,,
+"","Lot 15/Starkville, MS",Real Estate,,1001,15000,0,Y,,
+"",Georgia Legislative Retirement System,Civil Servants,,1001,15000,0,Y,,
+"",SunTrust Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

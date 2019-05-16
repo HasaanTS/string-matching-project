@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",DC Residence,Real Estate,,250001,500000,0,T,,
+"","21 Settlers Way Salem, MA",Real Estate,,250001,500000,0,T,,
+"","Talk Realty Trust 133 Washington St Salem, MA",,,100001,250000,0,T,,
+"",Eastern Savings Bank,,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+D000021757,Berkshire Hathaway,,,50001,100000,0,T,Y,
+"",Wright Putnam FCU,,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+D000000079,Verizon Communications,Telephone Utilities,,15001,50000,0,T,Y,
+"",Nike,,,15001,50000,0,T,,
+"",Fidelity Cash Reserves,,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,15001,50000,0,T,Y,
+"",F Cash Money Mkt,,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",F Cash Money Fund,,Cash/Money Market/Savings/Checking,1001,15000,0,T,,

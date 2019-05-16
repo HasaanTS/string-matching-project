@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental 1,Real Estate,,1000001,5000000,0,Y,,
+"",Certificate of Deposits,,Cash/Money Market/Savings/Checking,1000001,5000000,0,Y,,
+"",Rental 3,Real Estate,,500001,1000000,0,Y,,
+"",Rental 2,Real Estate,,500001,1000000,0,Y,,
+"",Checking Account,,Cash/Money Market/Savings/Checking,51002,115000,0,Y,,
+"",Certificate of Deposit (1),,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,

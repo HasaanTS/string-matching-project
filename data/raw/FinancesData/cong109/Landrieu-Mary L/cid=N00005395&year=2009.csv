@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental & Residence/Washington, DC",Real Estate,,1000001,1000001,1,Y,,
+"","Undeveloped land/Slidell, LA",Real Estate,,350002,750000,0,Y,,
+"",Nineland Partnership,Real Estate,,250001,500000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,250001,500000,0,Y,Y,Y
+"",Janus Fund,Unknown,,65002,150000,0,Y,,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,51002,115000,0,Y,,
+"",Louisiana Employees Retirement System,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Dodge & Cox Mutual Fund IRA,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",WM B Reily & Co,Food Process/Sales,,15001,50000,0,Y,,
+"",Whitney Holding Corp,Unknown,,15001,50000,0,Y,,
+"",Undeveloped land/1048 acres,Real Estate,,15001,50000,0,Y,,
+D000021891,Capital One Financial,Finance/Credit,Cash/Money Market/Savings/Checking,15001,50000,0,Y,Y,Y
+"",National Capital Bank of Washington,Commercial Banks,Cash/Money Market/Savings/Checking,1001,16000,0,Y,,
+"",National Capital Bank of Washington/Chkg,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Neuberger Berman/Cash,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,

@@ -1,0 +1,35 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Residence/New Jersey Ave/Washington, DC",Real Estate,,500001,1000000,0,Y,,
+"",Piedmont Federal Savings,Savings & Loans,Unknown,150002,350000,0,Y,,
+"",LRP Real Estate,Real Estate,,100001,250000,0,Y,,
+"",Southern Community Bank Savings,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",First Eagle Global Fund,Unknown,Mutual Fund,59245,59245,0,Y,,
+D000021908,CheSApeake Energy,Oil & Gas,,36015,36015,0,Y,Y,Y
+D000022519,DIRECTV Group,Telecom Svcs,,33941,33941,0,Y,,
+"",Dell Inc,Electronics Mfg/Eqp,,33672,33672,0,Y,,
+D000029410,Texas Industries,Building Materials,,32046,32046,0,Y,,
+D000021844,AON Corp,Insurance,,30459,30459,0,Y,Y,Y
+"",Smith Barney Money Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+D000021765,Bank of New York Mellon,Securities/Invest,,29777,29777,0,Y,Y,Y
+D000000128,Walt Disney Co,TV/Movies/Music,,29633,29633,0,Y,Y,Y
+D000027185,Legg Mason,Securities/Invest,,27384,27384,0,Y,Y,
+D000037533,Sherwin-Williams Co,Chemicals,,25963,25963,0,Y,Y,
+D000000207,Loews Corp,Insurance,,25292,25292,0,Y,Y,Y
+D000000419,Home Depot,Retail Sales,,25243,25243,0,Y,Y,Y
+D000029955,YUM! Brands,Food & Beverage,,25163,25163,0,Y,Y,Y
+D000021773,Travelers Companies,Insurance,,25070,25070,0,Y,Y,Y
+D000000089,Fedex Corp,Air Transport,,24741,24741,0,Y,Y,Y
+D000000161,Waste Management Inc,Waste Management,,23634,23634,0,Y,Y,Y
+"",Cemax Sab De Cv,Unknown,,22855,22855,0,Y,,
+"",Wilmington Trust Corp Coupon,Unknown,Cash/Money Market/Savings/Checking,22830,22830,0,Y,,
+D000000667,Mack-Cali Realty,Real Estate,,21654,21654,0,Y,,
+"",Mohawk Industries,Misc Mfg/Distrib,,19810,19810,0,Y,,
+D000034710,Intercontinental Hotels Group,Lodging/Tourism,,19039,19039,0,Y,Y,
+D000024598,Campbell Soup,Food Process/Sales,,18209,18209,0,Y,Y,Y
+D000035628,Markel Corp,Insurance,,17772,17772,0,Y,,
+"",Phillips Electronics,Unknown,,16885,16885,0,Y,,
+D000021814,Alliant Techsystems,Misc Defense,,15704,15704,0,Y,Y,
+"",Wachovia Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Dreyfus Institutional Reserves,Unknown,Mutual Fund,9242,9242,0,Y,,
+D000025490,Diageo Plc,"Beer, Wine & Liquor",,5798,5798,0,Y,Y,Y

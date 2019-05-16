@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Vanguard 500 Index,Securities/Invest,Mutual Fund,100001,250000,0,T,,
+"",Federal Intermed Corp Bond,Unknown,,100001,250000,0,T,,
+"",UBS Financial Services Account,Unknown,"Brokerage, IRA, 401k",50001,100000,0,T,,
+"",Growth Fund of America,Unknown,Mutual Fund,15001,50000,0,T,,
+"",American Mutual Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",American Funds World Growth Inc,Unknown,Mutual Fund,15001,50000,0,T,,
+"",American Funds World Growth & Income,Unknown,Mutual Fund,15001,50000,0,T,,
+"",American Funds American Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",American Funds American Balanced Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",American Balanced Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",UBS Bank USA Deposit Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",ICMA Retire Corp Growth Fund,Unknown,Mutual Fund,1001,15000,0,T,,

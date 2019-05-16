@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Cottage/County Galway, Ireland",Real Estate,,500001,1000000,0,T,,
+D000023666,CME Group,Securities/Invest,,250001,500000,0,T,Y,Y
+"",Janney Advantage Insured Sweep,Unknown,Cash/Money Market/Savings/Checking,115002,300000,0,T,,
+D000060446,Brookdale Senior Living,Hospitals/Nurs Homes,,100001,250000,0,T,,
+"",Capital World Growth & Income Fund,Unknown,Mutual Fund,65002,150000,0,T,,
+"",Cardiome Pharma,Pharm/Health Prod,,30002,104000,0,T,,
+"",Capital Income Builder Fund,Unknown,Mutual Fund,16002,65000,0,T,,
+"",New Perspective Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Clegg Klemm Friedman LLC,Unknown,,15001,50000,0,T,,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,T,,
+D000021989,Fortress Investment Group,Securities/Invest,,2002,30000,0,T,Y,
+"",Barclays Money Market Obligation Trust,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",529 C Fund Capital Income Builder,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Javelin Pharmaceuticals,Pharm/Health Prod,,0,7000,0,T,,
+D000022524,Blockbuster Inc,Misc Services,,0,1000,0,T,,
+"",AIB Bank Account,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,T,,

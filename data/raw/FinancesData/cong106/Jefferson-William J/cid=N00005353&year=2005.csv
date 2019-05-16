@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Jefferson, Bryan & Jupiter",Unknown,,250001,500000,0,Y,,
+"",Jefferson for Mayor Camp,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,
+"",Liberty Bank/CD,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Jefferson Interest,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",50001,100000,0,Y,,
+"","Farmland 50 acres/Lake Providence, LA",Crop Production,,50001,100000,0,Y,,
+"","Farmland 40 acres/Lake Providence, LA",Crop Production,,50001,100000,0,Y,,
+"",Jefferson for Governor,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,

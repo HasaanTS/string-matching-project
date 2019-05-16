@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Parking Space/Washington, DC",Real Estate,,100001,250000,0,Y,,
+D000000607,Xerox Corp,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+"",Vanguard Total Bond Market Index Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",SPP International Managed Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Savings Plus Society Responsible Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Van Kampen Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",SPP Mid Cap Managed Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Mass Investors Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Delaware Trend Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",California State Municipal Bonds,Unknown,Government Bond,1001,15000,0,Y,,
+"",Allianz Small Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Charles Schwab Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",HHS Enterprises,Real Estate,,1000001,1000001,1,Y,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"","Ranch Property/Conejos County, CO",Livestock,,50001,100000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,Y,Y

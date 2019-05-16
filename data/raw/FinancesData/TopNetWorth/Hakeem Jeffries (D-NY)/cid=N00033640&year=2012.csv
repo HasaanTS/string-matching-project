@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Northwestern Mutual/Whole Life Policy,Unknown,Insurance policies & Annuities,65002,150000,0,Y,,
+"",VALIC Fixed Interest,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",New York Pension,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Baybridge Federal Credit Union Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",TAP Money Market Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",SEF CU/Savings Account,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Russell LifePoints Balanced Strategy Fd,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",PIMCO Ret Institutional,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",John Hancock Disciplined Value 1,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",DFA US Small Cap Portfolio,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",BlackRock Life Path 2020 Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Bank of America/Savings,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

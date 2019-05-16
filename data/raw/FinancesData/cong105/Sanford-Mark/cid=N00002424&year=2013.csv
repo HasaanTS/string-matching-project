@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Smith Tract LLC,Real Estate,,500001,1000000,0,A,,
+"",Sanford Land Co,Real Estate,,500001,1000000,0,A,,
+"",Cotton Hope LLC,Unknown,,500001,1000000,0,A,,
+"",Marshall C Sanford,Unknown,Unknown,252003,530000,0,A,,
+"",Blind John LLC,Real Estate,,250001,500000,0,A,,
+"",Brick 21 LLC,Real Estate,,162008,430000,0,A,,
+D000020995,UBS AG,Securities/Invest,,100001,250000,0,A,Y,
+"",SC Deferred Comp Fund,Unknown,Mutual Fund,100001,250000,0,A,,
+"",Lendingtree LLC,Lawyers/Law Firms,Mutual Fund,100001,250000,0,A,,
+"",Kings Plaza LLC,Real Estate,,100001,250000,0,A,,
+D000000090,Bank of America,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,A,Y,Y
+"",Blue Creek Capital,Real Estate,,47005,180000,0,A,,
+"",Big Tree Rd LLC,Real Estate,,50001,100000,0,A,,
+"",Scottrade - Pro-Shares Ultra,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Merrill Lynch Cash Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+D000000168,Southern Co,Electric Utilities,,1001,15000,0,A,Y,

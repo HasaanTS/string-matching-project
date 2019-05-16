@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Qualified Blind Trust,Unknown,,500001,1000000,0,Y,,
+"",Wisconsin Retirement Systems,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+"",Summit Credit Union/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Summit Credit Union/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Home Savings/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

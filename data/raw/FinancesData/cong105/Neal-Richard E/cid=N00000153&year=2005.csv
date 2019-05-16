@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",City of Springfield Retirement Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Bank North,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",SunAmerica,Unknown,,1001,15000,0,Y,,
+"",Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

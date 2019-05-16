@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Translife Inds Co Variable,Unknown,,15001,50000,0,A,,
+"",First Eagle Us Value Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",First Eagle Overseas Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Corporate Capital Trust,Unknown,,15001,50000,0,A,,
+"",CNL Growth Prop REIT,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Cfcll Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+D000000090,Bank of America,Commercial Banks,Unknown,2002,30000,0,A,Y,Y
+D000036269,Northstar Realty Finance,Real Estate,,1001,15000,0,A,,
+"",Griffin Amer Healthcare Reit,Unknown,,1001,15000,0,A,,
+"",First Eagle Global Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",First Eagle Fund of America,Unknown,Mutual Fund,1001,15000,0,A,,

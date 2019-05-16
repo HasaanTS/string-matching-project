@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000023333,Allianz Life Insurance,,Insurance policies & Annuities,150002,350000,0,Y,,
+"",Stable Value Fund,,Mutual Fund,115002,300000,0,Y,,
+"",General Board & Health Benefits of the US,,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",81004,215000,0,Y,,
+"",Domestic Stock Fund,,Mutual Fund,65002,150000,0,Y,,
+"",Domestic Bond,,Government Bond,51002,115000,0,Y,,
+"",alliance Income & Growth,,Mutual Fund,1001,15000,0,Y,,

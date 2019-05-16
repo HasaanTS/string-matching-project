@@ -1,0 +1,40 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",PLC Properties,Real Estate,,500001,1000000,0,Y,,
+"",Cooper Brothers,Crop Production,,500001,1000000,0,Y,,
+"",2317B Woodmont Blvd/Nashville TN,Real Estate,,500001,1000000,0,Y,,
+"",Thoma Cressey Friends Funds VI & VII,Securities/Invest,,250001,500000,0,Y,,
+"",Centennial Money Market,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+D000022269,SunTrust Banks,Commercial Banks,,100001,250000,0,Y,,
+"",Northern Trust Inst Govt Portfolio,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Harpeth Green Properties,Real Estate,,100001,250000,0,Y,,
+"",Hamilton Fairfax LLC,Unknown,,100001,250000,0,Y,,
+D000021757,Berkshire Hathaway,Securities/Invest,,100001,250000,0,Y,Y,
+"",SunTrust Banks/Checking,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,50001,100000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,50001,100000,0,Y,Y,Y
+"",Essent Health Care,Misc Health,,50001,100000,0,Y,,
+"",Assistive Technology Co,Pharm/Health Prod,,50001,100000,0,Y,,
+"",Adam's Properties vacant lot/Gulfport MS,Real Estate,,50001,100000,0,Y,,
+D000021573,Wachovia Corp,Commercial Banks,,15001,50000,0,Y,Y,
+"",TIAA-CREF,Securities/Invest,Unknown,15001,50000,0,Y,,
+"",Small Town Cable Partners,TV/Movies/Music,,15001,50000,0,Y,,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000027193,Lennox International,Subcontractors,,15001,50000,0,Y,,
+D000022674,Fifth Third Bank,Commercial Banks,,15001,50000,0,Y,,
+"",Fidelity Municipal Money Market,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Fidelity Growth & Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Congressional FCU/Checking & Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000028354,Phoenix Companies,Securities/Invest,,1001,15000,0,Y,Y,
+D000000449,Nortel Networks,Telecom Svcs,,1001,15000,0,Y,Y,Y
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",Federated Ginnie Mae Fund,Real Estate,Unknown,1001,15000,0,Y,,
+"",EDT Learning Co,Unknown,,1001,15000,0,Y,,
+D000033297,Duff & Phelps,Accountants,,1001,15000,0,Y,,
+"",Discovery Fund LP,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000461,Comcast Corp,Telecom Svcs,,1001,15000,0,Y,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,1001,15000,0,Y,Y,
+D000000076,AT&T Inc,Telephone Utilities,,1,1000,0,Y,Y,Y

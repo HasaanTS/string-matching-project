@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","5576 Zeiner Court/Atwater, CA",Real Estate,,250001,500000,0,Y,,
+"",Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000043037,Capital One Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000000090,Bank of America,Commercial Banks,Cash/Money Market/Savings/Checking,45003,150000,0,Y,Y,Y
+"",US Treasury Money Fund of American Funds,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Racehorse/Regrettable Romance,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+"",Racehorse/Beau American,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",15001,50000,0,Y,,
+"",Charles Schwab Bank Account,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Bank of America/Checking & Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",SSGA Dow Jones Target 2025 Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Sprint Nextel,Telecom Svcs,,1001,15000,0,Y,,
+"",Racehorse/Undenied,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,
+"",Racehorse/Pattysbuddy,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,
+"",Racehorse/Jade River,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,
+"",Racehorse/Flying Spirit,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,
+D000032818,CONEXANT SYSTEMS,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Capital Corp of the West,Unknown,,1001,15000,0,Y,,

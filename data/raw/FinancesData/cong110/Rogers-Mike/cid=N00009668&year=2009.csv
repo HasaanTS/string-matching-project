@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000019743,Wells Fargo,Commercial Banks,,50001,100000,0,Y,Y,
+"",Bank of America Account,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Michigan Education Plan,Unknown,"Brokerage, IRA, 401k",2002,30000,0,Y,,
+"",Bi-Petro,Unknown,,1,1000,0,Y,,

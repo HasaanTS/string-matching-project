@@ -1,0 +1,33 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Van Kampen LIT Comstock,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",US Government Savings Bonds,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",MFS Total Return Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",AIG Sun America Corporate Bond Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000480,Williams Companies,Oil & Gas,,2002,30000,0,Y,Y,
+D000000128,Walt Disney Co,TV/Movies/Music,,2002,30000,0,Y,Y,
+"",Seaspan Corp,Unknown,,2002,30000,0,Y,,
+D000042525,Royal Dutch Shell,Oil & Gas,Mutual Fund,2002,30000,0,Y,Y,
+D000000200,PepsiCo Inc,Food & Beverage,,2002,30000,0,Y,Y,Y
+D000000170,Northrop Grumman,Misc Defense,,2002,30000,0,Y,Y,Y
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,Y
+D000000108,Merrill Lynch,Securities/Invest,,2002,30000,0,Y,Y,
+D000022110,Medtronic Inc,Pharm/Health Prod,,2002,30000,0,Y,Y,
+D000022084,Lincoln National Corp,Insurance,,2002,30000,0,Y,Y,Y
+"",iShares MSCI EAFE Index,Unknown,Mutual Fund,2002,30000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,
+D000000133,GlaxoSmithkline,Pharm/Health Prod,,2002,30000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,2002,30000,0,Y,Y,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,Y
+D000000090,Bank of America,Commercial Banks,,2002,30000,0,Y,Y,Y
+"",Standard & Poors Mid Cap 400,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Standard & Poors Mid Cap,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Money Fund,Unknown,,1001,15000,0,Y,,
+"",Legislative Retirement System,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",iShares DJ Select Dividend Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",High Yield Bonds,Unknown,Government Bond,1001,15000,0,Y,,
+"",Foreign Value,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Dreyfus Liquid Assets Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Davis Venture Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Funds Growth & Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Funds Global Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000022724,American Funds,Securities/Invest,,1001,15000,0,Y,,

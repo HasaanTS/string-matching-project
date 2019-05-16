@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",HHS Enterprises/Commercial Real Estate,Real Estate,,1000001,1000001,1,Y,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Colorado Defined Contribution Plan,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"","Ranch Property/Conejos County, CO",Livestock,,50001,100000,0,Y,,
+D000019743,Wells Fargo Bank account,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,Y,
+"",Colorado PERA Retirement Fund,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,

@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rehberg Ranch LLC,Real Estate,,5000001,25000000,0,Y,,
+"",Rehberg Ranch Land & Livestock,Livestock,,5000001,25000000,0,Y,,
+"",Rehberg Ranch Marketing,Real Estate,,1050002,5100000,0,Y,,
+"",Lenhardt Farm LLC,Crop Production,,1000001,5000000,0,Y,,
+"","Rental Property/Billings, MT",Real Estate,,350002,750000,0,Y,,
+"",Goldman Sachs Financial Square Money Market,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",American Washington Mutual Investors,Unknown,,15001,50000,0,Y,,
+"",American New Perspective Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American Growth Fund of America,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Invest Financial Prime Fund Capital Rese,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

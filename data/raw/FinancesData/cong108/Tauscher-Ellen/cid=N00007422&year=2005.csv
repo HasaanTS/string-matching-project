@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Other Assets,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1000001,5000000,0,Y,,
+"",Dryden Stock Index Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Fountain Apartments Ltd,Real Estate,,50001,100000,0,Y,,
+"",Sequia Equities Cypress Point,Unknown,,15001,50000,0,Y,,
+"",Wachovia Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

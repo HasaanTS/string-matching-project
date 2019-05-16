@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",JPMorgan Custody Account/Cash,Unknown,Cash/Money Market/Savings/Checking,5000001,25000000,0,T,,
+"",National Life Insurance Universal Life Policy,Unknown,Insurance policies & Annuities,100001,250000,0,T,,
+"",Treasury Note,Unknown,Government Bond,50001,100000,0,T,,
+D000019642,Northwestern Mutual Life Insurance,Insurance,Insurance policies & Annuities,30002,100000,0,T,,
+D000000163,Freddie Mac Bond,Real Estate,Government Bond,15001,50000,0,T,,

@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fidelity Investments College Investing,Unknown,Mutual Fund,80003,200000,0,Y,,
+"",Pennsylvania Employee Retirement System,Civil Servants,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Now U guaranteed savings plan,Unknown,"Brokerage, IRA, 401k",4004,60000,0,Y,,
+"",Fidelity Blue Chip Growth Fund,Unknown,Mutual Fund,4004,60000,0,Y,,
+"",Janus Flexible Bond,Unknown,Government Bond,15001,50000,0,Y,,
+D000023850,Allegheny Energy,Electric Utilities,,2002,30000,0,Y,Y,Y
+"",Wells Fargo Ult S/T Muni Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",PNC Bank Premium money market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",First National Community Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",First National Community Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Amerprise Insured Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+"",PNC Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+"",Pennsylvania State Employees CU,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,

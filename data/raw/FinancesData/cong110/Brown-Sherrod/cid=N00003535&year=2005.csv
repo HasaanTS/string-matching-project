@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Muhlenkamp Fund,Unknown,Mutual Fund,50001,100000,0,A,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",Brunlea Farm/Richland County,Crop Production,,15001,50000,0,A,,
+"",American Century Growth Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Ohio Public Empl Retirement System,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",Lorain National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+D000021701,AOL LLC,Internet,,1001,15000,0,A,,

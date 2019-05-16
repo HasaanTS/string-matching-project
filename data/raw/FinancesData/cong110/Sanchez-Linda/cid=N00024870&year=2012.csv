@@ -1,0 +1,23 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Real Property,Real Estate,,250001,500000,0,Y,,
+"",SchoolsFirst Federal Credit Union/saving,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",HLS Total Return Bond Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Charles Schwab IRA/Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",CDs,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000090,Bank Of America,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,Y,Y
+"",AMR Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,1002,16000,0,Y,Y,Y
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,Y,Y,Y
+"",UBS Financial Services Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000028315,People's United Bank,Savings & Loans,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",Bank of America/Savings,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",American Funds Investment Co of America,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Funds 529 Plan GFA,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000367,Wal-Mart Stores,Retail Sales,,1,1000,0,Y,Y,
+"",US Savings Bonds,Unknown,Government Bond,1,1000,0,Y,,
+D000042253,Trans World Entertainment,Retail Sales,,1,1000,0,Y,,
+D000000094,Time Warner,TV/Movies/Music,,1,1000,0,Y,Y,Y

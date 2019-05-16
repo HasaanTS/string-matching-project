@@ -1,0 +1,25 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",American Funds Capital Income Builder Fund,,Mutual Fund,101002,265000,0,Y,,
+"",Midwest Community Bank Money Market Account,,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Hanston Insurance Agency,Insurance,Insurance policies & Annuities,100001,250000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,100001,250000,0,Y,Y,Y
+"",Investment Co of America,Securities/Invest,,51002,115000,0,Y,,
+"",Private Loan Debtor: Kelsey Moran ,,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",50001,100000,0,Y,,
+"",Fidelity Growth Opportunity Fund,,Mutual Fund,30002,100000,0,Y,,
+"",Income Fund of America,,Mutual Fund,16002,65000,0,Y,,
+D000037414,Schlumberger Ltd,Oil & Gas,,15001,50000,0,Y,,
+"",MFS Massachusetts Investors Trust,,Mutual Fund,15001,50000,0,Y,,
+D000000281,Halliburton Co,Oil & Gas,,15001,50000,0,Y,Y,Y
+"",First Trust Co of Onaga Money Market Account,,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000000015,Chevron Corp,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000000100,Boeing Co,Defense Aerospace,,15001,50000,0,Y,Y,Y
+"",First Clearing Money Market Account,,"Brokerage, IRA, 401k",2002,30000,0,Y,,
+D000000480,Williams Companies,Oil & Gas,,1001,15000,0,Y,Y,Y
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+D000000206,Occidental Petroleum,Oil & Gas,,1001,15000,0,Y,Y,Y
+"",Centurytel Inc,Unknown,,1001,15000,0,Y,,
+"",Bank of Hays Savings,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bank of Hays Checking,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000069783,Avnet Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",Transocean Ltd,Oil & Gas,,0,1000,0,Y,,

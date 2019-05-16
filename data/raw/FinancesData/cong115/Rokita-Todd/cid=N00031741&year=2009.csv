@@ -1,0 +1,22 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental Property/Indianapolis, IN",Real Estate,,300003,750000,0,N,,
+"",UBS IRA Fixed Income Fund,Unknown,Mutual Fund,15001,50000,0,N,,
+"",UBS IRA Equities Fund,Unknown,Mutual Fund,15001,50000,0,N,,
+"",State of Indiana PERF,Unknown,"Brokerage, IRA, 401k",15001,50000,0,N,,
+"",Fifth Third Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,N,,
+"",Indiana Stable Value Fund,Unknown,Mutual Fund,2002,30000,0,N,,
+"",Indiana 2035 Fund,Unknown,Mutual Fund,2002,30000,0,N,,
+"",UBSIRA Cash Alternative Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",UBS IRA Alternative Strategies,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Turner Mid Cap Growth,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Russell Real Estate Securities,Securities/Invest,,1001,15000,0,N,,
+"",Royce Value Plus Svc,Unknown,Mutual Fund,1001,15000,0,N,,
+"",President Energy TR,Unknown,Mutual Fund,1001,15000,0,N,,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+D000020856,Peabody Energy,Mining,,1001,15000,0,N,Y,Y
+"",Growth Fund of America,Unknown,Mutual Fund,1001,15000,0,N,,
+D000021983,Fifth Third Bancorp,Commercial Banks,,1001,15000,0,N,Y,Y
+D000000188,Dow Chemical,Chemicals,,1001,15000,0,N,Y,
+"",Columbia Small Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Calamos Conv Growth Fund,Unknown,Mutual Fund,1001,15000,0,N,,
+"",Allegrant Mid Cap Value,Unknown,Mutual Fund,1001,15000,0,N,,

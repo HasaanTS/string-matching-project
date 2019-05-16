@@ -1,0 +1,34 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental/Banner Elk, NC",Real Estate,,450007,1000000,0,Y,,
+"","House & Lot 6 Rosebay Sub/Banner Elk, NC",Real Estate,,500002,1000000,0,Y,,
+"","Farm Land/Banner Elk, NC",Crop Production,,500001,1000000,0,Y,,
+"",Foxx Family Inc,Unknown,,250001,500000,0,Y,,
+"",Wachovia Command Asset Program Account,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Transamerica Annuity,Unknown,Insurance policies & Annuities,100001,250000,0,Y,,
+"","Rental Building/Spruce Pine, NC",Real Estate,,100001,250000,0,Y,,
+"",Evergreen New Solutions,Unknown,,100001,250000,0,Y,,
+"",UK High Yield Mans Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Tol Ex Bond Fund America,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Lot 1 Rosebay Sub/Banner Elk NC,Real Estate,,50001,100000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,50001,100000,0,Y,Y,Y
+"",Rick Carpenter,Real Estate,,15001,50000,0,Y,,
+"",Hartford,Misc Finance,,15001,50000,0,Y,,
+"",Fidelity Equity Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000015,Chevron Corp,Oil & Gas,,15001,50000,0,Y,Y,
+D000000090,Bank of America,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",New York Life Roth,Unknown,"Brokerage, IRA, 401k",2002,30000,0,Y,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Washington REIT,Real Estate,,1001,15000,0,Y,,
+D000021573,Wachovia Corp,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,Y
+"",US Bonds,Unknown,Government Bond,1001,15000,0,Y,,
+D000000638,Starwood Hotels & Resorts,Lodging/Tourism,,1001,15000,0,Y,Y,
+"",Smacker,Unknown,,1001,15000,0,Y,,
+"",Prsct Gamb,Unknown,Unknown,1001,15000,0,Y,,
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,Y,Y,
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,
+D000000403,CMS Energy,Electric Utilities,,1001,15000,0,Y,Y,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,Y,Y,
+D000024193,Atmos Energy,Oil & Gas,,1001,15000,0,Y,,
+D000000067,Altria Group,Tobacco,,1001,15000,0,Y,Y,
+D000000367,Wal-Mart Stores,Retail Sales,,1,1000,0,Y,Y,Y

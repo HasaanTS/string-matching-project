@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental Unit,Real Estate,,100001,250000,0,Y,,
+"",Retirement Account,Unknown,"Brokerage, IRA, 401k",65002,150000,0,Y,,
+D000023236,Education Minnesota,Education,"Brokerage, IRA, 401k",16002,65000,0,Y,,
+"",Life Insurance,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Family Farm,Crop Production,,15001,50000,0,Y,,
+"",Northwestern Mutual Life Insurance Whole,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",Education 529 Plan,Unknown,Mutual Fund,1001,15000,0,Y,,

@@ -1,0 +1,16 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Pennsylvania Employees Retirement System,,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",MA Moderate Growth Portfolio,,Mutual Fund,100001,250000,0,Y,,
+"",Janus Flexible Bond A Fund,,Mutual Fund,50001,100000,0,Y,,
+"",MA Portfolio 2015,,Mutual Fund,15001,50000,0,Y,,
+"",MA Aggressive Growth Portfolio,,Mutual Fund,15001,50000,0,Y,,
+"",Ameriprise Insured Money Market,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Ameriprise Achiever Circle Portfolio,,Mutual Fund,15001,50000,0,Y,,
+"",First National Community Bank Dunmore/Checking,,Cash/Money Market/Savings/Checking,3003,45000,0,Y,,
+"",Now UInstitution: Pennsylvania,,"Brokerage, IRA, 401k",2002,30000,0,Y,,
+D000000531,Firstenergy Corp,Electric Utilities,,2002,30000,0,Y,Y,Y
+"",Fidelity Blue Chip Growth,,Mutual Fund,2002,30000,0,Y,,
+"",First National Community Bank,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",United States Senate Federal Credit Union,,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+"",PA State Employees Credit Union,,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+"",Fidelity Blue Chip Growth Fund,,Mutual Fund,0,1000,0,Y,,

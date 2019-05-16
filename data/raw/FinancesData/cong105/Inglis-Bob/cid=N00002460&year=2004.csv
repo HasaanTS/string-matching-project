@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Schwab Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Fidelity Internal Bank,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Equity Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Equity Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

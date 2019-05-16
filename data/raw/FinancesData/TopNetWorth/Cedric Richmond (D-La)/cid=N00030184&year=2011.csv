@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental Property/New Orleans, LA",Real Estate,,50001,100000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"","Land/78 acres/Jeff Davis, MS",Unknown,,1001,15000,0,Y,,
+"",TD Ameritrade Insured Deposit Account,Unknown,,1,1000,0,Y,,
+D000037610,Sirius XM Radio,TV/Movies/Music,,1,1000,0,Y,Y,
+"",Chase Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

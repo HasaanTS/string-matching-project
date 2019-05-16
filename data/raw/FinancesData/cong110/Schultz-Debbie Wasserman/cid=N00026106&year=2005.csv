@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Community Bank of Banard,Commercial Banks,,115002,300000,0,Y,,
+"",401 Retirement Account,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Small Cap Index Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Schwab Money Market Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",John Hancock Templeton Foreign Small Co,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Community Bank of Broward,Commercial Banks,,1001,15000,0,Y,,
+"",American Funds EuroPacific Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Century Small Company Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

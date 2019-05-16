@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",TIAA-CREF Retirement,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,T,,
+"","Rental House/Edisto Island, SC",Real Estate,,250001,500000,0,T,,
+"",Lot/Lottsburg VA,Real Estate,,250001,500000,0,T,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",250001,500000,0,T,,
+"",PERA Retirement System,Unknown,"Brokerage, IRA, 401k",150002,350000,0,T,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,100001,250000,0,T,,
+"",Air ACA Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,

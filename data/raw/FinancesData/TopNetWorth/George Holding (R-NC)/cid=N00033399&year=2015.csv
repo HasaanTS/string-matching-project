@@ -1,0 +1,37 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000025811,First Citizens Bancshares,,Cash/Money Market/Savings/Checking,1001002,5015000,0,Y,,Y
+"",Cape Fear LLP,Real Estate,,500001,1000000,0,Y,,
+"",Loan to George Holding for Congress,,Note/Note Receivable,250001,500000,0,Y,,
+D000021868,BB&T Corp,Commercial Banks,,250001,500000,0,Y,Y,Y
+"",Sterling Capital NC Intermediate Tax-Free,,Government Bond,100001,250000,0,Y,,
+"","Haywood County, NC Bond",,Government Bond,100001,250000,0,Y,,
+"",Chapel Hill Bond,,Government Bond,100001,250000,0,Y,,
+"",Travelers Cos,,,50001,100000,0,Y,,
+"",Philip Morris,,,50001,100000,0,Y,,
+"","Johnston County, NC Bond",,Government Bond,50001,100000,0,Y,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,50001,100000,0,Y,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,50001,100000,0,Y,Y,Y
+"","Forsyth County, NC Bond",,Government Bond,50001,100000,0,Y,,
+D000000461,Comcast Corp,Telecom Svcs,,50001,100000,0,Y,Y,Y
+D000000212,Coca-Cola Co,Food & Beverage,,50001,100000,0,Y,Y,Y
+"",Chatham County Bond,,Government Bond,50001,100000,0,Y,,
+"","Buncombe County, NC Bond",,Government Bond,50001,100000,0,Y,,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,50001,100000,0,Y,Y,
+"",BB&T Money Market Account,,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+D000037414,Schlumberger Ltd,Oil & Gas,,15001,50000,0,Y,,
+D000042525,Royal Dutch Shell,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+D000000138,Pfizer Inc,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+"",Mount Olive Pickle,Unknown,,15001,50000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+"",Harding Loevner International Equity Portfolio,,Mutual Fund,15001,50000,0,Y,,
+"",Harbor International Fund,,Mutual Fund,15001,50000,0,Y,,
+"",Goldman Sachs Growth Opportunities Fund,,Mutual Fund,15001,50000,0,Y,,
+D000000495,Dupont Co,Chemicals,,15001,50000,0,Y,,
+D000000015,Chevron Corp,Oil & Gas,,15001,50000,0,Y,Y,Y
+D000032076,Boyle Investment Co,,,15001,50000,0,Y,,
+D000000076,AT&T Inc,Telephone Utilities,,15001,50000,0,Y,Y,Y
+"",Artisan Funds Midcap Value,,Mutual Fund,15001,50000,0,Y,,
+D000000383,Abbott Laboratories,Pharm/Health Prod,,15001,50000,0,Y,Y,Y
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y

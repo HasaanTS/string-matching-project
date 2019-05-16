@@ -1,0 +1,22 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental Condo/Boston, MA",Real Estate,,300003,750000,0,Y,,
+"",FIA Card Services NA RISP IRA,Unknown,Cash/Money Market/Savings/Checking,151003,365000,0,Y,,
+"",FIA Card Services NA Retirement,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Law Office of Scott P Brown,Lawyers/Law Firms,,50001,100000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,50001,100000,0,Y,Y,Y
+"",Commonwealth of Mass State Retirement,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",T Rowe Price Us Treasury Money,Unknown,Cash/Money Market/Savings/Checking,57827,57827,0,Y,,
+"",FIA Card Services NA Retirement IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,15001,50000,0,Y,Y,Y
+"",Bank RI NA RISP MPPP Retirement,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000000090,Bank of America,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",T Rowe Price Growth & Inc Trust,Unknown,Mutual Fund,45498,45498,0,Y,,
+D000000118,Union Pacific Corp,Railroads,,1001,15000,0,Y,Y,
+D000000163,Freddie Mac Bond,Real Estate,Government Bond,1001,15000,0,Y,,
+"",FHLMC Trustee Account UGMA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Cash Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",T Rowe Price Value Fund,Unknown,Mutual Fund,5847,5847,0,Y,,
+"",T Rowe Price Retirement 2020,Unknown,Mutual Fund,5178,5178,0,Y,,
+"",American Funds Europacific Growth Fund,Unknown,Mutual Fund,5127,5127,0,Y,,
+"",Equity Index Trust,Unknown,Mutual Fund,4665,4665,0,Y,,
+"",T Rowe Price New Horizons Fund,Unknown,Mutual Fund,3211,3211,0,Y,,

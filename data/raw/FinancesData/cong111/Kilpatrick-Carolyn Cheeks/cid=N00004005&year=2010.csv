@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Oppenheimer Advantage Bank Deposit,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"",MFS Inflation Adj Bond Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Fundamental Investors Fund,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Capital Income Builder,Unknown,Mutual Fund,15001,50000,0,T,,
+D000028396,PNC Bank Corp,Commercial Banks,Unknown,1001,15000,0,T,,
+"",Lord Abbett Investment Trust Balance,Unknown,Mutual Fund,1001,15000,0,T,,
+D000000103,JPMorgan Chase Bank,Commercial Banks,,1001,15000,0,T,Y,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,T,Y,
+"",Advantage Government Liquid Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+D000000418,International Game Technology,Casinos/Gambling,,1,1000,0,T,Y,
+D000021970,eBay Inc,Internet,,1,1000,0,T,Y,

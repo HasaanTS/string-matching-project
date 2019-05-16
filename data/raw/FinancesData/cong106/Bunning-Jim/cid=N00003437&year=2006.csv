@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Equitable Life Insurance,Insurance,Unknown,250001,500000,0,Y,,
+"",Fifth Third Bank/Checking & Savings,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Triple Crown Media,Unknown,,1001,15000,0,Y,,
+"",E*Trade,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental Unit,Real Estate,,100001,250000,0,Y,,
+"",Teachers' Retirment Assn of Minnesota,Unknown,"Brokerage, IRA, 401k",65002,150000,0,Y,,
+D000023236,Education Minnesota,Education,,16002,65000,0,Y,,
+"",Remainder Interest in family farm,Real Estate,,15001,50000,0,Y,,
+"",MassMutual Life Insurance policy,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",NW Mutual Life Insurance/Whole,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",American Funds American Balanced Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

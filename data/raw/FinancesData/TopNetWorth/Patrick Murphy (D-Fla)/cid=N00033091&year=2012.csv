@@ -1,0 +1,23 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000032704,Coastal Construction Group,General Contractors,,1000001,5000000,0,Y,,Y
+"",BB&T Savings Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Principal Real Estate Inv US Property,Real Estate,,1001,15000,0,Y,,
+"",Principal Life Term 2050 Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Principal Life Term 2040 Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Principal Global Small Cap Blend Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Principal Global Mid Cap Blend Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Principal Global Large Cap S&P 500 Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Principal Global Investors Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Principal Global Investor Diversified Fd,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Principal Global Intl Emerging Mkts Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Principal Global Bond & Mortgage Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Powershare TR Wilder,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Franklin Utilities Fund,Electric Utilities,Mutual Fund,1001,15000,0,Y,,
+"",Franklin Dynatech Fund,Misc Finance,Mutual Fund,1001,15000,0,Y,,
+"",Columbus Circle Large Cap Growth,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Coastal Construction Group 401k,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",BB&T Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",American Balanced Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Capital Fund,Unknown,Mutual Fund,1,1000,0,Y,,

@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","House 4317 Buckeystown Pk/Frederick, MD",Real Estate,,1000001,5000000,0,Y,,
+"",Frederick County Bank,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",Putnam Bonds,Unknown,Government Bond,100001,250000,0,Y,,
+"",Precious Metals,Mining,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,
+"","Land & Houses/Pocahontas County, WV",Real Estate,,100001,250000,0,Y,,
+"","House 1A 4219 Lime Kiln Rd/Frederick, MD",Real Estate,,100001,250000,0,Y,,
+"","House 230 Knoxville Rd/Knoxville, MD",Real Estate,,50001,100000,0,Y,,

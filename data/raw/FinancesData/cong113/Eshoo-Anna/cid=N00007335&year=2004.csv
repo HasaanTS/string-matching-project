@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Hartford Deferred Compensation,Unknown,"Brokerage, IRA, 401k",100001,250000,0,A,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Templeton Dragon Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",San Mateo County Retirement Fund,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,A,,
+"",Pace International Equity Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Wright Patman Congressional FCU/Savings,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Wright Patman Congressional FCU/Checking,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",San Mateo Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+D000028280,Penn Mutual Life Insurance,Insurance,Unknown,1,1000,0,Y,,
+"",First Republic Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

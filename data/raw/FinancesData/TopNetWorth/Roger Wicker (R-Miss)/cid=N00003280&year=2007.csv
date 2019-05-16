@@ -1,0 +1,19 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Bashford Lane/Alexandria, VA",Real Estate,,500002,1000000,0,Y,,
+"","710 North Gloster/Tupelo, MS",Real Estate,,100001,250000,0,Y,,
+"","1001 Valley Road/Tupelo, MS",Real Estate,,100001,250000,0,Y,,
+D000000223,Schering-Plough Corp,Pharm/Health Prod,,51002,115000,0,Y,Y,Y
+"",Walgreen Co,Retail Sales,,15001,50000,0,A,,
+D000028580,Renasant Corp,Commercial Banks,,15001,50000,0,Y,,Y
+"",Putnam Growth & Income Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+D000024243,BancorpSouth Bank,Commercial Banks,,15001,50000,0,Y,,
+D000058942,Allegheny Corp,Insurance,,15001,50000,0,Y,,
+"",US Treasury Bond,Unknown,Government Bond,1001,15000,0,A,,
+D000067466,Tenaris Sa,Steel Production,,1001,15000,0,A,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,Y,Y,
+"",Furniture Brands International,Misc Mfg/Distrib,,1001,15000,0,Y,,
+"",American Funds Investment Co of America,Unknown,Mutual Fund,1001,15000,0,A,,
+D000023883,Amazon.com,Internet,,1001,15000,0,Y,Y,Y
+"",ABAG Partner Health Facilities Bond,Unknown,,1001,15000,0,Y,,
+D000000367,Wal-Mart Stores,Retail Sales,,0,1000,0,A,Y,Y
+D000023834,Alcatel-Lucent,Telecom Svcs,,0,1000,0,Y,Y,

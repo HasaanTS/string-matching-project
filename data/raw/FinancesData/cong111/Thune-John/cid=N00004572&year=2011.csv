@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Brokerage Money Market,Unknown,Cash/Money Market/Savings/Checking,80003,200000,0,Y,,
+"",Franklin Federal Interm Tax Free Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Money Market Plus SD,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",First Eagle Gold Fund,Mining,,2002,30000,0,Y,,
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Sprott Physical Gold Trust,Mining,Mutual Fund,1001,15000,0,Y,,
+"",Scout Mid Cap,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",PIMCO All Asset Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Oakmark Equity & Income Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Hussman Strategic Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Tax Free Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Cong Federal Credit Union Savings,Unknown,,1001,15000,0,Y,,
+D000024778,CHS Inc,Agricultural Svcs,,1001,15000,0,Y,Y,Y
+"",Blackrock Global Allocation Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Templeton Global Total Return Fund,Unknown,Mutual Fund,0,1000,0,Y,,
+"",Janus Balanced (JABAX),Unknown,,0,1000,0,Y,,
+"",Gabelli Global Gold & Natural Resources,Mining,,0,1000,0,Y,,

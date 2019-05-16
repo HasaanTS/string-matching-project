@@ -1,0 +1,14 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Rental Property/Brooklyn, NY",Real Estate,,250001,500000,0,A,,
+"",New York Community Bank 4,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",New York Community Bank 3,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",New York Community Bank 1,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+"",New York Community Bank 2,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,A,Y,Y
+D000062576,Mutual of America,Insurance,,1001,15000,0,A,,
+"",GMAC Mortgage Escrow,Real Estate,Unknown,1001,15000,0,A,,
+"",Congressional FCU Account 2,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",Congressional FCU Account 1,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",Bank of America (Escrow) #2,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",Bank of America (Escrow) #1,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+D000000090,Bank of America,Commercial Banks,Unknown,1001,15000,0,A,Y,Y

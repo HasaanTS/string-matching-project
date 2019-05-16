@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Farmland/Conejos & Costilla Counties, CO",Crop Production,,1000001,5000000,0,A,,
+"",Spudseed.com,,,1001,15000,0,Y,,
+D000000419,Home Depot,Retail Sales,,1001,15000,0,Y,Y,
+D000000716,Hewlett-Packard,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",First Community Bank Colorado,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

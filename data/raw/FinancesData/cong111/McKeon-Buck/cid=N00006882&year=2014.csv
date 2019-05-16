@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Metlife Investors Flexible Premium Adjustable Life,Unknown,Mutual Fund,50001,100000,0,T,,
+D000020618,Chase Manhattan Bank,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,T,Y,
+"",Congressional Federal Credit Union/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Congressional FCU/Savings,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,T,,

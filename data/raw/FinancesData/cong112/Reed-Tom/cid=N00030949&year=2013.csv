@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",R&R Resource Recovery,Unknown,,100001,250000,0,Y,,
+"",R&R Properties,Real Estate,,100001,250000,0,Y,,
+"",Northwestern Mutual Life Insurance Whole Life,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Guardian Whole Life Insurance Policy,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"","Real Estate/Liverpool/Onondaga, NY",Real Estate,,1001,15000,0,Y,,
+"",Oclaro,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+"",M&T Bank accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

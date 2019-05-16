@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",AIG VALIC Annuity Insurance,Unknown,Insurance policies & Annuities,265002,550000,0,Y,,
+"",Knight Ins,Unknown,,15001,50000,0,Y,,
+"",Covenant Bank,Commercial Banks,,1002,16000,0,Y,,
+D000027997,Nicor Gas,Oil & Gas,,1001,15000,0,Y,Y,
+"",United Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Southside Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Securities Income,Unknown,"Brokerage, IRA, 401k",1,1000,0,Y,,
+"",Pegasus Fund,Unknown,Mutual Fund,1,1000,0,Y,,
+"",Legent Cons,Unknown,Unknown,1,1000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,Cash/Money Market/Savings/Checking,1,1000,0,Y,Y,
+"",Equitable,Insurance,,1,1000,0,Y,,
+D000043496,Austin Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

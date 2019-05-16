@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Citizens Bank Account,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,T,,
+"",TRP Retirement 2035,Unknown,Mutual Fund,50001,100000,0,T,,
+"",TRP Mid CaP,Unknown,Mutual Fund,50001,100000,0,T,,
+"",Real Estate,Real Estate,,50001,100000,0,T,,
+"","Insurance, Pension, Benefits",Unknown,Insurance policies & Annuities,50001,100000,0,T,,
+"","Cash, Bank Deposits",Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,T,,
+"",Schwab,Securities/Invest,,16002,65000,0,T,,
+"",TRP Blue ChP,Unknown,Mutual Fund,15001,50000,0,T,,
+D000000128,Walt Disney Co,TV/Movies/Music,,1001,15000,0,T,Y,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+D000031610,Ariba Inc,Electronics Mfg/Eqp,Mutual Fund,1001,15000,0,T,,

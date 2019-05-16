@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000019642,Northwestern Mutual Life Insurance,Insurance,Insurance policies & Annuities,100001,250000,0,Y,,
+"",Fidelity Muncipal Money Market,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Lugar Stock Farm,Livestock,,100002,200000,0,Y,,
+"",Fidelity Cash Reserves,Unknown,Cash/Money Market/Savings/Checking,55006,175000,0,Y,,
+D000000207,Continental Assurance Co,Insurance,,15001,50000,0,Y,Y,Y
+"",US Dept of the Treasury I-Bond,Unknown,Government Bond,2002,30000,0,Y,,
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",SunTrust Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Vanguard Total Stock Market Index,Unknown,Mutual Fund,0,1000,0,Y,,

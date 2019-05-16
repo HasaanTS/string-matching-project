@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000022723,ING Direct,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Vanguard Money Market IRA,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Aquinas LKCM US Bancorps Services,Unknown,,15001,50000,0,Y,,

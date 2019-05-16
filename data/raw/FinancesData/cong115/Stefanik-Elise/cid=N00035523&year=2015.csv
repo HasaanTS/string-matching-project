@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Residential Rental Property,Real Estate,,100001,250000,0,Y,,
+"",First Niagra CD,,Cash/Money Market/Savings/Checking,17003,80000,0,Y,,
+"",First Niagra Personal Checking,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",First Niagra Money Market,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

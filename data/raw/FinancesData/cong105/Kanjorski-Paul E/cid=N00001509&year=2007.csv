@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Property/90 acres/Wright Twp, PA",Real Estate,,1000001,5000000,0,Y,,
+"","Property/20 acres/Dallas Twp, PA",Real Estate,,500001,1000000,0,Y,,
+"","126 S Franklin Street/Wilkes-Barre, PA",Real Estate,,250001,500000,0,Y,,
+"",Van Kampen Government Sec Fund,Unknown,Mutual Fund,30002,100000,0,Y,,
+"","Parent's Estate Prospect/Nanticoke, PA",Real Estate,,50001,100000,0,Y,,
+"",Cross Valley Credit Union,Credit Unions,Unknown,50001,100000,0,Y,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Equi-Vest guaranteed interest account,Unknown,Cash/Money Market/Savings/Checking,1002,16000,0,Y,,
+"",Law office movable assets,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,

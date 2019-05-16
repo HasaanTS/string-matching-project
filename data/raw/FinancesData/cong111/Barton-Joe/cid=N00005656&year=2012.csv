@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000043943,EOG Resources,Oil & Gas,,50001,100000,0,Y,,Y
+"",Ennis Business Forms,Business Services,Unknown,15001,50000,0,Y,,
+D000000367,Wal-Mart Stores,Retail Sales,,1001,15000,0,Y,Y,Y
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,Y,Y,Y

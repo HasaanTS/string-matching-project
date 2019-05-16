@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000090,Bank Of America,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,Y,
+"",Prudential Insurance Co,Insurance,,15001,50000,0,Y,,
+D000000172,MetLife Inc,Insurance,,1001,15000,0,Y,Y,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1,1000,0,Y,Y,

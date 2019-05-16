@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",First Command Financial Services Life In,Unknown,Insurance policies & Annuities,100001,250000,0,Y,,
+"",PSE&G,Unknown,,50001,100000,0,Y,,
+"",Raymond James IRA,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000000182,Ford Motor Co,Automotive,,15001,50000,0,Y,Y,
+"",First Command Financial Services 401k,Unknown,,15001,50000,0,Y,,
+"",529 College Investment Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fort Sill Federal Credit Union/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",First Command Financial - Savings & Ch,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

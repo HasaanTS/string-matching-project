@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Contract for Deed - Stephen Bost,,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,
+"",T Rowe Price Retire 2025 Tr D,,Mutual Fund,50001,100000,0,Y,,
+"",Putnam Growth Opportunities Fund,,Mutual Fund,15001,50000,0,Y,,
+"",Putnam Global Health Care Fund,Misc Health,Mutual Fund,15001,50000,0,Y,,
+"",American Funds Growth Fund,,Mutual Fund,15001,50000,0,Y,,
+"",First Bank & Trust Savings account,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",First Bank & Trust Checking Account,,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000033672,First Bank & Trust,Commercial Banks,,1001,15000,0,Y,,
+"",Equipment - Beauty Salon,,,1001,15000,0,Y,,

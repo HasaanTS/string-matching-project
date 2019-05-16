@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","511 Bashford Lane/Alexandria, VA",Real Estate,,250001,500000,0,Y,,
+"",Putnam Growth IRA,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000223,Schering-Plough Corp,Pharm/Health Prod,,2002,30000,0,Y,Y,
+D000000530,Lucent Technologies,Telecom Svcs,,1001,15000,0,Y,Y,
+"",Furniture Brands International,Misc Mfg/Distrib,,1001,15000,0,Y,,
+"",American Funds IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000023883,Amazon.com,Internet,,1001,15000,0,Y,Y,
+"",People Bank,Commercial Banks,,1,1000,0,Y,,
+"",BIO-key International,Unknown,,1,1000,0,Y,,
+D000024209,Avaya Inc,Telecom Svcs,,1,1000,0,Y,Y,

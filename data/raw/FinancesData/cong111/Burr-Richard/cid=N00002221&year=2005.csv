@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Residence/Washington, DC",Real Estate,,500001,1000000,0,Y,,
+"",BB&T Bank,Commercial Banks,,45003,150000,0,Y,,
+"",Edward D Jones/Cash,Unknown,Cash/Money Market/Savings/Checking,52003,130000,0,Y,,
+"",Piedmont Federal Savings,Unknown,Cash/Money Market/Savings/Checking,51002,115000,0,Y,,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,51002,115000,0,Y,Y,
+D000000457,Corning Inc,Misc Mfg/Distrib,,50001,100000,0,Y,Y,Y
+"",Wachovia Savings,Unknown,Cash/Money Market/Savings/Checking,16002,65000,0,Y,,
+D000021573,Wachovia Corp,Commercial Banks,,15001,50000,0,Y,Y,Y
+"",Small Cap Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Wachovia Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000029280,Sun Microsystems,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+"",Southern Community Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000056103,RF Micro Devices,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",Lord Abbett Developing Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Goldman Sachs Equity,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000467,General Mills,Food Process/Sales,,1001,15000,0,Y,Y,Y

@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Mass Mutual Life Insurance policy,Unknown,Insurance policies & Annuities,250001,500000,0,Y,,
+"",Lincoln Life Fixed Account,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",American Funds Growth Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Wright Patman Congressional FCU,Credit Unions,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Mass Mutual Odyssey Fixed Annuity,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Delaware VIP Diversified Income,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Wachovia Bank accounts,Unknown,,1001,15000,0,Y,,
+"",Mass Mutual Life Insur whole life policy,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,

@@ -1,0 +1,27 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Fifth Third Saving Accounts,Unknown,Cash/Money Market/Savings/Checking,1000001,5000000,0,O,,
+"",229-243 S High Street,Real Estate,,1000001,5000000,0,O,,
+D000028398,PNC Financial Services,Commercial Banks,,100001,250000,0,O,Y,Y
+"",Key,Unknown,Unknown,100001,250000,0,O,,
+"",Joyce Beatty & Assoc DPA Pieces,Unknown,,100001,250000,0,O,,
+D000021983,Fifth Third Bancorp,Commercial Banks,,100001,250000,0,O,Y,Y
+"",Pershing IRA/Cash,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,O,,
+"",US Savings Bond,Unknown,Government Bond,15001,50000,0,O,,
+"",Joyce & Otto Beatty Scholarship Fund,Unknown,Mutual Fund,15001,50000,0,O,,
+"",Ohio Credit Union,Unknown,Cash/Money Market/Savings/Checking,2002,30000,0,O,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,2002,30000,0,O,Y,Y
+"",Touchstone Flexible Income Fund,Unknown,Mutual Fund,1001,15000,0,O,,
+D000000168,Southern Co,Electric Utilities,,1001,15000,0,O,Y,
+"",Source Capital Inc,Securities/Invest,,1001,15000,0,O,,
+"",Nuveen Quality Preferred Income Fund,Unknown,Mutual Fund,1001,15000,0,O,,
+"",NASDAQ Premium Income & Growth Fund Inc,Unknown,Mutual Fund,1001,15000,0,O,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,O,Y,Y
+"",iShares MSCI Singapore Index Fund,Unknown,Mutual Fund,1001,15000,0,O,,
+D000026556,Huntington Bancshares,Commercial Banks,,1001,15000,0,O,Y,Y
+"",Federal Home Loan Mortgage Corp,Real Estate,,1001,15000,0,O,,
+D000033563,Facebook Inc,Internet,,1001,15000,0,O,Y,
+"",Corinthian Baptist Church Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,O,,
+"",Columbus Municipal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,O,,
+"",CareFusion Corp,Pharm/Health Prod,,1001,15000,0,O,,
+D000021892,Cardinal Health,Pharm/Health Prod,,1001,15000,0,O,Y,Y
+D000000217,American Express,Finance/Credit,,1001,15000,0,O,Y,Y

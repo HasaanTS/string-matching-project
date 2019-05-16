@@ -1,0 +1,27 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Residence/Washington, DC",Real Estate,,500001,1000000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,Y,Y,Y
+"",US Senate Federal Credit Union Accounts,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"","Ranch Land/359 acres/Fremont, ID",Livestock,,15001,50000,0,Y,,
+"",Public Employee Retirement System of Idaho,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+D000026221,Gilead Sciences,Pharm/Health Prod,,11250,11250,0,Y,Y,
+D000000373,McDonald's Corp,Food & Beverage,,5099,5099,0,Y,Y,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,4431,4431,0,Y,,
+D000021977,Express Scripts,Health Services,,4068,4068,0,Y,Y,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,3973,3973,0,Y,,
+D000000212,Coca-Cola Co,Food & Beverage,,3349,3349,0,Y,Y,
+D000022108,MedCo Health Solutions,Health Services,,3227,3227,0,Y,Y,
+"",Calamos Growth Fund,Unknown,Mutual Fund,3149,3149,0,Y,,
+D000000467,General Mills,Food Process/Sales,,2916,2916,0,Y,Y,
+D000025492,Diamond Foods,Crop Production,,2559,2559,0,Y,,
+D000032736,Colgate-Palmolive Co,Pharm/Health Prod,,2398,2398,0,Y,Y,
+D000000391,Amgen Inc,Pharm/Health Prod,,2079,2079,0,Y,Y,Y
+D000021754,Apple Inc,Electronics Mfg/Eqp,,2048,2048,0,Y,Y,
+"",Dreamworks Animation,Unknown,,1945,1945,0,Y,,
+D000029172,St Jude Medical,Pharm/Health Prod,,1878,1878,0,Y,Y,
+D000029206,Stericycle Inc,Waste Management,,1822,1822,0,Y,Y,
+D000000643,Baxter International,Pharm/Health Prod,,1768,1768,0,Y,Y,
+"",Apollo Group,Education,,1685,1685,0,Y,,
+"",Devry Inc,Education,,1550,1550,0,Y,,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,1540,1540,0,Y,Y,Y
+"",Research In Motion,Retail Sales,,933,933,0,Y,,

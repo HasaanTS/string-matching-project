@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Various BlackRock Mutual Funds,Unknown,Mutual Fund,180004,450000,0,Y,,
+"",Various American Funds Mutual Funds,Unknown,Mutual Fund,31003,115000,0,Y,,
+"",PIMCO Total Return Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",JPMorgan Mid Cap Value Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Columbia Marisco Focused Equity Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Calamos Growth & Income Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American Funds Income Fund of America,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American Capital World Growth & Income,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Wachovia/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Wachovia Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

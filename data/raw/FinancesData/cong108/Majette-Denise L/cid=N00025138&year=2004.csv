@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Camp Valley,Real Estate,,100001,250000,0,T,,
+"",1759 Langston,Real Estate,,100001,250000,0,T,,
+"",1742 Evans,Real Estate,,100001,250000,0,T,,
+"",1500 Langston,Real Estate,,100001,250000,0,T,,
+"",1060 Orlando,Real Estate,,100001,250000,0,T,,
+"",State Judges Retirement Fund,Unknown,"Brokerage, IRA, 401k",50001,100000,0,T,,
+"",Nationwide Ret Solut,Unknown,,50001,100000,0,T,,
+"",Georgia Merit System/Peach Res,Unknown,Unknown,15001,50000,0,T,,
+"",Van Kampen Growth Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Putnam Voyager Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Prudential Financial IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,T,,
+D000000419,Home Depot,Retail Sales,,1001,15000,0,T,Y,Y
+"",Gartmore Nat,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",American Century Ultra Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Aim Investments,Unknown,,1001,15000,0,T,,

@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Trust Company of America,Unknown,,15001,50000,0,A,,
+"",Peoples Bank Account,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,A,,
+"",National Western Life,Unknown,,15001,50000,0,A,,
+"",Commonwealth of Virginia Deferred Comp,Unknown,"Brokerage, IRA, 401k",15001,50000,0,A,,
+"",Vanguard US Growth Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Vanguard 500 Index,Securities/Invest,Mutual Fund,1001,15000,0,A,,
+"",Fidelity Ariel Appreciation Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Commonwealth of Virginia 401a Cash Mat,Unknown,"Brokerage, IRA, 401k",1001,15000,0,A,,
+D000058995,Bank of Lancaster,Commercial Banks,,1001,15000,0,A,,

@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Myrtle MS Farm,Crop Production,,2000002,10000000,0,T,,
+"",Grayling Industries,,,1000001,5000000,0,T,,
+"",SunTrust Bank Money Market,Unknown,Cash/Money Market/Savings/Checking,1500002,2000000,0,T,,
+"",Schwab Money Market,Unknown,Cash/Money Market/Savings/Checking,1500001,2000000,0,T,,
+"",Turkey Buzzard Timber,Forest Products,,500001,1000000,0,T,,
+"",Turkey Neck Farms,Forest Products,,100001,250000,0,T,,
+"",Turkey Deer Trace LLC IRA,Unknown,"Brokerage, IRA, 401k",100001,250000,0,T,,

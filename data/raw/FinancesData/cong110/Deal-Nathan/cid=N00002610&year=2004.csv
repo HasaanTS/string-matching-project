@@ -1,0 +1,37 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",C&D Investments,Unknown,,1000001,5000000,0,Y,,
+"","33 acres on Riverbend Road/Demorest, GA",Real Estate,,500001,1000000,0,Y,,
+"","314 11th Street NE/Washington, DC",Real Estate,,500001,1000000,0,Y,,
+"","Sterne, Agee & Leach CMA Account",Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",15 Acres Log Cabin Road/Habersham County,Real Estate,,250001,500000,0,Y,,
+"","1 Acre Lot/Habersham County, GA",Real Estate,,250001,500000,0,Y,,
+"",Mortgage on 11.6 Acres off Clarks Bridge,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,
+D000037015,Regions Bank,Commercial Banks,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Kelmoore Strategic Trust Eagle Fund,Unknown,Mutual Fund,38976,38976,0,A,,
+"",GB&T Bancshares,Unknown,,31645,31645,0,A,,
+"",Kelmoore Strategic Trust Strategy Fund,Unknown,Mutual Fund,26261,26261,0,A,,
+D000021573,Wachovia Corp,Commercial Banks,,23407,23407,0,A,Y,
+"",Debt Strategies Fund,Unknown,Mutual Fund,15400,15400,0,A,,
+D000000205,Fannie Mae Bond,Real Estate,,14701,14701,0,A,Y,
+"",Kelmoore Strategic Trust Liberty Fund,Unknown,Mutual Fund,13911,13911,0,A,,
+D000017957,General Motors Acceptance Corp,Finance/Credit,,12740,12740,0,A,,
+D000000367,Wal-Mart Stores,Retail Sales,,10564,10564,0,A,Y,Y
+"",Templeton Global Income Fund,Unknown,Mutual Fund,9930,9930,0,A,,
+"",American Balanced Fund,Unknown,,7716,7716,0,A,,
+D000028392,Plum Creek Timber,Forest Products,,7688,7688,0,A,Y,
+D000000530,Lucent Technologies,Telecom Svcs,,7520,7520,0,A,Y,
+"",Wells Fargo Capital VIII Trups,Unknown,Mutual Fund,7410,7410,0,A,,
+"",First State Bancorp,Unknown,,7352,7352,0,A,,
+"",Bond Fund of America,Unknown,Mutual Fund,6999,6999,0,A,,
+"",Calamos Growth Fund,Unknown,Mutual Fund,6247,6247,0,A,,
+"",Pioneer High Yield Fund,Unknown,Mutual Fund,5557,5557,0,A,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,5344,5344,0,A,Y,Y
+"",Citigroup Capital VIII Trust Pfd Trups,Unknown,,5236,5236,0,A,,
+D000000125,General Electric,Misc Mfg/Distrib,,5102,5102,0,A,Y,Y
+D000000804,Intel Corp,Electronics Mfg/Eqp,,4678,4678,0,A,Y,
+D000046482,AGCO Corp,Agricultural Svcs,,4378,4378,0,A,,
+D000000419,Home Depot,Retail Sales,,4274,4274,0,A,Y,Y
+"",Sali Insured Money Market,Unknown,Cash/Money Market/Savings/Checking,2971,2971,0,A,,
+"",GMAC Note,Unknown,,2548,2548,0,A,,
+D000022216,Regions Financial,Commercial Banks,,1637,1637,0,A,Y,Y
+"",Prime Cash Trust,Unknown,Cash/Money Market/Savings/Checking,416,416,0,A,,

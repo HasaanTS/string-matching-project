@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Bachmann Farm Family LP,Crop Production,,500001,1000000,0,Y,,
+"",Bachmann Clinic Properties,Real Estate,,500001,1000000,0,Y,,
+"",Bachmann & Assoc Inc,Pharm/Health Prod,,100001,250000,0,Y,,
+"",American Funds Money Market,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Capital World Growth & Income Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Fundamental Investors Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American Funds Euro Pacific Growth Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",American Funds American Balanced Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000019743,Wells Fargo,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000000470,Washington Mutual,Savings & Loans,Mutual Fund,1001,15000,0,Y,,
+"",US Savings Bonds,Unknown,Government Bond,1001,15000,0,Y,,
+"",Fidelity Advisor Utilities Fund,Misc Energy,,1001,15000,0,Y,,
+"",Fidelity Advisor Gold,Mining,,1001,15000,0,Y,,
+"",Capital Income Builder Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Bond Fund of America,Unknown,Mutual Fund,1001,15000,0,Y,,

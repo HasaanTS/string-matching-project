@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000018870,Prudential Life Insurance,Insurance,,1000001,5000000,0,N,,
+D000061928,John Hancock Life Insurance,Insurance,Insurance policies & Annuities,1000001,5000000,0,N,,
+"",Chisholm 550 LP,Unknown,,500001,1000000,0,N,,
+"",Wells Fargo Bank Account,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,N,,
+"",Loans to Ratcliffe for Congress,Unknown,Note/Note Receivable,250001,500000,0,N,,
+"",Starwood Resort Property,Real Estate,,100001,250000,0,N,,
+"",Total Return Equity (cash),Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,N,,
+"",Clicks Memphis LP,Unknown,,50001,100000,0,N,,
+"",Chase Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,N,,
+"",Apollo Services,Unknown,,1001,15000,0,N,,

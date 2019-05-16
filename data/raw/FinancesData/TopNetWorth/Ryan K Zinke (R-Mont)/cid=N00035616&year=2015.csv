@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Continental Divide International,Unknown,,500001,1000000,0,Y,,
+"",Double Tap LLC,Unknown,,100001,250000,0,Y,,
+"",Art collection,,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",100001,250000,0,Y,,
+"",Auto Collection,,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",50001,100000,0,Y,,
+"",Whitefish Credit Union,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Save the World,,,1001,15000,0,Y,,

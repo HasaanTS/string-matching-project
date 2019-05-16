@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",AM Title Agency,Real Estate,,500001,1000000,0,N,,
+"","2182 Morris Ave/Union, NJ",Real Estate,,500001,1000000,0,N,,
+D000045416,Commerce Bank,Commercial Banks,Unknown,250001,500000,0,N,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,15001,50000,0,N,Y,Y
+"",New Jersey Gov't Bonds,Unknown,Government Bond,15001,50000,0,N,,
+"",Merrill Lynch Mercy,Unknown,Mutual Fund,15001,50000,0,N,,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,N,Y,Y
+D000000303,ConocoPhillips,Oil & Gas,,15001,50000,0,N,Y,

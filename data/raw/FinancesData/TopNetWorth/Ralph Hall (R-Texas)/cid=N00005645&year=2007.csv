@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Lakeside Bancshares,Commercial Banks,,1000001,5000000,0,Y,,
+"",North & East Trading Co,Unknown,,500001,1000000,0,Y,,
+"",Lakeside National Bank/CD & Accounts,Unknown,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+"","Farm 152 Acres/Hunt County, TX",Crop Production,,100001,250000,0,Y,,
+"","4 Acres, 1500 Sunset Hill/Rockwall, TX",Real Estate,,100001,250000,0,Y,,
+"","Rural Land 22 acr/Kaufman & Henderson,TX",Real Estate,,50001,100000,0,Y,,
+"",Lakeside National Bank,Commercial Banks,,50001,100000,0,Y,,
+"","Oil Interest/Caddo Parrish, LA",Oil & Gas,,1,1000,0,Y,,

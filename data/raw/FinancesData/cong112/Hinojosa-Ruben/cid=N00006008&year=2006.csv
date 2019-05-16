@@ -1,0 +1,19 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",H&H Foods,Food Process/Sales,,1000001,5000000,0,Y,,
+"",Hinojosa Development,Real Estate,,500001,1000000,0,Y,,
+"",Merrill Lynch Cash Management Account,Unknown,Cash/Money Market/Savings/Checking,116003,315000,0,Y,,
+"",H&H Foods,Food Process/Sales,Note/Note Receivable,100001,250000,0,Y,,
+"",Merrill Lynch IRA/Cash,Unknown,Cash/Money Market/Savings/Checking,51002,115000,0,Y,,
+"","Ruben's Rental Building/Mercedes, TX",Real Estate,,50001,100000,0,Y,,
+"",Lone Star Bank,Commercial Banks,,50001,100000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,16002,65000,0,Y,Y,
+D000000129,Exxon Mobil,Oil & Gas,,16002,65000,0,Y,Y,Y
+"",Bank of America/Savings,Unknown,Cash/Money Market/Savings/Checking,16002,65000,0,Y,,
+"",TSB Securities/Cash,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Texas Tomorrow Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Bank of America/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,Y
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",International Bancshares,Commercial Banks,,1001,15000,0,Y,,
+"",Firm Consultants Inc,Real Estate,,1001,15000,0,Y,,
+"",Hinojosa Enterprises,Business Services,,1,1000,0,Y,,

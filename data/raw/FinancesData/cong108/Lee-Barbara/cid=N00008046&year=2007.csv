@@ -1,0 +1,12 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000607,Xerox Corp,Misc Mfg/Distrib,,15001,50000,0,Y,Y,
+"",Vanguard Total Bond Market Index,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",SPP International Managed Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Savings Plus Socially Responsible Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Van Kampen Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",SPP Mid Cap Mg Fund Growth,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Mass Investors Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Delaware Trend Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Allianz Small Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Money Market Account,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,
+"",Merrill Lynch Cash Management Account,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

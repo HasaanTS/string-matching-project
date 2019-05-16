@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Granger Real Estate Management,Real Estate,,600006,1500000,0,Y,,
+"",Note Receivable for sale of Jones Street,,Note/Note Receivable,250001,500000,0,Y,,
+"",Note Receivable for sale of G&R Insurance Agency f,,Insurance policies & Annuities,100001,250000,0,Y,,
+"",Northwestern Mutual Retirement Fund,,Mutual Fund,50001,100000,0,Y,,
+"",Northwestern Mutual Persistency Fund,,Mutual Fund,50001,100000,0,Y,,
+"",LKCM Equity Fund Institutional Class,,Mutual Fund,50001,100000,0,Y,,
+"",LKCM Small Cap Equity Fund Institutional,,Mutual Fund,15001,50000,0,Y,,
+D000033907,Frost Bank,Commercial Banks,,15001,50000,0,Y,,
+"",Government Money Market Fund,,Mutual Fund,1001,15000,0,Y,,

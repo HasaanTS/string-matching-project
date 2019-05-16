@@ -1,0 +1,8 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Pasture & Undeveloped Land,Real Estate,,1000001,5000000,0,Y,,
+"","Undeveloped land/Brevard County, FL",Real Estate,,250001,500000,0,Y,,
+"",US Treasury Note,Unknown,Government Bond,200003,450000,0,Y,,
+"",SunTrust Bank Securities Cash Reserve,Unknown,Cash/Money Market/Savings/Checking,151003,365000,0,Y,,
+"",SunTrust Banks/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,51000,0,Y,,
+"",Holland & Knight Profit Sharing Plan,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000032153,Brown & Brown Insurance,Insurance,,0,3000,0,Y,,

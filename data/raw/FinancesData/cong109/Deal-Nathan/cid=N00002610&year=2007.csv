@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Gainesville Salvage & Disposal,Automotive,,2000002,10000000,0,Y,,
+"","Commercial Building/3.2 ac/Baldwin, GA",Real Estate,,1000001,5000000,0,Y,,
+"",Wilder Outdoors,Misc Mfg/Distrib,,250001,500000,0,Y,,
+"",Sterns Agee & Leach IRA,Unknown,"Brokerage, IRA, 401k",150002,350000,0,A,,
+"",Mans Security IRA,Securities/Invest,Unknown,50001,100000,0,A,,
+"",Community Bank & Trust IRA,Unknown,"Brokerage, IRA, 401k",50001,100000,0,A,,

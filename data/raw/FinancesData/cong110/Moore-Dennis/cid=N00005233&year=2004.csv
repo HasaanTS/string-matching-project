@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Vanguard IRA,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",All America IRA,Unknown,"Brokerage, IRA, 401k",65002,150000,0,Y,,
+"",ICMA Retirement,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Fidelity Cash Reserves,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Federal Thrift Savings Plan,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",INVESCO/AIM,Unknown,,15001,50000,0,Y,,
+D000022724,American Funds,Securities/Invest,Mutual Fund,15001,50000,0,Y,,
+D000060061,American Century Investments,Securities/Invest,Mutual Fund,15001,50000,0,Y,,
+D000029616,USAA,Insurance,,1001,15000,0,Y,Y,Y
+D000000345,Sunoco Inc,Oil & Gas,,1001,15000,0,Y,Y,
+"",Merrill Lynch ESPP,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Capital Federal Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

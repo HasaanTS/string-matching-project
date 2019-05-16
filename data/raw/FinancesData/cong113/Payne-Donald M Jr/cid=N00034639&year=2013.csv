@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000000090,Bank of America,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,A,Y,Y
+"",Morgan Stanley-All Money Market Cash Account,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,A,,
+D000000141,Prudential Financial,Insurance,,15001,50000,0,A,Y,Y
+D000019414,Metropolitan Life Insurance,Insurance,,1001,15000,0,A,,
+D000020730,Chase Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1,1000,0,A,,

@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000021868,BB&T Corp,Commercial Banks,,250001,500000,0,O,Y,
+D000059320,Investors Title Co,Unknown,,15001,50000,0,O,,
+"",American Funds Bond Fund of America,Unknown,Mutual Fund,15001,50000,0,O,,
+"",Washington Mutual Investors Fund,Unknown,Mutual Fund,1001,15000,0,O,,
+D000028057,Nucor Corp,Steel Production,,1001,15000,0,O,Y,Y
+"",Fundamental Investors Fund,Unknown,Mutual Fund,1001,15000,0,O,,
+D000021977,Express Scripts,Health Services,,1001,15000,0,O,Y,
+"",Europac Investors Fund,Unknown,Mutual Fund,1001,15000,0,O,,
+"",American Funds Income Fund of America,Unknown,Mutual Fund,1001,15000,0,O,,
+"",American Funds Growth Fund of America,Unknown,Mutual Fund,1001,15000,0,O,,
+"",American Funds Capital Income Builder Fund,Unknown,Mutual Fund,1001,15000,0,O,,
+"",American Balanced Fund,Unknown,Mutual Fund,1001,15000,0,O,,
+"",Solarbrook Corp,Unknown,,1,1000,0,O,,
+"",Biokey Corp,Unknown,,1,1000,0,O,,

@@ -1,0 +1,19 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",BARR Trust (discretionary beneficiary),Unknown,"Brokerage, IRA, 401k",100001,250000,0,A,,
+"",KY Employee Revise,Unknown,"Brokerage, IRA, 401k",15001,50000,0,A,,
+"",Vanguard Growth Index,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Prudential Jennison,Unknown,Mutual Fund,1001,15000,0,A,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,A,Y,Y
+"",NW Mutual Whole Life,Unknown,Insurance policies & Annuities,1001,15000,0,A,,
+"",NW Mutual 65 Life,Unknown,Insurance policies & Annuities,1001,15000,0,A,,
+D000000373,McDonald's Corp,Food & Beverage,,1001,15000,0,A,Y,Y
+"",Lord Abbott Value,Unknown,Mutual Fund,1001,15000,0,A,,
+D000000805,Keycorp,Commercial Banks,,1001,15000,0,A,Y,Y
+"",JPMorgan Strategy Inc,Unknown,,1001,15000,0,A,,
+D000000386,Johnson & Johnson,Pharm/Health Prod,,1001,15000,0,A,Y,
+"",Ivy Asset Strategy Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Hilliard Lyons Ret Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",Hilliard Lyons Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,A,Y,Y
+"",Fidelity New Insights Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",BlackRock Equity Trust,Unknown,Mutual Fund,1001,15000,0,A,,

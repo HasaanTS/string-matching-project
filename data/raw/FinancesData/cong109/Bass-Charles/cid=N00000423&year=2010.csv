@@ -1,0 +1,17 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",L/B,Unknown,Unknown,1100002,5250000,0,Y,,
+"",New England Wood Pellet,Forest Products,,500001,1000000,0,Y,,
+"",LLB Revokable Trust,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+"",CFB Revokable Trust,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+"",Wells Fargo Growth Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Pathways Moderate Growth Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Land,Real Estate,,100001,250000,0,Y,,
+"",Architectural Supply,Construction Svcs,,100001,250000,0,Y,,
+"",Ocean Bank Peoples United Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,52004,131000,0,Y,,
+"",Moderate Growth Fund - Wells Fargo,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Ocean Bank Peoples United,Commercial Banks,,16002,65000,0,Y,,
+"",Three Twins Organic Ice Cream,Food Process/Sales,,15001,50000,0,Y,,
+"",QM Power,Electric Utilities,,15001,50000,0,Y,,
+"",CAP Inc,Electronics Mfg/Eqp,,15001,50000,0,Y,,
+D000058213,Verenium Corp,Misc Energy,,1001,15000,0,Y,Y,Y
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

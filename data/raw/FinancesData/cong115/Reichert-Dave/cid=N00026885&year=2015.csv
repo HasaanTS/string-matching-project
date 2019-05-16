@@ -1,0 +1,18 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",WA Dept Of Retirement System,,"Brokerage, IRA, 401k",150002,350000,0,A,,
+"",Pimco Total Return Fund,,Mutual Fund,50001,100000,0,A,,
+"",Met West Total Return Bond Pln,,Mutual Fund,50001,100000,0,A,,
+"",American Balanced Fund,,Mutual Fund,15002,51000,0,A,,
+"",T Rowe Price Midcap Growth,,Mutual Fund,15001,50000,0,A,,
+"",T Rowe Price Equity Fund,,Mutual Fund,15001,50000,0,A,,
+"",Hartford Healthcare Fund,,Mutual Fund,15001,50000,0,A,,
+"",Hartford Cap Appreciation,,Mutual Fund,15001,50000,0,A,,
+D000000125,General Electric,,,15001,50000,0,A,Y,Y
+"",Franklin Income Fund,,Mutual Fund,15001,50000,0,A,,
+"",Franklin Growth Opportunities Fund,,Mutual Fund,15001,50000,0,A,,
+"",Franklin Equity Income Fund,,Mutual Fund,15001,50000,0,A,,
+D000028149,Oneok Inc,Oil & Gas,,1001,15000,0,A,Y,
+D000025689,Energy Transfer Partners,Oil & Gas,,1001,15000,0,A,,
+"",Edward Jones Account,,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",Blackrock Equ Divid Fund,,Mutual Fund,1001,15000,0,A,,
+"",American Funds Capital Income Builder Fund,,Mutual Fund,1001,15000,0,A,,

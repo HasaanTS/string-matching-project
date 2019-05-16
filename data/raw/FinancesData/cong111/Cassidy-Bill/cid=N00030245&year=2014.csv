@@ -1,0 +1,49 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",TIAA- CREF Traditional,,Mutual Fund,250001,500000,0,A,,
+"",TIAA-CREF Inflation-Linked Bond Fund Retirement,,Mutual Fund,115002,300000,0,A,,
+"",First Eagle Global Fund,,Mutual Fund,101002,265000,0,A,,
+"",T Rowe Price Capital Appreciation,,Mutual Fund,51002,115000,0,A,,
+"",IVA Worldwide I,,Mutual Fund,51002,115000,0,A,,
+"",TIAA-CREF TraditionalProvider: TIAA-CREF Financial,,"Brokerage, IRA, 401k",50001,100000,0,A,,
+"",TIAA-CREF Real Estate Sec Retire,,,50001,100000,0,A,,
+"","Parcel of Land in Waveland, Mississippi",,,50001,100000,0,A,,
+"",Oakmark Equity & Income Fund,,Mutual Fund,50001,100000,0,A,,
+"",JPMorgan Income Builder Select Fund,,Mutual Fund,50001,100000,0,A,,
+"",JNL/Mellon Capital JNL 5,,,50001,100000,0,A,,
+"",Green Tree 95-8 B2Rate,,Government Bond,50001,100000,0,A,,
+"",Dodge & Cox Income Fund,,Mutual Fund,50001,100000,0,A,,
+"",Virtus Equity Trend Fund,,Mutual Fund,16002,65000,0,A,,
+"",TCW Emerging Markets Income Fund,,Mutual Fund,16002,65000,0,A,,
+"",Prudential Short-Term Corporate Bond Fund,,Mutual Fund,16002,65000,0,A,,
+"",Principal High Yield Fund,,Mutual Fund,16002,65000,0,A,,
+"",Green Tree 95-10 B2,,Government Bond,16002,65000,0,A,,
+"",Cohen & Steers Realty Shares Trust,,,16002,65000,0,A,,
+"",AMG Yacktman Service Fund,,Mutual Fund,16002,65000,0,A,,
+D000030495,Toyota Motor Corp,Automotive,,15001,50000,0,A,Y,
+D000042525,Royal Dutch Shell,Oil & Gas,,15001,50000,0,A,Y,Y
+"",Oppenheimer Senior Floating Rate Fund,,Mutual Fund,15001,50000,0,A,,
+"",Fidelity Strategic Income Fund,,Mutual Fund,15001,50000,0,A,,
+D000000129,Exxon Mobil,Oil & Gas,,15001,50000,0,A,Y,Y
+D000000303,Conocophillips,Oil & Gas,,15001,50000,0,A,Y,Y
+D000000015,Chevron Corp,Oil & Gas,,15001,50000,0,A,Y,Y
+D000021941,Countrywide Financial,Real Estate,,2002,30000,0,A,,
+"",Wells Fargo Stable Return Fund,,Mutual Fund,1001,15000,0,A,,
+"",Wells Fargo IRA Cash Account,,Cash/Money Market/Savings/Checking,1001,15000,0,A,,
+"",WELLS FARGO ADVISORS IRA,,"Brokerage, IRA, 401k",1001,15000,0,A,,
+"",TRRSX - TIAA-CREF Real Estate Sec Retire,,Mutual Fund,1001,15000,0,A,,
+"",TIAA-CREF S&P 500 Index Fund,,Mutual Fund,1001,15000,0,A,,
+"",TIAA-CREF Inflation Link Bond Fund,,Mutual Fund,1001,15000,0,A,,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,1001,15000,0,A,Y,Y
+"",PIMCO Unconstrained Bond Institutional,,Mutual Fund,1001,15000,0,A,,
+"",PIMCO Global Multi-Asset Institutional,,Mutual Fund,1001,15000,0,A,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+D000000182,Ford Motor Co,Automotive,,1001,15000,0,A,Y,
+"",Eaton Vance Global Macro Absolute Return Fund,,Mutual Fund,1001,15000,0,A,,
+"",Cwalt Inc,,Note/Note Receivable,1001,15000,0,A,,
+D000024683,CenturyLink,Telephone Utilities,,1001,15000,0,A,Y,Y
+D000000352,Caterpillar Inc,Building Materials,,1001,15000,0,A,Y,Y
+"",BlackRock Global Allocation Fund,Securities/Invest,Mutual Fund,1001,15000,0,A,,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,A,Y,Y
+"",Arbitrage I Fund,,Mutual Fund,1001,15000,0,A,,
+D000047071,American Tower Corp,Electronics Mfg/Eqp,,1001,15000,0,A,Y,
+"",American Funds Global Balanced F2,,Mutual Fund,1001,15000,0,A,,

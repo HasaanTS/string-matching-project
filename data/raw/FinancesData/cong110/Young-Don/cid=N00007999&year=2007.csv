@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Putnam Fund for Growth & Income,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",Wright Patman Congressional FCU IRA,Unknown,"Brokerage, IRA, 401k",65002,150000,0,Y,,
+D000000249,New York Life Insurance,Insurance,,50001,100000,0,Y,Y,
+D000000659,State Farm Insurance,Insurance,,15001,50000,0,Y,Y,Y
+D000062018,Key Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Wright Patman Congressional FCU,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

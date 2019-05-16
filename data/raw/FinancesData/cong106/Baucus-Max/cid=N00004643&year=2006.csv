@@ -1,0 +1,25 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",US Treasury Bonds,Misc Finance,Government Bond,15001,50000,0,Y,,
+D000022303,Valero Energy,Oil & Gas,,1001,15000,0,Y,Y,
+D000045915,Transocean Inc,Oil & Gas,,1001,15000,0,Y,Y,
+"",Telus Corp,Unknown,,1001,15000,0,Y,,
+D000064447,Syngenta AG,Agricultural Svcs,,1001,15000,0,Y,Y,Y
+D000063133,Right Now Technologies,Electronics Mfg/Eqp,,1001,15000,0,Y,,
+D000000175,Raytheon Co,Defense Electronics,,1001,15000,0,Y,Y,
+D000043203,Moody's Corp,Finance/Credit,,1001,15000,0,Y,Y,
+"",Limited Brands,Retail Sales,,1001,15000,0,Y,,
+D000000174,Lehman Brothers,Securities/Invest,,1001,15000,0,Y,Y,Y
+D000000596,Genentech Inc,Pharm/Health Prod,,1001,15000,0,Y,,
+"",Freeport-McMoRan Copper & Gold,Mining,,1001,15000,0,Y,,
+"",Dreyfus Liquid Assets,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000048024,Brookfield Asset Management,Securities/Invest,,1001,15000,0,Y,,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+D000000487,US Bancorp,Commercial Banks,,0,1000,0,Y,Y,
+"",UBS Money Market,Unknown,Cash/Money Market/Savings/Checking,0,1000,0,Y,,
+D000022274,TD Ameritrade,Securities/Invest,,0,1000,0,Y,Y,
+D000000619,Target Corp,Retail Sales,,0,1000,0,Y,Y,Y
+D000068731,Petrochina Co,Oil & Gas,,0,1000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,0,1000,0,Y,Y,Y
+"",Contingent Mineral Interest/Sieben Ranch,Mining,,0,1000,0,Y,,
+D000000132,Archer Daniels Midland,Agricultural Svcs,,0,1000,0,Y,Y,
+D000066608,America Movil,Telecom Svcs,,0,1000,0,Y,,

@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Wells Fargo/Cash & Money Market,Unknown,Cash/Money Market/Savings/Checking,500001,1000000,0,Y,,
+"",John Marshall Collins PC,Unknown,,250001,500000,0,Y,,
+"",Plus Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",California Public Empl Retirement System,Unknown,"Brokerage, IRA, 401k",100001,250000,0,Y,,
+"",Fidelity Diversified International Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Aston Optimum Mid Cap Fund,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",T Rowe Price Small Cap Stock Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",T Rowe Price Small Cap Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Lord Abbett Mid Cap Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Funds Investment Co of America,Unknown,,1001,15000,0,Y,,

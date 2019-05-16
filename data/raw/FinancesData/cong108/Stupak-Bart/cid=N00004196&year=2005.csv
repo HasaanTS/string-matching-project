@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Principal Residence,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",500001,1000000,0,Y,,
+"","Office/Menominee, MI",Misc Business,,50001,100000,0,Y,,
+"",Stephenson National Bank IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Northern Michigan National Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Bart T Stupak PC,Lawyers/Law Firms,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,

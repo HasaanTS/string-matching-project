@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Congressional FCW Accounts,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000019668,Phillips 66,Oil & Gas,,1001,15000,0,Y,Y,
+D000055403,Philip Morris International,Tobacco,,1001,15000,0,Y,Y,
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,
+D000019828,Emerson Electric,Misc Mfg/Distrib,,1001,15000,0,Y,Y,Y
+D000000303,ConocoPhillips,Oil & Gas,,1001,15000,0,Y,Y,

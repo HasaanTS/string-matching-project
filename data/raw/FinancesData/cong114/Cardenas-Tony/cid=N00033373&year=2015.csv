@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Essence Marketing,Unknown,,50001,100000,0,Y,,
+"",Wells Fargo Bank Account,,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Vanguard Instiutional Index Fund Plus,,Mutual Fund,15001,50000,0,Y,,
+"",Van Total Bond MKT Index Fund,,Mutual Fund,15001,50000,0,Y,,
+D000000249,New York Life Insurance,Insurance,Insurance policies & Annuities,15001,50000,0,Y,Y,Y
+"",Mainstay VP Mod Gr Allocation,,Mutual Fund,2002,30000,0,Y,,
+"",MainStay VP Balanced Fund,,Mutual Fund,1001,15000,0,Y,,
+"",Janus Aspen Balanced Portfolio,,Mutual Fund,1001,15000,0,Y,,
+"",Calvert VP SRI Balanced Portfolio,,Mutual Fund,1001,15000,0,Y,,

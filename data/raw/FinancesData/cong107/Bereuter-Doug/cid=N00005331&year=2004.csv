@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",USAA 403b Account,Unknown,"Brokerage, IRA, 401k",50001,100000,0,T,,
+"",Wells Fargo Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,T,,
+"",Savings Account Calvert Group,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Cornhusker Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Congressional Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,T,,
+"",BB&T/Checking,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,T,,

@@ -1,0 +1,7 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",New York State & Local Defined Benefit Retirement,Unknown,Insurance policies & Annuities,50001,100000,0,A,,
+"",Reliastar Life Insurance,Insurance,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Fidelity Series I Small,Unknown,Mutual Fund,15001,50000,0,Y,,
+"","4 Farley Drive/Albany, NY",Real Estate,,15001,50000,0,Y,,
+"",New York's College Savings Program,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",2002,30000,0,Y,,
+D000000141,Prudential Financial,Insurance,,1001,15000,0,Y,Y,Y

@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",MetLife Defined Contribution Plan,Unknown,Insurance policies & Annuities,250001,500000,0,Y,,
+D000061689,Hill International,Construction Svcs,,100001,250000,0,Y,,
+"",Citizens Bank of Pennsylvania Checking,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",PNC Bank/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Morgan Stanley Retirement Fund,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,Y,Y,
+D000028319,PEPCO Holdings,Electric Utilities,,1001,15000,0,Y,Y,Y
+D000026470,Hershey Co,Food & Beverage,,1001,15000,0,Y,Y,

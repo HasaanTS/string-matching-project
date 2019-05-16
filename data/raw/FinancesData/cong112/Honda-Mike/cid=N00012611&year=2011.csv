@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Union Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",Americo Financial Life & Annuity Insur,Unknown,Insurance policies & Annuities,200002,500000,0,Y,,
+"",International County/City Mgrs Assoc 457,Unknown,"Brokerage, IRA, 401k",50001,100000,0,Y,,
+"",Acacia Life Insur Universal Life Policy,Unknown,Insurance policies & Annuities,50001,100000,0,Y,,
+"",Sun Life,Unknown,,15001,50000,0,Y,,
+"",Wells Fargo Advantage Enterprise Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Vacant land/San Bernardino County,Real Estate,,1001,15000,0,Y,,
+"",Fidelity Growth Opport Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Fidelity Equity Growth Opport Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

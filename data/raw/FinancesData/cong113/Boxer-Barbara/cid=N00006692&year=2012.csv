@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Senator Barbara Boxer Certain Assets,Unknown,"Brokerage, IRA, 401k",1000001,5000000,0,Y,,
+"",Wells Fargo/Checking,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Barclays Plaza Assoc,Real Estate,,50001,100000,0,Y,,
+"",US Senate Federal Credit Union/Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+D000000720,IBM Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+D000000881,Time Warner Cable,TV/Movies/Music,,1001,15000,0,Y,Y,
+D000000094,Time Warner,TV/Movies/Music,,1001,15000,0,Y,Y,
+"",Loan Receivable/Stewart N Boxer Inc,Unknown,Note/Note Receivable,0,1000,0,Y,,

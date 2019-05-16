@@ -1,0 +1,15 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Tribco LLC,Publishing,,100001,250000,0,T,,
+"",Equity Trust Co,Unknown,"Brokerage, IRA, 401k",50001,100000,0,T,,
+"",New York's 529 College Savings Plan,Unknown,"Brokerage, IRA, 401k",4004,60000,0,T,,
+"",Send Word Now,Telecom Svcs,,15001,50000,0,T,,
+"",Best of America,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Webster Bank accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Melrose Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+D000027373,Manulife Financial,Misc Finance,,1001,15000,0,T,Y,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,1001,15000,0,T,,
+"",Citibank/Checking-Savings-Money Market,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+"",Chase Bank Accounts,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,T,,
+D000024331,Bethpage Federal Credit Union,Credit Unions,,1001,15000,0,T,Y,Y
+"",Dreyfus Treasury Cash/Money Market A/C,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,T,,
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1,1000,0,T,,

@@ -1,0 +1,6 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000019642,Northwestern Mutual Life Insurance,Insurance,,15001,50000,0,Y,,
+"",Fidelity Contrafund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Schwab S&P 500 Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000172,MetLife Inc,Insurance,,1001,15000,0,Y,Y,Y
+"",Fidelity Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,

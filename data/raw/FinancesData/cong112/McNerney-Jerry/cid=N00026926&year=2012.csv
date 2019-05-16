@@ -1,0 +1,5 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Rental home,Real Estate,,250001,500000,0,Y,,
+"",Bank of America/Savings,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Valero Marketing,Unknown,Mutual Fund,1,1000,0,Y,,
+D000044786,Dcp Midstream,Oil & Gas,,1,1000,0,Y,,

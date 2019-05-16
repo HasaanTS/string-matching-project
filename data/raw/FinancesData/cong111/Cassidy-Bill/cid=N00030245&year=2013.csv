@@ -1,0 +1,53 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",TIAA Cref Traditional Retirement,Unknown,"Brokerage, IRA, 401k",250001,500000,0,Y,,
+"",TIAA Retirement Cref Infl-Linked Bond,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",First Eagle Funds INC SGIIX,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",T Rowe Price CAP,Unknown,Mutual Fund,51002,115000,0,Y,,
+"",IVA Worldwide Fund,Unknown,Mutual Fund,51002,115000,0,Y,,
+"",Blackrock Global Allocation Fund,Securities/Invest,Mutual Fund,51002,115000,0,Y,,
+"",TIAA Retirement Real Estate,Real Estate,,50001,100000,0,Y,,
+D000026714,Jackson National Life Insurance,Insurance,Insurance policies & Annuities,50001,100000,0,Y,,
+"",Harris Assoc Invt TR OAKBX,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Dodge & Cox Income Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Virtus Opportunity,Unknown,Mutual Fund,16002,65000,0,Y,,
+D000030495,Toyota Motor Corp,Automotive,,15001,50000,0,Y,Y,
+"",TCW Funds Inc,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Prudential Short Term Corp Bond,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Principal Funds Inc,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Oppenheimer Senior Floating Rate Fund,Unknown,Mutual Fund,15001,50000,0,Y,,
+"",Managers AMG Funds,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,
+"",Green Tree 95-8 B2 CUSIP:393505JX1,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000182,Ford Motor Co,Automotive,,15001,50000,0,Y,Y,
+"",Fidelity Advis SER,Unknown,Mutual Fund,15001,50000,0,Y,,
+D000000303,ConocoPhillips,Oil & Gas,,15001,50000,0,Y,Y,Y
+"",Countrywide Alternative Loan Trust,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Cohen & Steers Realty,Real Estate,Mutual Fund,2002,30000,0,Y,,
+"",College Savings Plans Michigan Educational Savings,Unknown,"Brokerage, IRA, 401k",1002,16000,0,Y,,
+"",Wells Fargo Investment Account Green Tree 95-10 B2,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Wells Fargo Investment Account Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",TIAA Retirement Traditional B965015-7,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",TIAA Retirement CREF Equities,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",TCW Funds Income Emerging Market,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Rio Tinto Plc,Mining,,1001,15000,0,Y,,
+D000000794,Qualcomm Inc,Electronics Mfg/Eqp,,1001,15000,0,Y,Y,Y
+"",Prudential Short-Term Corporate Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Principal Funds Inc High Yield,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Pimco Unconstrained Bond Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",PIMCO Global Multi Asset Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000019668,Phillips 66,Oil & Gas,,1001,15000,0,Y,Y,Y
+"",Managers AMG Funds Yacktman Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Green Tree 95-10 B2 CUSIP: 393505KZ4,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",First Eagle Funds Inc Global,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000129,Exxon Mobil,Oil & Gas,,1001,15000,0,Y,Y,Y
+"",Eaton Vance Global Macro Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",CWALT 05-27 1x1,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000071,Citigroup Inc,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000024683,CenturyLink,Telephone Utilities,,1001,15000,0,Y,Y,Y
+D000000352,Caterpillar Inc,Building Materials,,1001,15000,0,Y,Y,Y
+"",Cash,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,Y,Y,Y
+"",Arbitrage Funds,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000047071,American Tower Corp,Telecom Svcs,,1001,15000,0,Y,,
+"",American Funds Global Balanced Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",MD Technologies Inc,Unknown,,1,1000,0,Y,,

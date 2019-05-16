@@ -1,0 +1,26 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+D000063133,Right Now Technologies,Electronics Mfg/Eqp,,16002,65000,0,Y,,
+"",US Treasury Bonds,Misc Finance,Government Bond,15001,50000,0,Y,,
+D000000619,Target Corp,Retail Sales,,15001,50000,0,Y,Y,Y
+D000064447,Syngenta AG,Agricultural Svcs,,15001,50000,0,Y,Y,Y
+D000068731,Petrochina Co,Oil & Gas,,15001,50000,0,Y,,
+D000000174,Lehman Brothers,Securities/Invest,,15001,50000,0,Y,Y,Y
+D000000804,Intel Corp,Electronics Mfg/Eqp,,15001,50000,0,Y,Y,Y
+D000000596,Genentech Inc,Pharm/Health Prod,,15001,50000,0,Y,,
+D000048024,Brookfield Asset Management,Securities/Invest,,15001,50000,0,Y,,
+D000066608,America Movil,Telecom Svcs,,15001,50000,0,Y,,
+D000022303,Valero Energy,Oil & Gas,,1001,15000,0,Y,Y,
+"",US Senate Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+D000000487,US Bancorp,Commercial Banks,,1001,15000,0,Y,Y,
+"",Telus Corp,Unknown,,1001,15000,0,Y,,
+"",Dreyfus,Unknown,,1001,15000,0,Y,,
+D000058827,Zimmer Holdings,Pharm/Health Prod,,0,1000,0,Y,,
+D000022285,Toll Brothers Inc,Home Builders,,0,1000,0,Y,,
+D000068756,Suncor Energy,Oil & Gas,,0,1000,0,Y,,
+D000000206,Occidental Petroleum,Oil & Gas,,0,1000,0,Y,Y,
+"",Motorola Inc,Telecom Svcs,,0,1000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,0,1000,0,Y,Y,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,0,1000,0,Y,Y,Y
+D000000129,Exxon Mobil,Oil & Gas,,0,1000,0,Y,Y,
+"",Contingent Mineral Interest/Sieben Ranch,Mining,,0,1000,0,Y,,
+D000024214,Avon Products,Misc Mfg/Distrib,,0,1000,0,Y,Y,

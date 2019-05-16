@@ -1,0 +1,19 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Salem Knob LLC,Unknown,,250001,500000,0,T,,
+"",Akin Family Partnership LP,Unknown,,50001,100000,0,T,,
+"",Merrill Lynch Retirement Annuity,Unknown,Mutual Fund,15001,50000,0,T,,
+"",Dremen Henessy,Unknown,"Brokerage, IRA, 401k",2002,30000,0,T,,
+D000000079,Verizon Communications,Telephone Utilities,,1001,15000,0,T,Y,Y
+"",Nokia Corp,Telecom Svcs,,1001,15000,0,T,,
+D000000275,Merck & Co,Pharm/Health Prod,,1001,15000,0,T,Y,Y
+D000059889,LSI Corp,Electronics Mfg/Eqp,,1001,15000,0,T,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,1001,15000,0,T,Y,
+"",Invesco Constellation Fund,Unknown,,1001,15000,0,T,,
+"",International Paper Co,Misc Mfg/Distrib,,1001,15000,0,T,,
+D000000691,Goodyear Tire & Rubber,Automotive,,1001,15000,0,T,Y,
+D000000125,General Electric,Misc Mfg/Distrib,,1001,15000,0,T,Y,Y
+D000000495,DuPont Co,Chemicals,,1001,15000,0,T,Y,
+D000000149,Bristol-Myers Squibb,Pharm/Health Prod,,1001,15000,0,T,Y,
+D000000076,AT&T Inc,Telephone Utilities,,1001,15000,0,T,Y,Y
+"",Aim Weingarten,Unknown,,1001,15000,0,T,,
+D000000155,General Motors,Automotive,,1,1000,0,T,Y,Y

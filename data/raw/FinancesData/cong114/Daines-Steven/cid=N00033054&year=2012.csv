@@ -1,0 +1,9 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Genesis Partners,Unknown,Unknown,5000001,25000000,0,Y,,
+"",Residential Real Estate,Real Estate,,2750004,11500000,0,Y,,
+"",Stifel IRA,Unknown,"Brokerage, IRA, 401k",500001,1000000,0,Y,,
+"",Genesis Loan,Unknown,Note/Note Receivable,500001,1000000,0,Y,,
+"",Stifel Account,Unknown,Cash/Money Market/Savings/Checking,250001,500000,0,Y,,
+"",American Bank/Savings,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Commercial Property,Real Estate,,100002,200000,0,Y,,
+"",Bridger Technology,Misc Mfg/Distrib,,50001,100000,0,Y,,

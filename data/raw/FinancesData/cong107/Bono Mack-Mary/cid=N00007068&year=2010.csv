@@ -1,0 +1,40 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Bono Collection Trust,TV/Movies/Music,,250001,500000,0,Y,,
+"",California State Bond,Unknown,Government Bond,60004,200000,0,Y,,
+"",Westerfield Scotch LLC,Unknown,,50002,101000,0,Y,,
+D000000103,JPMorgan Chase & Co,Commercial Banks,,17003,80000,0,Y,Y,
+"",Federal Home Loan Bank Bond,Real Estate,,15001,50000,0,Y,,
+"",Federal Farm Credit Bank Note,Agricultural Svcs,,15001,50000,0,Y,,
+"",Federal Farm Credit Bank,Agricultural Svcs,,15001,50000,0,Y,,
+"",California St Var Purp Bond,Unknown,Government Bond,15001,50000,0,Y,,
+D000000128,Walt Disney Co,TV/Movies/Music,,2002,30000,0,Y,Y,Y
+D000000487,US Bancorp,Commercial Banks,,2002,30000,0,Y,Y,
+D000000209,United Technologies,Defense Aerospace,,2002,30000,0,Y,Y,
+D000000081,United Parcel Service,Air Transport,,2002,30000,0,Y,Y,Y
+D000000619,Target Corp,Retail Sales,,2002,30000,0,Y,Y,
+D000037414,Schlumberger Ltd,Oil & Gas,,2002,30000,0,Y,,
+"",Sandisk Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,,
+D000000485,Procter & Gamble,Misc Mfg/Distrib,,2002,30000,0,Y,Y,
+D000028430,Praxair Inc,Chemicals,,2002,30000,0,Y,Y,
+D000020856,Peabody Energy,Mining,,2002,30000,0,Y,Y,
+D000000422,Oracle Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,Y
+D000000115,Microsoft Corp,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,Y
+D000000373,McDonald's Corp,Food & Beverage,,2002,30000,0,Y,Y,Y
+D000000386,Johnson & Johnson,Pharm/Health Prod,,2002,30000,0,Y,Y,Y
+"",HCP Inc,Real Estate,,2002,30000,0,Y,,
+D000022008,Google Inc,Internet,,2002,30000,0,Y,Y,Y
+"",First Solar Inc,Misc Energy,,2002,30000,0,Y,,
+D000019828,Emerson Electric,Misc Mfg/Distrib,,2002,30000,0,Y,Y,
+D000000703,Costco Wholesale,Retail Sales,,2002,30000,0,Y,,
+D000000303,Conocophillips,Oil & Gas,,2002,30000,0,Y,Y,Y
+D000024873,Cliffs Natural Resources,Mining,,2002,30000,0,Y,Y,
+D000000374,Cisco Systems,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,Y
+D000000352,Caterpillar Inc,Building Materials,,2002,30000,0,Y,Y,
+"",Becton Dickenson & Co,Unknown,,2002,30000,0,Y,,
+D000021754,Apple Inc,Electronics Mfg/Eqp,,2002,30000,0,Y,Y,
+D000023883,Amazon.com,Internet,,2002,30000,0,Y,Y,Y
+D000000126,AFLAC Inc,Insurance,,2002,30000,0,Y,Y,Y
+"",Union Bank of California,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Merrill Lynch CMA Money Fund,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Merrill Lynch CMA Account,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Merrill Lynch Cash Management IRA,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,

@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Disciplined Stock Fund,Unknown,Mutual Fund,100001,250000,0,Y,,
+"",S&P Fund,Unknown,Mutual Fund,50001,100000,0,Y,,
+"",Highland Bank - Savings,Unknown,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Travelers' Annuity (Now Met Life),Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Lakeland Bank Checking,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Lakeland Bank,Commercial Banks,,15001,50000,0,Y,,
+"",Total Return Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Hussman Strategic Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Highland Bank - Checking,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Dreyfus Appreciation Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Ally Bank - Savings,Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Dreyfus Money Market,Unknown,Cash/Money Market/Savings/Checking,1,1000,0,Y,,

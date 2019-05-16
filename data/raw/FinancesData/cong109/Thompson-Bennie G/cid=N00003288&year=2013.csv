@@ -1,0 +1,22 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Congressional Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+D000024243,BancorpSouth Bank,Commercial Banks,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"",Western National Annuity,Unknown,,15001,50000,0,Y,,
+"",Lots 44 & 45 West Capitol Street,Real Estate,,15001,50000,0,Y,,
+"",Liberty National Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Jackson Federal Credit Union,Unknown,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",Dwelling,Real Estate,,15001,50000,0,Y,,
+"",AXA Equitable Annuity,Unknown,Insurance policies & Annuities,15001,50000,0,Y,,
+"",Unimproved Property/1 acre,Real Estate,,2002,30000,0,Y,,
+D000022216,Regions Financial,Commercial Banks,,1001,15000,0,Y,Y,Y
+D000000141,Prudential Financial,Insurance,,1001,15000,0,Y,Y,Y
+"",Merchants & Planters Bank,Commercial Banks,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Lot 8/Southeast Annex,Real Estate,,1001,15000,0,Y,,
+"",Lot 540/Cottage Grove,Real Estate,,1001,15000,0,Y,,
+"","Lot 31/Less Highway, Block 7",Real Estate,,1001,15000,0,Y,,
+"",Lot 3/L C Turner Circle,Real Estate,,1001,15000,0,Y,,
+"",Lot 1/L C Turner Circle,Real Estate,,1001,15000,0,Y,,
+"",AIG VALIC Annuity Insurance,Unknown,Insurance policies & Annuities,1001,15000,0,Y,,
+"",2 acres unimproved property,Real Estate,,1001,15000,0,Y,,
+"",12 acres unimproved property,Real Estate,,1001,15000,0,Y,,
+"",5 acres unimproved property,Real Estate,,1,1000,0,Y,,

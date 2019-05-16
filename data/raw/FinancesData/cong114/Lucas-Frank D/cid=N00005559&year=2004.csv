@@ -1,0 +1,11 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Farmland/508 acres/Roger Mills Cnty, OK",Crop Production,,100001,250000,0,Y,,
+"",480 acr-Farmland-House-Cattle/Cheyenne,Crop Production,,100001,250000,0,Y,,
+"","103 acres Mineral Rights/Roger Mills, OK",Mining,,100001,250000,0,Y,,
+"","Farmland/320 Acres/Roger Mills Cnty, OK",Crop Production,,50001,100000,0,Y,,
+"",Public Employees' Retirement System,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"",Security State Bank,Commercial Banks,Cash/Money Market/Savings/Checking,2002,30000,0,Y,,
+"",Western Farm Bureau IRA,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Texas Teachers Retirement System,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,
+"",Panhandle Royalty Co,Unknown,,1001,15000,0,Y,,
+"",Oklahoma Teacher Retirement,Unknown,"Brokerage, IRA, 401k",1001,15000,0,Y,,

@@ -1,0 +1,10 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",CoArc LLC,Unknown,,30002,100000,0,Y,,
+"",New York State Local Retirement,Unknown,"Brokerage, IRA, 401k",15001,50000,0,Y,,
+"","1 Hopper Street/Utica, NY",Real Estate,,15001,50000,0,Y,,
+"","Bishop, Rosen & Co Bank Deposit Sweep",Unknown,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",American Small Cap Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Growth Fund of America,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Funds Investment Co of America,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Europacific Growth Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",American Bond Fund of America,Unknown,Mutual Fund,1001,15000,0,Y,,

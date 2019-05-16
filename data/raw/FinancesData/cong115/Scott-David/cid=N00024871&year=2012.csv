@@ -1,0 +1,4 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"","Residential Rental Property/Washington, DC",Real Estate,,500001,1000000,0,Y,,
+"",Dayn-Mark Advertising,Business Services,,100001,250000,0,Y,,
+D000000168,Southern Co,Electric Utilities,,1001,15000,0,Y,Y,Y

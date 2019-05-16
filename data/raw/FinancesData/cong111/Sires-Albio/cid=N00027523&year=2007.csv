@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Merrill Lynch Bank Deposit Program,Unknown,Cash/Money Market/Savings/Checking,100001,250000,0,Y,,
+"","Union Township, NJ Municipal Bond",Unknown,Government Bond,15001,50000,0,Y,,
+D000000125,General Electric,Misc Mfg/Distrib,,15001,50000,0,Y,Y,Y
+D000000303,ConocoPhillips,Oil & Gas,,15001,50000,0,Y,Y,
+D000045416,Commerce Bank,Commercial Banks,Cash/Money Market/Savings/Checking,15001,50000,0,Y,,
+"",LG Capital,Unknown,Mutual Fund,2002,30000,0,Y,,
+"",Vanguard Windsor Funds,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Vanguard Wellington Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Valic American Century,Unknown,Mutual Fund,1001,15000,0,Y,,
+"",Stock Index,Unknown,Mutual Fund,1001,15000,0,Y,,
+D000000138,Pfizer Inc,Pharm/Health Prod,,1001,15000,0,Y,Y,Y
+"",American Century Core Value Fund,Unknown,Mutual Fund,1001,15000,0,Y,,
