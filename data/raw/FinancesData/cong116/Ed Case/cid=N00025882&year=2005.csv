@@ -1,0 +1,13 @@
+orgid,orgname,industry,asset_type,min,max,hidemax,type,lobbies,contributes
+"",Bank of Hawaii Defensive Master,Commercial Banks,,100001,250000,0,A,,
+"",Fidelity OTC Portfolio Fund,Unknown,Mutual Fund,50001,100000,0,A,,
+"",Alliant Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,50001,100000,0,Y,,
+"",Morgan Stanley American Opportunity Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Fidelity Growth Company Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",Blended Fund,Unknown,Mutual Fund,15001,50000,0,A,,
+"",UAL Stock Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Hawaii State Federal Credit Union,Credit Unions,Cash/Money Market/Savings/Checking,1001,15000,0,Y,,
+"",Fidelity US Bond Index,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Fidelity Overseas Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Fidelity Magellan Fund,Unknown,Mutual Fund,1001,15000,0,A,,
+"",Carlsmith Ball Capital Note Repayment,Unknown,"""Account"" or Combination of other types (I.e.Stocks & Bonds)",1001,15000,0,Y,,
