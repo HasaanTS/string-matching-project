@@ -14,7 +14,7 @@ pd.set_option('display.width', 1000)
 
 start = time.time()
 end = start
-path = 'Repo\\data\\raw\\FinancesData\\'
+path = '//home//hassaan//Data//TUM//2nd Year//4th Semester//IDP//Project//data//raw//FinancesData//'#'Repo\\data\\raw\\FinancesData\\'
 congs = listdir(path)
 
 log = []
@@ -26,14 +26,14 @@ for i in congs:
     congmen = listdir(path + i)
     print(i)
     for j in congmen:
-        files = listdir(path + i + '\\' + j)
+        files = listdir(path + i + '//' + j)
         for k in files:
             cid = k[k.find('cid=') + 4:k.find('&year')]
             year = k[k.find('&year=') + 6:k.find('.csv')]
             if (cid, year) in uniqueFiles:
                 continue
 
-            filePath = path + i + '\\' + j + '\\' + k
+            filePath = path + i + '//' + j + '//' + k
             try:
                 df = pd.read_csv(filePath)
             except pd.errors.EmptyDataError:
